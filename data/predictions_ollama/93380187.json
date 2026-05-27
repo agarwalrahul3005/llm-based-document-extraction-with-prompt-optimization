@@ -1,0 +1,172 @@
+[
+  {
+    "question": {
+      "text": "OF",
+      "bbox": null
+    },
+    "answer": {
+      "text": "INITIATOR Varctendle",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "room",
+      "bbox": null
+    },
+    "answer": {
+      "text": "INTIATOR Varctendle",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "DATE INITIATED",
+      "bbox": null
+    },
+    "answer": {
+      "text": "JANUARY 8, 1992",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "TOTALNEWYORK \u2014TOTALNEWJERSEY NEWHAVEN",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "PROVIDENCE",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "TOTAL BOSTON CAMOER HARTFORD",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "'coNcoRD",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "TOTALSANFRANCISCO SPRINGFIELD syracuse",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "BALTINORE POCHESTER",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "PORTLAND, ME",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "TOTAL PHILADELPHIA",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "TOTAL DETROIT",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "ToTAL CHICAGO \u2018TOTAL WASHINGTON DC",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "BUFFALO",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "wRUMINGTON",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "REGION 15(X SAN BERNADINO)",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "catoeees",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  }
+]

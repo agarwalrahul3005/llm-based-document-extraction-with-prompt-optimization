@@ -1,0 +1,142 @@
+[
+  {
+    "question": {
+      "text": "AUTHORS",
+      "bbox": [
+        92,
+        197,
+        162,
+        215
+      ]
+    },
+    "answer": {
+      "text": "Andrew G. Kallianos, Richard K. Means, James D. Mold",
+      "bbox": [
+        208,
+        197,
+        598,
+        215
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TITLE",
+      "bbox": [
+        92,
+        225,
+        137,
+        239
+      ]
+    },
+    "answer": {
+      "text": "\"Effect of Nitrates in Tobacco on the Catechol Yield in Cigarette Smoke\"",
+      "bbox": [
+        209,
+        223,
+        620,
+        270
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "RECOMMENDATION:",
+      "bbox": [
+        391,
+        310,
+        535,
+        330
+      ]
+    },
+    "answer": {
+      "text": "x",
+      "bbox": [
+        549,
+        310,
+        562,
+        324
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Date",
+      "bbox": [
+        508,
+        172,
+        537,
+        186
+      ]
+    },
+    "answer": {
+      "text": "March 18, 1968",
+      "bbox": [
+        543,
+        173,
+        649,
+        188
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Registration No",
+      "bbox": [
+        94,
+        169,
+        191,
+        186
+      ]
+    },
+    "answer": {
+      "text": "533",
+      "bbox": [
+        209,
+        169,
+        236,
+        182
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVIEW COMPLETED",
+      "bbox": [
+        92,
+        310,
+        245,
+        324
+      ]
+    },
+    "answer": {
+      "text": "3/ 29/ 68",
+      "bbox": [
+        274,
+        304,
+        339,
+        321
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(Give reasons below):",
+      "bbox": [
+        345,
+        338,
+        476,
+        357
+      ]
+    },
+    "answer": {
+      "text": "APPROVE TENTATIVELY",
+      "bbox": [
+        507,
+        341,
+        683,
+        358
+      ]
+    }
+  }
+]

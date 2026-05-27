@@ -1,0 +1,42 @@
+[
+  {
+    "question": {
+      "text": "COMPOUND",
+      "bbox": null
+    },
+    "answer": {
+      "text": "B164",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "PHYSICAL PARAMETERS",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Brownish-gray powder",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "pH",
+      "bbox": null
+    },
+    "answer": {
+      "text": "4.82 at 25\u00b0",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Accession Number",
+      "bbox": null
+    },
+    "answer": {
+      "text": "1662",
+      "bbox": null
+    }
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "question": {
+      "text": "DATE:",
+      "bbox": [
+        77,
+        204,
+        127,
+        221
+      ]
+    },
+    "answer": {
+      "text": "12/ 28/ 94",
+      "bbox": [
+        228,
+        207,
+        288,
+        224
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TIME:",
+      "bbox": [
+        392,
+        205,
+        437,
+        222
+      ]
+    },
+    "answer": {
+      "text": "10: 15",
+      "bbox": [
+        508,
+        208,
+        547,
+        225
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "NAME:",
+      "bbox": [
+        78,
+        342,
+        131,
+        362
+      ]
+    },
+    "answer": {
+      "text": "R. H. Orcutt",
+      "bbox": [
+        278,
+        348,
+        364,
+        363
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "OFFICE:",
+      "bbox": [
+        77,
+        377,
+        143,
+        395
+      ]
+    },
+    "answer": {
+      "text": "Lorillard- New York",
+      "bbox": [
+        277,
+        381,
+        423,
+        399
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "NAME:",
+      "bbox": [
+        75,
+        515,
+        128,
+        532
+      ]
+    },
+    "answer": {
+      "text": "J. L. McGinnis - Region 9",
+      "bbox": [
+        274,
+        521,
+        458,
+        539
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "OFFICE:",
+      "bbox": [
+        73,
+        554,
+        141,
+        571
+      ]
+    },
+    "answer": {
+      "text": "Lorillard Tobacco Company Houston N., Texas",
+      "bbox": [
+        263,
+        553,
+        662,
+        577
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMMENTS:",
+      "bbox": [
+        74,
+        654,
+        173,
+        675
+      ]
+    },
+    "answer": {
+      "text": "Harley Davidson 100's Progress Report.",
+      "bbox": [
+        275,
+        658,
+        549,
+        677
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "cc:",
+      "bbox": [
+        274,
+        729,
+        298,
+        742
+      ]
+    },
+    "answer": {
+      "text": "R. B. Spell",
+      "bbox": [
+        309,
+        726,
+        390,
+        743
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "cc:",
+      "bbox": [
+        274,
+        729,
+        298,
+        742
+      ]
+    },
+    "answer": {
+      "text": "A. J. Giacoio",
+      "bbox": [
+        309,
+        746,
+        405,
+        761
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "cc:",
+      "bbox": [
+        274,
+        729,
+        298,
+        742
+      ]
+    },
+    "answer": {
+      "text": "P. J. McCann",
+      "bbox": [
+        306,
+        763,
+        398,
+        777
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "cc:",
+      "bbox": [
+        274,
+        729,
+        298,
+        742
+      ]
+    },
+    "answer": {
+      "text": "S. L. Enloe",
+      "bbox": [
+        309,
+        779,
+        392,
+        794
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "cc:",
+      "bbox": [
+        274,
+        729,
+        298,
+        742
+      ]
+    },
+    "answer": {
+      "text": "T. L. Achey",
+      "bbox": [
+        307,
+        796,
+        391,
+        811
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "The following document, including cover page is",
+      "bbox": [
+        80,
+        256,
+        475,
+        282
+      ]
+    },
+    "answer": {
+      "text": "3",
+      "bbox": [
+        514,
+        261,
+        525,
+        276
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "FAX PHONE NUMBER:",
+      "bbox": [
+        77,
+        411,
+        247,
+        431
+      ]
+    },
+    "answer": {
+      "text": "(212) 545- 3299",
+      "bbox": [
+        278,
+        415,
+        382,
+        430
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "FAX PHONE NUMBER:",
+      "bbox": [
+        74,
+        587,
+        247,
+        608
+      ]
+    },
+    "answer": {
+      "text": "(713) 591 0204",
+      "bbox": [
+        261,
+        587,
+        373,
+        609
+      ]
+    }
+  }
+]

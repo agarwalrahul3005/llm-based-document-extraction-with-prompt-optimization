@@ -1,0 +1,42 @@
+[
+  {
+    "question": {
+      "text": "QUALITY IMPROVEMENT SUGGESTION",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "OUR MISSION IS SUPERIOR CONSUMER SATISFACTION",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Highest Quality, Teamwork, Do Right Things Right The First Time",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "RESEARCH & DEVELOPMENT",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "SUGGESTION:",
+      "bbox": null
+    },
+    "answer": {
+      "text": "(Describe Current Situation and idea) specific, when we should be getting more general. Right now, people must work to understand the system. We must spend too much time administ: our files. ing the system, labeling, and cleaning Complying is a real burden, both for the individual and for the reconis coordinators.",
+      "bbox": null
+    }
+  }
+]

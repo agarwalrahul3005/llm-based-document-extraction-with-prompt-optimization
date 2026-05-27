@@ -1,0 +1,822 @@
+[
+  {
+    "question": {
+      "text": "FROM:",
+      "bbox": [
+        99,
+        151,
+        144,
+        166
+      ]
+    },
+    "answer": {
+      "text": "MICHELLE LEPRE",
+      "bbox": [
+        201,
+        148,
+        304,
+        169
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TO:",
+      "bbox": [
+        97,
+        178,
+        128,
+        193
+      ]
+    },
+    "answer": {
+      "text": "V. M. LOSITO",
+      "bbox": [
+        204,
+        180,
+        278,
+        198
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CC:",
+      "bbox": [
+        99,
+        210,
+        130,
+        225
+      ]
+    },
+    "answer": {
+      "text": "S. A. RAPISARLDI",
+      "bbox": [
+        202,
+        211,
+        306,
+        226
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CC:",
+      "bbox": [
+        99,
+        210,
+        130,
+        225
+      ]
+    },
+    "answer": {
+      "text": "J BAYLIES",
+      "bbox": [
+        202,
+        226,
+        271,
+        244
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CC:",
+      "bbox": [
+        99,
+        210,
+        130,
+        225
+      ]
+    },
+    "answer": {
+      "text": "K. P. AUGUSTYN",
+      "bbox": [
+        201,
+        243,
+        301,
+        262
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CC:",
+      "bbox": [
+        99,
+        210,
+        130,
+        225
+      ]
+    },
+    "answer": {
+      "text": "M. McGLYNN",
+      "bbox": [
+        328,
+        225,
+        411,
+        246
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- BRAND(S) APPLICABLE",
+      "bbox": [
+        99,
+        275,
+        253,
+        290
+      ]
+    },
+    "answer": {
+      "text": "TRUE",
+      "bbox": [
+        335,
+        277,
+        372,
+        292
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- MEDIA TYPE",
+      "bbox": [
+        97,
+        307,
+        188,
+        322
+      ]
+    },
+    "answer": {
+      "text": "SALES FORCE APPLIED - IRC",
+      "bbox": [
+        334,
+        308,
+        509,
+        323
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- COUPON ISSUE DATE",
+      "bbox": [
+        94,
+        430,
+        242,
+        446
+      ]
+    },
+    "answer": {
+      "text": "MAY 1992",
+      "bbox": [
+        332,
+        433,
+        392,
+        446
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- COUPON EXPIRATION DATE",
+      "bbox": [
+        96,
+        461,
+        273,
+        479
+      ]
+    },
+    "answer": {
+      "text": "8 /31 /92",
+      "bbox": [
+        332,
+        464,
+        378,
+        479
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- CIRCULATION",
+      "bbox": [
+        94,
+        494,
+        197,
+        507
+      ]
+    },
+    "answer": {
+      "text": "560,000",
+      "bbox": [
+        329,
+        496,
+        381,
+        509
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- GEOGRAPHICAL AREA(S)",
+      "bbox": [
+        94,
+        525,
+        256,
+        540
+      ]
+    },
+    "answer": {
+      "text": "TRUE CORE MARKETS *",
+      "bbox": [
+        332,
+        525,
+        474,
+        542
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- COUPON VALUE",
+      "bbox": [
+        94,
+        555,
+        204,
+        571
+      ]
+    },
+    "answer": {
+      "text": "50c",
+      "bbox": [
+        331,
+        555,
+        356,
+        571
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- PACK AND/OR CARTON",
+      "bbox": [
+        91,
+        584,
+        247,
+        602
+      ]
+    },
+    "answer": {
+      "text": "PACK",
+      "bbox": [
+        331,
+        587,
+        371,
+        602
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- SIGNATURE OF INITIATOR",
+      "bbox": [
+        93,
+        663,
+        260,
+        680
+      ]
+    },
+    "answer": {
+      "text": "Michell",
+      "bbox": [
+        329,
+        654,
+        542,
+        690
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "- -DATE INITIATED",
+      "bbox": [
+        93,
+        695,
+        202,
+        708
+      ]
+    },
+    "answer": {
+      "text": "JANUARY 8, 1992",
+      "bbox": [
+        328,
+        695,
+        430,
+        711
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "TOTAL NEW YORK",
+      "bbox": [
+        91,
+        775,
+        169,
+        787
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "TOTAL BOSTON",
+      "bbox": [
+        91,
+        805,
+        160,
+        818
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "NEW HAVEN",
+      "bbox": [
+        88,
+        792,
+        145,
+        802
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "HARTFORD",
+      "bbox": [
+        90,
+        822,
+        139,
+        834
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "TOTAL SAN FRANCISCO",
+      "bbox": [
+        88,
+        837,
+        191,
+        850
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "SYRACUSE",
+      "bbox": [
+        88,
+        853,
+        139,
+        863
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "ROCHESTER",
+      "bbox": [
+        88,
+        870,
+        145,
+        880
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "TOTAL PHILADELPHIA",
+      "bbox": [
+        88,
+        883,
+        181,
+        894
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "TOTAL CHICAGO",
+      "bbox": [
+        88,
+        900,
+        162,
+        912
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "BUFFALO",
+      "bbox": [
+        88,
+        916,
+        130,
+        926
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "ALBANY",
+      "bbox": [
+        88,
+        931,
+        127,
+        943
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "TOTAL NEW JERSEY",
+      "bbox": [
+        205,
+        777,
+        295,
+        787
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "PROVIDENCE",
+      "bbox": [
+        207,
+        792,
+        265,
+        802
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "CAMDEN",
+      "bbox": [
+        204,
+        807,
+        249,
+        817
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "CONCORD",
+      "bbox": [
+        208,
+        825,
+        254,
+        834
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "SPRINGFIELD",
+      "bbox": [
+        204,
+        837,
+        265,
+        850
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "BALTIMORE",
+      "bbox": [
+        205,
+        855,
+        259,
+        865
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "PORTLAND, ME",
+      "bbox": [
+        207,
+        870,
+        272,
+        882
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "TOTAL DETROIT",
+      "bbox": [
+        202,
+        883,
+        274,
+        896
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "TOTAL WASHINGTON",
+      "bbox": [
+        201,
+        900,
+        294,
+        913
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "WILMINGTON",
+      "bbox": [
+        204,
+        918,
+        265,
+        927
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TRUE CORE AREAS",
+      "bbox": [
+        102,
+        757,
+        216,
+        772
+      ]
+    },
+    "answer": {
+      "text": "REGION 15 x SAN BERNADINO",
+      "bbox": [
+        202,
+        931,
+        336,
+        943
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CODE ASSIGNED:",
+      "bbox": [
+        326,
+        837,
+        429,
+        852
+      ]
+    },
+    "answer": {
+      "text": "57288",
+      "bbox": [
+        445,
+        825,
+        514,
+        850
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "JOE NUMBER:",
+      "bbox": [
+        326,
+        855,
+        410,
+        867
+      ]
+    },
+    "answer": {
+      "text": "1143",
+      "bbox": [
+        457,
+        852,
+        494,
+        865
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "EST. REDEMPTION:",
+      "bbox": [
+        325,
+        868,
+        439,
+        881
+      ]
+    },
+    "answer": {
+      "text": "80 %",
+      "bbox": [
+        464,
+        864,
+        527,
+        888
+      ]
+    }
+  }
+]

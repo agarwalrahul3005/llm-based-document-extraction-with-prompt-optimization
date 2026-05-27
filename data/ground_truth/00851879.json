@@ -1,0 +1,162 @@
+[
+  {
+    "question": {
+      "text": "Date",
+      "bbox": [
+        534,
+        155,
+        569,
+        169
+      ]
+    },
+    "answer": {
+      "text": "5-13-81",
+      "bbox": [
+        571,
+        152,
+        630,
+        165
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Subject",
+      "bbox": [
+        103,
+        201,
+        159,
+        219
+      ]
+    },
+    "answer": {
+      "text": "Change in the time of the Pre- dose Biomicroscopic Examination",
+      "bbox": [
+        165,
+        190,
+        655,
+        215
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Date",
+      "bbox": [
+        409,
+        279,
+        448,
+        296
+      ]
+    },
+    "answer": {
+      "text": "5-13-81",
+      "bbox": [
+        454,
+        275,
+        515,
+        295
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Method",
+      "bbox": [
+        532,
+        282,
+        586,
+        296
+      ]
+    },
+    "answer": {
+      "text": "Verbal Phone",
+      "bbox": [
+        587,
+        278,
+        691,
+        296
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Method",
+      "bbox": [
+        532,
+        282,
+        586,
+        296
+      ]
+    },
+    "answer": {
+      "text": "(Means of communication)",
+      "bbox": [
+        536,
+        297,
+        732,
+        313
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "increased",
+      "bbox": [
+        317,
+        394,
+        397,
+        408
+      ]
+    },
+    "answer": {
+      "text": "\u2611",
+      "bbox": [
+        279,
+        392,
+        292,
+        407
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Authorized by",
+      "bbox": [
+        105,
+        281,
+        210,
+        296
+      ]
+    },
+    "answer": {
+      "text": "Dr. Connie Stone",
+      "bbox": [
+        221,
+        281,
+        352,
+        296
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Authorized to",
+      "bbox": [
+        102,
+        331,
+        213,
+        344
+      ]
+    },
+    "answer": {
+      "text": "Mr. Charles Burns",
+      "bbox": [
+        219,
+        324,
+        360,
+        344
+      ]
+    }
+  }
+]

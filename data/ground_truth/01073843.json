@@ -1,0 +1,1302 @@
+[
+  {
+    "question": {
+      "text": "COMPOUND",
+      "bbox": [
+        82,
+        119,
+        131,
+        130
+      ]
+    },
+    "answer": {
+      "text": "Diethyl 3, 3-Dimethyl-2-oxo-1, 4-cyclopentanedicarboxylate",
+      "bbox": [
+        141,
+        110,
+        654,
+        128
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOURCE",
+      "bbox": [
+        82,
+        151,
+        118,
+        162
+      ]
+    },
+    "answer": {
+      "text": "Lorillard - Organic Chemistry",
+      "bbox": [
+        123,
+        142,
+        388,
+        161
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "INVESTIGATOR(S)",
+      "bbox": [
+        81,
+        214,
+        152,
+        225
+      ]
+    },
+    "answer": {
+      "text": "H. S. Tong & A. A. Poole",
+      "bbox": [
+        163,
+        204,
+        384,
+        220
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "OMSO",
+      "bbox": [
+        553,
+        306,
+        581,
+        316
+      ]
+    },
+    "answer": {
+      "text": "\u2611",
+      "bbox": [
+        535,
+        304,
+        548,
+        317
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REPORTED",
+      "bbox": [
+        501,
+        186,
+        550,
+        196
+      ]
+    },
+    "answer": {
+      "text": "4/14/81",
+      "bbox": [
+        582,
+        176,
+        646,
+        194
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Streptozotocin",
+      "bbox": [
+        80,
+        677,
+        208,
+        691
+      ]
+    },
+    "answer": {
+      "text": "1.0",
+      "bbox": [
+        80,
+        696,
+        108,
+        709
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Streptozotocin",
+      "bbox": [
+        80,
+        677,
+        208,
+        691
+      ]
+    },
+    "answer": {
+      "text": "0.5",
+      "bbox": [
+        80,
+        716,
+        109,
+        730
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONCLUSION",
+      "bbox": [
+        77,
+        795,
+        131,
+        805
+      ]
+    },
+    "answer": {
+      "text": "This compound is judged non - mutagenic in this test system.",
+      "bbox": [
+        142,
+        788,
+        668,
+        808
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TESTED",
+      "bbox": [
+        321,
+        183,
+        355,
+        194
+      ]
+    },
+    "answer": {
+      "text": "3/18/81-4/8/81",
+      "bbox": [
+        353,
+        175,
+        483,
+        192
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "LORILLARD NO:",
+      "bbox": [
+        405,
+        156,
+        471,
+        167
+      ]
+    },
+    "answer": {
+      "text": "A123",
+      "bbox": [
+        486,
+        144,
+        525,
+        158
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "LOT NO:",
+      "bbox": [
+        609,
+        158,
+        645,
+        168
+      ]
+    },
+    "answer": {
+      "text": "OR67-13",
+      "bbox": [
+        649,
+        144,
+        716,
+        158
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DATE RECEIVED",
+      "bbox": [
+        81,
+        182,
+        150,
+        192
+      ]
+    },
+    "answer": {
+      "text": "unknown",
+      "bbox": [
+        183,
+        175,
+        247,
+        190
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "NOTEBOOK PAGE",
+      "bbox": [
+        535,
+        218,
+        607,
+        230
+      ]
+    },
+    "answer": {
+      "text": "BC19-25",
+      "bbox": [
+        616,
+        209,
+        683,
+        224
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONCENTRATION mg/ml",
+      "bbox": [
+        81,
+        328,
+        181,
+        339
+      ]
+    },
+    "answer": {
+      "text": ".025",
+      "bbox": [
+        338,
+        330,
+        373,
+        343
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-)",
+      "bbox": [
+        249,
+        388,
+        278,
+        396
+      ]
+    },
+    "answer": {
+      "text": "9.67",
+      "bbox": [
+        244,
+        419,
+        280,
+        433
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-)",
+      "bbox": [
+        249,
+        388,
+        278,
+        396
+      ]
+    },
+    "answer": {
+      "text": ".72",
+      "bbox": [
+        253,
+        631,
+        280,
+        645
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-)",
+      "bbox": [
+        249,
+        388,
+        278,
+        396
+      ]
+    },
+    "answer": {
+      "text": "1.24",
+      "bbox": [
+        244,
+        654,
+        280,
+        668
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-)",
+      "bbox": [
+        249,
+        388,
+        278,
+        396
+      ]
+    },
+    "answer": {
+      "text": "6.41",
+      "bbox": [
+        243,
+        696,
+        281,
+        710
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-)",
+      "bbox": [
+        249,
+        388,
+        278,
+        396
+      ]
+    },
+    "answer": {
+      "text": "2.28",
+      "bbox": [
+        242,
+        718,
+        280,
+        732
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        309,
+        388,
+        336,
+        399
+      ]
+    },
+    "answer": {
+      "text": "14.00",
+      "bbox": [
+        300,
+        420,
+        346,
+        434
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        309,
+        388,
+        336,
+        399
+      ]
+    },
+    "answer": {
+      "text": "3.07",
+      "bbox": [
+        307,
+        633,
+        343,
+        647
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        309,
+        388,
+        336,
+        399
+      ]
+    },
+    "answer": {
+      "text": "2.86",
+      "bbox": [
+        306,
+        654,
+        342,
+        669
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        309,
+        388,
+        336,
+        399
+      ]
+    },
+    "answer": {
+      "text": "31.14",
+      "bbox": [
+        299,
+        696,
+        342,
+        710
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        309,
+        388,
+        336,
+        399
+      ]
+    },
+    "answer": {
+      "text": "12.29",
+      "bbox": [
+        297,
+        718,
+        342,
+        732
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-) 5-9",
+      "bbox": [
+        372,
+        388,
+        398,
+        398
+      ]
+    },
+    "answer": {
+      "text": "118.00",
+      "bbox": [
+        355,
+        420,
+        408,
+        434
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-) 5-9",
+      "bbox": [
+        372,
+        388,
+        398,
+        398
+      ]
+    },
+    "answer": {
+      "text": ".98",
+      "bbox": [
+        381,
+        633,
+        405,
+        647
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-) 5-9",
+      "bbox": [
+        372,
+        388,
+        398,
+        398
+      ]
+    },
+    "answer": {
+      "text": ".76",
+      "bbox": [
+        381,
+        655,
+        406,
+        669
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-) 5-9",
+      "bbox": [
+        372,
+        388,
+        398,
+        398
+      ]
+    },
+    "answer": {
+      "text": "1.60",
+      "bbox": [
+        372,
+        697,
+        407,
+        711
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-) 5-9",
+      "bbox": [
+        372,
+        388,
+        398,
+        398
+      ]
+    },
+    "answer": {
+      "text": "1.08",
+      "bbox": [
+        370,
+        721,
+        406,
+        734
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        430,
+        390,
+        458,
+        400
+      ]
+    },
+    "answer": {
+      "text": "127.00",
+      "bbox": [
+        418,
+        420,
+        472,
+        435
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        430,
+        390,
+        458,
+        400
+      ]
+    },
+    "answer": {
+      "text": "4.26",
+      "bbox": [
+        433,
+        633,
+        471,
+        648
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        430,
+        390,
+        458,
+        400
+      ]
+    },
+    "answer": {
+      "text": "3.63",
+      "bbox": [
+        433,
+        655,
+        469,
+        670
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        430,
+        390,
+        458,
+        400
+      ]
+    },
+    "answer": {
+      "text": "3.11",
+      "bbox": [
+        433,
+        698,
+        468,
+        712
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        430,
+        390,
+        458,
+        400
+      ]
+    },
+    "answer": {
+      "text": "1.99",
+      "bbox": [
+        433,
+        719,
+        468,
+        734
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-) 5-9",
+      "bbox": [
+        493,
+        390,
+        522,
+        400
+      ]
+    },
+    "answer": {
+      "text": "9.00",
+      "bbox": [
+        487,
+        422,
+        526,
+        436
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-) 5-9",
+      "bbox": [
+        493,
+        390,
+        522,
+        400
+      ]
+    },
+    "answer": {
+      "text": ".22",
+      "bbox": [
+        497,
+        634,
+        524,
+        647
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-) 5-9",
+      "bbox": [
+        493,
+        390,
+        522,
+        400
+      ]
+    },
+    "answer": {
+      "text": ".67",
+      "bbox": [
+        499,
+        655,
+        526,
+        669
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        553,
+        391,
+        581,
+        401
+      ]
+    },
+    "answer": {
+      "text": "21.00",
+      "bbox": [
+        543,
+        422,
+        592,
+        436
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        553,
+        391,
+        581,
+        401
+      ]
+    },
+    "answer": {
+      "text": "20.10",
+      "bbox": [
+        542,
+        635,
+        589,
+        649
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+) 5-9",
+      "bbox": [
+        553,
+        391,
+        581,
+        401
+      ]
+    },
+    "answer": {
+      "text": "18.81",
+      "bbox": [
+        543,
+        656,
+        588,
+        671
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL REVERTANTS PER PLATE TOON MI SOLVENTI",
+      "bbox": [
+        80,
+        405,
+        195,
+        426
+      ]
+    },
+    "answer": {
+      "text": "9.67",
+      "bbox": [
+        244,
+        419,
+        280,
+        433
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL REVERTANTS PER PLATE TOON MI SOLVENTI",
+      "bbox": [
+        80,
+        405,
+        195,
+        426
+      ]
+    },
+    "answer": {
+      "text": "14.00",
+      "bbox": [
+        300,
+        420,
+        346,
+        434
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL REVERTANTS PER PLATE TOON MI SOLVENTI",
+      "bbox": [
+        80,
+        405,
+        195,
+        426
+      ]
+    },
+    "answer": {
+      "text": "118.00",
+      "bbox": [
+        355,
+        420,
+        408,
+        434
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL REVERTANTS PER PLATE TOON MI SOLVENTI",
+      "bbox": [
+        80,
+        405,
+        195,
+        426
+      ]
+    },
+    "answer": {
+      "text": "127.00",
+      "bbox": [
+        418,
+        420,
+        472,
+        435
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL REVERTANTS PER PLATE TOON MI SOLVENTI",
+      "bbox": [
+        80,
+        405,
+        195,
+        426
+      ]
+    },
+    "answer": {
+      "text": "9.00",
+      "bbox": [
+        487,
+        422,
+        526,
+        436
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL REVERTANTS PER PLATE TOON MI SOLVENTI",
+      "bbox": [
+        80,
+        405,
+        195,
+        426
+      ]
+    },
+    "answer": {
+      "text": "21.00",
+      "bbox": [
+        543,
+        422,
+        592,
+        436
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND plates",
+      "bbox": [
+        80,
+        454,
+        164,
+        465
+      ]
+    },
+    "answer": {
+      "text": "25",
+      "bbox": [
+        81,
+        475,
+        102,
+        489
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND plates",
+      "bbox": [
+        80,
+        454,
+        164,
+        465
+      ]
+    },
+    "answer": {
+      "text": "12.5",
+      "bbox": [
+        81,
+        497,
+        119,
+        511
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND plates",
+      "bbox": [
+        80,
+        454,
+        164,
+        465
+      ]
+    },
+    "answer": {
+      "text": "6.25",
+      "bbox": [
+        81,
+        521,
+        119,
+        535
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": ".76",
+      "bbox": [
+        318,
+        476,
+        343,
+        490
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": "1.10",
+      "bbox": [
+        243,
+        499,
+        282,
+        513
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": "1.12",
+      "bbox": [
+        309,
+        499,
+        344,
+        514
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": "1.07",
+      "bbox": [
+        372,
+        500,
+        408,
+        514
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": ".52",
+      "bbox": [
+        318,
+        522,
+        343,
+        536
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": ".87",
+      "bbox": [
+        446,
+        478,
+        471,
+        492
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": ".82",
+      "bbox": [
+        446,
+        500,
+        471,
+        515
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": ".88",
+      "bbox": [
+        446,
+        524,
+        471,
+        537
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": ".78",
+      "bbox": [
+        500,
+        500,
+        525,
+        515
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": ".65",
+      "bbox": [
+        563,
+        478,
+        590,
+        493
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": ".71",
+      "bbox": [
+        564,
+        501,
+        588,
+        515
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE TEST REVERTANTS-CONTROL REVERTANTS PER PLATE)",
+      "bbox": [
+        313,
+        457,
+        627,
+        468
+      ]
+    },
+    "answer": {
+      "text": ".86",
+      "bbox": [
+        563,
+        524,
+        590,
+        538
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "2. AMINOANTHRACENE",
+      "bbox": [
+        78,
+        610,
+        168,
+        620
+      ]
+    },
+    "answer": {
+      "text": "4.0",
+      "bbox": [
+        81,
+        630,
+        108,
+        643
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "2. AMINOANTHRACENE",
+      "bbox": [
+        78,
+        610,
+        168,
+        620
+      ]
+    },
+    "answer": {
+      "text": "2.0",
+      "bbox": [
+        80,
+        652,
+        109,
+        666
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Copies to the following:",
+      "bbox": [
+        78,
+        834,
+        296,
+        849
+      ]
+    },
+    "answer": {
+      "text": "H. J. Minnemeyer",
+      "bbox": [
+        313,
+        835,
+        460,
+        851
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Copies to the following:",
+      "bbox": [
+        78,
+        834,
+        296,
+        849
+      ]
+    },
+    "answer": {
+      "text": "L. B. Gray",
+      "bbox": [
+        314,
+        853,
+        406,
+        870
+      ]
+    }
+  }
+]

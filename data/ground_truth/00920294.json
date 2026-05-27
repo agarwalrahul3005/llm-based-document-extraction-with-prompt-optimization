@@ -1,0 +1,302 @@
+[
+  {
+    "question": {
+      "text": "To:",
+      "bbox": [
+        155,
+        130,
+        173,
+        147
+      ]
+    },
+    "answer": {
+      "text": "RJR IR - Suz /Art",
+      "bbox": [
+        177,
+        130,
+        271,
+        145
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "From:",
+      "bbox": [
+        138,
+        148,
+        173,
+        162
+      ]
+    },
+    "answer": {
+      "text": "Drew Huyett",
+      "bbox": [
+        176,
+        149,
+        246,
+        162
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Date:",
+      "bbox": [
+        141,
+        166,
+        172,
+        180
+      ]
+    },
+    "answer": {
+      "text": "3/ 7/ 97",
+      "bbox": [
+        176,
+        165,
+        213,
+        179
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Mailfile Description",
+      "bbox": [
+        265,
+        246,
+        373,
+        264
+      ]
+    },
+    "answer": {
+      "text": "Mail Order- Indy Responders",
+      "bbox": [
+        378,
+        249,
+        539,
+        264
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Quantity:",
+      "bbox": [
+        122,
+        300,
+        172,
+        317
+      ]
+    },
+    "answer": {
+      "text": "273",
+      "bbox": [
+        211,
+        302,
+        236,
+        316
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Maildate:",
+      "bbox": [
+        119,
+        320,
+        173,
+        333
+      ]
+    },
+    "answer": {
+      "text": "3/ 17/ 97",
+      "bbox": [
+        176,
+        317,
+        218,
+        333
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Program#:",
+      "bbox": [
+        108,
+        332,
+        174,
+        347
+      ]
+    },
+    "answer": {
+      "text": "700418",
+      "bbox": [
+        176,
+        334,
+        218,
+        349
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Seeds",
+      "bbox": [
+        141,
+        469,
+        173,
+        484
+      ]
+    },
+    "answer": {
+      "text": "25",
+      "bbox": [
+        260,
+        468,
+        274,
+        483
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Suppression",
+      "bbox": [
+        105,
+        487,
+        172,
+        501
+      ]
+    },
+    "answer": {
+      "text": "5",
+      "bbox": [
+        190,
+        487,
+        198,
+        500
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "System",
+      "bbox": [
+        133,
+        216,
+        172,
+        231
+      ]
+    },
+    "answer": {
+      "text": "Corp/ Multibrand",
+      "bbox": [
+        179,
+        215,
+        265,
+        229
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Alert Number",
+      "bbox": [
+        432,
+        112,
+        503,
+        126
+      ]
+    },
+    "answer": {
+      "text": "970220",
+      "bbox": [
+        504,
+        113,
+        542,
+        128
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Program Group",
+      "bbox": [
+        87,
+        198,
+        171,
+        212
+      ]
+    },
+    "answer": {
+      "text": "102- Eclipse",
+      "bbox": [
+        179,
+        198,
+        242,
+        213
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Mailfile ID:",
+      "bbox": [
+        109,
+        249,
+        173,
+        266
+      ]
+    },
+    "answer": {
+      "text": "3,",
+      "bbox": [
+        203,
+        250,
+        214,
+        265
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Mailfile Cells",
+      "bbox": [
+        99,
+        521,
+        172,
+        535
+      ]
+    },
+    "answer": {
+      "text": "HD home delivery",
+      "bbox": [
+        177,
+        536,
+        318,
+        553
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Mailfile Cells",
+      "bbox": [
+        99,
+        521,
+        172,
+        535
+      ]
+    },
+    "answer": {
+      "text": "SP sneak preview",
+      "bbox": [
+        175,
+        556,
+        321,
+        570
+      ]
+    }
+  }
+]

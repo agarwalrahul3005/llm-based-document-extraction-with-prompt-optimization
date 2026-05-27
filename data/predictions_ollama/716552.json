@@ -1,0 +1,72 @@
+[
+  {
+    "question": {
+      "text": "DESIGN NO.",
+      "bbox": null
+    },
+    "answer": {
+      "text": "81-257",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "MATERIAL NO.",
+      "bbox": null
+    },
+    "answer": {
+      "text": "50-0354",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "TYPE CHANGE:",
+      "bbox": null
+    },
+    "answer": {
+      "text": "use: Borncia",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "BRANCH",
+      "bbox": null
+    },
+    "answer": {
+      "text": "LouIsvinLe PETERSBURG MACON WINSTON SALEM ScnEDULE:",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "DATE OR",
+      "bbox": null
+    },
+    "answer": {
+      "text": "INVENTORY DEPLETION. 10/30/81",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "De ToN DATE",
+      "bbox": null
+    },
+    "answer": {
+      "text": "[_ Storsover |\\",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "COMMENTS:",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Material #50-034A has been assigned to the VICEROY Rich Lights 100's 20's Label vith nev bottom panel. Bottom now incorporates shield, On both side and bottom panels, \"VICEROY\" and \"Rich Light\u201d have been taverted. Cartone and labele must change design simultaneously, The current design cannot be used in production after 10/30/81.",
+      "bbox": null
+    }
+  }
+]

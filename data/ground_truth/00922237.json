@@ -1,0 +1,202 @@
+[
+  {
+    "question": {
+      "text": "DESCRIPTION",
+      "bbox": [
+        377,
+        187,
+        451,
+        204
+      ]
+    },
+    "answer": {
+      "text": "This is your authorization to provide the \"1601.013: The Effect of Inhalation of Reference and Test (D3 and D4) Cigarette Smoke on Two Cytogenetic Endpoints in Mice: Chromosome Aberrations and Sister Chromatid Exchange\" test for a fixed price of $19,750 Tests will be performed in accordance with the December 21, 1981 formal agreement between Microbiological Associates and Lorillard. All work is to be coordinated with our Dr. Harry Minnemeyer (919) 373-6603",
+      "bbox": [
+        103,
+        215,
+        691,
+        403
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Attn:",
+      "bbox": [
+        247,
+        130,
+        282,
+        145
+      ]
+    },
+    "answer": {
+      "text": "Dr. Harry Minnemeyer",
+      "bbox": [
+        291,
+        127,
+        445,
+        147
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "VENDOR",
+      "bbox": [
+        13,
+        61,
+        62,
+        69
+      ]
+    },
+    "answer": {
+      "text": "Microbiological Associates 5221 River Rd., Bethesda MD 20816",
+      "bbox": [
+        11,
+        64,
+        493,
+        89
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TERMS",
+      "bbox": [
+        42,
+        105,
+        80,
+        116
+      ]
+    },
+    "answer": {
+      "text": "15 Net F.O.S N/A VIA N/A",
+      "bbox": [
+        87,
+        96,
+        453,
+        119
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DATE WANTED",
+      "bbox": [
+        503,
+        116,
+        585,
+        127
+      ]
+    },
+    "answer": {
+      "text": "As required",
+      "bbox": [
+        536,
+        124,
+        622,
+        141
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SHIP TO DEPT BRANCH)",
+      "bbox": [
+        14,
+        117,
+        147,
+        130
+      ]
+    },
+    "answer": {
+      "text": "Lorillard Research Center",
+      "bbox": [
+        14,
+        130,
+        204,
+        148
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "ISSUED BY",
+      "bbox": [
+        589,
+        652,
+        648,
+        669
+      ]
+    },
+    "answer": {
+      "text": "00922237",
+      "bbox": [
+        585,
+        675,
+        683,
+        692
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "ACCT NO.",
+      "bbox": [
+        292,
+        708,
+        345,
+        725
+      ]
+    },
+    "answer": {
+      "text": "4111",
+      "bbox": [
+        279,
+        733,
+        313,
+        751
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DEPT NO.",
+      "bbox": [
+        412,
+        708,
+        467,
+        725
+      ]
+    },
+    "answer": {
+      "text": "9590",
+      "bbox": [
+        427,
+        732,
+        461,
+        747
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "APPROVED BY",
+      "bbox": [
+        582,
+        708,
+        656,
+        725
+      ]
+    },
+    "answer": {
+      "text": "H.J. Minnemeyer",
+      "bbox": [
+        518,
+        729,
+        709,
+        771
+      ]
+    }
+  }
+]

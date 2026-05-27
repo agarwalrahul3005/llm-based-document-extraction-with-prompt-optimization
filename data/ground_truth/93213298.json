@@ -1,0 +1,522 @@
+[
+  {
+    "question": {
+      "text": "Division",
+      "bbox": [
+        404,
+        144,
+        460,
+        162
+      ]
+    },
+    "answer": {
+      "text": "Detroit - MCA",
+      "bbox": [
+        504,
+        137,
+        613,
+        160
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Location",
+      "bbox": [
+        75,
+        151,
+        135,
+        171
+      ]
+    },
+    "answer": {
+      "text": "DETROIT GRAND PRIX",
+      "bbox": [
+        159,
+        147,
+        311,
+        167
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Mugs",
+      "bbox": [
+        81,
+        279,
+        119,
+        294
+      ]
+    },
+    "answer": {
+      "text": "0",
+      "bbox": [
+        186,
+        275,
+        199,
+        295
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Posters",
+      "bbox": [
+        81,
+        324,
+        131,
+        341
+      ]
+    },
+    "answer": {
+      "text": "0",
+      "bbox": [
+        187,
+        320,
+        200,
+        335
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Counter",
+      "bbox": [
+        82,
+        416,
+        135,
+        434
+      ]
+    },
+    "answer": {
+      "text": "0",
+      "bbox": [
+        186,
+        415,
+        203,
+        432
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Floor",
+      "bbox": [
+        82,
+        432,
+        118,
+        449
+      ]
+    },
+    "answer": {
+      "text": "0",
+      "bbox": [
+        189,
+        429,
+        203,
+        444
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Posters",
+      "bbox": [
+        82,
+        450,
+        134,
+        467
+      ]
+    },
+    "answer": {
+      "text": "0",
+      "bbox": [
+        189,
+        446,
+        203,
+        459
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Food",
+      "bbox": [
+        161,
+        677,
+        197,
+        692
+      ]
+    },
+    "answer": {
+      "text": "X",
+      "bbox": [
+        464,
+        670,
+        479,
+        687
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Cleanliness",
+      "bbox": [
+        161,
+        693,
+        238,
+        707
+      ]
+    },
+    "answer": {
+      "text": "X",
+      "bbox": [
+        615,
+        680,
+        626,
+        694
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Service",
+      "bbox": [
+        161,
+        705,
+        211,
+        723
+      ]
+    },
+    "answer": {
+      "text": "X",
+      "bbox": [
+        610,
+        694,
+        625,
+        705
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Division Mgr",
+      "bbox": [
+        406,
+        172,
+        485,
+        192
+      ]
+    },
+    "answer": {
+      "text": "R. L. Lavoie",
+      "bbox": [
+        504,
+        169,
+        607,
+        190
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Date (s)",
+      "bbox": [
+        80,
+        183,
+        131,
+        203
+      ]
+    },
+    "answer": {
+      "text": "June 11, 1995",
+      "bbox": [
+        161,
+        175,
+        273,
+        197
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Date Submitted",
+      "bbox": [
+        264,
+        205,
+        364,
+        223
+      ]
+    },
+    "answer": {
+      "text": "July 6, 1995",
+      "bbox": [
+        377,
+        200,
+        476,
+        223
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Displays (8)",
+      "bbox": [
+        81,
+        295,
+        161,
+        313
+      ]
+    },
+    "answer": {
+      "text": "0",
+      "bbox": [
+        186,
+        292,
+        199,
+        305
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Floor (40)",
+      "bbox": [
+        80,
+        306,
+        149,
+        327
+      ]
+    },
+    "answer": {
+      "text": "0",
+      "bbox": [
+        187,
+        306,
+        201,
+        320
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "# Requested",
+      "bbox": [
+        412,
+        264,
+        503,
+        285
+      ]
+    },
+    "answer": {
+      "text": "10",
+      "bbox": [
+        535,
+        264,
+        557,
+        285
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Date Rec'd",
+      "bbox": [
+        415,
+        345,
+        491,
+        365
+      ]
+    },
+    "answer": {
+      "text": "05/ 01/ 95",
+      "bbox": [
+        508,
+        341,
+        577,
+        361
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "# Customers Invited",
+      "bbox": [
+        369,
+        406,
+        504,
+        426
+      ]
+    },
+    "answer": {
+      "text": "8",
+      "bbox": [
+        541,
+        408,
+        558,
+        423
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "# Customers Attended",
+      "bbox": [
+        367,
+        423,
+        516,
+        441
+      ]
+    },
+    "answer": {
+      "text": "8",
+      "bbox": [
+        539,
+        418,
+        554,
+        435
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "# Lorillard Personnel",
+      "bbox": [
+        367,
+        437,
+        510,
+        458
+      ]
+    },
+    "answer": {
+      "text": "2",
+      "bbox": [
+        541,
+        437,
+        561,
+        448
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Invitees Comments:",
+      "bbox": [
+        82,
+        479,
+        216,
+        498
+      ]
+    },
+    "answer": {
+      "text": "Invitees stated the Newport hospitality tent was very",
+      "bbox": [
+        233,
+        469,
+        669,
+        493
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Invitees Comments:",
+      "bbox": [
+        82,
+        479,
+        216,
+        498
+      ]
+    },
+    "answer": {
+      "text": "difficult to locate. Also, the Indy Lights Paddock area was not clearly identified Most Invitees were looking for the hospitality tent in a separate identified area away from the Paddock Brea and the Newport car transporter.",
+      "bbox": [
+        84,
+        490,
+        653,
+        560
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Event Attendance",
+      "bbox": [
+        214,
+        630,
+        331,
+        648
+      ]
+    },
+    "answer": {
+      "text": "10",
+      "bbox": [
+        351,
+        624,
+        371,
+        642
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Hospitality Tent Attendance",
+      "bbox": [
+        406,
+        623,
+        585,
+        644
+      ]
+    },
+    "answer": {
+      "text": "10",
+      "bbox": [
+        605,
+        617,
+        625,
+        638
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Suggestions/ Recommendations:",
+      "bbox": [
+        89,
+        747,
+        313,
+        765
+      ]
+    },
+    "answer": {
+      "text": "In the future, please specify where the",
+      "bbox": [
+        321,
+        742,
+        646,
+        763
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Suggestions/ Recommendations:",
+      "bbox": [
+        89,
+        747,
+        313,
+        765
+      ]
+    },
+    "answer": {
+      "text": "Newport hospitality area will be located - at the Newport car trans- porter site or in a separate area . Specific directions will be needed.",
+      "bbox": [
+        92,
+        756,
+        652,
+        812
+      ]
+    }
+  }
+]

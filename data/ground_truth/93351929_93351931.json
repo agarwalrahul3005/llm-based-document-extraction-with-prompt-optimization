@@ -1,0 +1,422 @@
+[
+  {
+    "question": {
+      "text": "FROM:",
+      "bbox": [
+        88,
+        113,
+        133,
+        126
+      ]
+    },
+    "answer": {
+      "text": "JESSICA ARATO",
+      "bbox": [
+        138,
+        112,
+        246,
+        127
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TO:",
+      "bbox": [
+        88,
+        147,
+        110,
+        161
+      ]
+    },
+    "answer": {
+      "text": "VINCE LOSITO",
+      "bbox": [
+        127,
+        145,
+        220,
+        160
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CC:",
+      "bbox": [
+        88,
+        182,
+        110,
+        196
+      ]
+    },
+    "answer": {
+      "text": "K. AUGUSTYN. L. GIORDANO, M. McGLYNN, S. RAPISARLDI",
+      "bbox": [
+        127,
+        180,
+        504,
+        197
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Magazines:",
+      "bbox": [
+        309,
+        390,
+        377,
+        407
+      ]
+    },
+    "answer": {
+      "text": "P 4/ C;",
+      "bbox": [
+        378,
+        388,
+        419,
+        408
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Newspapers:",
+      "bbox": [
+        419,
+        390,
+        497,
+        404
+      ]
+    },
+    "answer": {
+      "text": "1/ 2 B/ W",
+      "bbox": [
+        500,
+        388,
+        549,
+        407
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Magazines:",
+      "bbox": [
+        309,
+        289,
+        379,
+        303
+      ]
+    },
+    "answer": {
+      "text": "People, Rolling Stone, Cosmopolitan,",
+      "bbox": [
+        383,
+        285,
+        605,
+        303
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Magazines:",
+      "bbox": [
+        309,
+        289,
+        379,
+        303
+      ]
+    },
+    "answer": {
+      "text": "Mademoiselle, New York Magazine",
+      "bbox": [
+        309,
+        304,
+        517,
+        319
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Newspaper:",
+      "bbox": [
+        309,
+        323,
+        382,
+        337
+      ]
+    },
+    "answer": {
+      "text": "Village Voice",
+      "bbox": [
+        383,
+        320,
+        461,
+        336
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "BRANDS (S) APPLICABLE",
+      "bbox": [
+        85,
+        250,
+        245,
+        268
+      ]
+    },
+    "answer": {
+      "text": "All Kent Family Packings",
+      "bbox": [
+        309,
+        253,
+        455,
+        268
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "ISSUE FREQUENCY/ YEAR",
+      "bbox": [
+        84,
+        353,
+        254,
+        370
+      ]
+    },
+    "answer": {
+      "text": "September",
+      "bbox": [
+        310,
+        356,
+        376,
+        370
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COUPON ISSUE DATE",
+      "bbox": [
+        85,
+        425,
+        225,
+        439
+      ]
+    },
+    "answer": {
+      "text": "September 1, 1992",
+      "bbox": [
+        309,
+        425,
+        421,
+        440
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COUPON EXPIRATION DATE",
+      "bbox": [
+        85,
+        459,
+        267,
+        473
+      ]
+    },
+    "answer": {
+      "text": "December 31, 1992",
+      "bbox": [
+        307,
+        459,
+        426,
+        474
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CIRCULATION",
+      "bbox": [
+        87,
+        511,
+        176,
+        524
+      ]
+    },
+    "answer": {
+      "text": "1, 221, 000",
+      "bbox": [
+        309,
+        511,
+        368,
+        526
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "GEOGFIAPHICAL AREA(S)",
+      "bbox": [
+        84,
+        545,
+        247,
+        560
+      ]
+    },
+    "answer": {
+      "text": "Tier",
+      "bbox": [
+        309,
+        545,
+        340,
+        560
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COUPON VALUE",
+      "bbox": [
+        84,
+        580,
+        188,
+        594
+      ]
+    },
+    "answer": {
+      "text": "Free Pack",
+      "bbox": [
+        307,
+        578,
+        370,
+        595
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "PACK AND OR/ CARTON",
+      "bbox": [
+        84,
+        612,
+        236,
+        628
+      ]
+    },
+    "answer": {
+      "text": "Pack",
+      "bbox": [
+        307,
+        615,
+        339,
+        629
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "ADVERTISING CREATIVE THEME",
+      "bbox": [
+        85,
+        647,
+        290,
+        663
+      ]
+    },
+    "answer": {
+      "text": "Rebecca",
+      "bbox": [
+        307,
+        648,
+        360,
+        662
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DATE INITIATED",
+      "bbox": [
+        82,
+        716,
+        189,
+        731
+      ]
+    },
+    "answer": {
+      "text": "May 14, 1992",
+      "bbox": [
+        306,
+        715,
+        389,
+        731
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CODE ASSIGNED:",
+      "bbox": [
+        306,
+        817,
+        422,
+        831
+      ]
+    },
+    "answer": {
+      "text": "221782",
+      "bbox": [
+        527,
+        807,
+        616,
+        831
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "JOB NUMBER:",
+      "bbox": [
+        307,
+        834,
+        399,
+        851
+      ]
+    },
+    "answer": {
+      "text": "414",
+      "bbox": [
+        553,
+        832,
+        587,
+        849
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "EST. REDEMPTION:",
+      "bbox": [
+        307,
+        852,
+        433,
+        868
+      ]
+    },
+    "answer": {
+      "text": "3 %",
+      "bbox": [
+        568,
+        849,
+        609,
+        871
+      ]
+    }
+  }
+]

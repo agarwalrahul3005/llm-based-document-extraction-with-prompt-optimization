@@ -1,0 +1,862 @@
+[
+  {
+    "question": {
+      "text": "COMPOUND",
+      "bbox": [
+        74,
+        119,
+        124,
+        137
+      ]
+    },
+    "answer": {
+      "text": "2, 4- Dihydroxypyridine",
+      "bbox": [
+        145,
+        112,
+        343,
+        131
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOURCE:",
+      "bbox": [
+        74,
+        154,
+        115,
+        169
+      ]
+    },
+    "answer": {
+      "text": "Lorillard - Organic Chemistry",
+      "bbox": [
+        137,
+        144,
+        404,
+        166
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "INVESTIGATOR(S)",
+      "bbox": [
+        74,
+        214,
+        148,
+        229
+      ]
+    },
+    "answer": {
+      "text": "H. S. Tong & A. A. Poole",
+      "bbox": [
+        175,
+        203,
+        397,
+        225
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "LORILLARD",
+      "bbox": [
+        404,
+        154,
+        450,
+        169
+      ]
+    },
+    "answer": {
+      "text": "OR61 -2",
+      "bbox": [
+        483,
+        141,
+        542,
+        162
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REPORTED:",
+      "bbox": [
+        501,
+        186,
+        551,
+        199
+      ]
+    },
+    "answer": {
+      "text": "10 /10 /80",
+      "bbox": [
+        616,
+        173,
+        690,
+        195
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONCLUSION",
+      "bbox": [
+        77,
+        796,
+        131,
+        810
+      ]
+    },
+    "answer": {
+      "text": "This compound is judged non mutagenic in this test system.",
+      "bbox": [
+        166,
+        785,
+        711,
+        809
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TESTED",
+      "bbox": [
+        320,
+        182,
+        352,
+        203
+      ]
+    },
+    "answer": {
+      "text": "9 /10 /80 -10 /10 /80",
+      "bbox": [
+        363,
+        172,
+        515,
+        195
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DMSC",
+      "bbox": [
+        554,
+        302,
+        579,
+        317
+      ]
+    },
+    "answer": {
+      "text": "\u2611",
+      "bbox": [
+        538,
+        303,
+        552,
+        317
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DATE RECEIVED",
+      "bbox": [
+        74,
+        183,
+        144,
+        197
+      ]
+    },
+    "answer": {
+      "text": "9 /3 /80",
+      "bbox": [
+        175,
+        176,
+        231,
+        193
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "NOTEBOOK PAGE",
+      "bbox": [
+        535,
+        214,
+        610,
+        231
+      ]
+    },
+    "answer": {
+      "text": "BIO7 -24",
+      "bbox": [
+        633,
+        205,
+        698,
+        224
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TOXICITY (% SURVIVAL)",
+      "bbox": [
+        77,
+        300,
+        173,
+        317
+      ]
+    },
+    "answer": {
+      "text": "50",
+      "bbox": [
+        284,
+        303,
+        295,
+        314
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TOXICITY (% SURVIVAL)",
+      "bbox": [
+        77,
+        300,
+        173,
+        317
+      ]
+    },
+    "answer": {
+      "text": "80",
+      "bbox": [
+        349,
+        304,
+        360,
+        314
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TOXICITY (% SURVIVAL)",
+      "bbox": [
+        77,
+        300,
+        173,
+        317
+      ]
+    },
+    "answer": {
+      "text": "100",
+      "bbox": [
+        415,
+        303,
+        433,
+        316
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONCENTRATION 1mgimit",
+      "bbox": [
+        75,
+        327,
+        177,
+        342
+      ]
+    },
+    "answer": {
+      "text": ".5",
+      "bbox": [
+        352,
+        332,
+        369,
+        346
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL AFVERTANTS PER PLATE (0.05 ml SOLVENT)",
+      "bbox": [
+        74,
+        406,
+        194,
+        427
+      ]
+    },
+    "answer": {
+      "text": "4 .67",
+      "bbox": [
+        239,
+        419,
+        279,
+        439
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL AFVERTANTS PER PLATE (0.05 ml SOLVENT)",
+      "bbox": [
+        74,
+        406,
+        194,
+        427
+      ]
+    },
+    "answer": {
+      "text": "8 .00",
+      "bbox": [
+        300,
+        418,
+        343,
+        438
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL AFVERTANTS PER PLATE (0.05 ml SOLVENT)",
+      "bbox": [
+        74,
+        406,
+        194,
+        427
+      ]
+    },
+    "answer": {
+      "text": "123 .00",
+      "bbox": [
+        359,
+        419,
+        414,
+        439
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL AFVERTANTS PER PLATE (0.05 ml SOLVENT)",
+      "bbox": [
+        74,
+        406,
+        194,
+        427
+      ]
+    },
+    "answer": {
+      "text": "135 .33",
+      "bbox": [
+        423,
+        419,
+        480,
+        437
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL AFVERTANTS PER PLATE (0.05 ml SOLVENT)",
+      "bbox": [
+        74,
+        406,
+        194,
+        427
+      ]
+    },
+    "answer": {
+      "text": "3 .33.33",
+      "bbox": [
+        496,
+        422,
+        534,
+        439
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONTROL AFVERTANTS PER PLATE (0.05 ml SOLVENT)",
+      "bbox": [
+        74,
+        406,
+        194,
+        427
+      ]
+    },
+    "answer": {
+      "text": "16 .00",
+      "bbox": [
+        543,
+        420,
+        590,
+        437
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-) 9",
+      "bbox": [
+        249,
+        388,
+        276,
+        399
+      ]
+    },
+    "answer": {
+      "text": "4 .67",
+      "bbox": [
+        239,
+        419,
+        279,
+        439
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+)",
+      "bbox": [
+        310,
+        388,
+        335,
+        400
+      ]
+    },
+    "answer": {
+      "text": "8 .00",
+      "bbox": [
+        300,
+        418,
+        343,
+        438
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+)",
+      "bbox": [
+        433,
+        390,
+        459,
+        401
+      ]
+    },
+    "answer": {
+      "text": "135 .33",
+      "bbox": [
+        423,
+        419,
+        480,
+        437
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(-)",
+      "bbox": [
+        496,
+        390,
+        522,
+        400
+      ]
+    },
+    "answer": {
+      "text": "3 .33.33",
+      "bbox": [
+        496,
+        422,
+        534,
+        439
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "(+)",
+      "bbox": [
+        557,
+        390,
+        583,
+        400
+      ]
+    },
+    "answer": {
+      "text": "16 .00",
+      "bbox": [
+        543,
+        420,
+        590,
+        437
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND (US plate)",
+      "bbox": [
+        77,
+        454,
+        163,
+        468
+      ]
+    },
+    "answer": {
+      "text": "500",
+      "bbox": [
+        137,
+        475,
+        168,
+        490
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND (US plate)",
+      "bbox": [
+        77,
+        454,
+        163,
+        468
+      ]
+    },
+    "answer": {
+      "text": "250",
+      "bbox": [
+        140,
+        500,
+        165,
+        515
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND (US plate)",
+      "bbox": [
+        77,
+        454,
+        163,
+        468
+      ]
+    },
+    "answer": {
+      "text": "125",
+      "bbox": [
+        138,
+        521,
+        169,
+        536
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".92",
+      "bbox": [
+        313,
+        473,
+        342,
+        493
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": "1. 00",
+      "bbox": [
+        250,
+        497,
+        285,
+        517
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".79",
+      "bbox": [
+        316,
+        499,
+        341,
+        514
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".83",
+      "bbox": [
+        316,
+        521,
+        341,
+        538
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".97",
+      "bbox": [
+        388,
+        496,
+        416,
+        516
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".88",
+      "bbox": [
+        451,
+        475,
+        479,
+        495
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".97",
+      "bbox": [
+        454,
+        500,
+        478,
+        515
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".92",
+      "bbox": [
+        453,
+        521,
+        480,
+        538
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".90",
+      "bbox": [
+        507,
+        497,
+        534,
+        515
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".96",
+      "bbox": [
+        563,
+        478,
+        590,
+        493
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".92",
+      "bbox": [
+        563,
+        500,
+        590,
+        515
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REVERSION RATE (TEST REVERSANTS/CONTROL REVERTANTS PER PLATE",
+      "bbox": [
+        314,
+        455,
+        631,
+        470
+      ]
+    },
+    "answer": {
+      "text": ".85",
+      "bbox": [
+        563,
+        521,
+        591,
+        538
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "2- AMINOANTHHACENE",
+      "bbox": [
+        77,
+        615,
+        166,
+        628
+      ]
+    },
+    "answer": {
+      "text": "4",
+      "bbox": [
+        138,
+        634,
+        152,
+        647
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "2- AMINOANTHHACENE",
+      "bbox": [
+        77,
+        615,
+        166,
+        628
+      ]
+    },
+    "answer": {
+      "text": "2",
+      "bbox": [
+        137,
+        656,
+        152,
+        671
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Copies to the following:",
+      "bbox": [
+        138,
+        832,
+        361,
+        852
+      ]
+    },
+    "answer": {
+      "text": "Dr. H. J. Minnemeyer Ms. L. B. Gray",
+      "bbox": [
+        377,
+        832,
+        564,
+        871
+      ]
+    }
+  }
+]

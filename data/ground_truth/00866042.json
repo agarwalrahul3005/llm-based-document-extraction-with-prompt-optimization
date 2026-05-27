@@ -1,0 +1,222 @@
+[
+  {
+    "question": {
+      "text": "LIQUID",
+      "bbox": [
+        70,
+        489,
+        106,
+        497
+      ]
+    },
+    "answer": {
+      "text": "X",
+      "bbox": [
+        123,
+        483,
+        134,
+        496
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SIGNATURE:",
+      "bbox": [
+        471,
+        183,
+        527,
+        197
+      ]
+    },
+    "answer": {
+      "text": "D.",
+      "bbox": [
+        538,
+        161,
+        648,
+        200
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DATE ISSUED",
+      "bbox": [
+        45,
+        140,
+        110,
+        153
+      ]
+    },
+    "answer": {
+      "text": "Oct. 11, 1983",
+      "bbox": [
+        123,
+        130,
+        220,
+        150
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "PROJECT SHEET NO.",
+      "bbox": [
+        278,
+        141,
+        376,
+        156
+      ]
+    },
+    "answer": {
+      "text": "1",
+      "bbox": [
+        399,
+        133,
+        414,
+        153
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "PROJECT NO.",
+      "bbox": [
+        480,
+        141,
+        568,
+        157
+      ]
+    },
+    "answer": {
+      "text": "642-138",
+      "bbox": [
+        592,
+        131,
+        646,
+        152
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "RECEIPT DATE(s)",
+      "bbox": [
+        527,
+        204,
+        611,
+        219
+      ]
+    },
+    "answer": {
+      "text": "9/28/83",
+      "bbox": [
+        531,
+        233,
+        587,
+        253
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "LH- NUMBER(s)",
+      "bbox": [
+        659,
+        208,
+        732,
+        219
+      ]
+    },
+    "answer": {
+      "text": "20.845",
+      "bbox": [
+        654,
+        235,
+        706,
+        250
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TEST MATERIAL(s)",
+      "bbox": [
+        45,
+        201,
+        134,
+        215
+      ]
+    },
+    "answer": {
+      "text": "B166",
+      "bbox": [
+        183,
+        230,
+        217,
+        248
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "EXPERIMENTAL PROCEDURES",
+      "bbox": [
+        45,
+        522,
+        175,
+        537
+      ]
+    },
+    "answer": {
+      "text": "to performed in Acure/Dermal Toxicology, building 18.",
+      "bbox": [
+        189,
+        522,
+        579,
+        542
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "FOLLOW DEPARTMENT AND COMPANY SAFETY MANUALS",
+      "bbox": [
+        420,
+        404,
+        582,
+        427
+      ]
+    },
+    "answer": {
+      "text": "\u2611",
+      "bbox": [
+        605,
+        413,
+        620,
+        426
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REFRIGERATOR 8 C",
+      "bbox": [
+        437,
+        469,
+        542,
+        488
+      ]
+    },
+    "answer": {
+      "text": "\u2611",
+      "bbox": [
+        425,
+        472,
+        439,
+        485
+      ]
+    }
+  }
+]

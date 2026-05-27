@@ -1,0 +1,522 @@
+[
+  {
+    "question": {
+      "text": "Date:",
+      "bbox": [
+        461,
+        22,
+        508,
+        40
+      ]
+    },
+    "answer": {
+      "text": "7/ 16/ 68",
+      "bbox": [
+        601,
+        21,
+        670,
+        42
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "on",
+      "bbox": [
+        571,
+        75,
+        593,
+        93
+      ]
+    },
+    "answer": {
+      "text": "7/ 10/ 68",
+      "bbox": [
+        663,
+        73,
+        735,
+        94
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Brand",
+      "bbox": [
+        74,
+        321,
+        124,
+        335
+      ]
+    },
+    "answer": {
+      "text": "OLD GOLD STRAIGHT",
+      "bbox": [
+        239,
+        323,
+        398,
+        340
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Length",
+      "bbox": [
+        74,
+        339,
+        133,
+        353
+      ]
+    },
+    "answer": {
+      "text": "85 mm.",
+      "bbox": [
+        239,
+        339,
+        294,
+        353
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Circumference",
+      "bbox": [
+        74,
+        355,
+        198,
+        370
+      ]
+    },
+    "answer": {
+      "text": "25. 3 mm.",
+      "bbox": [
+        240,
+        355,
+        313,
+        371
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Paper",
+      "bbox": [
+        75,
+        373,
+        122,
+        387
+      ]
+    },
+    "answer": {
+      "text": "Ecusta 556",
+      "bbox": [
+        237,
+        372,
+        332,
+        386
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Firmness",
+      "bbox": [
+        75,
+        388,
+        152,
+        403
+      ]
+    },
+    "answer": {
+      "text": "OLD GOLD STRAIGHT",
+      "bbox": [
+        237,
+        387,
+        397,
+        403
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Draw",
+      "bbox": [
+        75,
+        406,
+        114,
+        420
+      ]
+    },
+    "answer": {
+      "text": "OLD GOLD STRAIGHT",
+      "bbox": [
+        239,
+        405,
+        397,
+        420
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Weight",
+      "bbox": [
+        73,
+        422,
+        132,
+        436
+      ]
+    },
+    "answer": {
+      "text": "OLD GOLD STRAIGHT",
+      "bbox": [
+        237,
+        420,
+        398,
+        435
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Print",
+      "bbox": [
+        75,
+        455,
+        120,
+        469
+      ]
+    },
+    "answer": {
+      "text": "OLD GOLD STRAIGHT",
+      "bbox": [
+        237,
+        459,
+        396,
+        476
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Labels",
+      "bbox": [
+        439,
+        450,
+        499,
+        467
+      ]
+    },
+    "answer": {
+      "text": "OLD GOLD STRAIGHT",
+      "bbox": [
+        550,
+        454,
+        711,
+        472
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Closures",
+      "bbox": [
+        439,
+        471,
+        516,
+        486
+      ]
+    },
+    "answer": {
+      "text": "Standard Blue",
+      "bbox": [
+        550,
+        471,
+        672,
+        487
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Cartons",
+      "bbox": [
+        437,
+        504,
+        505,
+        519
+      ]
+    },
+    "answer": {
+      "text": "OLD GOLD STRAIGHT",
+      "bbox": [
+        552,
+        506,
+        710,
+        521
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Markings",
+      "bbox": [
+        436,
+        521,
+        517,
+        536
+      ]
+    },
+    "answer": {
+      "text": "Sample number on each pack and carton",
+      "bbox": [
+        550,
+        522,
+        747,
+        554
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Laboratory",
+      "bbox": [
+        73,
+        542,
+        168,
+        557
+      ]
+    },
+    "answer": {
+      "text": "One Tray",
+      "bbox": [
+        236,
+        542,
+        314,
+        562
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Original request made by",
+      "bbox": [
+        56,
+        70,
+        285,
+        90
+      ]
+    },
+    "answer": {
+      "text": "Mr. C. L. Tucker, Jr.",
+      "bbox": [
+        334,
+        71,
+        525,
+        89
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Sample No.",
+      "bbox": [
+        263,
+        45,
+        357,
+        65
+      ]
+    },
+    "answer": {
+      "text": "5031",
+      "bbox": [
+        380,
+        49,
+        421,
+        62
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Sample specifications written by",
+      "bbox": [
+        57,
+        95,
+        360,
+        116
+      ]
+    },
+    "answer": {
+      "text": "John H. M. Bohlken",
+      "bbox": [
+        426,
+        98,
+        595,
+        118
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Tear Tape",
+      "bbox": [
+        439,
+        486,
+        526,
+        502
+      ]
+    },
+    "answer": {
+      "text": "Gold",
+      "bbox": [
+        550,
+        489,
+        591,
+        503
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Laboratory Analysis:",
+      "bbox": [
+        52,
+        591,
+        242,
+        607
+      ]
+    },
+    "answer": {
+      "text": "Tars and Nicotine, Taste Panel, Burning Time, Gas Phase Analysis,",
+      "bbox": [
+        70,
+        617,
+        680,
+        641
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Laboratory Analysis:",
+      "bbox": [
+        52,
+        591,
+        242,
+        607
+      ]
+    },
+    "answer": {
+      "text": "Benzo (A) Pyrene Analyses",
+      "bbox": [
+        78,
+        634,
+        310,
+        652
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Tobacco Blend",
+      "bbox": [
+        73,
+        676,
+        196,
+        693
+      ]
+    },
+    "answer": {
+      "text": "Manufacturing - A. Kraus",
+      "bbox": [
+        263,
+        677,
+        487,
+        694
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Making & Packing",
+      "bbox": [
+        71,
+        708,
+        223,
+        726
+      ]
+    },
+    "answer": {
+      "text": "Product Development, John H. M. Bohlker",
+      "bbox": [
+        264,
+        707,
+        632,
+        727
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Written by",
+      "bbox": [
+        70,
+        784,
+        165,
+        800
+      ]
+    },
+    "answer": {
+      "text": "John H. M. Bohlken",
+      "bbox": [
+        197,
+        786,
+        365,
+        801
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Original to",
+      "bbox": [
+        70,
+        802,
+        175,
+        817
+      ]
+    },
+    "answer": {
+      "text": "Mr. C. L. Tucker, Jr.",
+      "bbox": [
+        196,
+        803,
+        392,
+        818
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Copies to",
+      "bbox": [
+        68,
+        818,
+        157,
+        835
+      ]
+    },
+    "answer": {
+      "text": "Dr. A. W. Spears",
+      "bbox": [
+        196,
+        818,
+        346,
+        834
+      ]
+    }
+  }
+]

@@ -1,0 +1,902 @@
+[
+  {
+    "question": {
+      "text": "RE",
+      "bbox": [
+        603,
+        38,
+        624,
+        59
+      ]
+    },
+    "answer": {
+      "text": "-339",
+      "bbox": [
+        628,
+        39,
+        664,
+        57
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DATE",
+      "bbox": [
+        568,
+        89,
+        607,
+        110
+      ]
+    },
+    "answer": {
+      "text": "11 /2 /61",
+      "bbox": [
+        617,
+        91,
+        684,
+        112
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Remarks",
+      "bbox": [
+        43,
+        504,
+        114,
+        526
+      ]
+    },
+    "answer": {
+      "text": "* Special Plasticizer - 1 part LG- 168 - 15 parts Estrobond \"B\" Union Carbide LG- 168 additive .38%",
+      "bbox": [
+        140,
+        510,
+        700,
+        546
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Remarks",
+      "bbox": [
+        43,
+        504,
+        114,
+        526
+      ]
+    },
+    "answer": {
+      "text": "Sample repeated as RE- 341 because 2. 1/ 58 ,000 tow was used instead of 2. 1/ 42 ,000 tow.",
+      "bbox": [
+        158,
+        563,
+        673,
+        597
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Color",
+      "bbox": [
+        45,
+        166,
+        94,
+        188
+      ]
+    },
+    "answer": {
+      "text": "White",
+      "bbox": [
+        257,
+        163,
+        307,
+        183
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Supplier",
+      "bbox": [
+        49,
+        119,
+        119,
+        136
+      ]
+    },
+    "answer": {
+      "text": "T. E.",
+      "bbox": [
+        256,
+        116,
+        295,
+        134
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Weight",
+      "bbox": [
+        223,
+        792,
+        283,
+        810
+      ]
+    },
+    "answer": {
+      "text": ".922 1 .059 .54 .20 20 .2 7 .6 62 .4 1 .07 .41 61 .7",
+      "bbox": [
+        194,
+        824,
+        726,
+        849
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Draw",
+      "bbox": [
+        330,
+        793,
+        375,
+        808
+      ]
+    },
+    "answer": {
+      "text": ".922 1 .059 .54 .20 20 .2 7 .6 62 .4 1 .07 .41 61 .7",
+      "bbox": [
+        194,
+        824,
+        726,
+        849
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Tars",
+      "bbox": [
+        469,
+        793,
+        512,
+        811
+      ]
+    },
+    "answer": {
+      "text": ".922 1 .059 .54 .20 20 .2 7 .6 62 .4 1 .07 .41 61 .7",
+      "bbox": [
+        194,
+        824,
+        726,
+        849
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Nicotine",
+      "bbox": [
+        602,
+        792,
+        679,
+        814
+      ]
+    },
+    "answer": {
+      "text": ".922 1 .059 .54 .20 20 .2 7 .6 62 .4 1 .07 .41 61 .7",
+      "bbox": [
+        194,
+        824,
+        726,
+        849
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SQC -21",
+      "bbox": [
+        47,
+        88,
+        102,
+        109
+      ]
+    },
+    "answer": {
+      "text": "(Revised 5/ 9/ 61)",
+      "bbox": [
+        109,
+        87,
+        256,
+        109
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Total Denier as Marked",
+      "bbox": [
+        45,
+        194,
+        246,
+        214
+      ]
+    },
+    "answer": {
+      "text": "58 ,000",
+      "bbox": [
+        254,
+        191,
+        313,
+        211
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Maker No.",
+      "bbox": [
+        42,
+        270,
+        128,
+        290
+      ]
+    },
+    "answer": {
+      "text": "Research Division",
+      "bbox": [
+        204,
+        272,
+        363,
+        289
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Type of Rod",
+      "bbox": [
+        42,
+        297,
+        147,
+        317
+      ]
+    },
+    "answer": {
+      "text": "\"D\"",
+      "bbox": [
+        268,
+        297,
+        299,
+        315
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Length of Rod",
+      "bbox": [
+        43,
+        323,
+        167,
+        343
+      ]
+    },
+    "answer": {
+      "text": "120 mm.",
+      "bbox": [
+        237,
+        323,
+        305,
+        344
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Circ of Rod",
+      "bbox": [
+        43,
+        348,
+        155,
+        367
+      ]
+    },
+    "answer": {
+      "text": "24",
+      "bbox": [
+        249,
+        349,
+        267,
+        367
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Mean Draw of Rod",
+      "bbox": [
+        41,
+        373,
+        194,
+        396
+      ]
+    },
+    "answer": {
+      "text": "0 .12 (new scale)",
+      "bbox": [
+        251,
+        370,
+        392,
+        394
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Complete Weight",
+      "bbox": [
+        43,
+        479,
+        183,
+        499
+      ]
+    },
+    "answer": {
+      "text": "99 .2 gms.",
+      "bbox": [
+        237,
+        479,
+        322,
+        499
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Dry Wt. With Adhesive",
+      "bbox": [
+        45,
+        426,
+        234,
+        446
+      ]
+    },
+    "answer": {
+      "text": "93 .3 gms.",
+      "bbox": [
+        240,
+        426,
+        323,
+        446
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Dry Weight",
+      "bbox": [
+        45,
+        399,
+        139,
+        421
+      ]
+    },
+    "answer": {
+      "text": "86 .9 gms",
+      "bbox": [
+        236,
+        397,
+        321,
+        420
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "% Plasticizer",
+      "bbox": [
+        404,
+        112,
+        525,
+        136
+      ]
+    },
+    "answer": {
+      "text": "6",
+      "bbox": [
+        623,
+        117,
+        638,
+        134
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "% Plasticizer",
+      "bbox": [
+        404,
+        112,
+        525,
+        136
+      ]
+    },
+    "answer": {
+      "text": ".0",
+      "bbox": [
+        640,
+        117,
+        657,
+        134
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Firmness of Rod",
+      "bbox": [
+        406,
+        141,
+        546,
+        162
+      ]
+    },
+    "answer": {
+      "text": "Good",
+      "bbox": [
+        624,
+        142,
+        665,
+        159
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Quality of Bloom",
+      "bbox": [
+        405,
+        166,
+        551,
+        189
+      ]
+    },
+    "answer": {
+      "text": "Good",
+      "bbox": [
+        623,
+        168,
+        670,
+        188
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Width of Band",
+      "bbox": [
+        405,
+        194,
+        525,
+        215
+      ]
+    },
+    "answer": {
+      "text": "Good",
+      "bbox": [
+        626,
+        194,
+        667,
+        211
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Ref. Paper",
+      "bbox": [
+        405,
+        219,
+        499,
+        241
+      ]
+    },
+    "answer": {
+      "text": "#450",
+      "bbox": [
+        624,
+        219,
+        665,
+        239
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Quan of Trays Produced",
+      "bbox": [
+        401,
+        247,
+        615,
+        268
+      ]
+    },
+    "answer": {
+      "text": "3",
+      "bbox": [
+        635,
+        250,
+        649,
+        264
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Rods per Min.",
+      "bbox": [
+        404,
+        272,
+        522,
+        292
+      ]
+    },
+    "answer": {
+      "text": "1067",
+      "bbox": [
+        626,
+        270,
+        665,
+        291
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Tape Speed",
+      "bbox": [
+        406,
+        299,
+        499,
+        317
+      ]
+    },
+    "answer": {
+      "text": "400 F. P. M.",
+      "bbox": [
+        626,
+        299,
+        715,
+        320
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "F. P. M. Delivery Roller",
+      "bbox": [
+        406,
+        323,
+        605,
+        345
+      ]
+    },
+    "answer": {
+      "text": "337 .5",
+      "bbox": [
+        624,
+        324,
+        673,
+        345
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "F. P. M. No. 1 Roller",
+      "bbox": [
+        404,
+        351,
+        579,
+        373
+      ]
+    },
+    "answer": {
+      "text": "477 .5",
+      "bbox": [
+        626,
+        351,
+        676,
+        369
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "F. P. M. No. 2 Roller",
+      "bbox": [
+        405,
+        376,
+        578,
+        398
+      ]
+    },
+    "answer": {
+      "text": "362 .5",
+      "bbox": [
+        628,
+        373,
+        674,
+        393
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Delivery Roller over Tape",
+      "bbox": [
+        405,
+        402,
+        635,
+        424
+      ]
+    },
+    "answer": {
+      "text": ".844",
+      "bbox": [
+        652,
+        402,
+        690,
+        420
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Pressure on Air Jet",
+      "bbox": [
+        404,
+        479,
+        582,
+        501
+      ]
+    },
+    "answer": {
+      "text": "16 psig",
+      "bbox": [
+        634,
+        482,
+        702,
+        502
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Pump Press. Card Roller",
+      "bbox": [
+        406,
+        454,
+        615,
+        477
+      ]
+    },
+    "answer": {
+      "text": "120 psig",
+      "bbox": [
+        626,
+        454,
+        701,
+        475
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "No. 1 Roller over Tape",
+      "bbox": [
+        404,
+        427,
+        607,
+        451
+      ]
+    },
+    "answer": {
+      "text": "1 .194",
+      "bbox": [
+        642,
+        429,
+        693,
+        444
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Date Made",
+      "bbox": [
+        45,
+        712,
+        129,
+        734
+      ]
+    },
+    "answer": {
+      "text": "11 /3 /61",
+      "bbox": [
+        131,
+        712,
+        195,
+        735
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Tobacco Used",
+      "bbox": [
+        226,
+        714,
+        338,
+        734
+      ]
+    },
+    "answer": {
+      "text": "SPRING",
+      "bbox": [
+        346,
+        709,
+        403,
+        733
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Length of Cigarettes",
+      "bbox": [
+        439,
+        712,
+        623,
+        737
+      ]
+    },
+    "answer": {
+      "text": "85",
+      "bbox": [
+        649,
+        714,
+        677,
+        736
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Type of Maker",
+      "bbox": [
+        42,
+        764,
+        162,
+        786
+      ]
+    },
+    "answer": {
+      "text": "AMF",
+      "bbox": [
+        226,
+        767,
+        261,
+        781
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Type of Tipper",
+      "bbox": [
+        394,
+        767,
+        525,
+        789
+      ]
+    },
+    "answer": {
+      "text": "Hauni",
+      "bbox": [
+        588,
+        767,
+        635,
+        787
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Smoking Results",
+      "bbox": [
+        42,
+        825,
+        186,
+        845
+      ]
+    },
+    "answer": {
+      "text": ".922 1 .059 .54 .20 20 .2 7 .6 62 .4 1 .07 .41 61 .7",
+      "bbox": [
+        194,
+        824,
+        726,
+        849
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Recearch Engineer",
+      "bbox": [
+        459,
+        913,
+        614,
+        934
+      ]
+    },
+    "answer": {
+      "text": "Benner",
+      "bbox": [
+        404,
+        887,
+        588,
+        932
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Copies to:",
+      "bbox": [
+        42,
+        898,
+        134,
+        919
+      ]
+    },
+    "answer": {
+      "text": "Dr. C. O. Jensen Mr. R. A. Wagner Mr. J. Berner Dr. A. W. Spears",
+      "bbox": [
+        137,
+        899,
+        300,
+        968
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Wet Weight",
+      "bbox": [
+        41,
+        451,
+        138,
+        472
+      ]
+    },
+    "answer": {
+      "text": "99 .2 gms.",
+      "bbox": [
+        239,
+        451,
+        320,
+        475
+      ]
+    }
+  }
+]

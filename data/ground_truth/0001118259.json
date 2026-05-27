@@ -1,0 +1,462 @@
+[
+  {
+    "question": {
+      "text": "Standard Grade Mark",
+      "bbox": [
+        148,
+        253,
+        331,
+        274
+      ]
+    },
+    "answer": {
+      "text": "PCFS Flue cured fines",
+      "bbox": [
+        108,
+        282,
+        286,
+        305
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Standard Grade Mark",
+      "bbox": [
+        148,
+        253,
+        331,
+        274
+      ]
+    },
+    "answer": {
+      "text": "PCBS Burley fines",
+      "bbox": [
+        108,
+        328,
+        256,
+        349
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Standard Grade Mark",
+      "bbox": [
+        148,
+        253,
+        331,
+        274
+      ]
+    },
+    "answer": {
+      "text": "MC- 4 Manufacturing fines",
+      "bbox": [
+        105,
+        406,
+        306,
+        428
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Standard Grade Mark",
+      "bbox": [
+        148,
+        253,
+        331,
+        274
+      ]
+    },
+    "answer": {
+      "text": "MC -6 Stem Meal",
+      "bbox": [
+        102,
+        542,
+        243,
+        559
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Standard Grade Mark",
+      "bbox": [
+        148,
+        253,
+        331,
+        274
+      ]
+    },
+    "answer": {
+      "text": "MC -7 Winnowers",
+      "bbox": [
+        101,
+        588,
+        244,
+        605
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Standard Grade Mark",
+      "bbox": [
+        148,
+        253,
+        331,
+        274
+      ]
+    },
+    "answer": {
+      "text": "RXF Fine flue cured stem",
+      "bbox": [
+        99,
+        634,
+        308,
+        654
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Standard Grade Mark",
+      "bbox": [
+        148,
+        253,
+        331,
+        274
+      ]
+    },
+    "answer": {
+      "text": "RBF Fine Burely stem",
+      "bbox": [
+        98,
+        742,
+        280,
+        761
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "RPCFS or RPCFS-O",
+      "bbox": [
+        378,
+        291,
+        522,
+        307
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "RPCBS OT RPCBS- O",
+      "bbox": [
+        378,
+        337,
+        523,
+        354
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "WCC",
+      "bbox": [
+        377,
+        366,
+        416,
+        380
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "MC -4 -S",
+      "bbox": [
+        377,
+        411,
+        430,
+        429
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "MC -4 -PH",
+      "bbox": [
+        378,
+        439,
+        441,
+        457
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "MC -4 -RC",
+      "bbox": [
+        376,
+        471,
+        440,
+        486
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "MC -4 -W",
+      "bbox": [
+        376,
+        500,
+        434,
+        517
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "MC -1",
+      "bbox": [
+        374,
+        547,
+        411,
+        564
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "C Stem",
+      "bbox": [
+        374,
+        594,
+        425,
+        609
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "RRXF or RRXF -O",
+      "bbox": [
+        374,
+        638,
+        494,
+        656
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "RRXM -B",
+      "bbox": [
+        372,
+        670,
+        433,
+        684
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "RRXM -T",
+      "bbox": [
+        372,
+        700,
+        431,
+        716
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "RRBF or RRBF -O",
+      "bbox": [
+        370,
+        747,
+        491,
+        765
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "RRB -B",
+      "bbox": [
+        370,
+        778,
+        417,
+        793
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "RRB -L",
+      "bbox": [
+        369,
+        809,
+        415,
+        823
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Allowable Substitutions",
+      "bbox": [
+        412,
+        257,
+        609,
+        278
+      ]
+    },
+    "answer": {
+      "text": "RRB -T",
+      "bbox": [
+        369,
+        838,
+        415,
+        852
+      ]
+    }
+  }
+]

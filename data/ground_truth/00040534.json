@@ -1,0 +1,822 @@
+[
+  {
+    "question": {
+      "text": "COMPOUND",
+      "bbox": [
+        84,
+        109,
+        136,
+        119
+      ]
+    },
+    "answer": {
+      "text": "3-Hydroxy-3-methylbutanoic acid (Tur 13)",
+      "bbox": [
+        145,
+        98,
+        507,
+        116
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOURCE",
+      "bbox": [
+        85,
+        141,
+        119,
+        152
+      ]
+    },
+    "answer": {
+      "text": "Lorillard - Organic Chemistry",
+      "bbox": [
+        144,
+        128,
+        409,
+        152
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "INVESTIGATOR(S)",
+      "bbox": [
+        84,
+        203,
+        155,
+        214
+      ]
+    },
+    "answer": {
+      "text": "H. S. Tong & M. S. Forte'",
+      "bbox": [
+        198,
+        194,
+        427,
+        213
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REPORTED",
+      "bbox": [
+        508,
+        170,
+        551,
+        183
+      ]
+    },
+    "answer": {
+      "text": "5/3/79 10/6/80 , Update",
+      "bbox": [
+        573,
+        148,
+        713,
+        184
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "TESTED",
+      "bbox": [
+        327,
+        170,
+        361,
+        183
+      ]
+    },
+    "answer": {
+      "text": "12/28/78",
+      "bbox": [
+        377,
+        163,
+        451,
+        180
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "MALE",
+      "bbox": [
+        334,
+        296,
+        361,
+        310
+      ]
+    },
+    "answer": {
+      "text": "X",
+      "bbox": [
+        369,
+        284,
+        387,
+        302
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOURCE",
+      "bbox": [
+        404,
+        328,
+        440,
+        339
+      ]
+    },
+    "answer": {
+      "text": "Camm",
+      "bbox": [
+        473,
+        323,
+        514,
+        338
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOURCE",
+      "bbox": [
+        404,
+        328,
+        440,
+        339
+      ]
+    },
+    "answer": {
+      "text": "Research",
+      "bbox": [
+        522,
+        320,
+        596,
+        335
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "P.O.",
+      "bbox": [
+        300,
+        360,
+        317,
+        373
+      ]
+    },
+    "answer": {
+      "text": "\u2611",
+      "bbox": [
+        288,
+        360,
+        302,
+        373
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONCLUSION",
+      "bbox": [
+        82,
+        740,
+        135,
+        753
+      ]
+    },
+    "answer": {
+      "text": "This compound appears to act as a CNS depressant with symptons",
+      "bbox": [
+        135,
+        728,
+        704,
+        749
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CONCLUSION",
+      "bbox": [
+        82,
+        740,
+        135,
+        753
+      ]
+    },
+    "answer": {
+      "text": "of respiratory depression, constriction of blood vessels, and in- activity. Survivors recovered in 48 hours. The recommended safe dose for a single trial by inhalation in man is 0.3 mg.",
+      "bbox": [
+        89,
+        753,
+        688,
+        831
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "LORILLARD NO",
+      "bbox": [
+        411,
+        141,
+        473,
+        152
+      ]
+    },
+    "answer": {
+      "text": "OR39- 23",
+      "bbox": [
+        499,
+        127,
+        564,
+        144
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DATE RECEIVED",
+      "bbox": [
+        85,
+        172,
+        149,
+        183
+      ]
+    },
+    "answer": {
+      "text": "Unk.",
+      "bbox": [
+        180,
+        162,
+        219,
+        182
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "NOTEBOOK PAGE",
+      "bbox": [
+        543,
+        203,
+        617,
+        215
+      ]
+    },
+    "answer": {
+      "text": "B1014- 23",
+      "bbox": [
+        637,
+        194,
+        714,
+        209
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "STRAIN OF MICE",
+      "bbox": [
+        82,
+        297,
+        149,
+        310
+      ]
+    },
+    "answer": {
+      "text": "Swiss- Webster",
+      "bbox": [
+        162,
+        286,
+        282,
+        306
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DATE RECEIVED",
+      "bbox": [
+        493,
+        297,
+        560,
+        310
+      ]
+    },
+    "answer": {
+      "text": "Unk.",
+      "bbox": [
+        591,
+        286,
+        630,
+        303
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": ".5 % METHYL CELULOSE",
+      "bbox": [
+        221,
+        390,
+        328,
+        405
+      ]
+    },
+    "answer": {
+      "text": "\u2611",
+      "bbox": [
+        201,
+        388,
+        218,
+        406
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "GROUP NO.",
+      "bbox": [
+        105,
+        447,
+        153,
+        458
+      ]
+    },
+    "answer": {
+      "text": "1",
+      "bbox": [
+        122,
+        483,
+        132,
+        496
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "GROUP NO.",
+      "bbox": [
+        105,
+        447,
+        153,
+        458
+      ]
+    },
+    "answer": {
+      "text": "2",
+      "bbox": [
+        122,
+        511,
+        133,
+        526
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "GROUP NO.",
+      "bbox": [
+        105,
+        447,
+        153,
+        458
+      ]
+    },
+    "answer": {
+      "text": "3",
+      "bbox": [
+        123,
+        541,
+        133,
+        555
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "GROUP NO.",
+      "bbox": [
+        105,
+        447,
+        153,
+        458
+      ]
+    },
+    "answer": {
+      "text": "4",
+      "bbox": [
+        122,
+        571,
+        133,
+        585
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "GROUP NO.",
+      "bbox": [
+        105,
+        447,
+        153,
+        458
+      ]
+    },
+    "answer": {
+      "text": "5",
+      "bbox": [
+        123,
+        602,
+        133,
+        615
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "% SOLUTION",
+      "bbox": [
+        218,
+        448,
+        269,
+        459
+      ]
+    },
+    "answer": {
+      "text": "5",
+      "bbox": [
+        216,
+        487,
+        231,
+        504
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "% SOLUTION",
+      "bbox": [
+        218,
+        448,
+        269,
+        459
+      ]
+    },
+    "answer": {
+      "text": "10",
+      "bbox": [
+        208,
+        517,
+        228,
+        532
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "% SOLUTION",
+      "bbox": [
+        218,
+        448,
+        269,
+        459
+      ]
+    },
+    "answer": {
+      "text": "10",
+      "bbox": [
+        209,
+        546,
+        230,
+        561
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "% SOLUTION",
+      "bbox": [
+        218,
+        448,
+        269,
+        459
+      ]
+    },
+    "answer": {
+      "text": "10",
+      "bbox": [
+        211,
+        578,
+        231,
+        593
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "% SOLUTION",
+      "bbox": [
+        218,
+        448,
+        269,
+        459
+      ]
+    },
+    "answer": {
+      "text": "10",
+      "bbox": [
+        208,
+        606,
+        230,
+        620
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DOSAGE (mg/ kg BODY WEIGHT)",
+      "bbox": [
+        370,
+        448,
+        455,
+        470
+      ]
+    },
+    "answer": {
+      "text": "1800",
+      "bbox": [
+        383,
+        487,
+        424,
+        504
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DOSAGE (mg/ kg BODY WEIGHT)",
+      "bbox": [
+        370,
+        448,
+        455,
+        470
+      ]
+    },
+    "answer": {
+      "text": "2160",
+      "bbox": [
+        380,
+        518,
+        421,
+        532
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DOSAGE (mg/ kg BODY WEIGHT)",
+      "bbox": [
+        370,
+        448,
+        455,
+        470
+      ]
+    },
+    "answer": {
+      "text": "2592",
+      "bbox": [
+        383,
+        547,
+        419,
+        562
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DOSAGE (mg/ kg BODY WEIGHT)",
+      "bbox": [
+        370,
+        448,
+        455,
+        470
+      ]
+    },
+    "answer": {
+      "text": "3732",
+      "bbox": [
+        384,
+        577,
+        420,
+        594
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DOSAGE (mg/ kg BODY WEIGHT)",
+      "bbox": [
+        370,
+        448,
+        455,
+        470
+      ]
+    },
+    "answer": {
+      "text": "4479",
+      "bbox": [
+        381,
+        605,
+        420,
+        620
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "RESULTS (NO TESTED)",
+      "bbox": [
+        588,
+        450,
+        679,
+        468
+      ]
+    },
+    "answer": {
+      "text": "1/ 6",
+      "bbox": [
+        574,
+        489,
+        603,
+        506
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "RESULTS (NO TESTED)",
+      "bbox": [
+        588,
+        450,
+        679,
+        468
+      ]
+    },
+    "answer": {
+      "text": "0/ 6",
+      "bbox": [
+        575,
+        515,
+        607,
+        532
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "RESULTS (NO TESTED)",
+      "bbox": [
+        588,
+        450,
+        679,
+        468
+      ]
+    },
+    "answer": {
+      "text": "0/ 6",
+      "bbox": [
+        575,
+        545,
+        603,
+        563
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "RESULTS (NO TESTED)",
+      "bbox": [
+        588,
+        450,
+        679,
+        468
+      ]
+    },
+    "answer": {
+      "text": "3/ 6",
+      "bbox": [
+        575,
+        575,
+        605,
+        594
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "RESULTS (NO TESTED)",
+      "bbox": [
+        588,
+        450,
+        679,
+        468
+      ]
+    },
+    "answer": {
+      "text": "6/ 6",
+      "bbox": [
+        575,
+        605,
+        604,
+        623
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REFERENCE FOR CALCULATION",
+      "bbox": [
+        82,
+        651,
+        203,
+        662
+      ]
+    },
+    "answer": {
+      "text": "Litchfield, J. T. and Wilcoxin F. , J. of Pharmacol",
+      "bbox": [
+        228,
+        638,
+        700,
+        661
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "REFERENCE FOR CALCULATION",
+      "bbox": [
+        82,
+        651,
+        203,
+        662
+      ]
+    },
+    "answer": {
+      "text": "and Exper. Ther. , 90: 99 , 1948.",
+      "bbox": [
+        92,
+        670,
+        364,
+        690
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Copies to the Following:",
+      "bbox": [
+        91,
+        865,
+        310,
+        884
+      ]
+    },
+    "answer": {
+      "text": "Dr. H. J. Minnemeyer Ms. L. B. Gray",
+      "bbox": [
+        345,
+        863,
+        530,
+        895
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "LD50 (95% CONFIDENCE LIMITS)",
+      "bbox": [
+        82,
+        711,
+        203,
+        723
+      ]
+    },
+    "answer": {
+      "text": "3.5 (3.1 to 3.9 g /kg",
+      "bbox": [
+        239,
+        703,
+        420,
+        721
+      ]
+    }
+  }
+]

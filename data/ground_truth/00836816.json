@@ -1,0 +1,162 @@
+[
+  {
+    "question": {
+      "text": "DATE",
+      "bbox": [
+        486,
+        872,
+        504,
+        880
+      ]
+    },
+    "answer": {
+      "text": "8/ 10/ 82",
+      "bbox": [
+        527,
+        869,
+        609,
+        908
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "pH",
+      "bbox": [
+        82,
+        219,
+        96,
+        232
+      ]
+    },
+    "answer": {
+      "text": "The pH of a 50 % concentration of A30 in (52.6% dioxane/ water was calculated to be 8.13 at 24 C according to the extrapolation procedures by Dr. P. D. Schickedantz, Lorillard Research Center Accession Number 1662, Reference OR 83- 81.",
+      "bbox": [
+        102,
+        228,
+        644,
+        284
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "ORAL",
+      "bbox": [
+        103,
+        376,
+        125,
+        389
+      ]
+    },
+    "answer": {
+      "text": "Reference OR 100- 32 . 5g A30 soluble in .5 mL corn oil at room temperature.",
+      "bbox": [
+        109,
+        388,
+        558,
+        433
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOLUBILITY",
+      "bbox": [
+        84,
+        355,
+        125,
+        366
+      ]
+    },
+    "answer": {
+      "text": "(See SOE for Biological Solutions)",
+      "bbox": [
+        144,
+        359,
+        427,
+        373
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "LRC FILE NUMBER",
+      "bbox": [
+        84,
+        170,
+        148,
+        178
+      ]
+    },
+    "answer": {
+      "text": "A30",
+      "bbox": [
+        103,
+        179,
+        130,
+        190
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "PHYSICAL STATE",
+      "bbox": [
+        85,
+        196,
+        142,
+        204
+      ]
+    },
+    "answer": {
+      "text": "Clear Colorless liquid",
+      "bbox": [
+        103,
+        203,
+        286,
+        218
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "ACUTE CARDIOVASCULAR",
+      "bbox": [
+        105,
+        483,
+        194,
+        496
+      ]
+    },
+    "answer": {
+      "text": "(See SOP for Determination of Solubility of Materials for Acute Cardiovascular and Respiratory Effects Study in Beagle Dogs) Reference OR 100- 32 .2 mg A30 soluble in .5 mL 10 % propylene glycol solution at 38 C. Add A30 to warm (38 C) propylene glycol; add warm water to make 10 % propylene glycol solution.",
+      "bbox": [
+        108,
+        500,
+        651,
+        608
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "STORAGE RECOMMENDATIONS",
+      "bbox": [
+        84,
+        630,
+        193,
+        640
+      ]
+    },
+    "answer": {
+      "text": "Refrig erate in amber bottle at no more than 8 C.",
+      "bbox": [
+        103,
+        644,
+        500,
+        658
+      ]
+    }
+  }
+]

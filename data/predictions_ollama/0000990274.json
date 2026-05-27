@@ -1,0 +1,52 @@
+[
+  {
+    "question": {
+      "text": "R 2K DATE:",
+      "bbox": null
+    },
+    "answer": {
+      "text": "March 27, 1984",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "COMPLETION",
+      "bbox": null
+    },
+    "answer": {
+      "text": "TARGET DATE: _April 13, 1984",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "counrny:",
+      "bbox": null
+    },
+    "answer": {
+      "text": "BELGIUM",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "PROUCT:",
+      "bbox": null
+    },
+    "answer": {
+      "text": "LUCKY STRIKE Filter and VICEROY",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "NATURE OF WORK:",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Advise if locally obtained Yucatan Roney (sample enclosed) is an acceptable substitute for HALWAY.",
+      "bbox": null
+    }
+  }
+]

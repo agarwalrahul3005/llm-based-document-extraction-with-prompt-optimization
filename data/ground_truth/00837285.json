@@ -1,0 +1,1462 @@
+[
+  {
+    "question": {
+      "text": "CLASS",
+      "bbox": [
+        66,
+        138,
+        91,
+        146
+      ]
+    },
+    "answer": {
+      "text": "ACID",
+      "bbox": [
+        154,
+        148,
+        176,
+        155
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CLASS",
+      "bbox": [
+        66,
+        138,
+        91,
+        146
+      ]
+    },
+    "answer": {
+      "text": "BASE",
+      "bbox": [
+        289,
+        148,
+        311,
+        156
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CLASS",
+      "bbox": [
+        66,
+        138,
+        91,
+        146
+      ]
+    },
+    "answer": {
+      "text": "SALT",
+      "bbox": [
+        405,
+        148,
+        425,
+        156
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "CLASS",
+      "bbox": [
+        66,
+        138,
+        91,
+        146
+      ]
+    },
+    "answer": {
+      "text": "OTHER",
+      "bbox": [
+        515,
+        146,
+        543,
+        156
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOLUBILITY",
+      "bbox": [
+        261,
+        111,
+        308,
+        119
+      ]
+    },
+    "answer": {
+      "text": "MEASURED",
+      "bbox": [
+        394,
+        111,
+        439,
+        118
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOLUBILITY",
+      "bbox": [
+        261,
+        111,
+        308,
+        119
+      ]
+    },
+    "answer": {
+      "text": "WATER",
+      "bbox": [
+        274,
+        125,
+        306,
+        132
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOLUBILITY",
+      "bbox": [
+        261,
+        111,
+        308,
+        119
+      ]
+    },
+    "answer": {
+      "text": "OTHER",
+      "bbox": [
+        349,
+        123,
+        381,
+        131
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SOLUBILITY",
+      "bbox": [
+        261,
+        111,
+        308,
+        119
+      ]
+    },
+    "answer": {
+      "text": "ESTIMATED",
+      "bbox": [
+        513,
+        110,
+        561,
+        118
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMMENTS",
+      "bbox": [
+        68,
+        585,
+        116,
+        592
+      ]
+    },
+    "answer": {
+      "text": "pH- The pH of a 50% concentration of A32 in a 52.6% dioxane/water solution was calculated to be 2.92 at 22\u00b0C according to the extra- polation procedures by Dr. P. D. Schickedantz, Lorillard Research Center Accession No. 1662, Reference OR 83- 125.",
+      "bbox": [
+        93,
+        610,
+        708,
+        671
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMMENTS",
+      "bbox": [
+        68,
+        585,
+        116,
+        592
+      ]
+    },
+    "answer": {
+      "text": "Solubility (See SOP for Biological Solutions)",
+      "bbox": [
+        93,
+        683,
+        508,
+        698
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMMENTS",
+      "bbox": [
+        68,
+        585,
+        116,
+        592
+      ]
+    },
+    "answer": {
+      "text": "Oral- 5g A32 forms a suspension with stirring in 10 ml 1% Tween 80 at room temperature. Reference OR 72- 151.",
+      "bbox": [
+        93,
+        709,
+        714,
+        740
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMMENTS",
+      "bbox": [
+        68,
+        585,
+        116,
+        592
+      ]
+    },
+    "answer": {
+      "text": "Acute Cardiovascular- Mix 2 mg A32 with 0.2 ml 80% propylene glycol and grind lightly. Add 0.8 ml saline solution. A32 is a suspension in this mixture at room temperature. Reference OR 72- 152.",
+      "bbox": [
+        96,
+        754,
+        724,
+        798
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "SIGNATURE",
+      "bbox": [
+        71,
+        855,
+        116,
+        862
+      ]
+    },
+    "answer": {
+      "text": "Johnson",
+      "bbox": [
+        95,
+        850,
+        376,
+        879
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "AMOUNT",
+      "bbox": [
+        523,
+        121,
+        558,
+        131
+      ]
+    },
+    "answer": {
+      "text": "g100ml",
+      "bbox": [
+        676,
+        120,
+        708,
+        133
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "DATE",
+      "bbox": [
+        508,
+        80,
+        533,
+        88
+      ]
+    },
+    "answer": {
+      "text": "11/1381",
+      "bbox": [
+        543,
+        90,
+        618,
+        103
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "LRC COMPOUND CODE",
+      "bbox": [
+        65,
+        81,
+        154,
+        91
+      ]
+    },
+    "answer": {
+      "text": "A32",
+      "bbox": [
+        174,
+        91,
+        204,
+        103
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "MOLECULAR WEIGHT",
+      "bbox": [
+        66,
+        110,
+        150,
+        118
+      ]
+    },
+    "answer": {
+      "text": "200. 29",
+      "bbox": [
+        159,
+        121,
+        213,
+        133
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        248,
+        219,
+        299,
+        227
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        244,
+        244,
+        299,
+        251
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        246,
+        274,
+        299,
+        282
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANCED",
+      "bbox": [
+        248,
+        302,
+        299,
+        310
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        248,
+        331,
+        301,
+        339
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        248,
+        357,
+        299,
+        365
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        352,
+        219,
+        418,
+        227
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        352,
+        244,
+        418,
+        251
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        352,
+        274,
+        418,
+        281
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        354,
+        302,
+        417,
+        310
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        354,
+        331,
+        420,
+        339
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITHOUT HEATING",
+      "bbox": [
+        277,
+        199,
+        351,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        354,
+        357,
+        420,
+        364
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        505,
+        218,
+        555,
+        228
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        505,
+        243,
+        555,
+        253
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        502,
+        274,
+        555,
+        282
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        503,
+        302,
+        554,
+        310
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        503,
+        331,
+        554,
+        339
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        503,
+        355,
+        556,
+        363
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        613,
+        218,
+        679,
+        228
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        611,
+        244,
+        679,
+        252
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        610,
+        272,
+        680,
+        280
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        611,
+        302,
+        677,
+        310
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        611,
+        329,
+        677,
+        339
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "WITH HEATING (80C)",
+      "bbox": [
+        532,
+        199,
+        618,
+        207
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        610,
+        357,
+        680,
+        364
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "1) WATER or BRINE:",
+      "bbox": [
+        85,
+        218,
+        163,
+        228
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        248,
+        219,
+        299,
+        227
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "1) WATER or BRINE:",
+      "bbox": [
+        85,
+        218,
+        163,
+        228
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        352,
+        219,
+        418,
+        227
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "1) WATER or BRINE:",
+      "bbox": [
+        85,
+        218,
+        163,
+        228
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        505,
+        218,
+        555,
+        228
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "1) WATER or BRINE:",
+      "bbox": [
+        85,
+        218,
+        163,
+        228
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        505,
+        243,
+        555,
+        253
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "1) WATER or BRINE:",
+      "bbox": [
+        85,
+        218,
+        163,
+        228
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        613,
+        218,
+        679,
+        228
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "2) 5% HCL",
+      "bbox": [
+        88,
+        244,
+        128,
+        254
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        244,
+        244,
+        299,
+        251
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "2) 5% HCL",
+      "bbox": [
+        88,
+        244,
+        128,
+        254
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        352,
+        244,
+        418,
+        251
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "2) 5% HCL",
+      "bbox": [
+        88,
+        244,
+        128,
+        254
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        505,
+        243,
+        555,
+        253
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "2) 5% HCL",
+      "bbox": [
+        88,
+        244,
+        128,
+        254
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        611,
+        244,
+        679,
+        252
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "3) 5% NaOH:",
+      "bbox": [
+        88,
+        272,
+        138,
+        280
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        246,
+        274,
+        299,
+        282
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "3) 5% NaOH:",
+      "bbox": [
+        88,
+        272,
+        138,
+        280
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        352,
+        274,
+        418,
+        281
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "3) 5% NaOH:",
+      "bbox": [
+        88,
+        272,
+        138,
+        280
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        502,
+        274,
+        555,
+        282
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "3) 5% NaOH:",
+      "bbox": [
+        88,
+        272,
+        138,
+        280
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        610,
+        272,
+        680,
+        280
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "4) ALCOHOLS:",
+      "bbox": [
+        88,
+        302,
+        143,
+        311
+      ]
+    },
+    "answer": {
+      "text": "UNCHANCED",
+      "bbox": [
+        248,
+        302,
+        299,
+        310
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "4) ALCOHOLS:",
+      "bbox": [
+        88,
+        302,
+        143,
+        311
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        354,
+        302,
+        417,
+        310
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "4) ALCOHOLS:",
+      "bbox": [
+        88,
+        302,
+        143,
+        311
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        503,
+        302,
+        554,
+        310
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "4) ALCOHOLS:",
+      "bbox": [
+        88,
+        302,
+        143,
+        311
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        611,
+        302,
+        677,
+        310
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "5) OXYGEN:",
+      "bbox": [
+        88,
+        331,
+        134,
+        339
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        248,
+        331,
+        301,
+        339
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "5) OXYGEN:",
+      "bbox": [
+        88,
+        331,
+        134,
+        339
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        354,
+        331,
+        420,
+        339
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "5) OXYGEN:",
+      "bbox": [
+        88,
+        331,
+        134,
+        339
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        503,
+        331,
+        554,
+        339
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "5) OXYGEN:",
+      "bbox": [
+        88,
+        331,
+        134,
+        339
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        611,
+        329,
+        677,
+        339
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "6) LIGHT:",
+      "bbox": [
+        88,
+        357,
+        125,
+        365
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        248,
+        357,
+        299,
+        365
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "6) LIGHT:",
+      "bbox": [
+        88,
+        357,
+        125,
+        365
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        354,
+        357,
+        420,
+        364
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "6) LIGHT:",
+      "bbox": [
+        88,
+        357,
+        125,
+        365
+      ]
+    },
+    "answer": {
+      "text": "UNCHANGED",
+      "bbox": [
+        503,
+        355,
+        556,
+        363
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "6) LIGHT:",
+      "bbox": [
+        88,
+        357,
+        125,
+        365
+      ]
+    },
+    "answer": {
+      "text": "DECOMPOSITION",
+      "bbox": [
+        610,
+        357,
+        680,
+        364
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "STORAGE RECOMMENDATIONS",
+      "bbox": [
+        68,
+        510,
+        188,
+        520
+      ]
+    },
+    "answer": {
+      "text": "NORMAL STORAGE",
+      "bbox": [
+        307,
+        510,
+        382,
+        520
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND SENSITIVE TO",
+      "bbox": [
+        70,
+        538,
+        172,
+        548
+      ]
+    },
+    "answer": {
+      "text": "AIR",
+      "bbox": [
+        81,
+        553,
+        94,
+        561
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND SENSITIVE TO",
+      "bbox": [
+        70,
+        538,
+        172,
+        548
+      ]
+    },
+    "answer": {
+      "text": "HEAT",
+      "bbox": [
+        128,
+        551,
+        148,
+        561
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND SENSITIVE TO",
+      "bbox": [
+        70,
+        538,
+        172,
+        548
+      ]
+    },
+    "answer": {
+      "text": "LIGHT",
+      "bbox": [
+        186,
+        553,
+        208,
+        561
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND SENSITIVE TO",
+      "bbox": [
+        70,
+        538,
+        172,
+        548
+      ]
+    },
+    "answer": {
+      "text": "MOISTURE",
+      "bbox": [
+        243,
+        553,
+        286,
+        561
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND SENSITIVE TO",
+      "bbox": [
+        70,
+        538,
+        172,
+        548
+      ]
+    },
+    "answer": {
+      "text": "OTHER",
+      "bbox": [
+        321,
+        551,
+        348,
+        561
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "LORILLARD RESEARCH CENTER",
+      "bbox": [
+        71,
+        882,
+        195,
+        892
+      ]
+    },
+    "answer": {
+      "text": "Acute Cardiovascular- Mix 2 mg A32 with 0.2 ml 80% propylene glycol and grind lightly. Add 0.8 ml saline solution. A32 is a suspension in this mixture at room temperature. Reference OR 72- 152.",
+      "bbox": [
+        96,
+        754,
+        724,
+        798
+      ]
+    }
+  }
+]

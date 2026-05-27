@@ -1,0 +1,82 @@
+[
+  {
+    "question": {
+      "text": "ACUTE TOXICITY IN MICE",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "COMPOUND",
+      "bbox": null
+    },
+    "answer": {
+      "text": "3-Hydroxy-3-methylbutanoic acid (Tur 13)",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "SOURCE",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Lorillard - Organic Chemistry",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "WEGHT RANGE",
+      "bbox": null
+    },
+    "answer": {
+      "text": "(OM source Camm Research",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "",
+      "bbox": null
+    },
+    "answer": {
+      "text": "cowowno venice",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "",
+      "bbox": null
+    },
+    "answer": {
+      "text": "concourse",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "mrs",
+      "bbox": null
+    },
+    "answer": {
+      "text": "_3.5 (3.1 to 3.9) q/kg",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "",
+      "bbox": null
+    },
+    "answer": {
+      "text": "concwson THIS compound appears to act _as_a CNS depressant with symptons of respiratory depression, constriction of blood vessels, and in-activity. Survivors recovered in 48 hours. The recommended safe dose for a single trial by inhalation in man is 0.3 mg.",
+      "bbox": null
+    }
+  }
+]

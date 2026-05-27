@@ -1,0 +1,162 @@
+[
+  {
+    "question": {
+      "text": "Suggestion:",
+      "bbox": [
+        95,
+        355,
+        169,
+        370
+      ]
+    },
+    "answer": {
+      "text": "Discontinue coal retention analyses on licensee submitted product samples (Note : Coal Retention testing is not performed by most licensees. Other B&W physical measurements as ends stability and inspection for soft spots in ciparettes are thought to be sufficient measures to assure cigarette physical integrity. The proposed action will increase laboratory productivity . )",
+      "bbox": [
+        190,
+        346,
+        594,
+        447
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Date:",
+      "bbox": [
+        482,
+        268,
+        518,
+        282
+      ]
+    },
+    "answer": {
+      "text": "9/ 3/ 92",
+      "bbox": [
+        543,
+        264,
+        590,
+        279
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Name / Phone Ext. :",
+      "bbox": [
+        89,
+        272,
+        204,
+        289
+      ]
+    },
+    "answer": {
+      "text": "M. Hamann P. Harper, P. Martinez",
+      "bbox": [
+        215,
+        271,
+        451,
+        287
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "R&D Group:",
+      "bbox": [
+        420,
+        310,
+        491,
+        323
+      ]
+    },
+    "answer": {
+      "text": "Licensee",
+      "bbox": [
+        511,
+        309,
+        570,
+        323
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Supervisor / Manager",
+      "bbox": [
+        91,
+        316,
+        218,
+        331
+      ]
+    },
+    "answer": {
+      "text": "J. S. Wigand",
+      "bbox": [
+        236,
+        313,
+        327,
+        327
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Suggested Solutions (s) :",
+      "bbox": [
+        95,
+        486,
+        250,
+        504
+      ]
+    },
+    "answer": {
+      "text": "Delete coal retention from the list of standard analyses performed on licensee submitted product samples. Special requests for coal retention testing could still be submitted on an exception basis.",
+      "bbox": [
+        263,
+        483,
+        593,
+        553
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Manager Comments:",
+      "bbox": [
+        98,
+        651,
+        211,
+        665
+      ]
+    },
+    "answer": {
+      "text": "Manager, please contact suggester and forward",
+      "bbox": [
+        232,
+        644,
+        547,
+        662
+      ]
+    }
+  },
+  {
+    "question": {
+      "text": "Manager Comments:",
+      "bbox": [
+        98,
+        651,
+        211,
+        665
+      ]
+    },
+    "answer": {
+      "text": "comments to the Quality Council.",
+      "bbox": [
+        99,
+        662,
+        323,
+        677
+      ]
+    }
+  }
+]

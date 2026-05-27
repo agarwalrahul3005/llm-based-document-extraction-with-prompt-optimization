@@ -1,0 +1,232 @@
+[
+  {
+    "question": {
+      "text": "Date",
+      "bbox": null
+    },
+    "answer": {
+      "text": "September 21, 19/6",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Sample No.",
+      "bbox": null
+    },
+    "answer": {
+      "text": "6030",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Type of Cigarette",
+      "bbox": null
+    },
+    "answer": {
+      "text": "\u00a75 mm Pilter",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Batch Size",
+      "bbox": null
+    },
+    "answer": {
+      "text": "50 lbs.",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "original Request Made By",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Dr. A. W. Spears on September 21, 1976",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Sample Specifications Written By",
+      "bbox": null
+    },
+    "answer": {
+      "text": "\u00a5 Routh",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Maker",
+      "bbox": null
+    },
+    "answer": {
+      "text": "AMF Kind 20 mm True plastic rod",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Length",
+      "bbox": null
+    },
+    "answer": {
+      "text": "85 mm \u2014\u2014 Circumference 25.0 Process.",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Weight",
+      "bbox": null
+    },
+    "answer": {
+      "text": "_To be det. (603 ma tobacco) Rod Length =",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Pressure Drop",
+      "bbox": null
+    },
+    "answer": {
+      "text": "_To be determined Pressure Drop,",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Filter Length",
+      "bbox": null
+    },
+    "answer": {
+      "text": "20mm Circunference",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Paper",
+      "bbox": null
+    },
+    "answer": {
+      "text": "554 ) Weight",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Tipping Paper",
+      "bbox": null
+    },
+    "answer": {
+      "text": "30_im plasticizer",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Labels",
+      "bbox": null
+    },
+    "answer": {
+      "text": "ite Tobacco Blend Ammons",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Closuri Blue Filter Production",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Wicker",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Responsibi.",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Labels. ite Tobacco Blend Ammons",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Requirements Special Requirements",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Laboratory. 3 rtons Spray 50 lbs. tobacco with solution of Other, 20,000 cigts.",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Laboratory Analysis",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Smoke Analysis",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "PMO Analysis",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Reports",
+      "bbox": null
+    },
+    "answer": {
+      "text": "Written by PR. D. Schickedantz\nOriginal to Dr, Av W. Spear\nCopies to_ pra FP Js\nDr. i. J.",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Maker",
+      "bbox": null
+    },
+    "answer": {
+      "text": "",
+      "bbox": null
+    }
+  },
+  {
+    "question": {
+      "text": "Original",
+      "bbox": null
+    },
+    "answer": {
+      "text": "to Dr, Av W. Spear",
+      "bbox": null
+    }
+  }
+]
