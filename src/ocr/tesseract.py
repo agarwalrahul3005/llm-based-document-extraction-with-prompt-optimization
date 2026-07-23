@@ -7,11 +7,11 @@ from pathlib import Path
 print(pytesseract.get_tesseract_version())
 
 # IMPORTANT: Set this if not in PATH
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+# pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 ROOT = Path(__file__).resolve().parents[2]
-input_dir = ROOT / "data" / "raw"
-output_dir = ROOT / "data" / "ocr_tesseract"
+input_dir = ROOT / "data" / "training_data" / "images"
+output_dir = ROOT / "data" / "ocr" / "tesseract"
 
 os.makedirs(output_dir, exist_ok=True)
 

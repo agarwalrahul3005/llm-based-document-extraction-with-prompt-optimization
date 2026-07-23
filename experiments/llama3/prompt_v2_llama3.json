@@ -1,0 +1,8 @@
+{
+  "experiment": "V2",
+  "model": "llama3",
+  "framework": "DSPy",
+  "ocr": "Tesseract",
+  "representation": "Line + Bounding Box",
+  "prompt": "Prompt V2"
+}

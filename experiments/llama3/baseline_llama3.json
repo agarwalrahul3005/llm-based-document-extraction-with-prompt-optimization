@@ -1,0 +1,8 @@
+{
+  "experiment": "Baseline V1",
+  "model": "llama3",
+  "framework": "DSPy",
+  "ocr": "Tesseract",
+  "representation": "Line + Bounding Box",
+  "prompt": "Baseline Prompt V1"
+}
