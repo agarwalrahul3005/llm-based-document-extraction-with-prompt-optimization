@@ -1,0 +1,28 @@
+{
+  "extract": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "You are an expert in document understanding.\nThe input is an OCR document represented as text lines.\nEvery line contains:line text, bounding box, words\n\nYour task is to extract every question-answer pair.\n\nRules\n1. Use only text present in the OCR.\n2. Never invent text.\n3. Preserve OCR spelling.\n4. Extract every pair.\n5. Labels usually appear left of values.\n6. Values may appear below labels.\n7. Return ONLY valid JSON.\n\nOutput format\n[\n    {\n        \"question\":\"...\",\n        \"answer\":\"...\"\n    }\n] ",
+      "fields": [
+        {
+          "prefix": "Document:",
+          "description": "OCR document with layout information."
+        },
+        {
+          "prefix": "Response:",
+          "description": "JSON array containing question-answer pairs."
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.10",
+      "dspy": "3.2.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

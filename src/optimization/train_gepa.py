@@ -44,7 +44,8 @@ print("=" * 80)
 print("Loading training dataset...")
 print("=" * 80)
 
-trainset = load_examples()
+trainset = load_examples("train")
+valset = load_examples("validation")
 
 print(f"Loaded {len(trainset)} training examples\n")
 
@@ -62,11 +63,16 @@ program = FormExtractionModule()
 # ----------------------------------------------------
 # GEPA Optimizer
 # ----------------------------------------------------
-print("=" * 80)
 print("Initializing GEPA...")
 print("=" * 80)
 
-optimizer = dspy.GEPA(metric=extraction_metric, reflection_lm=reflection_lm, max_full_evals=2)
+
+optimizer = dspy.GEPA(
+    metric=extraction_metric,
+    reflection_lm=reflection_lm,
+    max_full_evals=2,
+    num_threads=1
+)
 
 # ----------------------------------------------------
 # Optimize
@@ -75,7 +81,7 @@ print("=" * 80)
 print("Running optimization...")
 print("=" * 80)
 
-optimized_program = optimizer.compile(student=program, trainset=trainset)
+optimized_program = optimizer.compile(student=program, trainset=trainset, valset=valset)
 
 # ----------------------------------------------------
 # Save
@@ -91,7 +97,8 @@ OUTPUT_DIR.mkdir(parents=True,exist_ok=True)
 
 PROGRAM_FILE = OUTPUT_DIR / f"{model_name}_optimized_program.json"
 
-optimized_program.save(PROGRAM_FILE)
+optimized_program.save(str(PROGRAM_FILE))
+# optimized_program.save(PROGRAM_FILE)
 
 print()
 print("=" * 80)

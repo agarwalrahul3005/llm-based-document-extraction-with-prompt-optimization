@@ -1,12 +1,18 @@
 from importlib.resources import files
 import os
 import json
+import argparse
 from pathlib import Path
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--dataset",default="train")
+args = parser.parse_args()
 
 ROOT = Path(__file__).resolve().parents[1]
 
-INPUT_DIR = ROOT / "data" / "training_data" / "annotations"
-OUTPUT_DIR = ROOT / "data" / "ground_truth" / "training"
+INPUT_DIR = ROOT / "data" / "funsd" / args.dataset / "annotations"
+OUTPUT_DIR = ROOT / "data" / "ground_truth" / args.dataset
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 

@@ -11,7 +11,7 @@ print(pytesseract.get_tesseract_version())
 
 ROOT = Path(__file__).resolve().parents[2]
 input_dir = ROOT / "data" / "training_data" / "images"
-output_dir = ROOT / "data" / "ocr" / "tesseract"
+output_dir = ROOT / "data" / "ocr" / "tesseract" / "train"
 
 os.makedirs(output_dir, exist_ok=True)
 
