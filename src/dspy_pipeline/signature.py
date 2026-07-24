@@ -3,46 +3,30 @@ import dspy
 
 class ExtractForm(dspy.Signature):
     """
-    Extract all question-answer pairs from a document.
+        You are an expert in document understanding.
+        The input is an OCR document represented as text lines.
+        Every line contains:line text, bounding box, words
 
-    OCR may contain spelling mistakes.
+        Your task is to extract every question-answer pair.
 
-    Use layout information to determine relationships.
+        Rules
+        1. Use only text present in the OCR.
+        2. Never invent text.
+        3. Preserve OCR spelling.
+        4. Extract every pair.
+        5. Labels usually appear left of values.
+        6. Values may appear below labels.
+        7. Return ONLY valid JSON.
 
-    Return ONLY valid JSON.
-
-    Do not hallucinate.
+        Output format
+        [
+            {
+                "question":"...",
+                "answer":"..."
+            }
+        ] 
     """
 
-    document = dspy.InputField(
-        desc="Document representation with text lines and bounding boxes."
-    )
+    document = dspy.InputField(desc="OCR document with layout information.")
 
-    response = dspy.OutputField(
-        desc="""
-        Return ONLY a JSON array.
-
-        Example:
-
-        [
-        {
-            "question": {
-            "text": "COMPOUND",
-            "bbox": [84,109,136,119]
-            },
-            "answer": {
-            "text": "3-Hydroxy-3-methylbutanoic acid",
-            "bbox": [145,98,507,116]
-            }
-        }
-        ]
-
-        Do not return explanations.
-
-        Do not wrap in markdown.
-
-        Do not return any other field.
-
-        Return ONLY JSON.
-        """
-    )
+    response = dspy.OutputField(desc="JSON array containing question-answer pairs.")

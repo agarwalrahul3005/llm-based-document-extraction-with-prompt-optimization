@@ -2,21 +2,14 @@ import json
 import re
 import dspy
 
-from src.layout.raw_document_builder import RawDocumentBuilder
-from layout.normalized_document_builder import NormalizedDocumentBuilder
+from layout.raw_document_builder import RawDocumentBuilder
 from dspy_pipeline.module import FormExtractionModule
-from prompting.prompt_factory import PromptFactory
 
 
 class DSPyExtractor:
 
     def __init__(self, prompt_name="baseline"):
-
         self.builder = RawDocumentBuilder()
-        # self.builder = NormalizedDocumentBuilder()
-        self.prompt_builder = PromptFactory.create(prompt_name)
-
-
         self.module = FormExtractionModule()
 
     def parse_json(self, text):
@@ -32,34 +25,22 @@ class DSPyExtractor:
         # -------------------------------------------------
         # Case 2: Extract JSON array from response
         # -------------------------------------------------
-        array_match = re.search(
-            r"\[[\s\S]*\]",
-            text
-        )
+        array_match = re.search(r"\[[\s\S]*\]", text)
 
         if array_match:
-
             try:
-                return json.loads(
-                    array_match.group()
-                )
+                return json.loads(array_match.group())
             except Exception:
                 pass
 
         # -------------------------------------------------
         # Case 3: Extract JSON object from response
         # -------------------------------------------------
-        object_match = re.search(
-            r"\{[\s\S]*\}",
-            text
-        )
+        object_match = re.search(r"\{[\s\S]*\}", text)
 
         if object_match:
-
             try:
-                return json.loads(
-                    object_match.group()
-                )
+                return json.loads(object_match.group())
             except Exception:
                 pass
 
@@ -71,25 +52,8 @@ class DSPyExtractor:
         return []
 
     def extract(self, ocr_words, filename=""):
-
-        # -------------------------------------------------
-        # Build structured document
-        # -------------------------------------------------
-        document = self.builder.build(
-            ocr_words
-        )
-
-        # -------------------------------------------------
-        # Build prompt
-        # -------------------------------------------------
-        prompt = self.prompt_builder.build(
-            document
-        )
-
-        # -------------------------------------------------
-        # Call DSPy module
-        # -------------------------------------------------
-
+        document = self.builder.build(ocr_words)
+        prompt = document.to_prompt(include_words=False)
         prediction = self.module(document=prompt)
 
 
@@ -100,16 +64,7 @@ class DSPyExtractor:
         print(f"FILE : {filename}")
         print("=" * 100)
         print(prediction.response)
-        print("=" * 100 + "\n")
-        # print(dspy.inspect_history())
-        # print("=" * 100 + "\n")
-
-        # -------------------------------------------------
-        # Parse model response
-        # -------------------------------------------------
-        
-        # parsed_prediction = self.parse_json(prediction.response)
-        # return parsed_prediction
+        print()
     
         return {
             "prompt": prompt,

@@ -9,6 +9,6 @@ MODELS = {
         "ollama_name": "qwen2.5:7b"
     },
     "gemma3": {
-        "ollama_name": "gemma3:12b"
+        "ollama_name": "gemma3:4b"
     }
 }

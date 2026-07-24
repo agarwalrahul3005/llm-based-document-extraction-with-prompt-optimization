@@ -57,20 +57,19 @@ class Document:
 
     #     return "\n\n".join(sections)
 
-    def to_prompt(self):
-
+    def to_prompt(self, include_words=False):
         output = []
-
         for index, line in enumerate(self.lines):
-            output.append(f"========== Line {index+1} ==========")
+            output.append(f"=== Line {index+1} ===")
             output.append(f"Text : {line.text}")
             output.append(f"Line BBox : {line.bbox}")
 
-            output.append("Words:")
-            for word in line.words:
-                output.append(
-                    f'   "{word.text}" -> {word.bbox}'
-                )
+            if include_words:
+                output.append("Words:")
+                for word in line.words:
+                    output.append(
+                        f'   "{word.text}" -> {word.bbox}'
+                    )
 
             output.append("")
 

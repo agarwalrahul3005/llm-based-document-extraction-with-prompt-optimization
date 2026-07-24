@@ -1,8 +1,9 @@
+from importlib.resources import files
 import os
 import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 
 INPUT_DIR = ROOT / "data" / "training_data" / "annotations"
 OUTPUT_DIR = ROOT / "data" / "ground_truth" / "training"
@@ -60,15 +61,20 @@ def convert_file(json_path):
             if not a_text or not a_box:
                 continue
 
+            # pair = {
+            #     "question": {
+            #         "text": q_text,
+            #         "bbox": q_box
+            #     },
+            #     "answer": {
+            #         "text": a_text,
+            #         "bbox": a_box
+            #     }
+            # }
+
             pair = {
-                "question": {
-                    "text": q_text,
-                    "bbox": q_box
-                },
-                "answer": {
-                    "text": a_text,
-                    "bbox": a_box
-                }
+                "question": q_text,
+                "answer": a_text
             }
 
             pairs.append(pair)
@@ -78,6 +84,8 @@ def convert_file(json_path):
 
 def main():
     files = list(INPUT_DIR.glob("*.json"))
+    print(INPUT_DIR)
+    print(f"Found {len(files)} files")
     count = 0
 
     for file in files:
