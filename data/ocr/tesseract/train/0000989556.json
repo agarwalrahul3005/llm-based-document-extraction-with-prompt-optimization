@@ -7,7 +7,8 @@
         37,
         558,
         46
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "1",
@@ -16,7 +17,8 @@
         36,
         571,
         44
-      ]
+      ],
+      "confidence": 86.0
     },
     {
       "text": "of",
@@ -25,7 +27,8 @@
         37,
         593,
         45
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "10",
@@ -34,7 +37,8 @@
         37,
         614,
         45
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "RESTRICTED",
@@ -43,34 +47,18 @@
         49,
         420,
         57
-      ]
+      ],
+      "confidence": 95.0
     },
     {
-      "text": "BROWY",
-      "bbox": [
-        211,
-        76,
-        246,
-        83
-      ]
-    },
-    {
-      "text": "6",
+      "text": "&",
       "bbox": [
         254,
         76,
         260,
         83
-      ]
-    },
-    {
-      "text": "WILLIAMSON",
-      "bbox": [
-        267,
-        76,
-        338,
-        84
-      ]
+      ],
+      "confidence": 62.0
     },
     {
       "text": "INTERNATIONAL",
@@ -79,7 +67,8 @@
         77,
         437,
         85
-      ]
+      ],
+      "confidence": 49.0
     },
     {
       "text": "TOBACCO",
@@ -88,7 +77,8 @@
         77,
         493,
         85
-      ]
+      ],
+      "confidence": 92.0
     },
     {
       "text": "PRODUCT",
@@ -97,16 +87,18 @@
         103,
         328,
         111
-      ]
+      ],
+      "confidence": 91.0
     },
     {
-      "text": "SPECIFICATION",
+      "text": "SPECIPICATION",
       "bbox": [
         336,
         103,
         426,
         111
-      ]
+      ],
+      "confidence": 83.0
     },
     {
       "text": "Brand:",
@@ -115,34 +107,18 @@
         129,
         117,
         137
-      ]
+      ],
+      "confidence": 85.0
     },
     {
-      "text": "__puoENrx",
-      "bbox": [
-        147,
-        130,
-        196,
-        138
-      ]
-    },
-    {
-      "text": "Conpany:",
+      "text": "Company?",
       "bbox": [
         352,
         131,
-        401,
+        406,
         141
-      ]
-    },
-    {
-      "text": "_B.A.T.",
-      "bbox": [
-        423,
-        131,
-        463,
-        139
-      ]
+      ],
+      "confidence": 67.0
     },
     {
       "text": "CYPRUS",
@@ -151,61 +127,58 @@
         132,
         514,
         139
-      ]
+      ],
+      "confidence": 66.0
     },
     {
-      "text": "style:",
+      "text": "Style:",
       "bbox": [
         77,
         142,
         117,
         152
-      ]
+      ],
+      "confidence": 66.0
     },
     {
-      "text": "Hus",
+      "text": "\u201caug",
       "bbox": [
-        148,
-        144,
-        181,
-        151
-      ]
+        129,
+        136,
+        169,
+        164
+      ],
+      "confidence": 39.0
     },
     {
-      "text": "-",
+      "text": "=",
       "bbox": [
         175,
-        132,
-        183,
-        160
-      ]
+        136,
+        181,
+        164
+      ],
+      "confidence": 48.0
     },
     {
-      "text": "KE",
+      "text": "RS",
       "bbox": [
-        190,
+        125,
         144,
-        203,
-        151
-      ]
+        331,
+        156
+      ],
+      "confidence": 40.0
     },
     {
-      "text": "Country:",
+      "text": "country:",
       "bbox": [
         352,
         145,
         405,
         154
-      ]
-    },
-    {
-      "text": "\u201ccyPRUS",
-      "bbox": [
-        422,
-        145,
-        464,
-        153
-      ]
+      ],
+      "confidence": 40.0
     },
     {
       "text": "Licensee",
@@ -214,43 +187,28 @@
         157,
         133,
         165
-      ]
+      ],
+      "confidence": 95.0
     },
     {
-      "text": "Rel,",
+      "text": "Ref.",
       "bbox": [
         140,
         158,
         166,
         166
-      ]
+      ],
+      "confidence": 68.0
     },
     {
-      "text": "Now:",
-      "bbox": [
-        176,
-        159,
-        201,
-        166
-      ]
-    },
-    {
-      "text": "Markel",
-      "bbox": [
-        352,
-        158,
-        386,
-        166
-      ]
-    },
-    {
-      "text": "Place",
+      "text": "Piace",
       "bbox": [
         352,
         173,
         387,
         181
-      ]
+      ],
+      "confidence": 60.0
     },
     {
       "text": "of",
@@ -259,34 +217,28 @@
         173,
         407,
         181
-      ]
-    },
-    {
-      "text": "Manufacture:",
-      "bbox": [
-        415,
-        173,
-        498,
-        181
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "NICOSIA",
       "bbox": [
-        514,
+        506,
         174,
-        564,
-        182
-      ]
+        636,
+        185
+      ],
+      "confidence": 58.0
     },
     {
-      "text": "CIGARETTE",
+      "text": "CAGARETTE",
       "bbox": [
         75,
         214,
         139,
         222
-      ]
+      ],
+      "confidence": 42.0
     },
     {
       "text": "MAKING",
@@ -295,7 +247,8 @@
         214,
         188,
         222
-      ]
+      ],
+      "confidence": 89.0
     },
     {
       "text": "Physical",
@@ -304,7 +257,8 @@
         241,
         132,
         253
-      ]
+      ],
+      "confidence": 68.0
     },
     {
       "text": "Characteristics",
@@ -313,16 +267,18 @@
         241,
         245,
         250
-      ]
+      ],
+      "confidence": 85.0
     },
     {
-      "text": "Weights",
+      "text": "weights",
       "bbox": [
-        408,
+        407,
         242,
         457,
         254
-      ]
+      ],
+      "confidence": 63.0
     },
     {
       "text": "overall",
@@ -331,7 +287,8 @@
         268,
         125,
         277
-      ]
+      ],
+      "confidence": 77.0
     },
     {
       "text": "cigarette",
@@ -340,7 +297,8 @@
         269,
         195,
         279
-      ]
+      ],
+      "confidence": 81.0
     },
     {
       "text": "Length",
@@ -349,7 +307,8 @@
         269,
         244,
         279
-      ]
+      ],
+      "confidence": 78.0
     },
     {
       "text": "Total",
@@ -358,7 +317,8 @@
         270,
         442,
         278
-      ]
+      ],
+      "confidence": 73.0
     },
     {
       "text": "Cigt.",
@@ -367,7 +327,8 @@
         269,
         484,
         280
-      ]
+      ],
+      "confidence": 78.0
     },
     {
       "text": "we.",
@@ -376,34 +337,38 @@
         270,
         512,
         278
-      ]
+      ],
+      "confidence": 84.0
     },
     {
-      "text": "978",
+      "text": "974",
       "bbox": [
         557,
         270,
         577,
         278
-      ]
+      ],
+      "confidence": 76.0
     },
     {
-      "text": "mq",
+      "text": "ro",
       "bbox": [
         621,
         272,
         634,
         280
-      ]
+      ],
+      "confidence": 41.0
     },
     {
-      "text": "Tobacco",
+      "text": "\u2018Tobacco",
       "bbox": [
         75,
         281,
         125,
         290
-      ]
+      ],
+      "confidence": 49.0
     },
     {
       "text": "Rod",
@@ -412,7 +377,8 @@
         282,
         153,
         290
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "Length",
@@ -421,7 +387,18 @@
         282,
         202,
         292
-      ]
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "64am",
+      "bbox": [
+        352,
+        283,
+        394,
+        291
+      ],
+      "confidence": 37.0
     },
     {
       "text": "Filter",
@@ -430,7 +407,8 @@
         296,
         118,
         304
-      ]
+      ],
+      "confidence": 92.0
     },
     {
       "text": "Plug",
@@ -439,7 +417,8 @@
         296,
         153,
         306
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "Lengtn",
@@ -448,34 +427,48 @@
         297,
         202,
         306
-      ]
+      ],
+      "confidence": 84.0
     },
     {
-      "text": "Ret",
+      "text": "20mm",
+      "bbox": [
+        352,
+        296,
+        393,
+        305
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "wet",
       "bbox": [
         408,
         297,
         428,
         305
-      ]
+      ],
+      "confidence": 72.0
     },
     {
-      "text": "Wet",
+      "text": "Net",
       "bbox": [
         436,
         298,
         457,
         305
-      ]
+      ],
+      "confidence": 96.0
     },
     {
-      "text": "Tobacco",
+      "text": "tobacco",
       "bbox": [
         465,
         297,
         514,
         306
-      ]
+      ],
+      "confidence": 37.0
     },
     {
       "text": "749",
@@ -484,16 +477,18 @@
         297,
         577,
         306
-      ]
+      ],
+      "confidence": 73.0
     },
     {
-      "text": "ng",
+      "text": "Ag",
       "bbox": [
         621,
         300,
         634,
         308
-      ]
+      ],
+      "confidence": 40.0
     },
     {
       "text": "Filter",
@@ -502,7 +497,8 @@
         308,
         117,
         317
-      ]
+      ],
+      "confidence": 87.0
     },
     {
       "text": "Plug",
@@ -511,7 +507,8 @@
         309,
         153,
         320
-      ]
+      ],
+      "confidence": 91.0
     },
     {
       "text": "Pressure",
@@ -520,25 +517,28 @@
         310,
         217,
         318
-      ]
+      ],
+      "confidence": 43.0
     },
     {
-      "text": "prop",
+      "text": "Drop",
       "bbox": [
         224,
         311,
         252,
         320
-      ]
+      ],
+      "confidence": 89.0
     },
     {
-      "text": "(unencap.)",
+      "text": "{unencap,)",
       "bbox": [
         260,
         310,
         328,
         320
-      ]
+      ],
+      "confidence": 33.0
     },
     {
       "text": "Filter",
@@ -547,7 +547,8 @@
         323,
         117,
         332
-      ]
+      ],
+      "confidence": 89.0
     },
     {
       "text": "Plug",
@@ -556,16 +557,8 @@
         323,
         153,
         333
-      ]
-    },
-    {
-      "text": "Pressure",
-      "bbox": [
-        160,
-        324,
-        217,
-        332
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "Drop",
@@ -574,232 +567,28 @@
         324,
         252,
         333
-      ]
+      ],
+      "confidence": 74.0
     },
     {
-      "text": "(encap.)",
+      "text": "(encap.]",
       "bbox": [
         261,
         324,
         313,
         334
-      ]
+      ],
+      "confidence": 52.0
     },
     {
-      "text": "Cigarette",
-      "bbox": [
-        75,
-        337,
-        139,
-        347
-      ]
-    },
-    {
-      "text": "Circumference",
-      "bbox": [
-        145,
-        338,
-        238,
-        346
-      ]
-    },
-    {
-      "text": "total",
-      "bbox": [
-        75,
-        350,
-        110,
-        358
-      ]
-    },
-    {
-      "text": "Pressure",
-      "bbox": [
-        117,
-        350,
-        174,
-        358
-      ]
-    },
-    {
-      "text": "Drop",
-      "bbox": [
-        182,
-        351,
-        210,
-        361
-      ]
-    },
-    {
-      "text": "(unencap.)",
-      "bbox": [
-        218,
-        350,
-        285,
-        361
-      ]
-    },
-    {
-      "text": "Total",
-      "bbox": [
-        75,
-        363,
-        110,
-        372
-      ]
-    },
-    {
-      "text": "Pressure",
-      "bbox": [
-        117,
-        364,
-        174,
-        372
-      ]
-    },
-    {
-      "text": "Drop",
-      "bbox": [
-        181,
-        365,
-        210,
-        375
-      ]
-    },
-    {
-      "text": "(encap.)",
-      "bbox": [
-        218,
-        365,
-        271,
-        375
-      ]
-    },
-    {
-      "text": "\u2018Tipping",
-      "bbox": [
-        75,
-        378,
-        125,
-        388
-      ]
-    },
-    {
-      "text": "Length",
-      "bbox": [
-        132,
-        378,
-        173,
-        388
-      ]
-    },
-    {
-      "text": "Print",
-      "bbox": [
-        75,
-        392,
-        110,
-        400
-      ]
-    },
-    {
-      "text": "Position",
-      "bbox": [
-        117,
-        392,
-        173,
-        400
-      ]
-    },
-    {
-      "text": "(from",
-      "bbox": [
-        183,
-        392,
-        217,
-        401
-      ]
-    },
-    {
-      "text": "filter",
-      "bbox": [
-        224,
-        392,
-        265,
-        401
-      ]
-    },
-    {
-      "text": "end)",
-      "bbox": [
-        273,
-        392,
-        299,
-        402
-      ]
-    },
-    {
-      "text": "Moisture",
-      "bbox": [
-        75,
-        406,
-        132,
-        414
-      ]
-    },
-    {
-      "text": "Content",
-      "bbox": [
-        139,
-        406,
-        187,
-        414
-      ]
-    },
-    {
-      "text": "(ex-catcher)",
-      "bbox": [
-        197,
-        406,
-        278,
-        415
-      ]
-    },
-    {
-      "text": "Filter",
-      "bbox": [
-        75,
-        420,
-        117,
-        428
-      ]
-    },
-    {
-      "text": "ventilation",
-      "bbox": [
-        124,
-        420,
-        202,
-        428
-      ]
-    },
-    {
-      "text": "Rate",
-      "bbox": [
-        209,
-        421,
-        237,
-        429
-      ]
-    },
-    {
-      "text": "Net",
+      "text": "ket",
       "bbox": [
         408,
         324,
         428,
         332
-      ]
+      ],
+      "confidence": 69.0
     },
     {
       "text": "Tob.",
@@ -808,7 +597,8 @@
         324,
         462,
         332
-      ]
+      ],
+      "confidence": 91.0
     },
     {
       "text": "Rod",
@@ -817,7 +607,8 @@
         324,
         492,
         332
-      ]
+      ],
+      "confidence": 78.0
     },
     {
       "text": "Density",
@@ -826,43 +617,328 @@
         324,
         549,
         334
-      ]
+      ],
+      "confidence": 78.0
     },
     {
-      "text": "245",
+      "text": "285",
       "bbox": [
         557,
         324,
         576,
         332
-      ]
+      ],
+      "confidence": 71.0
     },
     {
-      "text": "_n9/cc",
+      "text": "_ng/ce",
       "bbox": [
         599,
         325,
         634,
         335
-      ]
+      ],
+      "confidence": 62.0
     },
     {
-      "text": "Tippin",
+      "text": "Cigarette",
+      "bbox": [
+        75,
+        337,
+        139,
+        347
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Circumference",
+      "bbox": [
+        145,
+        338,
+        238,
+        346
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "otal",
+      "bbox": [
+        75,
+        350,
+        110,
+        358
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Pressure",
+      "bbox": [
+        117,
+        350,
+        174,
+        358
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Drop",
+      "bbox": [
+        182,
+        351,
+        210,
+        361
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "(unencap.)",
+      "bbox": [
+        218,
+        350,
+        285,
+        361
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "Total",
+      "bbox": [
+        75,
+        363,
+        110,
+        372
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Pressure",
+      "bbox": [
+        117,
+        364,
+        174,
+        372
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Drop",
+      "bbox": [
+        181,
+        365,
+        210,
+        375
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "(encap.)",
+      "bbox": [
+        218,
+        365,
+        271,
+        375
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "\u2018tipping",
+      "bbox": [
+        75,
+        378,
+        125,
+        388
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Length",
+      "bbox": [
+        132,
+        378,
+        173,
+        388
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "25",
+      "bbox": [
+        352,
+        379,
+        363,
+        387
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "an",
+      "bbox": [
+        379,
+        381,
+        393,
+        387
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Print",
+      "bbox": [
+        75,
+        392,
+        110,
+        400
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Position",
+      "bbox": [
+        117,
+        392,
+        173,
+        400
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "(from",
+      "bbox": [
+        183,
+        392,
+        217,
+        401
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "fitter",
+      "bbox": [
+        224,
+        392,
+        265,
+        401
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "end)",
+      "bbox": [
+        273,
+        392,
+        299,
+        402
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "27m",
+      "bbox": [
+        351,
+        393,
+        393,
+        401
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Moisture",
+      "bbox": [
+        75,
+        406,
+        132,
+        414
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Content",
+      "bbox": [
+        139,
+        406,
+        187,
+        414
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "cher)",
+      "bbox": [
+        246,
+        396,
+        278,
+        424
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Tee",
+      "bbox": [
+        345,
+        406,
+        385,
+        415
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Ventilation",
+      "bbox": [
+        124,
+        420,
+        202,
+        428
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Rate",
+      "bbox": [
+        209,
+        421,
+        237,
+        429
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Mae",
+      "bbox": [
+        351,
+        421,
+        385,
+        429
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Tipping",
       "bbox": [
         75,
         449,
-        117,
-        456
-      ]
+        125,
+        459
+      ],
+      "confidence": 90.0
     },
     {
-      "text": "ing",
+      "text": "and",
       "bbox": [
-        190,
+        132,
         448,
-        202,
+        152,
         456
-      ]
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Tipping",
+      "bbox": [
+        160,
+        448,
+        209,
+        460
+      ],
+      "confidence": 86.0
     },
     {
       "text": "Application",
@@ -870,17 +946,19 @@
         216,
         448,
         293,
-        456
-      ]
+        460
+      ],
+      "confidence": 65.0
     },
     {
-      "text": "Tipping",
+      "text": "Dipping",
       "bbox": [
         75,
         475,
         124,
         487
-      ]
+      ],
+      "confidence": 70.0
     },
     {
       "text": "Paper:",
@@ -889,61 +967,28 @@
         475,
         171,
         487
-      ]
+      ],
+      "confidence": 93.0
     },
     {
-      "text": "Adhesive:",
-      "bbox": [
-        378,
-        475,
-        440,
-        484
-      ]
-    },
-    {
-      "text": "Supplier(s)",
+      "text": "Buppliet(s)",
       "bbox": [
         75,
         489,
         150,
         499
-      ]
+      ],
+      "confidence": 64.0
     },
     {
-      "text": "Ecusta",
-      "bbox": [
-        238,
-        491,
-        280,
-        498
-      ]
-    },
-    {
-      "text": "Supplier(s)",
+      "text": "Suppliet(s)",
       "bbox": [
         379,
         490,
         455,
         500
-      ]
-    },
-    {
-      "text": "_",
-      "bbox": [
-        463,
-        480,
-        471,
-        508
-      ]
-    },
-    {
-      "text": "swift,",
-      "bbox": [
-        478,
-        491,
-        513,
-        499
-      ]
+      ],
+      "confidence": 44.0
     },
     {
       "text": "Supplier",
@@ -952,34 +997,28 @@
         503,
         130,
         514
-      ]
+      ],
+      "confidence": 92.0
     },
     {
-      "text": "Code",
-      "bbox": [
-        138,
-        504,
-        166,
-        512
-      ]
-    },
-    {
-      "text": "Nols).",
+      "text": "Nols],",
       "bbox": [
         174,
         504,
         214,
         513
-      ]
+      ],
+      "confidence": 52.0
     },
     {
-      "text": "_E.30639",
+      "text": "__\u00a3.30639",
       "bbox": [
         238,
         504,
         285,
         512
-      ]
+      ],
+      "confidence": 35.0
     },
     {
       "text": "Supplier",
@@ -988,7 +1027,8 @@
         504,
         435,
         514
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "code",
@@ -997,25 +1037,18 @@
         504,
         471,
         513
-      ]
+      ],
+      "confidence": 88.0
     },
     {
-      "text": "No(s).",
+      "text": "No(s),",
       "bbox": [
         478,
         504,
-        511,
+        518,
         513
-      ]
-    },
-    {
-      "text": "T.K.9220",
-      "bbox": [
-        527,
-        504,
-        584,
-        513
-      ]
+      ],
+      "confidence": 89.0
     },
     {
       "text": "color",
@@ -1024,34 +1057,8 @@
         516,
         109,
         524
-      ]
-    },
-    {
-      "text": "Thi",
-      "bbox": [
-        224,
-        517,
-        243,
-        525
-      ]
-    },
-    {
-      "text": "tation",
-      "bbox": [
-        246,
-        517,
-        287,
-        525
-      ]
-    },
-    {
-      "text": "Cork",
-      "bbox": [
-        293,
-        517,
-        321,
-        525
-      ]
+      ],
+      "confidence": 69.0
     },
     {
       "text": "Type",
@@ -1060,7 +1067,8 @@
         518,
         406,
         527
-      ]
+      ],
+      "confidence": 37.0
     },
     {
       "text": "Printed",
@@ -1069,16 +1077,8 @@
         517,
         470,
         525
-      ]
-    },
-    {
-      "text": "imitation",
-      "bbox": [
-        479,
-        517,
-        541,
-        525
-      ]
+      ],
+      "confidence": 82.0
     },
     {
       "text": "Cork",
@@ -1087,43 +1087,38 @@
         518,
         577,
         525
-      ]
+      ],
+      "confidence": 72.0
     },
     {
-      "text": "Pecforation",
-      "bbox": [
-        75,
-        531,
-        152,
-        539
-      ]
-    },
-    {
-      "text": "type",
+      "text": "Type",
       "bbox": [
         160,
         531,
         187,
         541
-      ]
+      ],
+      "confidence": 72.0
     },
     {
-      "text": "and",
+      "text": "\u2018and",
       "bbox": [
         89,
         545,
         110,
         553
-      ]
+      ],
+      "confidence": 84.0
     },
     {
-      "text": "No.",
+      "text": "Wo.",
       "bbox": [
         117,
         546,
         136,
         553
-      ]
+      ],
+      "confidence": 69.0
     },
     {
       "text": "of",
@@ -1132,7 +1127,8 @@
         545,
         158,
         553
-      ]
+      ],
+      "confidence": 76.0
     },
     {
       "text": "lines",
@@ -1141,43 +1137,38 @@
         545,
         201,
         553
-      ]
+      ],
+      "confidence": 85.0
     },
     {
-      "text": "__None",
-      "bbox": [
-        231,
-        546,
-        258,
-        553
-      ]
-    },
-    {
-      "text": "Application",
+      "text": "application",
       "bbox": [
         379,
         545,
         456,
-        555
-      ]
+        557
+      ],
+      "confidence": 88.0
     },
     {
-      "text": "pattern:",
+      "text": "Patteco:",
       "bbox": [
         464,
         546,
         518,
         554
-      ]
+      ],
+      "confidence": 58.0
     },
     {
       "text": "Porosity",
       "bbox": [
         75,
-        549,
+        559,
         131,
-        577
-      ]
+        568
+      ],
+      "confidence": 94.0
     },
     {
       "text": "=",
@@ -1186,61 +1177,18 @@
         562,
         243,
         565
-      ]
+      ],
+      "confidence": 52.0
     },
     {
-      "text": "Print",
-      "bbox": [
-        75,
-        571,
-        110,
-        579
-      ]
-    },
-    {
-      "text": "peseription",
-      "bbox": [
-        118,
-        573,
-        195,
-        582
-      ]
-    },
-    {
-      "text": "__Brows",
-      "bbox": [
-        216,
-        574,
-        251,
-        581
-      ]
-    },
-    {
-      "text": "on",
-      "bbox": [
-        259,
-        575,
-        272,
-        581
-      ]
-    },
-    {
-      "text": "yellow",
-      "bbox": [
-        280,
-        573,
-        322,
-        584
-      ]
-    },
-    {
-      "text": "(eoresta)",
+      "text": "(coresta)",
       "bbox": [
         296,
         559,
         355,
         568
-      ]
+      ],
+      "confidence": 59.0
     },
     {
       "text": "\u2018Overall",
@@ -1249,25 +1197,18 @@
         559,
         427,
         567
-      ]
+      ],
+      "confidence": 61.0
     },
     {
-      "text": "__x_",
-      "bbox": [
-        449,
-        560,
-        455,
-        567
-      ]
-    },
-    {
-      "text": "Skip",
+      "text": "skip",
       "bbox": [
         478,
         559,
         506,
         569
-      ]
+      ],
+      "confidence": 80.0
     },
     {
       "text": "other",
@@ -1276,7 +1217,68 @@
         559,
         590,
         567
-      ]
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Print",
+      "bbox": [
+        75,
+        571,
+        110,
+        579
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "pesoription",
+      "bbox": [
+        118,
+        573,
+        195,
+        582
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        204,
+        562,
+        211,
+        590
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Brava",
+      "bbox": [
+        216,
+        574,
+        251,
+        581
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        259,
+        575,
+        272,
+        581
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "yellow",
+      "bbox": [
+        280,
+        573,
+        322,
+        584
+      ],
+      "confidence": 91.0
     },
     {
       "text": "Bobbin",
@@ -1285,25 +1287,18 @@
         586,
         117,
         594
-      ]
+      ],
+      "confidence": 96.0
     },
     {
-      "text": "width",
-      "bbox": [
-        124,
-        586,
-        159,
-        594
-      ]
-    },
-    {
-      "text": "30",
+      "text": "50",
       "bbox": [
         231,
         586,
         243,
         594
-      ]
+      ],
+      "confidence": 54.0
     },
     {
       "text": "am",
@@ -1312,16 +1307,18 @@
         589,
         266,
         595
-      ]
+      ],
+      "confidence": 53.0
     },
     {
-      "text": "rm",
+      "text": "PM",
       "bbox": [
         350,
         589,
         365,
         595
-      ]
+      ],
+      "confidence": 41.0
     },
     {
       "text": "Glue",
@@ -1330,43 +1327,28 @@
         587,
         406,
         596
-      ]
+      ],
+      "confidence": 89.0
     },
     {
-      "text": "Pree",
+      "text": "pree",
       "bbox": [
         414,
         588,
         442,
         596
-      ]
+      ],
+      "confidence": 70.0
     },
     {
-      "text": "Area:",
+      "text": "Ares:",
       "bbox": [
         449,
         588,
         482,
         596
-      ]
-    },
-    {
-      "text": "N/A",
-      "bbox": [
-        500,
-        587,
-        519,
-        596
-      ]
-    },
-    {
-      "text": "Bobbin",
-      "bbox": [
-        75,
-        600,
-        117,
-        608
-      ]
+      ],
+      "confidence": 41.0
     },
     {
       "text": "Length",
@@ -1375,7 +1357,8 @@
         600,
         166,
         610
-      ]
+      ],
+      "confidence": 85.0
     },
     {
       "text": "2700",
@@ -1384,34 +1367,38 @@
         600,
         257,
         608
-      ]
+      ],
+      "confidence": 84.0
     },
     {
-      "text": "\u20182",
+      "text": "\u2018a",
       "bbox": [
         350,
         602,
         357,
         608
-      ]
+      ],
+      "confidence": 62.0
     },
     {
-      "text": "Dimension",
+      "text": "Dinensicn",
       "bbox": [
         379,
         600,
         441,
         608
-      ]
+      ],
+      "confidence": 52.0
     },
     {
-      "text": "mn",
+      "text": "an",
       "bbox": [
         513,
         602,
         527,
         608
-      ]
+      ],
+      "confidence": 78.0
     },
     {
       "text": "x",
@@ -1420,88 +1407,58 @@
         602,
         547,
         608
-      ]
+      ],
+      "confidence": 54.0
     },
     {
-      "text": "nm",
+      "text": "mn",
       "bbox": [
         613,
         602,
         627,
         608
-      ]
+      ],
+      "confidence": 59.0
     },
     {
       "text": "substance",
       "bbox": [
-        71,
-        603,
+        75,
+        614,
         138,
-        631
-      ]
+        622
+      ],
+      "confidence": 85.0
     },
     {
       "text": "36",
       "bbox": [
-        238,
-        614,
+        207,
+        610,
         250,
         622
-      ]
+      ],
+      "confidence": 39.0
     },
     {
-      "text": "Give?",
-      "bbox": [
-        322,
-        615,
-        350,
-        625
-      ]
-    },
-    {
-      "text": "positioning",
-      "bbox": [
-        378,
-        616,
-        455,
-        625
-      ]
-    },
-    {
-      "text": "mn",
+      "text": "mm",
       "bbox": [
         513,
         617,
         527,
         623
-      ]
+      ],
+      "confidence": 55.0
     },
     {
-      "text": "fron",
-      "bbox": [
-        535,
-        615,
-        564,
-        623
-      ]
-    },
-    {
-      "text": "mouth",
-      "bbox": [
-        570,
-        615,
-        605,
-        623
-      ]
-    },
-    {
-      "text": "ene",
+      "text": "end",
       "bbox": [
         613,
         615,
         634,
         623
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "(indicate",
@@ -1510,7 +1467,8 @@
         641,
         138,
         650
-      ]
+      ],
+      "confidence": 59.0
     },
     {
       "text": "N/A",
@@ -1519,34 +1477,28 @@
         641,
         166,
         650
-      ]
+      ],
+      "confidence": 65.0
     },
     {
-      "text": "Tf",
+      "text": "If",
       "bbox": [
         175,
         642,
         187,
         650
-      ]
+      ],
+      "confidence": 70.0
     },
     {
-      "text": "Not",
+      "text": "Hot",
       "bbox": [
         195,
         642,
         215,
         650
-      ]
-    },
-    {
-      "text": "applicable)",
-      "bbox": [
-        223,
-        642,
-        299,
-        652
-      ]
+      ],
+      "confidence": 88.0
     },
     {
       "text": "Prepared",
@@ -1555,7 +1507,8 @@
         657,
         357,
         667
-      ]
+      ],
+      "confidence": 70.0
     },
     {
       "text": "by:",
@@ -1564,16 +1517,8 @@
         657,
         382,
         667
-      ]
-    },
-    {
-      "text": "___M.",
-      "bbox": [
-        421,
-        658,
-        433,
-        665
-      ]
+      ],
+      "confidence": 92.0
     },
     {
       "text": "HAMERTON",
@@ -1582,7 +1527,8 @@
         658,
         498,
         666
-      ]
+      ],
+      "confidence": 65.0
     },
     {
       "text": "/",
@@ -1591,34 +1537,38 @@
         657,
         511,
         669
-      ]
+      ],
+      "confidence": 86.0
     },
     {
-      "text": "enm",
+      "text": "enn",
       "bbox": [
         520,
         659,
         541,
         665
-      ]
+      ],
+      "confidence": 84.0
     },
     {
       "text": "pate:",
       "bbox": [
-        297,
-        674,
+        301,
+        685,
         333,
-        702
-      ]
+        692
+      ],
+      "confidence": 93.0
     },
     {
       "text": "may",
       "bbox": [
         421,
         685,
-        434,
-        692
-      ]
+        442,
+        696
+      ],
+      "confidence": 61.0
     },
     {
       "text": "1,",
@@ -1627,7 +1577,8 @@
         684,
         462,
         693
-      ]
+      ],
+      "confidence": 84.0
     },
     {
       "text": "1985",
@@ -1636,7 +1587,8 @@
         684,
         498,
         692
-      ]
+      ],
+      "confidence": 68.0
     },
     {
       "text": "Approved",
@@ -1645,7 +1597,8 @@
         712,
         357,
         721
-      ]
+      ],
+      "confidence": 77.0
     },
     {
       "text": "by:",
@@ -1654,16 +1607,18 @@
         712,
         382,
         721
-      ]
+      ],
+      "confidence": 95.0
     },
     {
-      "text": "Dicector",
+      "text": "Diteceor",
       "bbox": [
         393,
         725,
         447,
         734
-      ]
+      ],
+      "confidence": 33.0
     },
     {
       "text": "of",
@@ -1672,7 +1627,8 @@
         726,
         470,
         734
-      ]
+      ],
+      "confidence": 82.0
     },
     {
       "text": "Technical",
@@ -1681,7 +1637,8 @@
         726,
         540,
         734
-      ]
+      ],
+      "confidence": 37.0
     },
     {
       "text": "operations,",
@@ -1690,7 +1647,8 @@
         726,
         625,
         735
-      ]
+      ],
+      "confidence": 72.0
     },
     {
       "text": "Brown",
@@ -1699,7 +1657,8 @@
         740,
         427,
         747
-      ]
+      ],
+      "confidence": 44.0
     },
     {
       "text": "&",
@@ -1708,43 +1667,38 @@
         740,
         441,
         747
-      ]
+      ],
+      "confidence": 92.0
     },
     {
-      "text": "Williancon",
-      "bbox": [
-        449,
-        739,
-        520,
-        747
-      ]
-    },
-    {
-      "text": "International",
+      "text": "Takecnational",
       "bbox": [
         528,
         740,
         619,
         748
-      ]
+      ],
+      "confidence": 44.0
     },
     {
-      "text": "pate:",
+      "text": "Date:",
       "bbox": [
         75,
         753,
         107,
         760
-      ]
+      ],
+      "confidence": 68.0
     },
     {
-      "text": "___May",
+      "text": "__May",
       "bbox": [
         146,
         753,
         166,
         764
-      ]
+      ],
+      "confidence": 30.0
     },
     {
       "text": "2,",
@@ -1753,7 +1707,8 @@
         752,
         180,
         760
-      ]
+      ],
+      "confidence": 78.0
     },
     {
       "text": "1985",
@@ -1762,16 +1717,8 @@
         752,
         222,
         761
-      ]
-    },
-    {
-      "text": "\u2018Tobacco",
-      "bbox": [
-        470,
-        754,
-        520,
-        762
-      ]
+      ],
+      "confidence": 68.0
     },
     {
       "text": "Replaces:",
@@ -1780,34 +1727,28 @@
         779,
         136,
         789
-      ]
-    },
-    {
-      "text": "__New",
-      "bbox": [
-        167,
-        781,
-        188,
-        788
-      ]
+      ],
+      "confidence": 49.0
     },
     {
       "text": "pate:",
       "bbox": [
-        297,
-        770,
+        301,
+        781,
         334,
-        798
-      ]
+        789
+      ],
+      "confidence": 84.0
     },
     {
       "text": "May",
       "bbox": [
         414,
         781,
-        427,
-        789
-      ]
+        434,
+        793
+      ],
+      "confidence": 86.0
     },
     {
       "text": "1,",
@@ -1816,25 +1757,28 @@
         781,
         454,
         790
-      ]
+      ],
+      "confidence": 86.0
     },
     {
-      "text": "1985",
+      "text": "1995",
       "bbox": [
         464,
         781,
         490,
         789
-      ]
+      ],
+      "confidence": 77.0
     },
     {
-      "text": "oso4s,",
+      "text": "psoas,",
       "bbox": [
         75,
         806,
         109,
         815
-      ]
+      ],
+      "confidence": 30.0
     },
     {
       "text": "620419245",
@@ -1843,7 +1787,8 @@
         835,
         652,
         853
-      ]
+      ],
+      "confidence": 95.0
     }
   ]
 }

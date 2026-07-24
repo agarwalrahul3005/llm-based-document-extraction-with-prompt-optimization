@@ -1,0 +1,2004 @@
+{
+  "words": [
+    {
+      "text": "Market",
+      "bbox": [
+        235,
+        160,
+        287,
+        172
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Research",
+      "bbox": [
+        293,
+        160,
+        357,
+        172
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        363,
+        167,
+        367,
+        168
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Initiating",
+      "bbox": [
+        374,
+        160,
+        440,
+        175
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        446,
+        160,
+        496,
+        175
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Brief",
+      "bbox": [
+        502,
+        160,
+        539,
+        172
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "[BrieeNuimner:",
+      "bbox": [
+        119,
+        204,
+        207,
+        222
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "[Dates",
+      "bbox": [
+        517,
+        205,
+        554,
+        222
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Client",
+      "bbox": [
+        115,
+        233,
+        157,
+        258
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Group:",
+      "bbox": [
+        165,
+        233,
+        203,
+        258
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "COLOMBIA",
+      "bbox": [
+        313,
+        238,
+        392,
+        249
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        386,
+        233,
+        395,
+        258
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Group",
+      "bbox": [
+        261,
+        245,
+        291,
+        275
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        220,
+        272,
+        251,
+        281
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "!",
+      "bbox": [
+        414,
+        275,
+        415,
+        280
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "[Fae",
+      "bbox": [
+        115,
+        303,
+        153,
+        325
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Contact:",
+      "bbox": [
+        160,
+        293,
+        210,
+        330
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Rar",
+      "bbox": [
+        222,
+        306,
+        246,
+        315
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Tce",
+      "bbox": [
+        259,
+        302,
+        287,
+        315
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "\"|",
+      "bbox": [
+        376,
+        293,
+        386,
+        330
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "[Research",
+      "bbox": [
+        396,
+        302,
+        456,
+        315
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "isin",
+      "bbox": [
+        461,
+        302,
+        500,
+        315
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Camis",
+      "bbox": [
+        508,
+        293,
+        545,
+        330
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        643,
+        303,
+        655,
+        326
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "Garcia",
+      "bbox": [
+        261,
+        311,
+        299,
+        341
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "vy",
+      "bbox": [
+        317,
+        352,
+        329,
+        372
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Mewhol",
+      "bbox": [
+        392,
+        348,
+        437,
+        383
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Fits",
+      "bbox": [
+        439,
+        348,
+        478,
+        383
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        604,
+        353,
+        656,
+        372
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "[Markews):",
+      "bbox": [
+        114,
+        383,
+        180,
+        412
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "Referent",
+      "bbox": [
+        122,
+        419,
+        169,
+        448
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "7",
+      "bbox": [
+        455,
+        423,
+        495,
+        425
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": ";",
+      "bbox": [
+        656,
+        434,
+        657,
+        437
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "3)",
+      "bbox": [
+        123,
+        445,
+        131,
+        455
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Current",
+      "bbox": [
+        136,
+        445,
+        175,
+        454
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Keol",
+      "bbox": [
+        179,
+        445,
+        204,
+        454
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Fiter",
+      "bbox": [
+        216,
+        446,
+        237,
+        454
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "ing",
+      "bbox": [
+        242,
+        445,
+        267,
+        457
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Colombia",
+      "bbox": [
+        271,
+        444,
+        323,
+        454
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "L1",
+      "bbox": [
+        340,
+        445,
+        341,
+        454
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "nig",
+      "bbox": [
+        348,
+        447,
+        364,
+        456
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "turd:",
+      "bbox": [
+        368,
+        444,
+        398,
+        454
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "0.5",
+      "bbox": [
+        405,
+        444,
+        420,
+        454
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "1%",
+      "bbox": [
+        424,
+        445,
+        439,
+        454
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "menthol,",
+      "bbox": [
+        443,
+        444,
+        486,
+        454
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "white",
+      "bbox": [
+        494,
+        444,
+        523,
+        454
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "tipping,",
+      "bbox": [
+        527,
+        446,
+        565,
+        457
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        656,
+        438,
+        657,
+        456
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "12)",
+      "bbox": [
+        114,
+        464,
+        132,
+        468
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Kool",
+      "bbox": [
+        140,
+        461,
+        160,
+        470
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "Mills",
+      "bbox": [
+        166,
+        460,
+        195,
+        470
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "BS",
+      "bbox": [
+        202,
+        460,
+        213,
+        470
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Japan,",
+      "bbox": [
+        219,
+        460,
+        253,
+        472
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Omg",
+      "bbox": [
+        257,
+        460,
+        280,
+        472
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "0.66%",
+      "bbox": [
+        321,
+        461,
+        355,
+        470
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "menthol,",
+      "bbox": [
+        359,
+        460,
+        405,
+        471
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "shite",
+      "bbox": [
+        410,
+        460,
+        439,
+        470
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        656,
+        464,
+        657,
+        467
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        114,
+        478,
+        115,
+        490
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "31",
+      "bbox": [
+        122,
+        477,
+        131,
+        486
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Kool",
+      "bbox": [
+        136,
+        476,
+        161,
+        486
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "KS.9",
+      "bbox": [
+        166,
+        476,
+        194,
+        486
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "mg",
+      "bbox": [
+        199,
+        479,
+        214,
+        489
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "tar,",
+      "bbox": [
+        219,
+        478,
+        235,
+        487
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": ":@",
+      "bbox": [
+        242,
+        479,
+        248,
+        485
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "menthol,",
+      "bbox": [
+        293,
+        476,
+        336,
+        486
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "white",
+      "bbox": [
+        344,
+        476,
+        373,
+        486
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "[2",
+      "bbox": [
+        114,
+        492,
+        132,
+        509
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Curent",
+      "bbox": [
+        137,
+        494,
+        176,
+        502
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Lights",
+      "bbox": [
+        234,
+        493,
+        268,
+        505
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "King",
+      "bbox": [
+        321,
+        493,
+        346,
+        505
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "US,",
+      "bbox": [
+        350,
+        493,
+        370,
+        503
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Omg",
+      "bbox": [
+        374,
+        493,
+        397,
+        505
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "tae,",
+      "bbox": [
+        402,
+        495,
+        419,
+        508
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "4",
+      "bbox": [
+        423,
+        495,
+        432,
+        502
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "1.568%",
+      "bbox": [
+        439,
+        493,
+        472,
+        502
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "menthol,",
+      "bbox": [
+        477,
+        493,
+        523,
+        503
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "white",
+      "bbox": [
+        528,
+        493,
+        557,
+        502
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "tipping",
+      "bbox": [
+        561,
+        495,
+        598,
+        505
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        114,
+        534,
+        115,
+        545
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Consumer",
+      "bbox": [
+        125,
+        524,
+        180,
+        541
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        441,
+        523,
+        606,
+        525
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "j",
+      "bbox": [
+        114,
+        546,
+        115,
+        550
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        655,
+        539,
+        656,
+        562
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "pee",
+      "bbox": [
+        114,
+        551,
+        158,
+        575
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        655,
+        567,
+        656,
+        578
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "18-29",
+      "bbox": [
+        192,
+        577,
+        221,
+        587
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "(10085)",
+      "bbox": [
+        225,
+        577,
+        264,
+        588
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        655,
+        588,
+        656,
+        591
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Fay",
+      "bbox": [
+        114,
+        589,
+        134,
+        602
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "set",
+      "bbox": [
+        141,
+        593,
+        158,
+        602
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "ABE",
+      "bbox": [
+        193,
+        593,
+        213,
+        602
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "anes",
+      "bbox": [
+        219,
+        593,
+        258,
+        603
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        655,
+        595,
+        656,
+        612
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "iy",
+      "bbox": [
+        123,
+        609,
+        135,
+        618
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "regular",
+      "bbox": [
+        329,
+        598,
+        366,
+        627
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "smokers",
+      "bbox": [
+        372,
+        608,
+        414,
+        618
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "smokers",
+      "bbox": [
+        503,
+        608,
+        545,
+        618
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "$0%",
+      "bbox": [
+        551,
+        598,
+        573,
+        627
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "!",
+      "bbox": [
+        114,
+        618,
+        116,
+        632
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "B\u00e9yuilla:",
+      "bbox": [
+        191,
+        624,
+        233,
+        635
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "KOOL",
+      "bbox": [
+        251,
+        624,
+        287,
+        633
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Parent",
+      "bbox": [
+        292,
+        624,
+        324,
+        633
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "regular",
+      "bbox": [
+        329,
+        624,
+        364,
+        635
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "smokers",
+      "bbox": [
+        370,
+        624,
+        413,
+        633
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "50%",
+      "bbox": [
+        418,
+        624,
+        442,
+        633
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "-alternate",
+      "bbox": [
+        451,
+        624,
+        496,
+        633
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "smokers",
+      "bbox": [
+        500,
+        624,
+        545,
+        633
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "50%",
+      "bbox": [
+        549,
+        624,
+        573,
+        633
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": ";",
+      "bbox": [
+        115,
+        647,
+        116,
+        652
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "Medelin:",
+      "bbox": [
+        192,
+        639,
+        238,
+        649
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Parent",
+      "bbox": [
+        292,
+        640,
+        324,
+        649
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "regular",
+      "bbox": [
+        330,
+        629,
+        366,
+        658
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "smokers",
+      "bbox": [
+        371,
+        639,
+        414,
+        649
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "$0%4",
+      "bbox": [
+        420,
+        639,
+        442,
+        649
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "-altemate",
+      "bbox": [
+        446,
+        640,
+        496,
+        649
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "smokers",
+      "bbox": [
+        502,
+        640,
+        545,
+        649
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "30%",
+      "bbox": [
+        550,
+        640,
+        573,
+        649
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        655,
+        639,
+        656,
+        664
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Note",
+      "bbox": [
+        123,
+        672,
+        147,
+        682
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Tn",
+      "bbox": [
+        155,
+        672,
+        165,
+        682
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "onier",
+      "bbox": [
+        169,
+        675,
+        197,
+        682
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        201,
+        674,
+        210,
+        682
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "establish",
+      "bbox": [
+        214,
+        671,
+        260,
+        682
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        265,
+        675,
+        270,
+        682
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "quantitative",
+      "bbox": [
+        274,
+        674,
+        337,
+        684
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "basis",
+      "bbox": [
+        341,
+        671,
+        367,
+        682
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        372,
+        672,
+        386,
+        681
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "determining",
+      "bbox": [
+        391,
+        672,
+        455,
+        684
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        460,
+        672,
+        475,
+        682
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "product,",
+      "bbox": [
+        528,
+        671,
+        571,
+        684
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "results",
+      "bbox": [
+        576,
+        672,
+        610,
+        682
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "will",
+      "bbox": [
+        615,
+        672,
+        634,
+        681
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        640,
+        666,
+        656,
+        682
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "as",
+      "bbox": [
+        175,
+        678,
+        183,
+        708
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "follows:",
+      "bbox": [
+        188,
+        688,
+        230,
+        704
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Altemate",
+      "bbox": [
+        238,
+        688,
+        283,
+        704
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "60%,",
+      "bbox": [
+        290,
+        688,
+        314,
+        704
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Regular",
+      "bbox": [
+        320,
+        688,
+        360,
+        704
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "40%,",
+      "bbox": [
+        368,
+        688,
+        391,
+        704
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        571,
+        686,
+        655,
+        704
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        115,
+        720,
+        117,
+        745
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Wanton",
+      "bbox": [
+        250,
+        720,
+        303,
+        733
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        370,
+        720,
+        379,
+        721
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        455,
+        720,
+        460,
+        721
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "On",
+      "bbox": [
+        122,
+        740,
+        137,
+        749
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "97.",
+      "bbox": [
+        221,
+        739,
+        237,
+        749
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "PMI",
+      "bbox": [
+        243,
+        739,
+        265,
+        749
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "sinuliancously",
+      "bbox": [
+        272,
+        739,
+        351,
+        752
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "launched",
+      "bbox": [
+        359,
+        739,
+        406,
+        749
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Marlboro",
+      "bbox": [
+        413,
+        739,
+        462,
+        749
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Menthol",
+      "bbox": [
+        469,
+        739,
+        513,
+        749
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "KS",
+      "bbox": [
+        520,
+        740,
+        535,
+        749
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Box",
+      "bbox": [
+        542,
+        740,
+        564,
+        749
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "tar}",
+      "bbox": [
+        610,
+        742,
+        627,
+        751
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        634,
+        740,
+        652,
+        749
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        115,
+        747,
+        116,
+        767
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "stential",
+      "bbox": [
+        123,
+        755,
+        165,
+        764
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Lights",
+      "bbox": [
+        173,
+        755,
+        205,
+        767
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "KS",
+      "bbox": [
+        212,
+        755,
+        228,
+        764
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Box",
+      "bbox": [
+        236,
+        755,
+        256,
+        764
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "(9mg",
+      "bbox": [
+        263,
+        755,
+        290,
+        767
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "tar)",
+      "bbox": [
+        297,
+        756,
+        315,
+        766
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        322,
+        758,
+        331,
+        764
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Colombia.",
+      "bbox": [
+        338,
+        755,
+        390,
+        764
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "These",
+      "bbox": [
+        409,
+        755,
+        438,
+        764
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        444,
+        757,
+        464,
+        764
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "products",
+      "bbox": [
+        471,
+        755,
+        516,
+        767
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "became",
+      "bbox": [
+        523,
+        755,
+        563,
+        764
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "KOUL's",
+      "bbox": [
+        571,
+        755,
+        616,
+        764
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "corapetiters",
+      "bbox": [
+        122,
+        773,
+        183,
+        783
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "(Premium",
+      "bbox": [
+        187,
+        771,
+        240,
+        781
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Menthol",
+      "bbox": [
+        244,
+        771,
+        288,
+        780
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Brands)",
+      "bbox": [
+        293,
+        771,
+        334,
+        782
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        655,
+        779,
+        656,
+        783
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "sme",
+      "bbox": [
+        163,
+        791,
+        188,
+        797
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "tine,",
+      "bbox": [
+        195,
+        789,
+        221,
+        797
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "KOOL",
+      "bbox": [
+        228,
+        787,
+        259,
+        797
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "replaced",
+      "bbox": [
+        270,
+        787,
+        314,
+        799
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "is",
+      "bbox": [
+        321,
+        789,
+        333,
+        797
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "product",
+      "bbox": [
+        339,
+        787,
+        379,
+        800
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        386,
+        787,
+        408,
+        797
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "wilder",
+      "bbox": [
+        427,
+        787,
+        462,
+        797
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Ting",
+      "bbox": [
+        469,
+        787,
+        497,
+        800
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "ciguene",
+      "bbox": [
+        504,
+        789,
+        549,
+        800
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "(the",
+      "bbox": [
+        556,
+        787,
+        576,
+        798
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "same",
+      "bbox": [
+        583,
+        790,
+        609,
+        797
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "KOU",
+      "bbox": [
+        617,
+        787,
+        647,
+        797
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        115,
+        804,
+        117,
+        820
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Miles",
+      "bbox": [
+        123,
+        804,
+        152,
+        820
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "but",
+      "bbox": [
+        157,
+        804,
+        172,
+        814
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "27emm",
+      "bbox": [
+        216,
+        804,
+        242,
+        814
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "cork",
+      "bbox": [
+        250,
+        804,
+        272,
+        813
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        610,
+        819,
+        625,
+        820
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "440026083",
+      "bbox": [
+        2,
+        955,
+        79,
+        964
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "PRODUCED",
+      "bbox": [
+        2,
+        971,
+        71,
+        981
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "FROM",
+      "bbox": [
+        82,
+        971,
+        115,
+        981
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Bei",
+      "bbox": [
+        125,
+        971,
+        151,
+        981
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "WEB",
+      "bbox": [
+        160,
+        971,
+        186,
+        980
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SITE",
+      "bbox": [
+        197,
+        971,
+        230,
+        981
+      ],
+      "confidence": 96.0
+    }
+  ]
+}

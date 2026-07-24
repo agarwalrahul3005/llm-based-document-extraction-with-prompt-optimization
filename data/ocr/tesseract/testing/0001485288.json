@@ -1,0 +1,834 @@
+{
+  "words": [
+    {
+      "text": "BROWN",
+      "bbox": [
+        202,
+        60,
+        243,
+        71
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        253,
+        61,
+        261,
+        70
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "WILLIAMSON",
+      "bbox": [
+        270,
+        61,
+        354,
+        71
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "TOBACCO",
+      "bbox": [
+        364,
+        60,
+        424,
+        71
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "CORPORATION,",
+      "bbox": [
+        432,
+        61,
+        524,
+        72
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "LOUISVILLE,",
+      "bbox": [
+        253,
+        74,
+        344,
+        87
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "KENTUCKY",
+      "bbox": [
+        356,
+        74,
+        424,
+        85
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "40201",
+      "bbox": [
+        440,
+        74,
+        480,
+        86
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "SPECIAL",
+      "bbox": [
+        253,
+        102,
+        311,
+        113
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SAMPLE",
+      "bbox": [
+        321,
+        102,
+        372,
+        113
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "MANUFACTURE",
+      "bbox": [
+        380,
+        102,
+        473,
+        114
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Gl",
+      "bbox": [
+        483,
+        104,
+        496,
+        114
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "SHIPMENT",
+      "bbox": [
+        406,
+        125,
+        470,
+        135
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "copies",
+      "bbox": [
+        47,
+        170,
+        98,
+        182
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "to:",
+      "bbox": [
+        109,
+        172,
+        130,
+        181
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "REOUCED",
+      "bbox": [
+        314,
+        166,
+        468,
+        177
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        380,
+        156,
+        398,
+        186
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "MATERIAL",
+      "bbox": [
+        400,
+        166,
+        468,
+        177
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "C)",
+      "bbox": [
+        483,
+        167,
+        496,
+        177
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        438,
+        188,
+        471,
+        199
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        481,
+        188,
+        496,
+        199
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Request",
+      "bbox": [
+        507,
+        189,
+        564,
+        202
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "8/25/01",
+      "bbox": [
+        613,
+        187,
+        661,
+        197
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Pactory",
+      "bbox": [
+        131,
+        201,
+        190,
+        214
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Cost",
+      "bbox": [
+        199,
+        202,
+        233,
+        212
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Dept.",
+      "bbox": [
+        243,
+        202,
+        282,
+        214
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Account",
+      "bbox": [
+        439,
+        203,
+        496,
+        213
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Number",
+      "bbox": [
+        506,
+        204,
+        556,
+        214
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "240",
+      "bbox": [
+        620,
+        206,
+        639,
+        215
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "09",
+      "bbox": [
+        647,
+        207,
+        661,
+        219
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Writer",
+      "bbox": [
+        131,
+        215,
+        181,
+        225
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Development",
+      "bbox": [
+        131,
+        229,
+        223,
+        242
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Center",
+      "bbox": [
+        234,
+        230,
+        284,
+        240
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Sue",
+      "bbox": [
+        136,
+        244,
+        156,
+        253
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Livesay",
+      "bbox": [
+        165,
+        245,
+        213,
+        257
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Sample",
+      "bbox": [
+        43,
+        340,
+        93,
+        354
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Disposition",
+      "bbox": [
+        103,
+        341,
+        197,
+        355
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Quantity,",
+      "bbox": [
+        300,
+        385,
+        375,
+        398
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Cartons",
+      "bbox": [
+        387,
+        385,
+        445,
+        396
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Tax",
+      "bbox": [
+        556,
+        387,
+        580,
+        396
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Status",
+      "bbox": [
+        590,
+        387,
+        639,
+        397
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Sf",
+      "bbox": [
+        300,
+        398,
+        316,
+        408
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "200",
+      "bbox": [
+        326,
+        398,
+        351,
+        409
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "each",
+      "bbox": [
+        360,
+        399,
+        393,
+        409
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Paid",
+      "bbox": [
+        555,
+        401,
+        588,
+        411
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "or",
+      "bbox": [
+        598,
+        404,
+        615,
+        411
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Free",
+      "bbox": [
+        624,
+        402,
+        657,
+        411
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Zo",
+      "bbox": [
+        60,
+        426,
+        76,
+        436
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Sample",
+      "bbox": [
+        86,
+        425,
+        135,
+        440
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "stock",
+      "bbox": [
+        146,
+        426,
+        187,
+        440
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        205,
+        430,
+        210,
+        432
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        223,
+        430,
+        228,
+        433
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        241,
+        431,
+        246,
+        433
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        258,
+        431,
+        263,
+        433
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        275,
+        431,
+        280,
+        433
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "R&D",
+      "bbox": [
+        98,
+        444,
+        128,
+        474
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "20",
+      "bbox": [
+        347,
+        456,
+        360,
+        466
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "MR",
+      "bbox": [
+        103,
+        485,
+        129,
+        495
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Mechod",
+      "bbox": [
+        57,
+        552,
+        109,
+        563
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        118,
+        552,
+        134,
+        563
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Shipment",
+      "bbox": [
+        144,
+        552,
+        210,
+        566
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Gigarette",
+      "bbox": [
+        39,
+        594,
+        116,
+        608
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "XS",
+      "bbox": [
+        129,
+        638,
+        143,
+        647
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "L",
+      "bbox": [
+        153,
+        638,
+        158,
+        646
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "mg",
+      "bbox": [
+        165,
+        641,
+        179,
+        649
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "grooved",
+      "bbox": [
+        187,
+        639,
+        236,
+        650
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "product",
+      "bbox": [
+        245,
+        639,
+        293,
+        650
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "using",
+      "bbox": [
+        301,
+        640,
+        336,
+        651
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "4,3/37",
+      "bbox": [
+        343,
+        639,
+        386,
+        650
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "filter",
+      "bbox": [
+        394,
+        641,
+        435,
+        650
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "material,",
+      "bbox": [
+        443,
+        642,
+        504,
+        651
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "code",
+      "bbox": [
+        202,
+        667,
+        229,
+        676
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "244131",
+      "bbox": [
+        238,
+        667,
+        278,
+        676
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Special",
+      "bbox": [
+        39,
+        720,
+        98,
+        735
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Instructions",
+      "bbox": [
+        109,
+        721,
+        209,
+        732
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        219,
+        722,
+        227,
+        732
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Couments",
+      "bbox": [
+        236,
+        722,
+        304,
+        733
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "620745255",
+      "bbox": [
+        509,
+        850,
+        621,
+        867
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Completion",
+      "bbox": [
+        35,
+        900,
+        121,
+        913
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        130,
+        901,
+        163,
+        911
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "__6/25/81",
+      "bbox": [
+        190,
+        899,
+        272,
+        915
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "Signed",
+      "bbox": [
+        424,
+        903,
+        473,
+        915
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "WINGLER",
+      "bbox": [
+        554,
+        903,
+        604,
+        912
+      ],
+      "confidence": 41.0
+    }
+  ]
+}

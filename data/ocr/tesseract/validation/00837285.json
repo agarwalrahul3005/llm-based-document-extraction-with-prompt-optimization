@@ -1,0 +1,894 @@
+{
+  "words": [
+    {
+      "text": "COMPOUND",
+      "bbox": [
+        226,
+        54,
+        337,
+        66
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PHYSICAL",
+      "bbox": [
+        345,
+        54,
+        428,
+        66
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PARAMETERS",
+      "bbox": [
+        435,
+        54,
+        545,
+        66
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        67,
+        111,
+        146,
+        118
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        263,
+        112,
+        306,
+        118
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "sn",
+      "bbox": [
+        534,
+        200,
+        615,
+        207
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        89,
+        275,
+        136,
+        281
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "I",
+      "bbox": [
+        237,
+        274,
+        297,
+        281
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        89,
+        304,
+        140,
+        311
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "SE",
+      "bbox": [
+        343,
+        304,
+        418,
+        310
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        89,
+        358,
+        122,
+        365
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "et",
+      "bbox": [
+        238,
+        358,
+        418,
+        365
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        494,
+        357,
+        554,
+        364
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Gm",
+      "bbox": [
+        601,
+        358,
+        676,
+        364
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        654,
+        397,
+        667,
+        406
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        654,
+        407,
+        668,
+        428
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "aI",
+      "bbox": [
+        655,
+        428,
+        668,
+        438
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "pH",
+      "bbox": [
+        97,
+        615,
+        116,
+        628
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        124,
+        619,
+        132,
+        621
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "The",
+      "bbox": [
+        143,
+        614,
+        169,
+        624
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "pH",
+      "bbox": [
+        179,
+        615,
+        197,
+        626
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        207,
+        615,
+        224,
+        624
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        235,
+        617,
+        243,
+        624
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "50%",
+      "bbox": [
+        255,
+        615,
+        279,
+        624
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "concentration",
+      "bbox": [
+        291,
+        614,
+        409,
+        624
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        419,
+        614,
+        435,
+        624
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "A32",
+      "bbox": [
+        446,
+        614,
+        472,
+        623
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        484,
+        614,
+        500,
+        623
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        511,
+        617,
+        518,
+        623
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "52.6%",
+      "bbox": [
+        530,
+        614,
+        573,
+        624
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "dioxane/water",
+      "bbox": [
+        584,
+        613,
+        704,
+        626
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "solution",
+      "bbox": [
+        97,
+        628,
+        169,
+        638
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "was",
+      "bbox": [
+        178,
+        631,
+        206,
+        639
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "calculated",
+      "bbox": [
+        216,
+        629,
+        308,
+        638
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        319,
+        630,
+        335,
+        638
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        344,
+        629,
+        362,
+        638
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "2.92",
+      "bbox": [
+        374,
+        629,
+        408,
+        638
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        419,
+        630,
+        436,
+        638
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "22\u00b0C",
+      "bbox": [
+        447,
+        628,
+        481,
+        638
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "according",
+      "bbox": [
+        492,
+        628,
+        573,
+        640
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        585,
+        629,
+        603,
+        638
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        614,
+        628,
+        640,
+        638
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "extra-",
+      "bbox": [
+        651,
+        630,
+        704,
+        638
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "polation",
+      "bbox": [
+        97,
+        643,
+        169,
+        655
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "procedures",
+      "bbox": [
+        179,
+        643,
+        271,
+        655
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        281,
+        643,
+        298,
+        655
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Dr.",
+      "bbox": [
+        309,
+        644,
+        332,
+        652
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "P.",
+      "bbox": [
+        345,
+        644,
+        360,
+        652
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "D.",
+      "bbox": [
+        372,
+        644,
+        387,
+        652
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Schickedantz,",
+      "bbox": [
+        400,
+        643,
+        516,
+        654
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Lorillard",
+      "bbox": [
+        529,
+        642,
+        612,
+        652
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Research",
+      "bbox": [
+        623,
+        643,
+        695,
+        652
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Center",
+      "bbox": [
+        97,
+        658,
+        151,
+        667
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Accession",
+      "bbox": [
+        161,
+        657,
+        244,
+        667
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Ne.",
+      "bbox": [
+        254,
+        658,
+        278,
+        667
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "1662,",
+      "bbox": [
+        292,
+        657,
+        333,
+        668
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Reference",
+      "bbox": [
+        345,
+        657,
+        427,
+        667
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        437,
+        658,
+        455,
+        667
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "83-125,",
+      "bbox": [
+        466,
+        657,
+        525,
+        667
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Oral",
+      "bbox": [
+        97,
+        713,
+        132,
+        723
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        143,
+        718,
+        150,
+        720
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "5g",
+      "bbox": [
+        162,
+        714,
+        178,
+        726
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "A32",
+      "bbox": [
+        188,
+        713,
+        214,
+        723
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "forms",
+      "bbox": [
+        227,
+        714,
+        271,
+        723
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        282,
+        716,
+        289,
+        723
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "suspension",
+      "bbox": [
+        301,
+        713,
+        390,
+        725
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        400,
+        713,
+        436,
+        723
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "stirring",
+      "bbox": [
+        448,
+        713,
+        518,
+        725
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        530,
+        713,
+        547,
+        722
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "10",
+      "bbox": [
+        558,
+        713,
+        574,
+        722
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ml",
+      "bbox": [
+        584,
+        712,
+        603,
+        722
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "1%",
+      "bbox": [
+        614,
+        712,
+        630,
+        722
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Twecn",
+      "bbox": [
+        641,
+        713,
+        686,
+        723
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "80",
+      "bbox": [
+        697,
+        713,
+        713,
+        723
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        97,
+        726,
+        134,
+        737
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "room",
+      "bbox": [
+        125,
+        731,
+        161,
+        737
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "temperature,",
+      "bbox": [
+        171,
+        729,
+        278,
+        741
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Reference",
+      "bbox": [
+        300,
+        727,
+        381,
+        737
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        391,
+        728,
+        408,
+        737
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        98,
+        771,
+        124,
+        780
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "grind",
+      "bbox": [
+        134,
+        772,
+        178,
+        783
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "lightly.",
+      "bbox": [
+        190,
+        770,
+        266,
+        784
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Add",
+      "bbox": [
+        278,
+        770,
+        308,
+        781
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "0.8",
+      "bbox": [
+        319,
+        770,
+        344,
+        780
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "ml",
+      "bbox": [
+        354,
+        770,
+        372,
+        780
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "saline",
+      "bbox": [
+        383,
+        770,
+        437,
+        780
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "solution.",
+      "bbox": [
+        448,
+        770,
+        526,
+        780
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "is",
+      "bbox": [
+        586,
+        770,
+        603,
+        780
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        614,
+        773,
+        621,
+        780
+      ],
+      "confidence": 70.0
+    }
+  ]
+}

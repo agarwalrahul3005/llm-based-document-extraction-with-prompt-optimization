@@ -1,0 +1,914 @@
+{
+  "words": [
+    {
+      "text": "MIS PROJECT REQUEST",
+      "bbox": [
+        266,
+        9,
+        462,
+        34
+      ],
+      "confidence": 0.7333235723142613
+    },
+    {
+      "text": "PART I - CLIENT REQUEST",
+      "bbox": [
+        254,
+        28,
+        472,
+        52
+      ],
+      "confidence": 0.8077317540583377
+    },
+    {
+      "text": "Requested by: Karl Hutchison",
+      "bbox": [
+        109,
+        75,
+        295,
+        93
+      ],
+      "confidence": 0.8460922967469009
+    },
+    {
+      "text": "Project Number: (assigned by MIS)",
+      "bbox": [
+        383,
+        71,
+        575,
+        89
+      ],
+      "confidence": 0.9859178065737183
+    },
+    {
+      "text": "Departmenti",
+      "bbox": [
+        109,
+        111,
+        187,
+        127
+      ],
+      "confidence": 0.9193740499091068
+    },
+    {
+      "text": "BD &",
+      "bbox": [
+        197,
+        109,
+        233,
+        123
+      ],
+      "confidence": 0.6863600235863074
+    },
+    {
+      "text": "SS",
+      "bbox": [
+        231,
+        105,
+        253,
+        125
+      ],
+      "confidence": 0.7042828046844105
+    },
+    {
+      "text": "Date Submitted: 4L7/98",
+      "bbox": [
+        383,
+        103,
+        529,
+        121
+      ],
+      "confidence": 0.5707321623554843
+    },
+    {
+      "text": "Phone Number:7970",
+      "bbox": [
+        109,
+        127,
+        237,
+        143
+      ],
+      "confidence": 0.5196706567070724
+    },
+    {
+      "text": "Date Requiredi420/98",
+      "bbox": [
+        383,
+        121,
+        527,
+        139
+      ],
+      "confidence": 0.6789091997271451
+    },
+    {
+      "text": "System;i",
+      "bbox": [
+        109,
+        147,
+        159,
+        161
+      ],
+      "confidence": 0.3151921503168836
+    },
+    {
+      "text": "REQUEST TYPE",
+      "bbox": [
+        127,
+        159,
+        241,
+        179
+      ],
+      "confidence": 0.6999073265542747
+    },
+    {
+      "text": "REASON CODE",
+      "bbox": [
+        307,
+        159,
+        413,
+        175
+      ],
+      "confidence": 0.6049340168589209
+    },
+    {
+      "text": "PRIORITY",
+      "bbox": [
+        509,
+        157,
+        581,
+        173
+      ],
+      "confidence": 0.9831362414082515
+    },
+    {
+      "text": "Enhancement",
+      "bbox": [
+        147,
+        181,
+        219,
+        193
+      ],
+      "confidence": 0.8820851504338947
+    },
+    {
+      "text": "Productivity [mprovement",
+      "bbox": [
+        311,
+        176,
+        443,
+        191
+      ],
+      "confidence": 0.8093926468851161
+    },
+    {
+      "text": "Immediate",
+      "bbox": [
+        481,
+        175,
+        539,
+        189
+      ],
+      "confidence": 0.6791655808036628
+    },
+    {
+      "text": "Return On Investment",
+      "bbox": [
+        309,
+        190,
+        423,
+        205
+      ],
+      "confidence": 0.978444724395543
+    },
+    {
+      "text": "High",
+      "bbox": [
+        483,
+        189,
+        511,
+        203
+      ],
+      "confidence": 0.9545574130908906
+    },
+    {
+      "text": "3. Special Processing",
+      "bbox": [
+        133,
+        207,
+        247,
+        223
+      ],
+      "confidence": 0.7544793599399909
+    },
+    {
+      "text": "Customer Impact",
+      "bbox": [
+        309,
+        205,
+        401,
+        219
+      ],
+      "confidence": 0.9980964125789392
+    },
+    {
+      "text": "Medium",
+      "bbox": [
+        481,
+        203,
+        527,
+        215
+      ],
+      "confidence": 0.9920566231610498
+    },
+    {
+      "text": "Ad Hoc",
+      "bbox": [
+        147,
+        221,
+        189,
+        235
+      ],
+      "confidence": 0.8741853262024564
+    },
+    {
+      "text": "Govermen",
+      "bbox": [
+        309,
+        219,
+        369,
+        231
+      ],
+      "confidence": 0.9934185536702529
+    },
+    {
+      "text": "Requirement",
+      "bbox": [
+        373,
+        219,
+        443,
+        231
+      ],
+      "confidence": 0.8580560330767648
+    },
+    {
+      "text": "Low",
+      "bbox": [
+        481,
+        217,
+        507,
+        229
+      ],
+      "confidence": 0.6011621636548327
+    },
+    {
+      "text": "Emergency",
+      "bbox": [
+        146,
+        234,
+        207,
+        250
+      ],
+      "confidence": 0.9997015968860425
+    },
+    {
+      "text": "Change",
+      "bbox": [
+        355,
+        233,
+        397,
+        247
+      ],
+      "confidence": 0.6457782588667623
+    },
+    {
+      "text": "eler",
+      "bbox": [
+        482,
+        232,
+        512,
+        240
+      ],
+      "confidence": 0.35531383752822876
+    },
+    {
+      "text": "System Error",
+      "bbox": [
+        309,
+        245,
+        381,
+        261
+      ],
+      "confidence": 0.981866634994892
+    },
+    {
+      "text": "Procedural Error",
+      "bbox": [
+        309,
+        259,
+        401,
+        273
+      ],
+      "confidence": 0.9649270854739647
+    },
+    {
+      "text": "PROBLEM DEFINITION",
+      "bbox": [
+        107,
+        290,
+        269,
+        310
+      ],
+      "confidence": 0.7864073135573988
+    },
+    {
+      "text": "Dcscription",
+      "bbox": [
+        109,
+        313,
+        169,
+        325
+      ],
+      "confidence": 0.5760287659201403
+    },
+    {
+      "text": "Requcst:",
+      "bbox": [
+        181,
+        311,
+        229,
+        325
+      ],
+      "confidence": 0.6455533002005274
+    },
+    {
+      "text": "Plcase run job FRMRXUMZ for GPC, Misly, and Kool against file",
+      "bbox": [
+        109,
+        321,
+        443,
+        339
+      ],
+      "confidence": 0.5485913398084421
+    },
+    {
+      "text": "commonlkhutchilr892unm.Ist:",
+      "bbox": [
+        455,
+        319,
+        607,
+        333
+      ],
+      "confidence": 0.5567680547463724
+    },
+    {
+      "text": "Please place output in the sume directory:",
+      "bbox": [
+        109,
+        335,
+        319,
+        353
+      ],
+      "confidence": 0.7095666315795846
+    },
+    {
+      "text": "Reason for Request:",
+      "bbox": [
+        109,
+        409,
+        213,
+        421
+      ],
+      "confidence": 0.9583839985757764
+    },
+    {
+      "text": "Calculation of 1997 STR volumes for these brands for allocation of Period 24 budgets:",
+      "bbox": [
+        109,
+        431,
+        539,
+        449
+      ],
+      "confidence": 0.5664141514667678
+    },
+    {
+      "text": "Request Authorized By:",
+      "bbox": [
+        109,
+        507,
+        255,
+        523
+      ],
+      "confidence": 0.9335801591119521
+    },
+    {
+      "text": "REQUEST IYPE;",
+      "bbox": [
+        98,
+        587,
+        195,
+        605
+      ],
+      "confidence": 0.6173288825290902
+    },
+    {
+      "text": "REASONCQDE:",
+      "bbox": [
+        387,
+        585,
+        479,
+        601
+      ],
+      "confidence": 0.9587248060051802
+    },
+    {
+      "text": "Enhancement",
+      "bbox": [
+        119,
+        603,
+        191,
+        617
+      ],
+      "confidence": 0.9059748242675664
+    },
+    {
+      "text": "productivity improvemenl ncw",
+      "bbox": [
+        197,
+        603,
+        349,
+        617
+      ],
+      "confidence": 0.6454441364343911
+    },
+    {
+      "text": "Productivity [mprovement",
+      "bbox": [
+        407,
+        598,
+        541,
+        613
+      ],
+      "confidence": 0.7676412617839966
+    },
+    {
+      "text": "lime savings",
+      "bbox": [
+        547,
+        599,
+        611,
+        613
+      ],
+      "confidence": 0.8314552092442719
+    },
+    {
+      "text": "functionality",
+      "bbox": [
+        119,
+        617,
+        181,
+        631
+      ],
+      "confidence": 0.4498374833940881
+    },
+    {
+      "text": "have fcaturc",
+      "bbox": [
+        219,
+        617,
+        281,
+        629
+      ],
+      "confidence": 0.6784300507385108
+    },
+    {
+      "text": "Return on [nvestment",
+      "bbox": [
+        409,
+        612,
+        517,
+        627
+      ],
+      "confidence": 0.489915994683317
+    },
+    {
+      "text": "dollar savings",
+      "bbox": [
+        525,
+        613,
+        595,
+        627
+      ],
+      "confidence": 0.9981243610027069
+    },
+    {
+      "text": "Maintenance",
+      "bbox": [
+        119,
+        631,
+        189,
+        645
+      ],
+      "confidence": 0.7954892288143208
+    },
+    {
+      "text": "fix program erTor ,",
+      "bbox": [
+        193,
+        631,
+        281,
+        645
+      ],
+      "confidence": 0.3782539256063671
+    },
+    {
+      "text": "nccd",
+      "bbox": [
+        347,
+        629,
+        373,
+        643
+      ],
+      "confidence": 0.5430822372436523
+    },
+    {
+      "text": "Customcr Impact",
+      "bbox": [
+        409,
+        627,
+        497,
+        641
+      ],
+      "confidence": 0.9922853556759408
+    },
+    {
+      "text": "requcsted change affects",
+      "bbox": [
+        502,
+        625,
+        623,
+        642
+      ],
+      "confidence": 0.7615130189493154
+    },
+    {
+      "text": "Special Processing",
+      "bbox": [
+        119,
+        643,
+        215,
+        661
+      ],
+      "confidence": 0.9831814093694755
+    },
+    {
+      "text": "high volume file maintenan:? Or",
+      "bbox": [
+        221,
+        645,
+        377,
+        659
+      ],
+      "confidence": 0.3910507460825467
+    },
+    {
+      "text": "Be W\"s external customers",
+      "bbox": [
+        409,
+        641,
+        533,
+        655
+      ],
+      "confidence": 0.49325215425223795
+    },
+    {
+      "text": "data correction which is not",
+      "bbox": [
+        119,
+        659,
+        253,
+        673
+      ],
+      "confidence": 0.6834866326680755
+    },
+    {
+      "text": "of nornaL",
+      "bbox": [
+        275,
+        657,
+        321,
+        671
+      ],
+      "confidence": 0.5829715466434111
+    },
+    {
+      "text": "Govermcnt Requirement",
+      "bbox": [
+        409,
+        655,
+        539,
+        669
+      ],
+      "confidence": 0.8146814139340701
+    },
+    {
+      "text": "required by law",
+      "bbox": [
+        546,
+        652,
+        625,
+        670
+      ],
+      "confidence": 0.9738921620674883
+    },
+    {
+      "text": "Ad Hoc",
+      "bbox": [
+        119,
+        673,
+        161,
+        687
+      ],
+      "confidence": 0.8027147233910384
+    },
+    {
+      "text": "reporting requiremcnt Which",
+      "bbox": [
+        167,
+        673,
+        307,
+        687
+      ],
+      "confidence": 0.7008834420984945
+    },
+    {
+      "text": "part of",
+      "bbox": [
+        335,
+        671,
+        371,
+        685
+      ],
+      "confidence": 0.7097689627107544
+    },
+    {
+      "text": "Business",
+      "bbox": [
+        409,
+        671,
+        455,
+        683
+      ],
+      "confidence": 0.9940800784986271
+    },
+    {
+      "text": "change -",
+      "bbox": [
+        501,
+        671,
+        539,
+        685
+      ],
+      "confidence": 0.834305635966533
+    },
+    {
+      "text": "business",
+      "bbox": [
+        557,
+        669,
+        601,
+        681
+      ],
+      "confidence": 0.7162339047313743
+    },
+    {
+      "text": "normal proccssing",
+      "bbox": [
+        119,
+        687,
+        211,
+        701
+      ],
+      "confidence": 0.8032420918567345
+    },
+    {
+      "text": "proccss, Or implement strategic dirccuon",
+      "bbox": [
+        408,
+        683,
+        603,
+        699
+      ],
+      "confidence": 0.6093042551861777
+    },
+    {
+      "text": "Emergency",
+      "bbox": [
+        120,
+        700,
+        179,
+        718
+      ],
+      "confidence": 0.9994015195492386
+    },
+    {
+      "text": "application or technology failurc",
+      "bbox": [
+        185,
+        699,
+        345,
+        715
+      ],
+      "confidence": 0.967654583205238
+    },
+    {
+      "text": "System Error",
+      "bbox": [
+        409,
+        697,
+        479,
+        713
+      ],
+      "confidence": 0.9991956552379112
+    },
+    {
+      "text": "system",
+      "bbox": [
+        485,
+        699,
+        521,
+        711
+      ],
+      "confidence": 0.6057484175239151
+    },
+    {
+      "text": "funcuoning as",
+      "bbox": [
+        549,
+        697,
+        619,
+        711
+      ],
+      "confidence": 0.9404675626028465
+    },
+    {
+      "text": "designcd",
+      "bbox": [
+        409,
+        713,
+        453,
+        727
+      ],
+      "confidence": 0.7211555374348514
+    },
+    {
+      "text": "Procedural Error",
+      "bbox": [
+        409,
+        725,
+        499,
+        739
+      ],
+      "confidence": 0.9850591835380443
+    },
+    {
+      "text": "cused by user ,",
+      "bbox": [
+        504,
+        724,
+        577,
+        739
+      ],
+      "confidence": 0.36545825155443773
+    },
+    {
+      "text": "scheduling",
+      "bbox": [
+        578,
+        721,
+        637,
+        739
+      ],
+      "confidence": 0.5388530922663416
+    },
+    {
+      "text": "opcrations, etc",
+      "bbox": [
+        409,
+        741,
+        481,
+        755
+      ],
+      "confidence": 0.9301797733086783
+    },
+    {
+      "text": "REQUESLAUTHQRIZED BX",
+      "bbox": [
+        101,
+        781,
+        263,
+        799
+      ],
+      "confidence": 0.33997600421486185
+    },
+    {
+      "text": "MUST BE AUTHORIZED BY THE DEPARTMENT DIRECTOR OR THE",
+      "bbox": [
+        269,
+        779,
+        629,
+        797
+      ],
+      "confidence": 0.8431319753619047
+    },
+    {
+      "text": "DESIGNATED SYSTEM OWNER BEFORE SUBMISSION TO THE MIS CLIENT SYSTEMS MANAGER",
+      "bbox": [
+        100,
+        788,
+        622,
+        814
+      ],
+      "confidence": 0.7674732362316335
+    },
+    {
+      "text": "212009596",
+      "bbox": [
+        0,
+        953,
+        83,
+        969
+      ],
+      "confidence": 0.9999984105421744
+    },
+    {
+      "text": "PRODUCED",
+      "bbox": [
+        1,
+        969,
+        75,
+        985
+      ],
+      "confidence": 0.9984216023176107
+    },
+    {
+      "text": "EROM",
+      "bbox": [
+        79,
+        969,
+        119,
+        983
+      ],
+      "confidence": 0.5886592268943787
+    },
+    {
+      "text": "BEN",
+      "bbox": [
+        123,
+        969,
+        155,
+        983
+      ],
+      "confidence": 0.6316009188994887
+    },
+    {
+      "text": "WEB",
+      "bbox": [
+        159,
+        969,
+        189,
+        983
+      ],
+      "confidence": 0.509856641292572
+    },
+    {
+      "text": "SITE",
+      "bbox": [
+        195,
+        969,
+        233,
+        985
+      ],
+      "confidence": 0.9978209137916565
+    },
+    {
+      "text": "ncc",
+      "bbox": [
+        182,
+        615,
+        206,
+        629
+      ],
+      "confidence": 0.46151685881371374
+    },
+    {
+      "text": "Change",
+      "bbox": [
+        452,
+        667,
+        494,
+        684
+      ],
+      "confidence": 0.8057178181226321
+    }
+  ]
+}

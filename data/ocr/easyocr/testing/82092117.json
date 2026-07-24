@@ -1,0 +1,414 @@
+{
+  "words": [
+    {
+      "text": "AIT.",
+      "bbox": [
+        103,
+        87,
+        131,
+        101
+      ],
+      "confidence": 0.4790767729282379
+    },
+    {
+      "text": "FEMIN CFFICE Fax:614-466-5087",
+      "bbox": [
+        167,
+        85,
+        355,
+        101
+      ],
+      "confidence": 0.34540350759284066
+    },
+    {
+      "text": "Dec 10",
+      "bbox": [
+        419,
+        85,
+        461,
+        101
+      ],
+      "confidence": 0.8408406096774876
+    },
+    {
+      "text": "17:46",
+      "bbox": [
+        499,
+        85,
+        537,
+        99
+      ],
+      "confidence": 0.8313783835999758
+    },
+    {
+      "text": "P.Ci",
+      "bbox": [
+        563,
+        85,
+        591,
+        99
+      ],
+      "confidence": 0.5763119459152222
+    },
+    {
+      "text": "Attorney General",
+      "bbox": [
+        148,
+        151,
+        279,
+        171
+      ],
+      "confidence": 0.8274677384666835
+    },
+    {
+      "text": "Betty D. Montgomery",
+      "bbox": [
+        144,
+        168,
+        308,
+        193
+      ],
+      "confidence": 0.9662821713639801
+    },
+    {
+      "text": "CONFIDENTIAL FACSIMILE",
+      "bbox": [
+        273,
+        251,
+        459,
+        267
+      ],
+      "confidence": 0.6291994757955388
+    },
+    {
+      "text": "TRANSMISSION COVER SHEET",
+      "bbox": [
+        263,
+        267,
+        469,
+        283
+      ],
+      "confidence": 0.9554706236466517
+    },
+    {
+      "text": "FAXNO. (614) 466-5087",
+      "bbox": [
+        295,
+        297,
+        439,
+        315
+      ],
+      "confidence": 0.7907926381367515
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        103,
+        345,
+        133,
+        361
+      ],
+      "confidence": 0.9782536218942037
+    },
+    {
+      "text": "Geongs Baroody",
+      "bbox": [
+        144,
+        345,
+        237,
+        363
+      ],
+      "confidence": 0.36486181341051316
+    },
+    {
+      "text": "FAX NUMBER:",
+      "bbox": [
+        103,
+        377,
+        203,
+        393
+      ],
+      "confidence": 0.9932928581828825
+    },
+    {
+      "text": "(336)335.7392",
+      "bbox": [
+        225,
+        377,
+        311,
+        393
+      ],
+      "confidence": 0.38974253156632227
+    },
+    {
+      "text": "PHONE NUMBER: (36333-7363",
+      "bbox": [
+        385,
+        377,
+        591,
+        393
+      ],
+      "confidence": 0.3684290335132151
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        103,
+        409,
+        149,
+        425
+      ],
+      "confidence": 0.9921952495975775
+    },
+    {
+      "text": "42Q9B",
+      "bbox": [
+        185,
+        409,
+        237,
+        425
+      ],
+      "confidence": 0.4277392811080545
+    },
+    {
+      "text": "NUMBER OF PAGES INCLUDING COVER SHEET:",
+      "bbox": [
+        103,
+        439,
+        421,
+        457
+      ],
+      "confidence": 0.45489218436110745
+    },
+    {
+      "text": "SENDERPHONE NUMBER:",
+      "bbox": [
+        103,
+        473,
+        281,
+        489
+      ],
+      "confidence": 0.8044265487703907
+    },
+    {
+      "text": "Flyun for Eric Broun/(614466-8980",
+      "bbox": [
+        333,
+        473,
+        537,
+        489
+      ],
+      "confidence": 0.32137294089487517
+    },
+    {
+      "text": "SPECLAL INSTRUCTIONS:",
+      "bbox": [
+        103,
+        503,
+        277,
+        521
+      ],
+      "confidence": 0.9538239155591697
+    },
+    {
+      "text": "PLEASE CQNTACLSENDER",
+      "bbox": [
+        275,
+        615,
+        457,
+        633
+      ],
+      "confidence": 0.5976620795435933
+    },
+    {
+      "text": "AS SOONAS POSSIBLE",
+      "bbox": [
+        290,
+        629,
+        441,
+        649
+      ],
+      "confidence": 0.4475461636213441
+    },
+    {
+      "text": "NOTE;",
+      "bbox": [
+        101,
+        693,
+        143,
+        707
+      ],
+      "confidence": 0.679207596016024
+    },
+    {
+      "text": "THIS MESSAGE IS INTENDED ONLY FOR THE USE OF THE WIVIDUAL OR",
+      "bbox": [
+        165,
+        693,
+        563,
+        707
+      ],
+      "confidence": 0.4824082261161054
+    },
+    {
+      "text": "WHOM IT IS ADDRESSED AND MAY CONTAIN NORMATION THAT IS PRIVILEGED;",
+      "bbox": [
+        163,
+        707,
+        625,
+        721
+      ],
+      "confidence": 0.5209202684937192
+    },
+    {
+      "text": "CONFIDENTLAL",
+      "bbox": [
+        162,
+        718,
+        249,
+        735
+      ],
+      "confidence": 0.9777480182316688
+    },
+    {
+      "text": "AND EXEMPT FROM DISCLOSURE UNDER APPLICABLE LAW",
+      "bbox": [
+        253,
+        718,
+        589,
+        736
+      ],
+      "confidence": 0.7944744124762243
+    },
+    {
+      "text": "'gcrt responsibk for cclivcring",
+      "bbox": [
+        481,
+        731,
+        627,
+        750
+      ],
+      "confidence": 0.3368729952116704
+    },
+    {
+      "text": "disabuion",
+      "bbox": [
+        569,
+        747,
+        625,
+        761
+      ],
+      "confidence": 0.32908898774740764
+    },
+    {
+      "text": "coprig",
+      "bbox": [
+        163,
+        761,
+        205,
+        775
+      ],
+      "confidence": 0.3030966047380174
+    },
+    {
+      "text": "conveying cf tis",
+      "bbox": [
+        223,
+        761,
+        309,
+        775
+      ],
+      "confidence": 0.6600908426747125
+    },
+    {
+      "text": "strictly prohlbited",
+      "bbox": [
+        471,
+        761,
+        559,
+        775
+      ],
+      "confidence": 0.4724130451744571
+    },
+    {
+      "text": "rcceived this",
+      "bbox": [
+        163,
+        773,
+        227,
+        787
+      ],
+      "confidence": 0.3746127659787008
+    },
+    {
+      "text": "original message",
+      "bbox": [
+        162,
+        786,
+        245,
+        802
+      ],
+      "confidence": 0.6900443980887712
+    },
+    {
+      "text": "Postal Servix_",
+      "bbox": [
+        445,
+        786,
+        515,
+        799
+      ],
+      "confidence": 0.5056965786358664
+    },
+    {
+      "text": "Thank you for >our",
+      "bbox": [
+        525,
+        787,
+        627,
+        805
+      ],
+      "confidence": 0.4871375381032558
+    },
+    {
+      "text": "8",
+      "bbox": [
+        633,
+        785,
+        653,
+        813
+      ],
+      "confidence": 0.7782404575500692
+    },
+    {
+      "text": "30 East Broad Street_",
+      "bbox": [
+        281,
+        889,
+        387,
+        903
+      ],
+      "confidence": 0.7192628868312002
+    },
+    {
+      "text": "Columbus; Onio 43215-3428",
+      "bbox": [
+        393,
+        889,
+        541,
+        903
+      ],
+      "confidence": 0.6608243023010972
+    },
+    {
+      "text": "June",
+      "bbox": [
+        301,
+        470,
+        334,
+        490
+      ],
+      "confidence": 0.4384920001029968
+    }
+  ]
+}

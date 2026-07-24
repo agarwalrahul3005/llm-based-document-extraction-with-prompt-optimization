@@ -1,0 +1,474 @@
+{
+  "words": [
+    {
+      "text": "PRQJEC?'_INITIATION",
+      "bbox": [
+        259,
+        157,
+        415,
+        175
+      ],
+      "confidence": 0.5169645603939315
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        419,
+        161,
+        457,
+        175
+      ],
+      "confidence": 0.9739305973052979
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        72,
+        250,
+        137,
+        268
+      ],
+      "confidence": 0.9890314379298437
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        141,
+        253,
+        179,
+        267
+      ],
+      "confidence": 0.9977183938026428
+    },
+    {
+      "text": "BD-FF",
+      "bbox": [
+        265,
+        257,
+        303,
+        273
+      ],
+      "confidence": 0.7459904532875308
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        427,
+        259,
+        465,
+        273
+      ],
+      "confidence": 0.9988759160041809
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        73,
+        295,
+        135,
+        309
+      ],
+      "confidence": 0.9532237966164743
+    },
+    {
+      "text": "NAHE",
+      "bbox": [
+        139,
+        297,
+        177,
+        309
+      ],
+      "confidence": 0.8340027928352356
+    },
+    {
+      "text": "BULL_DURHMFuLL_Flayor_King_Size_Cigarettes",
+      "bbox": [
+        262,
+        298,
+        576,
+        324
+      ],
+      "confidence": 0.5478097917880468
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        73,
+        337,
+        135,
+        353
+      ],
+      "confidence": 0.999460126506064
+    },
+    {
+      "text": "LEADER",
+      "bbox": [
+        139,
+        339,
+        193,
+        353
+      ],
+      "confidence": 0.998256455372573
+    },
+    {
+      "text": "JE",
+      "bbox": [
+        263,
+        341,
+        295,
+        357
+      ],
+      "confidence": 0.8412443170334759
+    },
+    {
+      "text": "AndersLJ",
+      "bbox": [
+        305,
+        343,
+        367,
+        359
+      ],
+      "confidence": 0.8935231136705015
+    },
+    {
+      "text": "Mann",
+      "bbox": [
+        395,
+        345,
+        427,
+        359
+      ],
+      "confidence": 0.9496627449989319
+    },
+    {
+      "text": "NORK",
+      "bbox": [
+        71,
+        379,
+        109,
+        393
+      ],
+      "confidence": 0.4814355969429016
+    },
+    {
+      "text": "REQUESTED",
+      "bbox": [
+        113,
+        381,
+        193,
+        395
+      ],
+      "confidence": 0.9993778691553916
+    },
+    {
+      "text": "BY",
+      "bbox": [
+        197,
+        383,
+        219,
+        397
+      ],
+      "confidence": 0.5296386896267509
+    },
+    {
+      "text": "Marketing",
+      "bbox": [
+        260,
+        382,
+        329,
+        401
+      ],
+      "confidence": 0.9937332336504409
+    },
+    {
+      "text": "PROJEC",
+      "bbox": [
+        71,
+        423,
+        135,
+        437
+      ],
+      "confidence": 0.9998030403373686
+    },
+    {
+      "text": "OHJECTIVE",
+      "bbox": [
+        139,
+        425,
+        219,
+        439
+      ],
+      "confidence": 0.8990527468386396
+    },
+    {
+      "text": "\"tar",
+      "bbox": [
+        361,
+        427,
+        391,
+        443
+      ],
+      "confidence": 0.9744622111320496
+    },
+    {
+      "text": "deliyerx",
+      "bbox": [
+        401,
+        429,
+        461,
+        445
+      ],
+      "confidence": 0.6265535379661541
+    },
+    {
+      "text": "size cigarette_",
+      "bbox": [
+        499,
+        431,
+        601,
+        449
+      ],
+      "confidence": 0.39882321480802424
+    },
+    {
+      "text": "for_generic_pricing_dirccted_toward_young_",
+      "bbox": [
+        261,
+        455,
+        551,
+        475
+      ],
+      "confidence": 0.5941397968632005
+    },
+    {
+      "text": "male",
+      "bbox": [
+        555,
+        461,
+        587,
+        475
+      ],
+      "confidence": 0.9942031502723694
+    },
+    {
+      "text": "smokers",
+      "bbox": [
+        261,
+        483,
+        313,
+        499
+      ],
+      "confidence": 0.9854622298540052
+    },
+    {
+      "text": "Cigarette_diqensions",
+      "bbox": [
+        331,
+        485,
+        475,
+        501
+      ],
+      "confidence": 0.6531312100199058
+    },
+    {
+      "text": "MX 24.9 M",
+      "bbox": [
+        513,
+        487,
+        601,
+        503
+      ],
+      "confidence": 0.33226070889791626
+    },
+    {
+      "text": "circumference",
+      "bbox": [
+        258,
+        509,
+        355,
+        529
+      ],
+      "confidence": 0.7570854508632396
+    },
+    {
+      "text": "20 m filter",
+      "bbox": [
+        373,
+        513,
+        461,
+        531
+      ],
+      "confidence": 0.6145445072225508
+    },
+    {
+      "text": "24mm_tipping.",
+      "bbox": [
+        477,
+        514,
+        579,
+        535
+      ],
+      "confidence": 0.4055823924720983
+    },
+    {
+      "text": "Offshore tobacco blend with unique_flavor_formulation_",
+      "bbox": [
+        258,
+        535,
+        636,
+        560
+      ],
+      "confidence": 0.6688585733942201
+    },
+    {
+      "text": "Cork_tipping:",
+      "bbox": [
+        259,
+        565,
+        353,
+        583
+      ],
+      "confidence": 0.6128377473989929
+    },
+    {
+      "text": "OTHER PERSONNEL",
+      "bbox": [
+        69,
+        591,
+        177,
+        607
+      ],
+      "confidence": 0.9719155490180539
+    },
+    {
+      "text": "ASSIGNED",
+      "bbox": [
+        83,
+        603,
+        143,
+        619
+      ],
+      "confidence": 0.5362359166117868
+    },
+    {
+      "text": "Approved by",
+      "bbox": [
+        370,
+        716,
+        467,
+        735
+      ],
+      "confidence": 0.9642097485919475
+    },
+    {
+      "text": "cc:",
+      "bbox": [
+        67,
+        757,
+        93,
+        769
+      ],
+      "confidence": 0.4148042535588666
+    },
+    {
+      "text": "RSS",
+      "bbox": [
+        109,
+        757,
+        137,
+        771
+      ],
+      "confidence": 0.9196878466700481
+    },
+    {
+      "text": "RIJC",
+      "bbox": [
+        109,
+        771,
+        137,
+        783
+      ],
+      "confidence": 0.5100045204162598
+    },
+    {
+      "text": "PH",
+      "bbox": [
+        109,
+        785,
+        137,
+        799
+      ],
+      "confidence": 0.9975523150010749
+    },
+    {
+      "text": "PRC",
+      "bbox": [
+        109,
+        799,
+        137,
+        813
+      ],
+      "confidence": 0.998926674464184
+    },
+    {
+      "text": "DRB",
+      "bbox": [
+        111,
+        813,
+        139,
+        829
+      ],
+      "confidence": 0.9939774496336772
+    },
+    {
+      "text": "Records",
+      "bbox": [
+        109,
+        825,
+        171,
+        841
+      ],
+      "confidence": 0.9998608161816067
+    },
+    {
+      "text": "Projccl Leader",
+      "bbox": [
+        109,
+        839,
+        229,
+        857
+      ],
+      "confidence": 0.9437151439458967
+    },
+    {
+      "text": "Other Personnel",
+      "bbox": [
+        107,
+        854,
+        237,
+        872
+      ],
+      "confidence": 0.8215659963969416
+    },
+    {
+      "text": "Assigned",
+      "bbox": [
+        243,
+        857,
+        313,
+        873
+      ],
+      "confidence": 0.9970973285952309
+    },
+    {
+      "text": "king",
+      "bbox": [
+        462,
+        427,
+        497,
+        447
+      ],
+      "confidence": 0.9901046752929688
+    }
+  ]
+}

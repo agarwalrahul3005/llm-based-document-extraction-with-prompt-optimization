@@ -1,0 +1,494 @@
+{
+  "words": [
+    {
+      "text": "INKS",
+      "bbox": [
+        376,
+        75,
+        404,
+        84
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        413,
+        76,
+        419,
+        84
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "COATINGS",
+      "bbox": [
+        427,
+        76,
+        486,
+        86
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "CORP.",
+      "bbox": [
+        494,
+        78,
+        528,
+        87
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Formila",
+      "bbox": [
+        317,
+        103,
+        367,
+        113
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "customer",
+      "bbox": [
+        167,
+        142,
+        225,
+        152
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": [
+        558,
+        133,
+        712,
+        159
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Produet",
+      "bbox": [
+        166,
+        172,
+        216,
+        181
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Green",
+      "bbox": [
+        327,
+        177,
+        363,
+        186
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "GEC",
+      "bbox": [
+        588,
+        176,
+        615,
+        190
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "1",
+      "bbox": [
+        624,
+        177,
+        628,
+        190
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "1",
+      "bbox": [
+        638,
+        179,
+        642,
+        192
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "1989",
+      "bbox": [
+        651,
+        178,
+        677,
+        193
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Green",
+      "bbox": [
+        329,
+        164,
+        469,
+        198
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Formula",
+      "bbox": [
+        166,
+        201,
+        216,
+        210
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Wo.",
+      "bbox": [
+        224,
+        202,
+        244,
+        211
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "A.C.D.",
+      "bbox": [
+        592,
+        209,
+        663,
+        229
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Lecithin",
+      "bbox": [
+        303,
+        280,
+        361,
+        289
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "(food",
+      "bbox": [
+        377,
+        281,
+        404,
+        290
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Grade",
+      "bbox": [
+        413,
+        281,
+        449,
+        290
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Epoxddized",
+      "bbox": [
+        303,
+        302,
+        375,
+        313
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Soy",
+      "bbox": [
+        384,
+        303,
+        405,
+        315
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Bean",
+      "bbox": [
+        413,
+        303,
+        441,
+        312
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "O11",
+      "bbox": [
+        449,
+        304,
+        471,
+        313
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Nitrate",
+      "bbox": [
+        375,
+        325,
+        426,
+        334
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Wet",
+      "bbox": [
+        434,
+        326,
+        456,
+        334
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "w/?",
+      "bbox": [
+        464,
+        325,
+        485,
+        336
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Propenol",
+      "bbox": [
+        494,
+        326,
+        551,
+        338
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Nitrate",
+      "bbox": [
+        377,
+        313,
+        427,
+        348
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Wet",
+      "bbox": [
+        435,
+        313,
+        456,
+        348
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "w/2",
+      "bbox": [
+        464,
+        313,
+        486,
+        348
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Yellow",
+      "bbox": [
+        368,
+        347,
+        412,
+        356
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "34",
+      "bbox": [
+        420,
+        348,
+        433,
+        357
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Pigment,",
+      "bbox": [
+        301,
+        368,
+        352,
+        377
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Blue",
+      "bbox": [
+        368,
+        369,
+        396,
+        378
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "15:4",
+      "bbox": [
+        406,
+        369,
+        432,
+        378
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Dotvex",
+      "bbox": [
+        619,
+        390,
+        660,
+        403
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "IAPTY",
+      "bbox": [
+        667,
+        392,
+        712,
+        405
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Total",
+      "bbox": [
+        156,
+        547,
+        192,
+        557
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Solids,",
+      "bbox": [
+        202,
+        548,
+        244,
+        558
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        767,
+        557,
+        769,
+        578
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Toluene",
+      "bbox": [
+        297,
+        617,
+        348,
+        627
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "een",
+      "bbox": [
+        243,
+        626,
+        593,
+        636
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "\u2014\u2014\u2014Igopropyl",
+      "bbox": [
+        242,
+        639,
+        592,
+        657
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "Acetate",
+      "bbox": [
+        370,
+        635,
+        427,
+        661
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Acetate",
+      "bbox": [
+        363,
+        658,
+        418,
+        684
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Total",
+      "bbox": [
+        142,
+        840,
+        177,
+        849
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "1245/89",
+      "bbox": [
+        229,
+        938,
+        278,
+        950
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "605110969",
+      "bbox": [
+        571,
+        968,
+        691,
+        989
+      ],
+      "confidence": 54.0
+    }
+  ]
+}

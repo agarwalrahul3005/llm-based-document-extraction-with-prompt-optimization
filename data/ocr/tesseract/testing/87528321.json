@@ -1,0 +1,1314 @@
+{
+  "words": [
+    {
+      "text": "nant",
+      "bbox": [
+        26,
+        0,
+        60,
+        36
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "REQUEST",
+      "bbox": [
+        247,
+        14,
+        301,
+        24
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "FOR",
+      "bbox": [
+        310,
+        14,
+        333,
+        22
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "CRANGE",
+      "bbox": [
+        341,
+        13,
+        388,
+        22
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "7/68",
+      "bbox": [
+        326,
+        28,
+        356,
+        39
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "re",
+      "bbox": [
+        640,
+        26,
+        663,
+        34
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "000029",
+      "bbox": [
+        679,
+        25,
+        724,
+        34
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Baw",
+      "bbox": [
+        170,
+        61,
+        193,
+        69
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Dave",
+      "bbox": [
+        444,
+        59,
+        475,
+        67
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Prepared",
+      "bbox": [
+        483,
+        57,
+        545,
+        69
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "fr",
+      "bbox": [
+        31,
+        83,
+        436,
+        101
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "Receives",
+      "bbox": [
+        609,
+        85,
+        670,
+        94
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "By",
+      "bbox": [
+        679,
+        86,
+        693,
+        96
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Wana",
+      "bbox": [
+        116,
+        121,
+        147,
+        129
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        155,
+        120,
+        178,
+        129
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Mat",
+      "bbox": [
+        86,
+        167,
+        108,
+        176
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        117,
+        166,
+        140,
+        175
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Glass",
+      "bbox": [
+        186,
+        165,
+        225,
+        175
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Mat,",
+      "bbox": [
+        232,
+        165,
+        256,
+        174
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "spec",
+      "bbox": [
+        461,
+        209,
+        491,
+        220
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "connge",
+      "bbox": [
+        499,
+        208,
+        546,
+        219
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        40,
+        238,
+        64,
+        241
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "compatibity",
+      "bbox": [
+        268,
+        213,
+        358,
+        243
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "cost",
+      "bbox": [
+        461,
+        224,
+        491,
+        233
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "Redaction",
+      "bbox": [
+        499,
+        222,
+        570,
+        232
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "TK",
+      "bbox": [
+        40,
+        244,
+        64,
+        256
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "change",
+      "bbox": [
+        79,
+        243,
+        124,
+        254
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "other",
+      "bbox": [
+        461,
+        239,
+        500,
+        248
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "TE",
+      "bbox": [
+        617,
+        238,
+        641,
+        250
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Routine",
+      "bbox": [
+        649,
+        237,
+        702,
+        246
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Description",
+      "bbox": [
+        33,
+        273,
+        117,
+        285
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        125,
+        272,
+        140,
+        282
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\u2018The",
+      "bbox": [
+        64,
+        289,
+        87,
+        298
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "current",
+      "bbox": [
+        95,
+        288,
+        148,
+        297
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "specifications",
+      "bbox": [
+        157,
+        286,
+        264,
+        299
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        274,
+        286,
+        296,
+        296
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "glase",
+      "bbox": [
+        304,
+        286,
+        343,
+        298
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "mat",
+      "bbox": [
+        351,
+        286,
+        374,
+        295
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        382,
+        285,
+        405,
+        295
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "slit",
+      "bbox": [
+        414,
+        285,
+        445,
+        295
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "glass",
+      "bbox": [
+        453,
+        285,
+        492,
+        297
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "mat",
+      "bbox": [
+        499,
+        285,
+        522,
+        294
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "can",
+      "bbox": [
+        531,
+        286,
+        555,
+        293
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        563,
+        284,
+        578,
+        293
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "wade",
+      "bbox": [
+        586,
+        283,
+        617,
+        293
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "more",
+      "bbox": [
+        625,
+        285,
+        656,
+        292
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "accurate",
+      "bbox": [
+        665,
+        283,
+        726,
+        292
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "tnd",
+      "bbox": [
+        64,
+        304,
+        86,
+        313
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "couplete",
+      "bbox": [
+        95,
+        303,
+        156,
+        315
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        164,
+        302,
+        195,
+        312
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        203,
+        302,
+        226,
+        312
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "following",
+      "bbox": [
+        235,
+        301,
+        304,
+        313
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Giese",
+      "bbox": [
+        64,
+        334,
+        102,
+        343
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "wats",
+      "bbox": [
+        109,
+        334,
+        139,
+        342
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Delete",
+      "bbox": [
+        218,
+        332,
+        265,
+        342
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "copies",
+      "bbox": [
+        273,
+        332,
+        327,
+        343
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "fron",
+      "bbox": [
+        336,
+        331,
+        367,
+        340
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "itea",
+      "bbox": [
+        375,
+        331,
+        406,
+        340
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "desoription.",
+      "bbox": [
+        413,
+        330,
+        506,
+        342
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Change",
+      "bbox": [
+        218,
+        347,
+        265,
+        359
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "glass",
+      "bbox": [
+        273,
+        347,
+        312,
+        359
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "softening",
+      "bbox": [
+        320,
+        346,
+        390,
+        358
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "poine",
+      "bbox": [
+        398,
+        346,
+        438,
+        358
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "10",
+      "bbox": [
+        532,
+        345,
+        547,
+        354
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "degrees",
+      "bbox": [
+        555,
+        344,
+        610,
+        356
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "fxoa",
+      "bbox": [
+        619,
+        344,
+        649,
+        353
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "750.",
+      "bbox": [
+        657,
+        344,
+        685,
+        353
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Change",
+      "bbox": [
+        218,
+        363,
+        265,
+        374
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "rolls",
+      "bbox": [
+        273,
+        362,
+        312,
+        372
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "per",
+      "bbox": [
+        320,
+        364,
+        343,
+        374
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "pallet",
+      "bbox": [
+        351,
+        361,
+        397,
+        374
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        406,
+        362,
+        422,
+        371
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        430,
+        361,
+        437,
+        371
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "froa",
+      "bbox": [
+        447,
+        361,
+        478,
+        370
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        485,
+        361,
+        498,
+        370
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Slit",
+      "bbox": [
+        64,
+        395,
+        94,
+        404
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Glass",
+      "bbox": [
+        102,
+        395,
+        141,
+        404
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Hatz",
+      "bbox": [
+        148,
+        395,
+        178,
+        404
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Delete",
+      "bbox": [
+        218,
+        394,
+        266,
+        403
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "C-gless",
+      "bbox": [
+        273,
+        388,
+        328,
+        405
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "from",
+      "bbox": [
+        337,
+        393,
+        368,
+        402
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "item",
+      "bbox": [
+        376,
+        392,
+        407,
+        402
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "description.",
+      "bbox": [
+        414,
+        391,
+        506,
+        403
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Change",
+      "bbox": [
+        218,
+        409,
+        266,
+        421
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "bobbing",
+      "bbox": [
+        273,
+        408,
+        328,
+        418
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "per",
+      "bbox": [
+        336,
+        410,
+        359,
+        420
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "atuck",
+      "bbox": [
+        368,
+        408,
+        407,
+        417
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        414,
+        408,
+        430,
+        417
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "47",
+      "bbox": [
+        439,
+        407,
+        454,
+        417
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "fron",
+      "bbox": [
+        463,
+        407,
+        493,
+        417
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "45.",
+      "bbox": [
+        501,
+        407,
+        521,
+        416
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Suteige",
+      "bbox": [
+        250,
+        424,
+        305,
+        433
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "apece",
+      "bbox": [
+        384,
+        425,
+        422,
+        434
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        430,
+        422,
+        446,
+        432
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "30-0,",
+      "bbox": [
+        455,
+        422,
+        491,
+        433
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "26.0",
+      "bbox": [
+        501,
+        422,
+        532,
+        431
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        540,
+        425,
+        547,
+        428
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "31.0",
+      "bbox": [
+        556,
+        421,
+        587,
+        430
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        119,
+        547,
+        142,
+        556
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "current",
+      "bbox": [
+        150,
+        547,
+        204,
+        556
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "HSS",
+      "bbox": [
+        212,
+        547,
+        235,
+        555
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "epecktications",
+      "bbox": [
+        244,
+        545,
+        352,
+        557
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "outlined",
+      "bbox": [
+        384,
+        544,
+        447,
+        554
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "above.",
+      "bbox": [
+        456,
+        544,
+        499,
+        553
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Signature",
+      "bbox": [
+        229,
+        729,
+        299,
+        741
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Tate",
+      "bbox": [
+        730,
+        726,
+        760,
+        734
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Accepted",
+      "bbox": [
+        58,
+        746,
+        119,
+        757
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        129,
+        746,
+        151,
+        754
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OnE",
+      "bbox": [
+        730,
+        786,
+        760,
+        794
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Action",
+      "bbox": [
+        36,
+        821,
+        82,
+        830
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Taken",
+      "bbox": [
+        90,
+        821,
+        128,
+        830
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "or",
+      "bbox": [
+        136,
+        823,
+        151,
+        830
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Reason",
+      "bbox": [
+        160,
+        822,
+        206,
+        830
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        215,
+        820,
+        237,
+        829
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Rejection",
+      "bbox": [
+        245,
+        820,
+        315,
+        831
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "OLE",
+      "bbox": [
+        541,
+        810,
+        588,
+        828
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "PROOUCT",
+      "bbox": [
+        538,
+        830,
+        590,
+        841
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "REYLEW",
+      "bbox": [
+        598,
+        833,
+        628,
+        841
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "COMMITTEE)",
+      "bbox": [
+        653,
+        832,
+        722,
+        840
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "ae",
+      "bbox": [
+        544,
+        876,
+        591,
+        889
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "ne",
+      "bbox": [
+        615,
+        874,
+        670,
+        894
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "bates",
+      "bbox": [
+        474,
+        894,
+        509,
+        903
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        523,
+        874,
+        532,
+        921
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "ro?",
+      "bbox": [
+        536,
+        890,
+        590,
+        902
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "TET",
+      "bbox": [
+        684,
+        892,
+        753,
+        917
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Pes",
+      "bbox": [
+        642,
+        889,
+        679,
+        933
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Fee.",
+      "bbox": [
+        689,
+        901,
+        757,
+        918
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "ae",
+      "bbox": [
+        722,
+        918,
+        754,
+        925
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "ws",
+      "bbox": [
+        601,
+        942,
+        614,
+        947
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Cele",
+      "bbox": [
+        631,
+        935,
+        656,
+        945
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Tyke",
+      "bbox": [
+        670,
+        934,
+        717,
+        946
+      ],
+      "confidence": 35.0
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "words": [
+    {
+      "text": "ORACLE",
+      "bbox": [
+        585,
+        117,
+        631,
+        129
+      ],
+      "confidence": 0.9743177391966439
+    },
+    {
+      "text": "Market Research",
+      "bbox": [
+        235,
+        159,
+        361,
+        175
+      ],
+      "confidence": 0.9250960355334357
+    },
+    {
+      "text": "Initiating Projeet Brief",
+      "bbox": [
+        369,
+        154,
+        542,
+        180
+      ],
+      "confidence": 0.6036668506778646
+    },
+    {
+      "text": "Mricf Number:",
+      "bbox": [
+        125,
+        205,
+        211,
+        219
+      ],
+      "confidence": 0.8916432564380475
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        522,
+        206,
+        557,
+        220
+      ],
+      "confidence": 0.31033513935679136
+    },
+    {
+      "text": "02/12/98",
+      "bbox": [
+        573,
+        207,
+        625,
+        221
+      ],
+      "confidence": 0.32572314096630123
+    },
+    {
+      "text": "Clicnt Group:",
+      "bbox": [
+        123,
+        239,
+        201,
+        253
+      ],
+      "confidence": 0.7362619877276622
+    },
+    {
+      "text": "COLOMKIA",
+      "bbox": [
+        313,
+        239,
+        385,
+        251
+      ],
+      "confidence": 0.8386965990996691
+    },
+    {
+      "text": "KOOL",
+      "bbox": [
+        313,
+        255,
+        351,
+        269
+      ],
+      "confidence": 0.995900571346283
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        219,
+        271,
+        253,
+        285
+      ],
+      "confidence": 0.8296147063512965
+    },
+    {
+      "text": "lient",
+      "bbox": [
+        127,
+        305,
+        157,
+        319
+      ],
+      "confidence": 0.9826277568900386
+    },
+    {
+      "text": "ontact:",
+      "bbox": [
+        165,
+        307,
+        209,
+        319
+      ],
+      "confidence": 0.30998920352244247
+    },
+    {
+      "text": "Reseurch",
+      "bbox": [
+        393,
+        305,
+        451,
+        319
+      ],
+      "confidence": 0.7039628005235904
+    },
+    {
+      "text": "iison:",
+      "bbox": [
+        459,
+        305,
+        501,
+        319
+      ],
+      "confidence": 0.8417232982814726
+    },
+    {
+      "text": "Caiilo \u20ac onchwAndrea",
+      "bbox": [
+        505,
+        305,
+        637,
+        319
+      ],
+      "confidence": 0.30995328433616515
+    },
+    {
+      "text": "Edwin (iarcia",
+      "bbox": [
+        221,
+        321,
+        297,
+        335
+      ],
+      "confidence": 0.9351610791449724
+    },
+    {
+      "text": "Suarez",
+      "bbox": [
+        505,
+        321,
+        545,
+        335
+      ],
+      "confidence": 0.612209760386285
+    },
+    {
+      "text": "Medellin an Barranquili;",
+      "bbox": [
+        229,
+        389,
+        375,
+        405
+      ],
+      "confidence": 0.39406943931528715
+    },
+    {
+      "text": "Refcrent Brand(s):",
+      "bbox": [
+        121,
+        427,
+        231,
+        441
+      ],
+      "confidence": 0.6019345612896949
+    },
+    {
+      "text": "Colombia.",
+      "bbox": [
+        271,
+        443,
+        329,
+        457
+      ],
+      "confidence": 0.9214934327670548
+    },
+    {
+      "text": "nig Lar: @ 0519 Menthol; white tipping",
+      "bbox": [
+        345,
+        443,
+        571,
+        459
+      ],
+      "confidence": 0.335709750274846
+    },
+    {
+      "text": "%0 menthol, white tipping;",
+      "bbox": [
+        277,
+        475,
+        421,
+        491
+      ],
+      "confidence": 0.40416672181713464
+    },
+    {
+      "text": "ighis Mentthol",
+      "bbox": [
+        239,
+        491,
+        319,
+        507
+      ],
+      "confidence": 0.3402761908848841
+    },
+    {
+      "text": "616,\"& nlethol, whitee tipping_",
+      "bbox": [
+        447,
+        491,
+        601,
+        507
+      ],
+      "confidence": 0.31969909854992234
+    },
+    {
+      "text": "Seemcnus:",
+      "bbox": [
+        180,
+        526,
+        253,
+        544
+      ],
+      "confidence": 0.3215282654193674
+    },
+    {
+      "text": "Male",
+      "bbox": [
+        121,
+        543,
+        151,
+        557
+      ],
+      "confidence": 0.8765048980712891
+    },
+    {
+      "text": "ABI (F\"o)",
+      "bbox": [
+        189,
+        591,
+        261,
+        605
+      ],
+      "confidence": 0.37004259991747723
+    },
+    {
+      "text": "[iogota:",
+      "bbox": [
+        189,
+        607,
+        235,
+        621
+      ],
+      "confidence": 0.39507727938916537
+    },
+    {
+      "text": "Mentiol",
+      "bbox": [
+        121,
+        753,
+        169,
+        767
+      ],
+      "confidence": 0.5012315468675687
+    },
+    {
+      "text": "ights KS Box",
+      "bbox": [
+        177,
+        753,
+        259,
+        769
+      ],
+      "confidence": 0.5918494716096321
+    },
+    {
+      "text": "tar} in Coknbia .",
+      "bbox": [
+        295,
+        753,
+        397,
+        767
+      ],
+      "confidence": 0.3043406872206737
+    },
+    {
+      "text": "products",
+      "bbox": [
+        468,
+        753,
+        519,
+        769
+      ],
+      "confidence": 0.9811177686731652
+    },
+    {
+      "text": "KOL",
+      "bbox": [
+        569,
+        753,
+        607,
+        767
+      ],
+      "confidence": 0.47695736045244397
+    },
+    {
+      "text": "competitors (Premium Menthol Brands).",
+      "bbox": [
+        121,
+        769,
+        341,
+        785
+      ],
+      "confidence": 0.45478162386166593
+    },
+    {
+      "text": "KOOL replaced is product with",
+      "bbox": [
+        227,
+        784,
+        413,
+        802
+      ],
+      "confidence": 0.6418661476908677
+    },
+    {
+      "text": "mnilder",
+      "bbox": [
+        425,
+        785,
+        465,
+        801
+      ],
+      "confidence": 0.9137881611873486
+    },
+    {
+      "text": "Milads but # ith",
+      "bbox": [
+        121,
+        803,
+        203,
+        817
+      ],
+      "confidence": 0.3165277111308888
+    },
+    {
+      "text": "70n Cork tipping)",
+      "bbox": [
+        217,
+        803,
+        323,
+        817
+      ],
+      "confidence": 0.459349009395235
+    },
+    {
+      "text": "440026083",
+      "bbox": [
+        0,
+        953,
+        81,
+        967
+      ],
+      "confidence": 0.9988286481157476
+    },
+    {
+      "text": "PRODUCED",
+      "bbox": [
+        1,
+        969,
+        75,
+        985
+      ],
+      "confidence": 0.9984216023176107
+    },
+    {
+      "text": "EROM",
+      "bbox": [
+        79,
+        969,
+        119,
+        983
+      ],
+      "confidence": 0.5886592268943787
+    },
+    {
+      "text": "BEN",
+      "bbox": [
+        123,
+        969,
+        155,
+        983
+      ],
+      "confidence": 0.6316009188994887
+    },
+    {
+      "text": "WEB",
+      "bbox": [
+        159,
+        969,
+        189,
+        983
+      ],
+      "confidence": 0.509856641292572
+    },
+    {
+      "text": "SITE",
+      "bbox": [
+        195,
+        969,
+        233,
+        985
+      ],
+      "confidence": 0.9978209137916565
+    },
+    {
+      "text": "King",
+      "bbox": [
+        318,
+        490,
+        349,
+        506
+      ],
+      "confidence": 0.8715423475072397
+    },
+    {
+      "text": "ryular",
+      "bbox": [
+        326,
+        605,
+        368,
+        623
+      ],
+      "confidence": 0.6097918162642461
+    },
+    {
+      "text": "'quilla:",
+      "bbox": [
+        197,
+        619,
+        241,
+        637
+      ],
+      "confidence": 0.7875639305018215
+    },
+    {
+      "text": "repular",
+      "bbox": [
+        326,
+        637,
+        368,
+        655
+      ],
+      "confidence": 0.5410374673016999
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "words": [
+    {
+      "text": "CONFIDENTIAL",
+      "bbox": [
+        557,
+        93,
+        657,
+        104
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        261,
+        171,
+        319,
+        180
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "INITIATION",
+      "bbox": [
+        329,
+        171,
+        412,
+        180
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        420,
+        171,
+        455,
+        180
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        59,
+        286,
+        117,
+        295
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "CODE:",
+      "bbox": [
+        126,
+        286,
+        166,
+        295
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "pang:",
+      "bbox": [
+        477,
+        271,
+        520,
+        303
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "September",
+      "bbox": [
+        523,
+        276,
+        681,
+        299
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "16,",
+      "bbox": [
+        615,
+        271,
+        640,
+        303
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "1980",
+      "bbox": [
+        647,
+        271,
+        685,
+        303
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        60,
+        329,
+        117,
+        338
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        127,
+        329,
+        166,
+        337
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        254,
+        324,
+        260,
+        326
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "PROJECS",
+      "bbox": [
+        60,
+        371,
+        118,
+        380
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "LEADER:",
+      "bbox": [
+        127,
+        371,
+        183,
+        380
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "E.",
+      "bbox": [
+        253,
+        362,
+        266,
+        372
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "P.",
+      "bbox": [
+        279,
+        362,
+        292,
+        372
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Barbee",
+      "bbox": [
+        304,
+        362,
+        353,
+        372
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "WORK",
+      "bbox": [
+        59,
+        414,
+        93,
+        423
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "REQUESTED",
+      "bbox": [
+        102,
+        414,
+        177,
+        425
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        187,
+        414,
+        208,
+        423
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        253,
+        405,
+        266,
+        415
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "8.",
+      "bbox": [
+        279,
+        405,
+        291,
+        415
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Sprinkle,",
+      "bbox": [
+        304,
+        404,
+        376,
+        418
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "IIT",
+      "bbox": [
+        389,
+        405,
+        411,
+        415
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "WD",
+      "bbox": [
+        11,
+        449,
+        44,
+        471
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "To",
+      "bbox": [
+        253,
+        448,
+        269,
+        458
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "develop",
+      "bbox": [
+        279,
+        447,
+        336,
+        460
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "an",
+      "bbox": [
+        346,
+        450,
+        362,
+        458
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "83",
+      "bbox": [
+        371,
+        447,
+        387,
+        458
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        395,
+        450,
+        413,
+        458
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "x",
+      "bbox": [
+        422,
+        451,
+        430,
+        458
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "24,9",
+      "bbox": [
+        439,
+        448,
+        471,
+        459
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "um",
+      "bbox": [
+        480,
+        451,
+        498,
+        459
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "cigarette",
+      "bbox": [
+        506,
+        448,
+        580,
+        461
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "delivering",
+      "bbox": [
+        253,
+        475,
+        337,
+        488
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "1",
+      "bbox": [
+        347,
+        475,
+        352,
+        486
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "mg/cigt",
+      "bbox": [
+        362,
+        475,
+        420,
+        489
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "\"tar.\"",
+      "bbox": [
+        430,
+        475,
+        479,
+        486
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Cigarette",
+      "bbox": [
+        497,
+        476,
+        572,
+        489
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        582,
+        477,
+        597,
+        486
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "utilize",
+      "bbox": [
+        253,
+        503,
+        311,
+        514
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        321,
+        507,
+        328,
+        514
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "filter",
+      "bbox": [
+        338,
+        503,
+        387,
+        514
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "tip",
+      "bbox": [
+        397,
+        504,
+        420,
+        518
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        429,
+        504,
+        462,
+        514
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "longitudinal",
+      "bbox": [
+        473,
+        503,
+        572,
+        518
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "grooves",
+      "bbox": [
+        581,
+        507,
+        638,
+        518
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "from",
+      "bbox": [
+        253,
+        532,
+        287,
+        543
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        296,
+        532,
+        319,
+        543
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "mouth",
+      "bbox": [
+        328,
+        533,
+        370,
+        543
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "end",
+      "bbox": [
+        379,
+        533,
+        404,
+        543
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        414,
+        534,
+        429,
+        543
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        439,
+        533,
+        462,
+        543
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "tobacco",
+      "bbox": [
+        473,
+        533,
+        530,
+        543
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "end",
+      "bbox": [
+        539,
+        533,
+        564,
+        543
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        573,
+        533,
+        588,
+        543
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "con-",
+      "bbox": [
+        598,
+        536,
+        629,
+        543
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Jjumecion",
+      "bbox": [
+        253,
+        561,
+        319,
+        573
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        328,
+        560,
+        361,
+        571
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "perforated",
+      "bbox": [
+        370,
+        560,
+        455,
+        574
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "tipping",
+      "bbox": [
+        464,
+        561,
+        522,
+        574
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "paper.",
+      "bbox": [
+        530,
+        564,
+        577,
+        574
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        60,
+        613,
+        102,
+        622
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PERSONNEL",
+      "bbox": [
+        112,
+        613,
+        186,
+        622
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        253,
+        618,
+        265,
+        628
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "EB,",
+      "bbox": [
+        277,
+        618,
+        291,
+        628
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Mann,",
+      "bbox": [
+        303,
+        618,
+        342,
+        630
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Jr.",
+      "bbox": [
+        373,
+        625,
+        376,
+        628
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "ASSIGNED:",
+      "bbox": [
+        60,
+        628,
+        134,
+        637
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "JY.",
+      "bbox": [
+        354,
+        618,
+        370,
+        628
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "D.",
+      "bbox": [
+        253,
+        648,
+        265,
+        658
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "E,",
+      "bbox": [
+        277,
+        648,
+        291,
+        658
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Cawthon",
+      "bbox": [
+        303,
+        647,
+        361,
+        658
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Approved",
+      "bbox": [
+        406,
+        762,
+        474,
+        775
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "by:",
+      "bbox": [
+        482,
+        762,
+        505,
+        775
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Mon",
+      "bbox": [
+        579,
+        811,
+        631,
+        820
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        412,
+        831,
+        425,
+        841
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "\u2018inkie,",
+      "bbox": [
+        488,
+        830,
+        535,
+        843
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "LII",
+      "bbox": [
+        547,
+        831,
+        570,
+        841
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "ce:",
+      "bbox": [
+        59,
+        861,
+        79,
+        869
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "JEM/DEC",
+      "bbox": [
+        100,
+        876,
+        158,
+        888
+      ],
+      "confidence": 66.0
+    }
+  ]
+}

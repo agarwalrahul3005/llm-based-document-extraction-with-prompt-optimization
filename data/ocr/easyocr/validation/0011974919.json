@@ -1,0 +1,434 @@
+{
+  "words": [
+    {
+      "text": "RESPONSE CODE REQUEST CONFIRMATION",
+      "bbox": [
+        128,
+        130,
+        594,
+        158
+      ],
+      "confidence": 0.8030869433993361
+    },
+    {
+      "text": "Joe Leinster",
+      "bbox": [
+        221,
+        203,
+        289,
+        217
+      ],
+      "confidence": 0.9997553377948568
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        172,
+        236,
+        207,
+        254
+      ],
+      "confidence": 0.9011530670562957
+    },
+    {
+      "text": "Joyce Bagby",
+      "bbox": [
+        221,
+        235,
+        293,
+        251
+      ],
+      "confidence": 0.48818872391541746
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        173,
+        267,
+        205,
+        281
+      ],
+      "confidence": 0.9961289822184434
+    },
+    {
+      "text": "September 10, 1996",
+      "bbox": [
+        221,
+        261,
+        331,
+        277
+      ],
+      "confidence": 0.8207285871423796
+    },
+    {
+      "text": "Brand: Eclipse",
+      "bbox": [
+        69,
+        305,
+        151,
+        325
+      ],
+      "confidence": 0.998640086870222
+    },
+    {
+      "text": "PPS Program #",
+      "bbox": [
+        283,
+        310,
+        371,
+        328
+      ],
+      "confidence": 0.8004913371853043
+    },
+    {
+      "text": "602399",
+      "bbox": [
+        377,
+        307,
+        421,
+        321
+      ],
+      "confidence": 0.9651133270090135
+    },
+    {
+      "text": "Requested By:",
+      "bbox": [
+        443,
+        311,
+        523,
+        327
+      ],
+      "confidence": 0.9691577526551282
+    },
+    {
+      "text": "Tidle;",
+      "bbox": [
+        71,
+        341,
+        99,
+        355
+      ],
+      "confidence": 0.5123820455410918
+    },
+    {
+      "text": "Sneak Preview Confrmation Call-Charlotte Tests",
+      "bbox": [
+        109,
+        335,
+        367,
+        351
+      ],
+      "confidence": 0.7584825093461265
+    },
+    {
+      "text": "Description: Record of confimation calls for sneak preview appointments",
+      "bbox": [
+        69,
+        363,
+        451,
+        381
+      ],
+      "confidence": 0.7848271465377337
+    },
+    {
+      "text": "Fullfillment Data",
+      "bbox": [
+        69,
+        467,
+        159,
+        481
+      ],
+      "confidence": 0.6500784366383436
+    },
+    {
+      "text": "APAC",
+      "bbox": [
+        211,
+        463,
+        247,
+        477
+      ],
+      "confidence": 0.9999545216560364
+    },
+    {
+      "text": "Circulation Quantity:",
+      "bbox": [
+        69,
+        497,
+        181,
+        513
+      ],
+      "confidence": 0.963277556886174
+    },
+    {
+      "text": "300",
+      "bbox": [
+        227,
+        491,
+        251,
+        507
+      ],
+      "confidence": 0.999640877101055
+    },
+    {
+      "text": "Estimaled Response:",
+      "bbox": [
+        71,
+        525,
+        187,
+        541
+      ],
+      "confidence": 0.7006185582844451
+    },
+    {
+      "text": "100.00",
+      "bbox": [
+        219,
+        521,
+        257,
+        535
+      ],
+      "confidence": 0.967956056481661
+    },
+    {
+      "text": "Estimaled Responders:",
+      "bbox": [
+        69,
+        555,
+        197,
+        571
+      ],
+      "confidence": 0.9900424219481466
+    },
+    {
+      "text": "300",
+      "bbox": [
+        227,
+        551,
+        251,
+        565
+      ],
+      "confidence": 0.9812849201099056
+    },
+    {
+      "text": "Distribulion Drop Dale:",
+      "bbox": [
+        69,
+        585,
+        193,
+        601
+      ],
+      "confidence": 0.674652250136922
+    },
+    {
+      "text": "10/03/96",
+      "bbox": [
+        205,
+        581,
+        255,
+        595
+      ],
+      "confidence": 0.9166008730885803
+    },
+    {
+      "text": "Expiration Dale:",
+      "bbox": [
+        357,
+        585,
+        445,
+        601
+      ],
+      "confidence": 0.8515848420248763
+    },
+    {
+      "text": "Response Code Assigned:",
+      "bbox": [
+        226,
+        632,
+        409,
+        652
+      ],
+      "confidence": 0.772869035993586
+    },
+    {
+      "text": "W25",
+      "bbox": [
+        427,
+        629,
+        465,
+        649
+      ],
+      "confidence": 0.9839957836983935
+    },
+    {
+      "text": "Address, postal requirements, barcodes, document storage, ad",
+      "bbox": [
+        69,
+        707,
+        409,
+        723
+      ],
+      "confidence": 0.4889155598901979
+    },
+    {
+      "text": "balch numbers to be",
+      "bbox": [
+        69,
+        723,
+        181,
+        737
+      ],
+      "confidence": 0.8363985390805234
+    },
+    {
+      "text": "supplied by:",
+      "bbox": [
+        180,
+        721,
+        247,
+        740
+      ],
+      "confidence": 0.9809557614777519
+    },
+    {
+      "text": "APAC",
+      "bbox": [
+        363,
+        753,
+        399,
+        767
+      ],
+      "confidence": 0.9999119639396667
+    },
+    {
+      "text": "DE Fullfillment Vendor",
+      "bbox": [
+        357,
+        765,
+        477,
+        783
+      ],
+      "confidence": 0.5131265630600477
+    },
+    {
+      "text": "Suzi Hicks_RJRIR",
+      "bbox": [
+        91,
+        845,
+        197,
+        861
+      ],
+      "confidence": 0.4715204537559338
+    },
+    {
+      "text": "Debbie Lockery",
+      "bbox": [
+        417,
+        843,
+        501,
+        857
+      ],
+      "confidence": 0.741474015612451
+    },
+    {
+      "text": "Karen Giddens",
+      "bbox": [
+        93,
+        863,
+        175,
+        879
+      ],
+      "confidence": 0.9996141066538854
+    },
+    {
+      "text": "Vanessa Qakley",
+      "bbox": [
+        417,
+        863,
+        505,
+        879
+      ],
+      "confidence": 0.9146147115180016
+    },
+    {
+      "text": "Drew Huyett",
+      "bbox": [
+        93,
+        887,
+        161,
+        901
+      ],
+      "confidence": 0.9693848253482843
+    },
+    {
+      "text": "Melissa Andrews",
+      "bbox": [
+        417,
+        887,
+        509,
+        901
+      ],
+      "confidence": 0.7481210828974579
+    },
+    {
+      "text": "TBM",
+      "bbox": [
+        515,
+        885,
+        545,
+        901
+      ],
+      "confidence": 0.9996333754846476
+    },
+    {
+      "text": "Jackson Roper",
+      "bbox": [
+        91,
+        908,
+        175,
+        926
+      ],
+      "confidence": 0.9990023961666564
+    },
+    {
+      "text": "Tammi LaManna",
+      "bbox": [
+        417,
+        909,
+        509,
+        923
+      ],
+      "confidence": 0.9554322147431425
+    },
+    {
+      "text": "MIB",
+      "bbox": [
+        515,
+        909,
+        539,
+        923
+      ],
+      "confidence": 0.7256478987272604
+    },
+    {
+      "text": ":",
+      "bbox": [
+        695,
+        925,
+        709,
+        963
+      ],
+      "confidence": 0.40118584875017405
+    },
+    {
+      "text": "Enty",
+      "bbox": [
+        156,
+        465,
+        189,
+        483
+      ],
+      "confidence": 0.4896687865257263
+    }
+  ]
+}

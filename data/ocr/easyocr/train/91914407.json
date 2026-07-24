@@ -1,0 +1,304 @@
+{
+  "words": [
+    {
+      "text": "06/29/94",
+      "bbox": [
+        61,
+        43,
+        119,
+        59
+      ],
+      "confidence": 0.6540961726845785
+    },
+    {
+      "text": "08 : 25",
+      "bbox": [
+        135,
+        41,
+        173,
+        55
+      ],
+      "confidence": 0.5060808664613082
+    },
+    {
+      "text": "81",
+      "bbox": [
+        197,
+        41,
+        219,
+        55
+      ],
+      "confidence": 0.9701846956738779
+    },
+    {
+      "text": "LORILLARD 25 JAr",
+      "bbox": [
+        365,
+        39,
+        477,
+        53
+      ],
+      "confidence": 0.3554157690362738
+    },
+    {
+      "text": "GEVERAL M",
+      "bbox": [
+        547,
+        37,
+        619,
+        51
+      ],
+      "confidence": 0.37708964302957126
+    },
+    {
+      "text": "2001",
+      "bbox": [
+        659,
+        35,
+        693,
+        51
+      ],
+      "confidence": 0.9942032694816589
+    },
+    {
+      "text": "Soilland",
+      "bbox": [
+        40,
+        104,
+        268,
+        176
+      ],
+      "confidence": 0.768498895128729
+    },
+    {
+      "text": "TOBACCO CCMPANY",
+      "bbox": [
+        135,
+        163,
+        251,
+        179
+      ],
+      "confidence": 0.6245277125810759
+    },
+    {
+      "text": "FACSIMILE COVER PAGE",
+      "bbox": [
+        211,
+        245,
+        555,
+        283
+      ],
+      "confidence": 0.945507222532628
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        61,
+        319,
+        113,
+        339
+      ],
+      "confidence": 0.999601270055887
+    },
+    {
+      "text": "TOTAL PAGES",
+      "bbox": [
+        370,
+        320,
+        490,
+        344
+      ],
+      "confidence": 0.9870197080826381
+    },
+    {
+      "text": "(INCLUDING COVER SHEET)",
+      "bbox": [
+        369,
+        341,
+        598,
+        368
+      ],
+      "confidence": 0.9609024706949573
+    },
+    {
+      "text": "PLEASE DELIVER TRANSMISSION TO:",
+      "bbox": [
+        58,
+        398,
+        362,
+        424
+      ],
+      "confidence": 0.9456800956119684
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        59,
+        441,
+        117,
+        461
+      ],
+      "confidence": 0.693849224060207
+    },
+    {
+      "text": "Al Giacoio",
+      "bbox": [
+        223,
+        441,
+        315,
+        461
+      ],
+      "confidence": 0.4767613546931754
+    },
+    {
+      "text": "OFFICE:",
+      "bbox": [
+        58,
+        480,
+        130,
+        504
+      ],
+      "confidence": 0.993832548194481
+    },
+    {
+      "text": "FAX PHONE NUMBER:",
+      "bbox": [
+        58,
+        522,
+        240,
+        546
+      ],
+      "confidence": 0.9684966155510762
+    },
+    {
+      "text": "THIS DOCUMENT IS FROM:",
+      "bbox": [
+        56,
+        582,
+        278,
+        606
+      ],
+      "confidence": 0.9889741127461642
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        59,
+        625,
+        115,
+        645
+      ],
+      "confidence": 0.9920858581328963
+    },
+    {
+      "text": "Ered_Paternostro",
+      "bbox": [
+        214,
+        626,
+        358,
+        650
+      ],
+      "confidence": 0.6458070554822191
+    },
+    {
+      "text": "FAX TELEPHONE NUMBER: (904) 484-0744",
+      "bbox": [
+        56,
+        664,
+        398,
+        692
+      ],
+      "confidence": 0.9153767920243193
+    },
+    {
+      "text": "COMMENTS;",
+      "bbox": [
+        54,
+        723,
+        163,
+        747
+      ],
+      "confidence": 0.9789028490484939
+    },
+    {
+      "text": "The_attached was obtained",
+      "bbox": [
+        204,
+        726,
+        424,
+        750
+      ],
+      "confidence": 0.9154702762536855
+    },
+    {
+      "text": "Mackoui Dist,",
+      "bbox": [
+        467,
+        729,
+        585,
+        749
+      ],
+      "confidence": 0.936490698304178
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        245,
+        809,
+        275,
+        829
+      ],
+      "confidence": 0.683713066838194
+    },
+    {
+      "text": "RE KLEIM",
+      "bbox": [
+        281,
+        811,
+        369,
+        831
+      ],
+      "confidence": 0.46568604410749626
+    },
+    {
+      "text": "IFANY OFTHESE PAGES ARE NOT LEGIBLE OR YOU DO NOT RECEIVE ALL OF",
+      "bbox": [
+        52,
+        908,
+        678,
+        938
+      ],
+      "confidence": 0.674848580945568
+    },
+    {
+      "text": "THIS TRANSMISSION; PLEASE CAI L (904) 464-0800 AS SOON AS POSSIBLE",
+      "bbox": [
+        52,
+        929,
+        652,
+        960
+      ],
+      "confidence": 0.7641258965064586
+    },
+    {
+      "text": "SALES",
+      "bbox": [
+        504,
+        35,
+        542,
+        53
+      ],
+      "confidence": 0.9900449925390011
+    },
+    {
+      "text": "from",
+      "bbox": [
+        424,
+        728,
+        468,
+        750
+      ],
+      "confidence": 0.9950496554374695
+    }
+  ]
+}

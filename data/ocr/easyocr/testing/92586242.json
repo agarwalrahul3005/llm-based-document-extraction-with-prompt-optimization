@@ -1,0 +1,314 @@
+{
+  "words": [
+    {
+      "text": "Newport pleasurel",
+      "bbox": [
+        70,
+        78,
+        681,
+        180
+      ],
+      "confidence": 0.9746142952272258
+    },
+    {
+      "text": "SPECIAL EVENT INFORMATION SHEET",
+      "bbox": [
+        128,
+        235,
+        623,
+        273
+      ],
+      "confidence": 0.5073321951374544
+    },
+    {
+      "text": "GENERAL INFORMATION:",
+      "bbox": [
+        130,
+        336,
+        368,
+        360
+      ],
+      "confidence": 0.876523994127985
+    },
+    {
+      "text": "EVENT NAME",
+      "bbox": [
+        133,
+        375,
+        215,
+        391
+      ],
+      "confidence": 0.9988571951842181
+    },
+    {
+      "text": "Dppez_Hadison",
+      "bbox": [
+        259,
+        373,
+        353,
+        389
+      ],
+      "confidence": 0.31236950251772905
+    },
+    {
+      "text": "Festival",
+      "bbox": [
+        402,
+        372,
+        459,
+        389
+      ],
+      "confidence": 0.6931298948378768
+    },
+    {
+      "text": "EVENT LOCATION:",
+      "bbox": [
+        133,
+        405,
+        245,
+        421
+      ],
+      "confidence": 0.8279733698957722
+    },
+    {
+      "text": "NexYork",
+      "bbox": [
+        389,
+        405,
+        449,
+        419
+      ],
+      "confidence": 0.83850555922664
+    },
+    {
+      "text": "EVENT DATES:",
+      "bbox": [
+        133,
+        435,
+        219,
+        451
+      ],
+      "confidence": 0.8980846695170669
+    },
+    {
+      "text": "une",
+      "bbox": [
+        260,
+        436,
+        288,
+        444
+      ],
+      "confidence": 0.9965745152366998
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        315,
+        435,
+        345,
+        447
+      ],
+      "confidence": 0.7756238922385936
+    },
+    {
+      "text": "HOURS;",
+      "bbox": [
+        130,
+        500,
+        208,
+        524
+      ],
+      "confidence": 0.5127668970890772
+    },
+    {
+      "text": "MONDAY-FRIDAY:",
+      "bbox": [
+        131,
+        537,
+        243,
+        553
+      ],
+      "confidence": 0.9843165264905201
+    },
+    {
+      "text": "SATURDAY-SUNDAY:",
+      "bbox": [
+        131,
+        567,
+        255,
+        583
+      ],
+      "confidence": 0.6118312386361121
+    },
+    {
+      "text": "Spn",
+      "bbox": [
+        321,
+        569,
+        347,
+        583
+      ],
+      "confidence": 0.3658987553988222
+    },
+    {
+      "text": "SPECIEICS;",
+      "bbox": [
+        130,
+        632,
+        230,
+        658
+      ],
+      "confidence": 0.610039127953434
+    },
+    {
+      "text": "applicable boxiesi:",
+      "bbox": [
+        162,
+        657,
+        257,
+        675
+      ],
+      "confidence": 0.5414416488790955
+    },
+    {
+      "text": "OF BCOTHISI",
+      "bbox": [
+        237,
+        685,
+        321,
+        703
+      ],
+      "confidence": 0.5409618769857442
+    },
+    {
+      "text": "SIGNAGE",
+      "bbox": [
+        467,
+        685,
+        525,
+        701
+      ],
+      "confidence": 0.9712176337646868
+    },
+    {
+      "text": "SAMPLING",
+      "bbox": [
+        225,
+        717,
+        291,
+        733
+      ],
+      "confidence": 0.688395536698691
+    },
+    {
+      "text": "PREMIUMS",
+      "bbox": [
+        303,
+        715,
+        369,
+        731
+      ],
+      "confidence": 0.956187053276631
+    },
+    {
+      "text": "MUSIC VAN",
+      "bbox": [
+        467,
+        715,
+        539,
+        731
+      ],
+      "confidence": 0.9785190892528036
+    },
+    {
+      "text": "PREMIUMS ONLY",
+      "bbox": [
+        225,
+        747,
+        329,
+        763
+      ],
+      "confidence": 0.7950343837915306
+    },
+    {
+      "text": "RACING CAR",
+      "bbox": [
+        467,
+        745,
+        545,
+        761
+      ],
+      "confidence": 0.6603155525362813
+    },
+    {
+      "text": "NAME OF ALLWAYS SUPERVISOR:",
+      "bbox": [
+        133,
+        849,
+        331,
+        865
+      ],
+      "confidence": 0.7268444463387811
+    },
+    {
+      "text": "Jerone_Curdy",
+      "bbox": [
+        357,
+        852,
+        443,
+        867
+      ],
+      "confidence": 0.5319301547584797
+    },
+    {
+      "text": "1",
+      "bbox": [
+        663,
+        803,
+        679,
+        871
+      ],
+      "confidence": 0.4030291812036957
+    },
+    {
+      "text": "PHONE NUMBER: _",
+      "bbox": [
+        133,
+        879,
+        243,
+        895
+      ],
+      "confidence": 0.7412321983213668
+    },
+    {
+      "text": "923-9208",
+      "bbox": [
+        289,
+        879,
+        347,
+        893
+      ],
+      "confidence": 0.4058766967101235
+    },
+    {
+      "text": "BEEPER NUMBER:",
+      "bbox": [
+        373,
+        879,
+        479,
+        895
+      ],
+      "confidence": 0.8812362763685705
+    },
+    {
+      "text": "698-1280",
+      "bbox": [
+        535,
+        879,
+        593,
+        893
+      ],
+      "confidence": 0.5999156108535691
+    }
+  ]
+}

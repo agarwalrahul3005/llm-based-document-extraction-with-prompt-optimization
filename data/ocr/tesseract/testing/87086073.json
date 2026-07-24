@@ -1,0 +1,304 @@
+{
+  "words": [
+    {
+      "text": "DECISION",
+      "bbox": [
+        214,
+        119,
+        288,
+        131
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "TREE",
+      "bbox": [
+        295,
+        119,
+        328,
+        130
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "ESTIMATION",
+      "bbox": [
+        336,
+        118,
+        430,
+        130
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        437,
+        117,
+        458,
+        130
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "TOXIC",
+      "bbox": [
+        465,
+        117,
+        512,
+        129
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "RISK",
+      "bbox": [
+        519,
+        117,
+        552,
+        129
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "OH",
+      "bbox": [
+        394,
+        328,
+        414,
+        338
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        633,
+        325,
+        635,
+        327
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "ames",
+      "bbox": [
+        91,
+        364,
+        130,
+        371
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "peers",
+      "bbox": [
+        85,
+        351,
+        277,
+        397
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        391,
+        355,
+        685,
+        384
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "\u2018This",
+      "bbox": [
+        120,
+        415,
+        148,
+        425
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "ethoxy",
+      "bbox": [
+        155,
+        415,
+        197,
+        427
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "substituted",
+      "bbox": [
+        204,
+        414,
+        281,
+        425
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "aromatic",
+      "bbox": [
+        288,
+        413,
+        343,
+        423
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "falla",
+      "bbox": [
+        351,
+        413,
+        386,
+        423
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "into",
+      "bbox": [
+        394,
+        412,
+        421,
+        422
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "claaa",
+      "bbox": [
+        428,
+        412,
+        462,
+        422
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "III.",
+      "bbox": [
+        470,
+        412,
+        495,
+        421
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Redearch",
+      "bbox": [
+        472,
+        619,
+        528,
+        629
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Chemist",
+      "bbox": [
+        535,
+        618,
+        584,
+        629
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Research",
+      "bbox": [
+        473,
+        703,
+        529,
+        713
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Chemist",
+      "bbox": [
+        536,
+        702,
+        585,
+        712
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        657,
+        801,
+        668,
+        811
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        656,
+        812,
+        668,
+        821
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        656,
+        822,
+        668,
+        831
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        89,
+        861,
+        91,
+        925
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "amare",
+      "bbox": [
+        95,
+        929,
+        211,
+        938
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "'",
+      "bbox": [
+        32,
+        944,
+        34,
+        954
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        173,
+        943,
+        175,
+        946
+      ],
+      "confidence": 48.0
+    }
+  ]
+}

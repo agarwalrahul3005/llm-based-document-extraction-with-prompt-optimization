@@ -1,0 +1,264 @@
+{
+  "words": [
+    {
+      "text": "COMPOUND",
+      "bbox": [
+        230,
+        146,
+        332,
+        157
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PHYSICAL",
+      "bbox": [
+        339,
+        146,
+        415,
+        158
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PARAMETERS",
+      "bbox": [
+        421,
+        146,
+        521,
+        158
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        83,
+        169,
+        677,
+        198
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Clear",
+      "bbox": [
+        105,
+        200,
+        144,
+        214
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Colorless",
+      "bbox": [
+        155,
+        207,
+        227,
+        215
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "liquid",
+      "bbox": [
+        238,
+        207,
+        285,
+        217
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "The",
+      "bbox": [
+        105,
+        232,
+        127,
+        241
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "pil",
+      "bbox": [
+        138,
+        233,
+        152,
+        243
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        163,
+        232,
+        178,
+        241
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        188,
+        235,
+        194,
+        241
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "502",
+      "bbox": [
+        205,
+        232,
+        227,
+        241
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "conceatvatign",
+      "bbox": [
+        238,
+        233,
+        344,
+        242
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        354,
+        233,
+        368,
+        242
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "In",
+      "bbox": [
+        414,
+        234,
+        426,
+        242
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "was",
+      "bbox": [
+        619,
+        237,
+        642,
+        243
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Pasi\u2019",
+      "bbox": [
+        86,
+        359,
+        124,
+        364
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "(gee",
+      "bbox": [
+        147,
+        362,
+        177,
+        371
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        222,
+        362,
+        243,
+        370
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Solutions)",
+      "bbox": [
+        346,
+        363,
+        425,
+        372
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "0%",
+      "bbox": [
+        196,
+        543,
+        210,
+        552
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "100-32",
+      "bbox": [
+        222,
+        543,
+        268,
+        552
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        626,
+        824,
+        639,
+        853
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        217,
+        859,
+        287,
+        865
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "Cg",
+      "bbox": [
+        236,
+        864,
+        296,
+        906
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "eee",
+      "bbox": [
+        480,
+        868,
+        676,
+        894
+      ],
+      "confidence": 43.0
+    }
+  ]
+}

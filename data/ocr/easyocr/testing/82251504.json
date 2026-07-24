@@ -1,0 +1,394 @@
+{
+  "words": [
+    {
+      "text": "11/05/97",
+      "bbox": [
+        69,
+        89,
+        125,
+        103
+      ],
+      "confidence": 0.9450244759956381
+    },
+    {
+      "text": "11:0J",
+      "bbox": [
+        139,
+        91,
+        175,
+        103
+      ],
+      "confidence": 0.38092867215973397
+    },
+    {
+      "text": "381J",
+      "bbox": [
+        199,
+        89,
+        233,
+        103
+      ],
+      "confidence": 0.30851346254348755
+    },
+    {
+      "text": "884",
+      "bbox": [
+        237,
+        89,
+        259,
+        103
+      ],
+      "confidence": 0.9283308386802673
+    },
+    {
+      "text": "0663",
+      "bbox": [
+        263,
+        89,
+        291,
+        103
+      ],
+      "confidence": 0.5653895735740662
+    },
+    {
+      "text": "LORILLARD_INYPA",
+      "bbox": [
+        359,
+        89,
+        457,
+        105
+      ],
+      "confidence": 0.33480303295961406
+    },
+    {
+      "text": "GREENSBOR",
+      "bbox": [
+        493,
+        89,
+        553,
+        101
+      ],
+      "confidence": 0.9508120707518722
+    },
+    {
+      "text": "3002/003",
+      "bbox": [
+        611,
+        87,
+        667,
+        101
+      ],
+      "confidence": 0.7179931479198143
+    },
+    {
+      "text": "Retail Excel Progress Report",
+      "bbox": [
+        214,
+        182,
+        436,
+        208
+      ],
+      "confidence": 0.8204436353395618
+    },
+    {
+      "text": "Submission Ict:",
+      "bbox": [
+        89,
+        203,
+        171,
+        217
+      ],
+      "confidence": 0.5206524328921419
+    },
+    {
+      "text": "Distribution bylto;",
+      "bbox": [
+        445,
+        207,
+        537,
+        221
+      ],
+      "confidence": 0.40245684024203104
+    },
+    {
+      "text": "July 31",
+      "bbox": [
+        87,
+        217,
+        127,
+        231
+      ],
+      "confidence": 0.9500486097841137
+    },
+    {
+      "text": "August 29",
+      "bbox": [
+        87,
+        233,
+        143,
+        249
+      ],
+      "confidence": 0.8540783623680892
+    },
+    {
+      "text": "To;",
+      "bbox": [
+        249,
+        233,
+        273,
+        251
+      ],
+      "confidence": 0.7810630740568449
+    },
+    {
+      "text": "RW_Caldarella",
+      "bbox": [
+        315,
+        233,
+        417,
+        253
+      ],
+      "confidence": 0.422569790679199
+    },
+    {
+      "text": "RSM t RWC 10th",
+      "bbox": [
+        445,
+        239,
+        551,
+        253
+      ],
+      "confidence": 0.3229522809498653
+    },
+    {
+      "text": "September 30",
+      "bbox": [
+        87,
+        251,
+        163,
+        265
+      ],
+      "confidence": 0.8033265583825352
+    },
+    {
+      "text": "Octaber 31",
+      "bbox": [
+        87,
+        269,
+        147,
+        283
+      ],
+      "confidence": 0.9458528252495644
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        248,
+        268,
+        289,
+        286
+      ],
+      "confidence": 0.9897505174433475
+    },
+    {
+      "text": "Kent B_Mills",
+      "bbox": [
+        315,
+        269,
+        393,
+        287
+      ],
+      "confidence": 0.4551494916546383
+    },
+    {
+      "text": "Ncvember 28",
+      "bbox": [
+        87,
+        285,
+        159,
+        299
+      ],
+      "confidence": 0.9583577504233254
+    },
+    {
+      "text": "December 30",
+      "bbox": [
+        87,
+        303,
+        159,
+        317
+      ],
+      "confidence": 0.995027663094931
+    },
+    {
+      "text": "Area: 5",
+      "bbox": [
+        247,
+        303,
+        297,
+        319
+      ],
+      "confidence": 0.9777318869701482
+    },
+    {
+      "text": "Region: 1Z",
+      "bbox": [
+        306,
+        302,
+        381,
+        323
+      ],
+      "confidence": 0.8566023206027668
+    },
+    {
+      "text": "AcceptancelResponse: What is the rotailers response to Lorillard's Excel",
+      "bbox": [
+        86,
+        332,
+        545,
+        353
+      ],
+      "confidence": 0.5966533305918865
+    },
+    {
+      "text": "Merchandising plan?",
+      "bbox": [
+        86,
+        350,
+        219,
+        369
+      ],
+      "confidence": 0.5836653591749293
+    },
+    {
+      "text": "Chains;_This programhasbeen successfulta date_withchalns where qur \"Elex",
+      "bbox": [
+        86,
+        366,
+        574,
+        390
+      ],
+      "confidence": 0.43441894229872713
+    },
+    {
+      "text": "with Qil Companies is difficultto obtain",
+      "bbox": [
+        85,
+        420,
+        325,
+        440
+      ],
+      "confidence": 0.419581505413338
+    },
+    {
+      "text": "Independents:",
+      "bbox": [
+        84,
+        471,
+        183,
+        491
+      ],
+      "confidence": 0.8568690896418885
+    },
+    {
+      "text": "co existence_situations",
+      "bbox": [
+        85,
+        543,
+        231,
+        561
+      ],
+      "confidence": 0.5225141728827382
+    },
+    {
+      "text": "Hardware EvaluationlEffoctlveness: Comment on the assembly of displays and",
+      "bbox": [
+        82,
+        591,
+        582,
+        616
+      ],
+      "confidence": 0.5082694076860028
+    },
+    {
+      "text": "application of shields:",
+      "bbox": [
+        83,
+        611,
+        221,
+        629
+      ],
+      "confidence": 0.9539291856088334
+    },
+    {
+      "text": "Ihe displays are easily assembledand durable",
+      "bbox": [
+        83,
+        629,
+        375,
+        649
+      ],
+      "confidence": 0.7390100503221908
+    },
+    {
+      "text": "Some questions have_been ralsed",
+      "bbox": [
+        381,
+        633,
+        591,
+        651
+      ],
+      "confidence": 0.3446174030762074
+    },
+    {
+      "text": "conceming the_inability to be iush with the counterandlar_upagainst the registec",
+      "bbox": [
+        83,
+        649,
+        579,
+        669
+      ],
+      "confidence": 0.3144280112612926
+    },
+    {
+      "text": "Plans Only:",
+      "bbox": [
+        83,
+        732,
+        163,
+        751
+      ],
+      "confidence": 0.3397959321907866
+    },
+    {
+      "text": "Not availlable atthis time",
+      "bbox": [
+        203,
+        753,
+        355,
+        771
+      ],
+      "confidence": 0.6833691435971785
+    },
+    {
+      "text": ":",
+      "bbox": [
+        676,
+        845,
+        704,
+        904
+      ],
+      "confidence": 0.32058752254551237
+    },
+    {
+      "text": "2",
+      "bbox": [
+        678,
+        900,
+        702,
+        944
+      ],
+      "confidence": 0.32949433955344887
+    }
+  ]
+}

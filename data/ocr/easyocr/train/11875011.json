@@ -1,0 +1,504 @@
+{
+  "words": [
+    {
+      "text": "BRQWN & WILLLAMSON TQBACCO COREORATION",
+      "bbox": [
+        171,
+        59,
+        519,
+        79
+      ],
+      "confidence": 0.40291171663280206
+    },
+    {
+      "text": "BID REQUEST FQRM",
+      "bbox": [
+        275,
+        77,
+        417,
+        95
+      ],
+      "confidence": 0.6287992959665444
+    },
+    {
+      "text": "(QUALITATIVE RESEARCH)",
+      "bbox": [
+        251,
+        93,
+        439,
+        111
+      ],
+      "confidence": 0.9316138230894756
+    },
+    {
+      "text": "PROJECT NUMBER:",
+      "bbox": [
+        79,
+        143,
+        205,
+        159
+      ],
+      "confidence": 0.6354591333409434
+    },
+    {
+      "text": "1995-43D",
+      "bbox": [
+        223,
+        143,
+        281,
+        157
+      ],
+      "confidence": 0.7806182889822437
+    },
+    {
+      "text": "B&W ORIGINATOR:",
+      "bbox": [
+        79,
+        158,
+        205,
+        177
+      ],
+      "confidence": 0.7258499917776811
+    },
+    {
+      "text": "HL Williams",
+      "bbox": [
+        219,
+        159,
+        305,
+        175
+      ],
+      "confidence": 0.6405919747639189
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        79,
+        179,
+        105,
+        193
+      ],
+      "confidence": 0.9504726332550947
+    },
+    {
+      "text": "Goldfarb Consultants",
+      "bbox": [
+        223,
+        177,
+        343,
+        191
+      ],
+      "confidence": 0.8937811978728116
+    },
+    {
+      "text": "WNSTRUCTIONS:",
+      "bbox": [
+        78,
+        224,
+        191,
+        243
+      ],
+      "confidence": 0.7706103688374943
+    },
+    {
+      "text": "THE FOLLOWING DOCUMENT IS DIVIDED INTO TWO SECTIONS.",
+      "bbox": [
+        121,
+        253,
+        533,
+        273
+      ],
+      "confidence": 0.6390604042604511
+    },
+    {
+      "text": "SECTION ONE CONTAINS THE PROJECT DESCRIPTION AND",
+      "bbox": [
+        121,
+        285,
+        509,
+        305
+      ],
+      "confidence": 0.9074647943976992
+    },
+    {
+      "text": "SPECIFICATIONS FROM B&W_",
+      "bbox": [
+        121,
+        305,
+        311,
+        321
+      ],
+      "confidence": 0.6621595506230571
+    },
+    {
+      "text": "ALL BIDS SHOULD BE BASED",
+      "bbox": [
+        319,
+        301,
+        509,
+        319
+      ],
+      "confidence": 0.8658861628583335
+    },
+    {
+      "text": "ON THE SPECIFICATIONS IN THS DOCUMENT",
+      "bbox": [
+        123,
+        318,
+        421,
+        337
+      ],
+      "confidence": 0.9757132404916636
+    },
+    {
+      "text": "SECTION TWO SHOULD BE COMPLETED BY THE RESEARCH",
+      "bbox": [
+        123,
+        349,
+        517,
+        369
+      ],
+      "confidence": 0.889662136779648
+    },
+    {
+      "text": "AGENCY AND RETURNED BY FAX TO THE FOLLOWING PER SON:",
+      "bbox": [
+        123,
+        365,
+        539,
+        385
+      ],
+      "confidence": 0.7074983995645537
+    },
+    {
+      "text": "HAROLD WILLIAMS",
+      "bbox": [
+        245,
+        399,
+        377,
+        415
+      ],
+      "confidence": 0.9930474767082144
+    },
+    {
+      "text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+      "bbox": [
+        247,
+        411,
+        573,
+        431
+      ],
+      "confidence": 0.8419881134001335
+    },
+    {
+      "text": "LOUISVILLE, KENTUCKY",
+      "bbox": [
+        245,
+        429,
+        411,
+        447
+      ],
+      "confidence": 0.9296897812880854
+    },
+    {
+      "text": "U.SA",
+      "bbox": [
+        247,
+        447,
+        285,
+        463
+      ],
+      "confidence": 0.9931778311729431
+    },
+    {
+      "text": "FAX NUMBERS: (502) 568-7313 or (502) 568-8319",
+      "bbox": [
+        247,
+        461,
+        553,
+        479
+      ],
+      "confidence": 0.6803176367842672
+    },
+    {
+      "text": "IN ORDER TO ALLOW US TO COMPARE BIDS",
+      "bbox": [
+        125,
+        493,
+        413,
+        511
+      ],
+      "confidence": 0.8456951511047597
+    },
+    {
+      "text": "WE REQUEST THAT",
+      "bbox": [
+        417,
+        491,
+        545,
+        507
+      ],
+      "confidence": 0.9636412310327394
+    },
+    {
+      "text": "YOU SUBMIT A BID FOR THE RESEARCH AS SPECIFIED IN SECTION",
+      "bbox": [
+        125,
+        507,
+        559,
+        527
+      ],
+      "confidence": 0.7570533928425321
+    },
+    {
+      "text": "ONE",
+      "bbox": [
+        125,
+        529,
+        157,
+        545
+      ],
+      "confidence": 0.9999369560941322
+    },
+    {
+      "text": "SUGGESTIONS",
+      "bbox": [
+        127,
+        561,
+        223,
+        577
+      ],
+      "confidence": 0.9999091334965853
+    },
+    {
+      "text": "ALTERNATIVE DESIGNS FROM THE AGENCY",
+      "bbox": [
+        253,
+        555,
+        543,
+        575
+      ],
+      "confidence": 0.6903932528569684
+    },
+    {
+      "text": "ARE WELCOME.",
+      "bbox": [
+        127,
+        577,
+        229,
+        593
+      ],
+      "confidence": 0.6116526663573811
+    },
+    {
+      "text": "HOWEVER",
+      "bbox": [
+        235,
+        575,
+        307,
+        591
+      ],
+      "confidence": 0.9078978254461507
+    },
+    {
+      "text": "THESE SHOULD BE SUBMITTED AS",
+      "bbox": [
+        311,
+        571,
+        539,
+        591
+      ],
+      "confidence": 0.9402907701679136
+    },
+    {
+      "text": "SEPARATE DOCUMENTS APPENDED TO THIS BID FORM",
+      "bbox": [
+        127,
+        589,
+        487,
+        609
+      ],
+      "confidence": 0.8636256054956101
+    },
+    {
+      "text": "YOU HAVE ANY QUESTIONS_",
+      "bbox": [
+        142,
+        622,
+        329,
+        641
+      ],
+      "confidence": 0.8667133637741068
+    },
+    {
+      "text": "PLEASE CONTACT THE FOLLOWING",
+      "bbox": [
+        333,
+        619,
+        567,
+        637
+      ],
+      "confidence": 0.7774855142451941
+    },
+    {
+      "text": "PERSON:",
+      "bbox": [
+        127,
+        641,
+        187,
+        657
+      ],
+      "confidence": 0.999690038236479
+    },
+    {
+      "text": "HAROLD WLLLIAMS",
+      "bbox": [
+        249,
+        655,
+        381,
+        671
+      ],
+      "confidence": 0.747108608087092
+    },
+    {
+      "text": "BROWN & WILLIAMSON TOBACCO CORPORATION",
+      "bbox": [
+        251,
+        666,
+        577,
+        687
+      ],
+      "confidence": 0.9658040795856874
+    },
+    {
+      "text": "LOUISVILLE, KENTUCKY",
+      "bbox": [
+        249,
+        685,
+        415,
+        703
+      ],
+      "confidence": 0.8194884312312166
+    },
+    {
+      "text": "U.S.",
+      "bbox": [
+        251,
+        703,
+        277,
+        719
+      ],
+      "confidence": 0.572472333908081
+    },
+    {
+      "text": "FAX NUMBERS: (502) 568-7313 or (502) 568-8319",
+      "bbox": [
+        251,
+        717,
+        555,
+        735
+      ],
+      "confidence": 0.8499646553143818
+    },
+    {
+      "text": "QTHER IEQRMATION:",
+      "bbox": [
+        89,
+        767,
+        251,
+        785
+      ],
+      "confidence": 0.49841083773469097
+    },
+    {
+      "text": "DATE REQUESTED:",
+      "bbox": [
+        89,
+        801,
+        217,
+        817
+      ],
+      "confidence": 0.9922699039934121
+    },
+    {
+      "text": "1-23-95",
+      "bbox": [
+        297,
+        799,
+        345,
+        813
+      ],
+      "confidence": 0.6839372614604168
+    },
+    {
+      "text": "DEADLINE FOR BID RECEIPT:",
+      "bbox": [
+        89,
+        821,
+        281,
+        839
+      ],
+      "confidence": 0.6983890871441154
+    },
+    {
+      "text": "1-26-95",
+      "bbox": [
+        295,
+        821,
+        345,
+        835
+      ],
+      "confidence": 0.6929999866021392
+    },
+    {
+      "text": "9.00 AM EST",
+      "bbox": [
+        355,
+        819,
+        437,
+        835
+      ],
+      "confidence": 0.9713929674601559
+    },
+    {
+      "text": "465658104",
+      "bbox": [
+        486,
+        868,
+        602,
+        892
+      ],
+      "confidence": 0.748372660865945
+    },
+    {
+      "text": "PRODUCED FROM Bew",
+      "bbox": [
+        1,
+        953,
+        155,
+        969
+      ],
+      "confidence": 0.416612740521046
+    },
+    {
+      "text": "WEB",
+      "bbox": [
+        159,
+        953,
+        189,
+        967
+      ],
+      "confidence": 0.9998401200401039
+    },
+    {
+      "text": "SITE",
+      "bbox": [
+        195,
+        953,
+        233,
+        969
+      ],
+      "confidence": 0.9964928030967712
+    }
+  ]
+}

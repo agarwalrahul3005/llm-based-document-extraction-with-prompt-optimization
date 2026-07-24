@@ -1,13 +1,14 @@
 {
   "words": [
     {
-      "text": "R&D",
+      "text": "RAD",
       "bbox": [
         259,
         206,
         279,
         214
-      ]
+      ],
+      "confidence": 58.0
     },
     {
       "text": "QUALITY",
@@ -16,34 +17,48 @@
         204,
         335,
         215
-      ]
+      ],
+      "confidence": 87.0
     },
     {
-      "text": "IMPROVEMENT",
+      "text": "THRGVEHENT",
       "bbox": [
         343,
         203,
         419,
         212
-      ]
+      ],
+      "confidence": 47.0
     },
     {
-      "text": "SUGGESTION/SOLUTION",
+      "text": "SUGGESTION",
       "bbox": [
         256,
-        217,
-        388,
-        229
-      ]
+        218,
+        325,
+        228
+      ],
+      "confidence": 42.0
     },
     {
-      "text": "FORM",
+      "text": "/SOLUTION",
+      "bbox": [
+        326,
+        207,
+        388,
+        236
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "FORK",
       "bbox": [
         396,
         216,
         424,
         226
-      ]
+      ],
+      "confidence": 90.0
     },
     {
       "text": "Nane/Phone",
@@ -52,61 +67,48 @@
         277,
         162,
         289
-      ]
+      ],
+      "confidence": 45.0
     },
     {
-      "text": "Ext.:",
+      "text": "Hapann,",
       "bbox": [
-        170,
-        277,
-        201,
-        285
-      ]
-    },
-    {
-      "text": "M.",
-      "bbox": [
-        217,
-        264,
-        232,
-        293
-      ]
-    },
-    {
-      "text": "Hamann,",
-      "bbox": [
-        218,
+        239,
         275,
         281,
         286
-      ]
+      ],
+      "confidence": 39.0
     },
     {
-      "text": "P,",
+      "text": "P.",
       "bbox": [
         296,
         274,
         307,
         283
-      ]
+      ],
+      "confidence": 77.0
     },
     {
       "text": "Harper,",
       "bbox": [
         316,
-        273,
-        379,
-        284
-      ]
+        274,
+        357,
+        285
+      ],
+      "confidence": 90.0
     },
     {
       "text": "P,",
       "bbox": [
-        374,
-        264,
-        387,
-        293
-      ]
+        372,
+        273,
+        379,
+        284
+      ],
+      "confidence": 44.0
     },
     {
       "text": "Martinez",
@@ -114,8 +116,9 @@
         393,
         272,
         448,
-        282
-      ]
+        284
+      ],
+      "confidence": 70.0
     },
     {
       "text": "Date:",
@@ -124,7 +127,8 @@
         271,
         516,
         280
-      ]
+      ],
+      "confidence": 58.0
     },
     {
       "text": "__9/3/92",
@@ -132,8 +136,9 @@
         548,
         269,
         589,
-        278
-      ]
+        281
+      ],
+      "confidence": 58.0
     },
     {
       "text": "Supervisor/Manager:",
@@ -142,7 +147,8 @@
         317,
         224,
         330
-      ]
+      ],
+      "confidence": 54.0
     },
     {
       "text": "J.",
@@ -150,8 +156,9 @@
         240,
         316,
         246,
-        325
-      ]
+        326
+      ],
+      "confidence": 52.0
     },
     {
       "text": "S.",
@@ -160,7 +167,8 @@
         316,
         272,
         324
-      ]
+      ],
+      "confidence": 52.0
     },
     {
       "text": "Wigand",
@@ -168,17 +176,19 @@
         281,
         315,
         324,
-        323
-      ]
+        326
+      ],
+      "confidence": 90.0
     },
     {
-      "text": "RED",
+      "text": "R\u00e9D",
       "bbox": [
         422,
         313,
         443,
         321
-      ]
+      ],
+      "confidence": 83.0
     },
     {
       "text": "Group:",
@@ -187,16 +197,8 @@
         313,
         489,
         323
-      ]
-    },
-    {
-      "text": "_Licensee",
-      "bbox": [
-        513,
-        311,
-        569,
-        321
-      ]
+      ],
+      "confidence": 60.0
     },
     {
       "text": "Suggestion:",
@@ -205,16 +207,18 @@
         358,
         168,
         370
-      ]
+      ],
+      "confidence": 82.0
     },
     {
-      "text": "Discontinue",
+      "text": "Discontinee",
       "bbox": [
         192,
         357,
         267,
         366
-      ]
+      ],
+      "confidence": 62.0
     },
     {
       "text": "coal",
@@ -223,7 +227,8 @@
         355,
         303,
         364
-      ]
+      ],
+      "confidence": 86.0
     },
     {
       "text": "retention",
@@ -232,7 +237,8 @@
         354,
         373,
         364
-      ]
+      ],
+      "confidence": 92.0
     },
     {
       "text": "analyses",
@@ -241,7 +247,8 @@
         354,
         436,
         364
-      ]
+      ],
+      "confidence": 84.0
     },
     {
       "text": "on",
@@ -250,16 +257,18 @@
         355,
         457,
         361
-      ]
+      ],
+      "confidence": 95.0
     },
     {
-      "text": "licensee",
+      "text": "Licensee",
       "bbox": [
         465,
         352,
         519,
         361
-      ]
+      ],
+      "confidence": 90.0
     },
     {
       "text": "submitted",
@@ -268,7 +277,8 @@
         350,
         591,
         360
-      ]
+      ],
+      "confidence": 80.0
     },
     {
       "text": "product",
@@ -277,16 +287,8 @@
         370,
         240,
         382
-      ]
-    },
-    {
-      "text": "sauples.",
-      "bbox": [
-        249,
-        369,
-        296,
-        380
-      ]
+      ],
+      "confidence": 91.0
     },
     {
       "text": "(Note:",
@@ -295,7 +297,8 @@
         368,
         358,
         379
-      ]
+      ],
+      "confidence": 79.0
     },
     {
       "text": "Coal",
@@ -304,7 +307,8 @@
         367,
         401,
         376
-      ]
+      ],
+      "confidence": 82.0
     },
     {
       "text": "Retention",
@@ -313,7 +317,8 @@
         366,
         472,
         375
-      ]
+      ],
+      "confidence": 84.0
     },
     {
       "text": "testing",
@@ -322,7 +327,8 @@
         365,
         528,
         376
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "is",
@@ -331,7 +337,8 @@
         365,
         548,
         373
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "not",
@@ -340,16 +347,18 @@
         365,
         577,
         373
-      ]
+      ],
+      "confidence": 93.0
     },
     {
-      "text": "performed",
+      "text": "ferformed",
       "bbox": [
         193,
         383,
         255,
         395
-      ]
+      ],
+      "confidence": 33.0
     },
     {
       "text": "by",
@@ -358,25 +367,28 @@
         383,
         275,
         394
-      ]
+      ],
+      "confidence": 92.0
     },
     {
-      "text": "most",
+      "text": "nost",
       "bbox": [
         283,
         384,
         311,
         391
-      ]
+      ],
+      "confidence": 86.0
     },
     {
-      "text": "licensees.",
+      "text": "Licensees.",
       "bbox": [
         319,
         381,
         380,
         391
-      ]
+      ],
+      "confidence": 34.0
     },
     {
       "text": "Other",
@@ -385,7 +397,8 @@
         380,
         436,
         389
-      ]
+      ],
+      "confidence": 86.0
     },
     {
       "text": "B&W",
@@ -394,7 +407,8 @@
         380,
         465,
         388
-      ]
+      ],
+      "confidence": 72.0
     },
     {
       "text": "physical",
@@ -403,34 +417,28 @@
         378,
         527,
         391
-      ]
+      ],
+      "confidence": 95.0
     },
     {
-      "text": "Toasurenents",
-      "bbox": [
-        193,
-        398,
-        275,
-        406
-      ]
-    },
-    {
-      "text": "as",
+      "text": "a8",
       "bbox": [
         284,
         398,
         297,
         405
-      ]
+      ],
+      "confidence": 83.0
     },
     {
-      "text": "ends",
+      "text": "ond:",
       "bbox": [
         305,
         395,
         331,
         404
-      ]
+      ],
+      "confidence": 46.0
     },
     {
       "text": "stability",
@@ -439,7 +447,8 @@
         394,
         402,
         405
-      ]
+      ],
+      "confidence": 91.0
     },
     {
       "text": "and",
@@ -448,16 +457,18 @@
         394,
         430,
         402
-      ]
+      ],
+      "confidence": 92.0
     },
     {
-      "text": "inspection",
+      "text": "{napection",
       "bbox": [
         439,
         393,
         507,
         404
-      ]
+      ],
+      "confidence": 53.0
     },
     {
       "text": "for",
@@ -466,7 +477,8 @@
         392,
         535,
         401
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "soft",
@@ -475,16 +487,18 @@
         391,
         570,
         400
-      ]
+      ],
+      "confidence": 95.0
     },
     {
-      "text": "spots",
+      "text": "Spots",
       "bbox": [
         194,
         412,
         227,
         422
-      ]
+      ],
+      "confidence": 80.0
     },
     {
       "text": "in",
@@ -493,7 +507,8 @@
         410,
         249,
         419
-      ]
+      ],
+      "confidence": 90.0
     },
     {
       "text": "cigarettes",
@@ -502,7 +517,8 @@
         410,
         325,
         420
-      ]
+      ],
+      "confidence": 82.0
     },
     {
       "text": "are",
@@ -511,16 +527,18 @@
         411,
         352,
         417
-      ]
+      ],
+      "confidence": 89.0
     },
     {
-      "text": "thought",
+      "text": "chaught",
       "bbox": [
         362,
         407,
         409,
         419
-      ]
+      ],
+      "confidence": 74.0
     },
     {
       "text": "to",
@@ -529,7 +547,8 @@
         408,
         430,
         415
-      ]
+      ],
+      "confidence": 94.0
     },
     {
       "text": "be",
@@ -538,7 +557,8 @@
         406,
         451,
         415
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "sufficient",
@@ -547,7 +567,8 @@
         406,
         528,
         415
-      ]
+      ],
+      "confidence": 75.0
     },
     {
       "text": "measures",
@@ -556,7 +577,8 @@
         406,
         591,
         413
-      ]
+      ],
+      "confidence": 91.0
     },
     {
       "text": "to",
@@ -565,7 +587,8 @@
         425,
         206,
         432
-      ]
+      ],
+      "confidence": 85.0
     },
     {
       "text": "assure",
@@ -574,16 +597,18 @@
         425,
         255,
         432
-      ]
+      ],
+      "confidence": 94.0
     },
     {
-      "text": "cigarctte",
+      "text": "cigarette",
       "bbox": [
         263,
         422,
         325,
         434
-      ]
+      ],
+      "confidence": 58.0
     },
     {
       "text": "physical",
@@ -592,7 +617,8 @@
         420,
         388,
         432
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "integrity.",
@@ -601,7 +627,8 @@
         420,
         458,
         431
-      ]
+      ],
+      "confidence": 94.0
     },
     {
       "text": "The",
@@ -610,7 +637,8 @@
         418,
         500,
         427
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "proposed",
@@ -619,16 +647,18 @@
         418,
         564,
         429
-      ]
+      ],
+      "confidence": 92.0
     },
     {
-      "text": "action",
+      "text": "gecion",
       "bbox": [
         194,
         437,
         235,
         446
-      ]
+      ],
+      "confidence": 70.0
     },
     {
       "text": "will",
@@ -637,7 +667,8 @@
         436,
         269,
         445
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "increase",
@@ -646,7 +677,8 @@
         436,
         332,
         444
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "laboratory",
@@ -655,7 +687,8 @@
         434,
         410,
         445
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "productivity.)",
@@ -664,7 +697,8 @@
         432,
         513,
         445
-      ]
+      ],
+      "confidence": 62.0
     },
     {
       "text": "Suggested",
@@ -673,7 +707,8 @@
         492,
         159,
         504
-      ]
+      ],
+      "confidence": 30.0
     },
     {
       "text": "Solution(s):",
@@ -682,7 +717,8 @@
         490,
         248,
         501
-      ]
+      ],
+      "confidence": 84.0
     },
     {
       "text": "Delete",
@@ -691,7 +727,8 @@
         489,
         306,
         498
-      ]
+      ],
+      "confidence": 94.0
     },
     {
       "text": "coal",
@@ -700,7 +737,8 @@
         488,
         340,
         497
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "retention",
@@ -709,7 +747,8 @@
         488,
         411,
         497
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "from",
@@ -718,7 +757,8 @@
         487,
         446,
         495
-      ]
+      ],
+      "confidence": 87.0
     },
     {
       "text": "the",
@@ -727,16 +767,18 @@
         486,
         474,
         495
-      ]
+      ],
+      "confidence": 95.0
     },
     {
-      "text": "list",
+      "text": "List",
       "bbox": [
         482,
         486,
         508,
         495
-      ]
+      ],
+      "confidence": 94.0
     },
     {
       "text": "of",
@@ -745,16 +787,18 @@
         485,
         530,
         494
-      ]
+      ],
+      "confidence": 93.0
     },
     {
-      "text": "standard",
+      "text": "acandard",
       "bbox": [
         538,
         484,
         593,
         493
-      ]
+      ],
+      "confidence": 59.0
     },
     {
       "text": "analyses",
@@ -763,16 +807,18 @@
         503,
         320,
         514
-      ]
+      ],
+      "confidence": 69.0
     },
     {
-      "text": "performed",
+      "text": "pecforned",
       "bbox": [
         328,
         501,
         391,
         513
-      ]
+      ],
+      "confidence": 75.0
     },
     {
       "text": "on",
@@ -781,7 +827,8 @@
         503,
         412,
         509
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "licensee",
@@ -790,7 +837,8 @@
         500,
         474,
         509
-      ]
+      ],
+      "confidence": 85.0
     },
     {
       "text": "submitted",
@@ -799,7 +847,8 @@
         499,
         545,
         508
-      ]
+      ],
+      "confidence": 69.0
     },
     {
       "text": "Product",
@@ -808,34 +857,38 @@
         517,
         314,
         528
-      ]
+      ],
+      "confidence": 93.0
     },
     {
-      "text": "samples.",
+      "text": "eurtples.",
       "bbox": [
         322,
         515,
         374,
         526
-      ]
+      ],
+      "confidence": 47.0
     },
     {
-      "text": "Speciel",
+      "text": "Specisl",
       "bbox": [
         392,
         514,
         439,
         526
-      ]
+      ],
+      "confidence": 38.0
     },
     {
-      "text": "requests",
+      "text": "roquests",
       "bbox": [
         448,
         514,
         502,
         524
-      ]
+      ],
+      "confidence": 84.0
     },
     {
       "text": "for",
@@ -844,34 +897,38 @@
         512,
         530,
         521
-      ]
+      ],
+      "confidence": 96.0
     },
     {
-      "text": "coat",
+      "text": "coal",
       "bbox": [
         538,
         512,
         566,
         521
-      ]
+      ],
+      "confidence": 82.0
     },
     {
-      "text": "Zetention",
+      "text": "Tetention",
       "bbox": [
         265,
         529,
         328,
         539
-      ]
+      ],
+      "confidence": 52.0
     },
     {
-      "text": "testing",
+      "text": "tasting",
       "bbox": [
         336,
         528,
         384,
         539
-      ]
+      ],
+      "confidence": 90.0
     },
     {
       "text": "could",
@@ -880,7 +937,8 @@
         527,
         426,
         537
-      ]
+      ],
+      "confidence": 80.0
     },
     {
       "text": "still",
@@ -889,7 +947,8 @@
         526,
         467,
         535
-      ]
+      ],
+      "confidence": 51.0
     },
     {
       "text": "be",
@@ -898,7 +957,8 @@
         526,
         488,
         535
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "submitted",
@@ -907,7 +967,8 @@
         525,
         559,
         535
-      ]
+      ],
+      "confidence": 89.0
     },
     {
       "text": "on",
@@ -916,7 +977,8 @@
         527,
         581,
         533
-      ]
+      ],
+      "confidence": 92.0
     },
     {
       "text": "an",
@@ -925,7 +987,8 @@
         546,
         279,
         552
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "exception",
@@ -934,7 +997,8 @@
         543,
         350,
         554
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "basis.",
@@ -943,7 +1007,8 @@
         542,
         396,
         551
-      ]
+      ],
+      "confidence": 64.0
     },
     {
       "text": "Have",
@@ -952,7 +1017,8 @@
         614,
         126,
         622
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "you",
@@ -961,7 +1027,8 @@
         616,
         155,
         624
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "contacted",
@@ -970,7 +1037,8 @@
         612,
         225,
         621
-      ]
+      ],
+      "confidence": 54.0
     },
     {
       "text": "your",
@@ -979,7 +1047,8 @@
         613,
         259,
         623
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "Manager/Supervisor?",
@@ -988,7 +1057,8 @@
         609,
         398,
         622
-      ]
+      ],
+      "confidence": 60.0
     },
     {
       "text": "Yes",
@@ -997,16 +1067,8 @@
         608,
         483,
         616
-      ]
-    },
-    {
-      "text": "No",
-      "bbox": [
-        547,
-        606,
-        560,
-        615
-      ]
+      ],
+      "confidence": 89.0
     },
     {
       "text": "Manager",
@@ -1015,7 +1077,8 @@
         654,
         148,
         665
-      ]
+      ],
+      "confidence": 93.0
     },
     {
       "text": "Connents:",
@@ -1024,16 +1087,18 @@
         653,
         216,
         662
-      ]
+      ],
+      "confidence": 54.0
     },
     {
-      "text": "Manager,",
+      "text": "Wanager,",
       "bbox": [
         232,
         652,
         286,
         662
-      ]
+      ],
+      "confidence": 61.0
     },
     {
       "text": "please",
@@ -1042,7 +1107,8 @@
         650,
         337,
         662
-      ]
+      ],
+      "confidence": 96.0
     },
     {
       "text": "contact",
@@ -1051,7 +1117,8 @@
         651,
         393,
         658
-      ]
+      ],
+      "confidence": 92.0
     },
     {
       "text": "suggester",
@@ -1060,34 +1127,38 @@
         650,
         462,
         660
-      ]
+      ],
+      "confidence": 87.0
     },
     {
-      "text": "and",
+      "text": "end",
       "bbox": [
         471,
         647,
         491,
         656
-      ]
+      ],
+      "confidence": 66.0
     },
     {
-      "text": "forward",
+      "text": "forvard",
       "bbox": [
         499,
         647,
         547,
         656
-      ]
+      ],
+      "confidence": 78.0
     },
     {
-      "text": "comments",
+      "text": "coments",
       "bbox": [
         100,
         668,
         155,
         676
-      ]
+      ],
+      "confidence": 81.0
     },
     {
       "text": "to",
@@ -1096,7 +1167,8 @@
         668,
         176,
         675
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "the",
@@ -1105,7 +1177,8 @@
         666,
         204,
         674
-      ]
+      ],
+      "confidence": 95.0
     },
     {
       "text": "Quality",
@@ -1114,7 +1187,8 @@
         665,
         260,
         676
-      ]
+      ],
+      "confidence": 70.0
     },
     {
       "text": "Council.",
@@ -1123,25 +1197,18 @@
         663,
         321,
         673
-      ]
+      ],
+      "confidence": 90.0
     },
     {
-      "text": "aip-w",
+      "text": "qip.wp",
       "bbox": [
         103,
         825,
         144,
         837
-      ]
-    },
-    {
-      "text": "597005708",
-      "bbox": [
-        528,
-        909,
-        640,
-        925
-      ]
+      ],
+      "confidence": 62.0
     }
   ]
 }

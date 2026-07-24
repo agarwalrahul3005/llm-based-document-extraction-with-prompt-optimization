@@ -1,0 +1,1204 @@
+{
+  "words": [
+    {
+      "text": "9200",
+      "bbox": [
+        590,
+        76,
+        621,
+        83
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "TuANeme",
+      "bbox": [
+        694,
+        77,
+        751,
+        84
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        43,
+        80,
+        113,
+        91
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SHEET",
+      "bbox": [
+        123,
+        80,
+        171,
+        91
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "es)",
+      "bbox": [
+        250,
+        62,
+        302,
+        118
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "HAZLETON",
+      "bbox": [
+        308,
+        70,
+        520,
+        104
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Sienna,",
+      "bbox": [
+        599,
+        88,
+        641,
+        95
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "22180",
+      "bbox": [
+        704,
+        89,
+        742,
+        96
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "LABORATORIES",
+      "bbox": [
+        309,
+        106,
+        436,
+        115
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "AMERICA,",
+      "bbox": [
+        442,
+        106,
+        518,
+        115
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "INC.",
+      "bbox": [
+        526,
+        106,
+        553,
+        116
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "vss",
+      "bbox": [
+        655,
+        101,
+        684,
+        108
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "oe",
+      "bbox": [
+        48,
+        134,
+        69,
+        142
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "125",
+      "bbox": [
+        192,
+        113,
+        214,
+        164
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "1509",
+      "bbox": [
+        222,
+        127,
+        271,
+        147
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        379,
+        127,
+        473,
+        148
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "no,",
+      "bbox": [
+        551,
+        137,
+        573,
+        146
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "SE",
+      "bbox": [
+        593,
+        128,
+        643,
+        138
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Tie",
+      "bbox": [
+        81,
+        152,
+        108,
+        161
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "SAT",
+      "bbox": [
+        378,
+        155,
+        406,
+        165
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        420,
+        141,
+        424,
+        174
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "}4eDay",
+      "bbox": [
+        53,
+        168,
+        96,
+        181
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "Single",
+      "bbox": [
+        104,
+        168,
+        147,
+        181
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Dose",
+      "bbox": [
+        156,
+        169,
+        184,
+        179
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Subacute",
+      "bbox": [
+        193,
+        169,
+        251,
+        179
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Toxicity",
+      "bbox": [
+        259,
+        169,
+        318,
+        182
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Study",
+      "bbox": [
+        326,
+        169,
+        362,
+        182
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "FEST",
+      "bbox": [
+        47,
+        192,
+        69,
+        200
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "LaF",
+      "bbox": [
+        426,
+        195,
+        442,
+        203
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "8721",
+      "bbox": [
+        178,
+        224,
+        204,
+        235
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "31/18/83",
+      "bbox": [
+        534,
+        225,
+        592,
+        237
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "21,017",
+      "bbox": [
+        667,
+        226,
+        710,
+        237
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "[a",
+      "bbox": [
+        177,
+        275,
+        187,
+        285
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "EAGT",
+      "bbox": [
+        232,
+        276,
+        254,
+        284
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "DIRECTORY",
+      "bbox": [
+        260,
+        276,
+        308,
+        286
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "STORED",
+      "bbox": [
+        478,
+        279,
+        511,
+        287
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "SHEETS",
+      "bbox": [
+        561,
+        280,
+        594,
+        289
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        600,
+        281,
+        611,
+        289
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Acute/Uermal",
+      "bbox": [
+        59,
+        286,
+        145,
+        297
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Toxicolo:",
+      "bbox": [
+        155,
+        286,
+        213,
+        297
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        617,
+        290,
+        632,
+        293
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "ute",
+      "bbox": [
+        48,
+        284,
+        95,
+        317
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "ermal",
+      "bbox": [
+        103,
+        284,
+        145,
+        317
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "(1",
+      "bbox": [
+        594,
+        300,
+        602,
+        310
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "To",
+      "bbox": [
+        638,
+        301,
+        648,
+        309
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "EACH)",
+      "bbox": [
+        654,
+        301,
+        680,
+        311
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "DIR.",
+      "bbox": [
+        437,
+        316,
+        451,
+        323
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        461,
+        316,
+        471,
+        324
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "ure",
+      "bbox": [
+        477,
+        316,
+        495,
+        324
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "ANIM",
+      "bbox": [
+        647,
+        318,
+        680,
+        326
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "MEDICINE",
+      "bbox": [
+        687,
+        319,
+        731,
+        326
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "SS",
+      "bbox": [
+        52,
+        325,
+        225,
+        328
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "I",
+      "bbox": [
+        237,
+        326,
+        412,
+        329
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "tc",
+      "bbox": [
+        438,
+        329,
+        470,
+        337
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "PROTECTIVE",
+      "bbox": [
+        48,
+        335,
+        102,
+        343
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "rae?",
+      "bbox": [
+        493,
+        344,
+        514,
+        352
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "RES",
+      "bbox": [
+        494,
+        359,
+        509,
+        366
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "1788",
+      "bbox": [
+        515,
+        359,
+        537,
+        367
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "Sponsor",
+      "bbox": [
+        622,
+        358,
+        673,
+        368
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "AnD",
+      "bbox": [
+        528,
+        380,
+        545,
+        387
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "FLAMMABLE",
+      "bbox": [
+        46,
+        387,
+        95,
+        396
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        104,
+        381,
+        111,
+        406
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "SAFETY",
+      "bbox": [
+        429,
+        389,
+        461,
+        397
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "G",
+      "bbox": [
+        612,
+        386,
+        627,
+        401
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "mee",
+      "bbox": [
+        342,
+        413,
+        527,
+        421
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "PHYSICAL",
+      "bbox": [
+        47,
+        425,
+        91,
+        433
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "DESCRIPTION:",
+      "bbox": [
+        98,
+        425,
+        162,
+        433
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "gaan",
+      "bbox": [
+        492,
+        429,
+        514,
+        437
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "soo",
+      "bbox": [
+        79,
+        442,
+        107,
+        450
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "]",
+      "bbox": [
+        415,
+        430,
+        422,
+        463
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        341,
+        464,
+        409,
+        467
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "aro",
+      "bbox": [
+        430,
+        456,
+        469,
+        467
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Comer",
+      "bbox": [
+        623,
+        459,
+        756,
+        470
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        220,
+        479,
+        408,
+        482
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "wate",
+      "bbox": [
+        552,
+        475,
+        578,
+        483
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "tq",
+      "bbox": [
+        192,
+        493,
+        205,
+        502
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "he",
+      "bbox": [
+        214,
+        493,
+        228,
+        502
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "performed",
+      "bbox": [
+        237,
+        492,
+        302,
+        504
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        311,
+        492,
+        324,
+        502
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Acute/Dermal",
+      "bbox": [
+        332,
+        493,
+        418,
+        504
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Taxicology,",
+      "bbox": [
+        428,
+        493,
+        508,
+        505
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "bullding",
+      "bbox": [
+        518,
+        493,
+        576,
+        506
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "18.",
+      "bbox": [
+        585,
+        494,
+        604,
+        503
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "This",
+      "bbox": [
+        103,
+        546,
+        130,
+        556
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "project",
+      "bbox": [
+        140,
+        546,
+        191,
+        558
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "sheet",
+      "bbox": [
+        199,
+        547,
+        235,
+        557
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "1s",
+      "bbox": [
+        244,
+        547,
+        257,
+        557
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Issued",
+      "bbox": [
+        267,
+        547,
+        309,
+        557
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        318,
+        548,
+        331,
+        557
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "correct",
+      "bbox": [
+        340,
+        548,
+        391,
+        557
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        399,
+        547,
+        450,
+        562
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Sheet",
+      "bbox": [
+        458,
+        547,
+        495,
+        557
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "which",
+      "bbox": [
+        502,
+        547,
+        539,
+        557
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "was",
+      "bbox": [
+        547,
+        550,
+        568,
+        557
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "issued",
+      "bbox": [
+        578,
+        548,
+        620,
+        558
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        629,
+        550,
+        642,
+        558
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "December",
+      "bbox": [
+        103,
+        560,
+        161,
+        570
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "6,",
+      "bbox": [
+        170,
+        560,
+        182,
+        571
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "1983",
+      "bbox": [
+        192,
+        560,
+        220,
+        570
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        229,
+        561,
+        243,
+        571
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        251,
+        560,
+        302,
+        572
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Sheet",
+      "bbox": [
+        310,
+        561,
+        346,
+        571
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "No.",
+      "bbox": [
+        355,
+        561,
+        374,
+        571
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        385,
+        561,
+        391,
+        571
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "instead",
+      "bbox": [
+        400,
+        561,
+        450,
+        571
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        458,
+        561,
+        473,
+        571
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "2.",
+      "bbox": [
+        481,
+        561,
+        493,
+        571
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Material",
+      "bbox": [
+        94,
+        722,
+        151,
+        732
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Safety",
+      "bbox": [
+        161,
+        723,
+        205,
+        735
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Data",
+      "bbox": [
+        214,
+        723,
+        242,
+        733
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Sheet",
+      "bbox": [
+        250,
+        723,
+        287,
+        733
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "is",
+      "bbox": [
+        296,
+        723,
+        308,
+        733
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "attached",
+      "bbox": [
+        317,
+        723,
+        375,
+        733
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        384,
+        724,
+        397,
+        733
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        406,
+        723,
+        457,
+        735
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Sheet",
+      "bbox": [
+        466,
+        723,
+        502,
+        734
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        511,
+        724,
+        522,
+        734
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        696,
+        769,
+        709,
+        778
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "$",
+      "bbox": [
+        696,
+        780,
+        709,
+        789
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        696,
+        822,
+        709,
+        831
+      ],
+      "confidence": 64.0
+    }
+  ]
+}

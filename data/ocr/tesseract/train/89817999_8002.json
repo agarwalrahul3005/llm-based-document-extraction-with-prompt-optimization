@@ -1,0 +1,1544 @@
+{
+  "words": [
+    {
+      "text": "ORCUTT",
+      "bbox": [
+        155,
+        100,
+        213,
+        111
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "SUBMISSION",
+      "bbox": [
+        465,
+        93,
+        553,
+        106
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        558,
+        93,
+        598,
+        104
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "\u201cFROM:",
+      "bbox": [
+        47,
+        131,
+        107,
+        144
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        119,
+        133,
+        129,
+        143
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        135,
+        133,
+        145,
+        143
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "BUXTON.",
+      "bbox": [
+        151,
+        132,
+        208,
+        143
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "FEB",
+      "bbox": [
+        466,
+        127,
+        491,
+        137
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "17",
+      "bbox": [
+        498,
+        127,
+        513,
+        137
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "may",
+      "bbox": [
+        563,
+        125,
+        592,
+        135
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "ii?",
+      "bbox": [
+        598,
+        123,
+        645,
+        135
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "MAR",
+      "bbox": [
+        466,
+        143,
+        495,
+        153
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "16:",
+      "bbox": [
+        501,
+        143,
+        515,
+        152
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "_X:",
+      "bbox": [
+        535,
+        142,
+        543,
+        152
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "JULY.6",
+      "bbox": [
+        563,
+        141,
+        609,
+        152
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "fe",
+      "bbox": [
+        612,
+        127,
+        645,
+        158
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        65,
+        165,
+        131,
+        177
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "STYLE",
+      "bbox": [
+        147,
+        164,
+        190,
+        175
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "LIGHTS",
+      "bbox": [
+        196,
+        163,
+        245,
+        174
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PROGRESS",
+      "bbox": [
+        251,
+        162,
+        327,
+        173
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "DISTRIBUTION:",
+      "bbox": [
+        66,
+        221,
+        167,
+        233
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "EFFECTIVENESS",
+      "bbox": [
+        176,
+        219,
+        290,
+        231
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        295,
+        219,
+        313,
+        230
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "PRE-SELL",
+      "bbox": [
+        319,
+        218,
+        385,
+        230
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "(REPORT",
+      "bbox": [
+        390,
+        217,
+        449,
+        231
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "ON",
+      "bbox": [
+        454,
+        216,
+        474,
+        227
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "FEB.",
+      "bbox": [
+        480,
+        215,
+        511,
+        226
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "17",
+      "bbox": [
+        516,
+        215,
+        531,
+        225
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "ONLY).",
+      "bbox": [
+        536,
+        214,
+        583,
+        227
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "%",
+      "bbox": [
+        68,
+        330,
+        79,
+        341
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        84,
+        330,
+        102,
+        340
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "DISTRIBUTION",
+      "bbox": [
+        107,
+        328,
+        204,
+        340
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "ACHIEVED",
+      "bbox": [
+        210,
+        327,
+        280,
+        338
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Hy",
+      "bbox": [
+        286,
+        327,
+        299,
+        337
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "RETAIL",
+      "bbox": [
+        304,
+        325,
+        351,
+        337
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "OUTLETS:",
+      "bbox": [
+        356,
+        324,
+        422,
+        336
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "CLASSIFIED",
+      "bbox": [
+        331,
+        353,
+        400,
+        363
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "CALLS",
+      "bbox": [
+        404,
+        352,
+        442,
+        361
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "HERE",
+      "bbox": [
+        288,
+        379,
+        327,
+        393
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "ANNUAL",
+      "bbox": [
+        331,
+        381,
+        380,
+        389
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "CALLS",
+      "bbox": [
+        384,
+        379,
+        422,
+        388
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "PROMOTIONAL",
+      "bbox": [
+        68,
+        412,
+        170,
+        424
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "IMPACT:",
+      "bbox": [
+        175,
+        411,
+        230,
+        422
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "20",
+      "bbox": [
+        69,
+        486,
+        82,
+        494
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "CENTS",
+      "bbox": [
+        86,
+        485,
+        126,
+        494
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OFF",
+      "bbox": [
+        131,
+        484,
+        153,
+        494
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        158,
+        484,
+        191,
+        493
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "_HAS",
+      "bbox": [
+        208,
+        483,
+        232,
+        492
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "PROVEN",
+      "bbox": [
+        236,
+        482,
+        286,
+        492
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        290,
+        482,
+        306,
+        491
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "BE",
+      "bbox": [
+        311,
+        482,
+        326,
+        491
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "AN",
+      "bbox": [
+        330,
+        481,
+        347,
+        490
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "EXCELLENT",
+      "bbox": [
+        351,
+        479,
+        420,
+        490
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "TOOL",
+      "bbox": [
+        423,
+        478,
+        456,
+        488
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        461,
+        478,
+        471,
+        487
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "GENERATING",
+      "bbox": [
+        477,
+        476,
+        556,
+        487
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PAGK",
+      "bbox": [
+        560,
+        476,
+        592,
+        486
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "TRIAL",
+      "bbox": [
+        595,
+        475,
+        630,
+        485
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        634,
+        475,
+        645,
+        484
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "COUPON/STICKER:",
+      "bbox": [
+        77,
+        503,
+        188,
+        514
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "BOTH",
+      "bbox": [
+        208,
+        502,
+        241,
+        512
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "HIGH",
+      "bbox": [
+        246,
+        502,
+        276,
+        511
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        280,
+        501,
+        305,
+        511
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "LOW",
+      "bbox": [
+        310,
+        501,
+        337,
+        510
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DEVELOPMENT",
+      "bbox": [
+        341,
+        499,
+        430,
+        510
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "FRICE",
+      "bbox": [
+        434,
+        498,
+        469,
+        507
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "VALUE",
+      "bbox": [
+        473,
+        497,
+        512,
+        507
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "MARKETS.",
+      "bbox": [
+        517,
+        496,
+        574,
+        506
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "MANY",
+      "bbox": [
+        582,
+        495,
+        616,
+        504
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "DISPLAYS",
+      "bbox": [
+        208,
+        521,
+        266,
+        531
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SELLING",
+      "bbox": [
+        271,
+        520,
+        321,
+        530
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "QUT",
+      "bbox": [
+        325,
+        519,
+        350,
+        529
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "BEFORE",
+      "bbox": [
+        354,
+        519,
+        402,
+        528
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "RECONTACT,",
+      "bbox": [
+        407,
+        517,
+        483,
+        527
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "SALES",
+      "bbox": [
+        71,
+        557,
+        107,
+        566
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "FORCE",
+      "bbox": [
+        112,
+        556,
+        153,
+        566
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "20'S",
+      "bbox": [
+        157,
+        556,
+        182,
+        565
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "__ADDITIONAL",
+      "bbox": [
+        208,
+        554,
+        281,
+        564
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "SUPFLY",
+      "bbox": [
+        286,
+        553,
+        331,
+        563
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "WOULD",
+      "bbox": [
+        335,
+        553,
+        379,
+        562
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BE",
+      "bbox": [
+        385,
+        552,
+        399,
+        561
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "HELPFUL.",
+      "bbox": [
+        404,
+        551,
+        457,
+        560
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "INITIAL",
+      "bbox": [
+        470,
+        550,
+        511,
+        559
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "QUANTITIES",
+      "bbox": [
+        515,
+        548,
+        587,
+        558
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "WERE",
+      "bbox": [
+        208,
+        574,
+        243,
+        583
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "QUIGKLY",
+      "bbox": [
+        248,
+        573,
+        300,
+        583
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "$1.50",
+      "bbox": [
+        72,
+        668,
+        102,
+        678
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "OFF",
+      "bbox": [
+        107,
+        667,
+        129,
+        676
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "CARTON",
+      "bbox": [
+        135,
+        666,
+        184,
+        676
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "__GARTON",
+      "bbox": [
+        210,
+        665,
+        260,
+        675
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "MOVEMENT",
+      "bbox": [
+        265,
+        663,
+        333,
+        674
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "SPOTTY",
+      "bbox": [
+        338,
+        662,
+        384,
+        672
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "AT",
+      "bbox": [
+        388,
+        662,
+        403,
+        671
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "THIS",
+      "bbox": [
+        406,
+        661,
+        433,
+        671
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "POINT.",
+      "bbox": [
+        437,
+        661,
+        477,
+        671
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "ARE",
+      "bbox": [
+        548,
+        659,
+        572,
+        668
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "MORE",
+      "bbox": [
+        577,
+        658,
+        612,
+        668
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "THAN",
+      "bbox": [
+        616,
+        658,
+        648,
+        667
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "COUPON:",
+      "bbox": [
+        127,
+        686,
+        184,
+        696
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        195,
+        672,
+        203,
+        701
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "ADEQUATE",
+      "bbox": [
+        210,
+        684,
+        276,
+        695
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        280,
+        684,
+        305,
+        693
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        309,
+        684,
+        333,
+        693
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "NEED",
+      "bbox": [
+        338,
+        683,
+        369,
+        692
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "|S",
+      "bbox": [
+        375,
+        682,
+        385,
+        691
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "MOSTLY",
+      "bbox": [
+        390,
+        681,
+        437,
+        691
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PACKAGE",
+      "bbox": [
+        442,
+        680,
+        498,
+        690
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SUPPORT",
+      "bbox": [
+        503,
+        679,
+        560,
+        689
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "AT",
+      "bbox": [
+        564,
+        679,
+        579,
+        688
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "THIS",
+      "bbox": [
+        582,
+        678,
+        610,
+        688
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "TIME.",
+      "bbox": [
+        614,
+        677,
+        646,
+        687
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Ee",
+      "bbox": [
+        71,
+        721,
+        653,
+        736
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "eee",
+      "bbox": [
+        519,
+        711,
+        657,
+        741
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "EFFECTIVENESS",
+      "bbox": [
+        74,
+        749,
+        186,
+        762
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        191,
+        749,
+        209,
+        760
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ADVERTISING:",
+      "bbox": [
+        214,
+        746,
+        312,
+        759
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "OUTDOOR",
+      "bbox": [
+        323,
+        747,
+        383,
+        757
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        387,
+        746,
+        412,
+        756
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PRINT",
+      "bbox": [
+        417,
+        746,
+        451,
+        755
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "ADS",
+      "bbox": [
+        455,
+        745,
+        479,
+        754
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "HAVE",
+      "bbox": [
+        484,
+        745,
+        515,
+        754
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BEEN",
+      "bbox": [
+        520,
+        744,
+        552,
+        754
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "EFFECTIVE",
+      "bbox": [
+        557,
+        742,
+        622,
+        753
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        627,
+        742,
+        638,
+        751
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "CREATING",
+      "bbox": [
+        74,
+        771,
+        133,
+        781
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "CONSUMER",
+      "bbox": [
+        138,
+        769,
+        208,
+        780
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "AWARENESS",
+      "bbox": [
+        212,
+        767,
+        287,
+        778
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        293,
+        767,
+        303,
+        777
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "THOSE",
+      "bbox": [
+        307,
+        766,
+        348,
+        776
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DIVISIONS",
+      "bbox": [
+        353,
+        765,
+        413,
+        776
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "WITH",
+      "bbox": [
+        417,
+        764,
+        446,
+        774
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "ADVERTISING.",
+      "bbox": [
+        451,
+        763,
+        535,
+        773
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "BILLBOARDS",
+      "bbox": [
+        540,
+        761,
+        615,
+        772
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "\u201cARE",
+      "bbox": [
+        74,
+        791,
+        96,
+        800
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "EYE",
+      "bbox": [
+        102,
+        791,
+        123,
+        800
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "CATCHING",
+      "bbox": [
+        128,
+        789,
+        191,
+        799
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        195,
+        789,
+        220,
+        798
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "CONSUMERS",
+      "bbox": [
+        225,
+        787,
+        302,
+        797
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ARE",
+      "bbox": [
+        306,
+        787,
+        329,
+        796
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "MORE",
+      "bbox": [
+        335,
+        786,
+        369,
+        795
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "AWARE",
+      "bbox": [
+        373,
+        785,
+        415,
+        794
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        420,
+        785,
+        435,
+        793
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        439,
+        784,
+        463,
+        793
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PRODUCT",
+      "bbox": [
+        468,
+        783,
+        526,
+        793
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        531,
+        783,
+        542,
+        792
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "THOSE",
+      "bbox": [
+        546,
+        782,
+        588,
+        791
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "MARKETS",
+      "bbox": [
+        593,
+        780,
+        648,
+        790
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "WITH",
+      "bbox": [
+        74,
+        810,
+        103,
+        820
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "ADVERTISING.",
+      "bbox": [
+        108,
+        808,
+        191,
+        819
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        629,
+        811,
+        654,
+        813
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "5",
+      "bbox": [
+        660,
+        881,
+        672,
+        902
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "tote",
+      "bbox": [
+        108,
+        904,
+        135,
+        913
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "x",
+      "bbox": [
+        660,
+        903,
+        671,
+        912
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        660,
+        913,
+        671,
+        922
+      ],
+      "confidence": 71.0
+    }
+  ]
+}

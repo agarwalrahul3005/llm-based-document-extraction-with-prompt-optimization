@@ -1,0 +1,634 @@
+{
+  "words": [
+    {
+      "text": "COMPOUND",
+      "bbox": [
+        317,
+        85,
+        407,
+        96
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "STRUCTURE",
+      "bbox": [
+        414,
+        85,
+        497,
+        96
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Litton",
+      "bbox": [
+        515,
+        131,
+        568,
+        141
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Bionetics",
+      "bbox": [
+        579,
+        131,
+        658,
+        141
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "COMPOUND",
+      "bbox": [
+        111,
+        148,
+        180,
+        157
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        185,
+        148,
+        216,
+        157
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Genetic",
+      "bbox": [
+        518,
+        149,
+        557,
+        158
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Assay",
+      "bbox": [
+        562,
+        150,
+        590,
+        158
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "No,",
+      "bbox": [
+        595,
+        150,
+        612,
+        158
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "6692",
+      "bbox": [
+        624,
+        146,
+        658,
+        156
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Chem",
+      "bbox": [
+        111,
+        178,
+        141,
+        186
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Abst",
+      "bbox": [
+        146,
+        178,
+        172,
+        186
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        177,
+        179,
+        182,
+        185
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "NLA",
+      "bbox": [
+        187,
+        176,
+        213,
+        187
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Compound",
+      "bbox": [
+        110,
+        207,
+        168,
+        219
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Name",
+      "bbox": [
+        179,
+        208,
+        209,
+        216
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "\u2014Proprietary",
+      "bbox": [
+        217,
+        199,
+        503,
+        217
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "assaraesut",
+      "bbox": [
+        111,
+        274,
+        189,
+        283
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Lymph:",
+      "bbox": [
+        251,
+        261,
+        302,
+        295
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "negative",
+      "bbox": [
+        313,
+        261,
+        388,
+        295
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        396,
+        261,
+        433,
+        295
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "$9",
+      "bbox": [
+        441,
+        261,
+        459,
+        295
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "activation,",
+      "bbox": [
+        469,
+        261,
+        565,
+        295
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "positive",
+      "bbox": [
+        577,
+        261,
+        651,
+        295
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "without",
+      "bbox": [
+        659,
+        261,
+        723,
+        295
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "S89",
+      "bbox": [
+        187,
+        296,
+        203,
+        306
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "activation;",
+      "bbox": [
+        214,
+        296,
+        310,
+        308
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Rerun:",
+      "bbox": [
+        324,
+        297,
+        374,
+        307
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "negative",
+      "bbox": [
+        386,
+        296,
+        458,
+        309
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "without",
+      "bbox": [
+        468,
+        296,
+        532,
+        306
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "S9",
+      "bbox": [
+        542,
+        296,
+        557,
+        306
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "activation,",
+      "bbox": [
+        569,
+        295,
+        665,
+        307
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "borde:",
+      "bbox": [
+        678,
+        295,
+        722,
+        305
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "compouno",
+      "bbox": [
+        110,
+        334,
+        179,
+        343
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        313,
+        326,
+        348,
+        337
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "$9",
+      "bbox": [
+        359,
+        327,
+        375,
+        337
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "activation",
+      "bbox": [
+        386,
+        326,
+        476,
+        337
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "-Technical",
+      "bbox": [
+        487,
+        326,
+        575,
+        336
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "problems",
+      "bbox": [
+        587,
+        326,
+        658,
+        338
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        668,
+        325,
+        704,
+        335
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        715,
+        326,
+        738,
+        335
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "test",
+      "bbox": [
+        252,
+        343,
+        286,
+        352
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Unknown",
+      "bbox": [
+        119,
+        414,
+        180,
+        424
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Mixture",
+      "bbox": [
+        190,
+        414,
+        253,
+        425
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PHICALCULATED",
+      "bbox": [
+        108,
+        494,
+        202,
+        504
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "PHYSICAL",
+      "bbox": [
+        107,
+        553,
+        159,
+        561
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "APPEARANCE",
+      "bbox": [
+        169,
+        552,
+        239,
+        560
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ligui@",
+      "bbox": [
+        313,
+        542,
+        370,
+        567
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "\u00b0C",
+      "bbox": [
+        238,
+        572,
+        266,
+        598
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "@",
+      "bbox": [
+        273,
+        582,
+        280,
+        591
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        285,
+        589,
+        318,
+        591
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        323,
+        584,
+        341,
+        590
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "hg,",
+      "bbox": [
+        347,
+        582,
+        361,
+        593
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Recuuatory",
+      "bbox": [
+        106,
+        630,
+        178,
+        639
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "status.",
+      "bbox": [
+        183,
+        617,
+        238,
+        645
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "N/R",
+      "bbox": [
+        226,
+        624,
+        697,
+        640
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "ie",
+      "bbox": [
+        104,
+        687,
+        128,
+        695
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        668,
+        802,
+        681,
+        812
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Fy",
+      "bbox": [
+        667,
+        825,
+        680,
+        835
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        667,
+        837,
+        680,
+        847
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "4",
+      "bbox": [
+        665,
+        860,
+        678,
+        869
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        663,
+        871,
+        676,
+        881
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "hae",
+      "bbox": [
+        500,
+        979,
+        513,
+        984
+      ],
+      "confidence": 60.0
+    }
+  ]
+}

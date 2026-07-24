@@ -1,0 +1,444 @@
+{
+  "words": [
+    {
+      "text": "NEW EXPORT PRODUCI DEVELQPMENI CHARTER",
+      "bbox": [
+        54,
+        48,
+        478,
+        74
+      ],
+      "confidence": 0.7362806975102459
+    },
+    {
+      "text": "Date: 6/24/94",
+      "bbox": [
+        57,
+        73,
+        147,
+        89
+      ],
+      "confidence": 0.6696271776452687
+    },
+    {
+      "text": "BRANDIPROJECT NAME:",
+      "bbox": [
+        57,
+        107,
+        201,
+        121
+      ],
+      "confidence": 0.9995472809843443
+    },
+    {
+      "text": "RICHLAND Kings (Soft Pack)",
+      "bbox": [
+        56,
+        134,
+        344,
+        162
+      ],
+      "confidence": 0.8278530238631137
+    },
+    {
+      "text": "Duty Free (Phoenix)",
+      "bbox": [
+        354,
+        130,
+        558,
+        161
+      ],
+      "confidence": 0.9781262881124037
+    },
+    {
+      "text": "MARKETIS):",
+      "bbox": [
+        57,
+        193,
+        129,
+        209
+      ],
+      "confidence": 0.5500116294220903
+    },
+    {
+      "text": "World-wide",
+      "bbox": [
+        56,
+        220,
+        167,
+        244
+      ],
+      "confidence": 0.9994021510325037
+    },
+    {
+      "text": "Free",
+      "bbox": [
+        218,
+        220,
+        270,
+        244
+      ],
+      "confidence": 0.9999909400939941
+    },
+    {
+      "text": "OBJECTIVE:",
+      "bbox": [
+        57,
+        279,
+        131,
+        295
+      ],
+      "confidence": 0.665783385743764
+    },
+    {
+      "text": "Generate incremental volume for BeW by providing a low price",
+      "bbox": [
+        66,
+        292,
+        568,
+        316
+      ],
+      "confidence": 0.49013024973447183
+    },
+    {
+      "text": "brand to various international duty-free markets_",
+      "bbox": [
+        66,
+        310,
+        446,
+        334
+      ],
+      "confidence": 0.6294789390193389
+    },
+    {
+      "text": "SOURCE OF BUSINESS:",
+      "bbox": [
+        57,
+        373,
+        197,
+        387
+      ],
+      "confidence": 0.8920117563280815
+    },
+    {
+      "text": "TBD",
+      "bbox": [
+        61,
+        421,
+        87,
+        437
+      ],
+      "confidence": 0.9909898648944981
+    },
+    {
+      "text": "Value-conscious Smokers",
+      "bbox": [
+        383,
+        421,
+        527,
+        435
+      ],
+      "confidence": 0.9413423633445945
+    },
+    {
+      "text": "COST OR RETAL PRICING:",
+      "bbox": [
+        57,
+        489,
+        215,
+        503
+      ],
+      "confidence": 0.8194062811046379
+    },
+    {
+      "text": "TBD",
+      "bbox": [
+        67,
+        521,
+        93,
+        535
+      ],
+      "confidence": 0.9985175080530615
+    },
+    {
+      "text": "VOLUME:",
+      "bbox": [
+        57,
+        571,
+        115,
+        587
+      ],
+      "confidence": 0.9415242633469009
+    },
+    {
+      "text": "stn Up:",
+      "bbox": [
+        57,
+        591,
+        101,
+        603
+      ],
+      "confidence": 0.727713903389854
+    },
+    {
+      "text": "Monthly Ongoing:",
+      "bbox": [
+        405,
+        588,
+        487,
+        603
+      ],
+      "confidence": 0.6923881542475052
+    },
+    {
+      "text": "TBD",
+      "bbox": [
+        135,
+        605,
+        161,
+        619
+      ],
+      "confidence": 0.9989279819609611
+    },
+    {
+      "text": "TBD",
+      "bbox": [
+        463,
+        603,
+        489,
+        619
+      ],
+      "confidence": 0.9991638168402256
+    },
+    {
+      "text": "INITAAL MATERIALS REQUIRED:",
+      "bbox": [
+        57,
+        655,
+        239,
+        671
+      ],
+      "confidence": 0.41278459215857716
+    },
+    {
+      "text": "Oty In Unlle",
+      "bbox": [
+        289,
+        657,
+        345,
+        669
+      ],
+      "confidence": 0.4410590847252214
+    },
+    {
+      "text": "Dollar Cost",
+      "bbox": [
+        384,
+        658,
+        436,
+        666
+      ],
+      "confidence": 0.6251846597893864
+    },
+    {
+      "text": "On Hand",
+      "bbox": [
+        289,
+        671,
+        341,
+        685
+      ],
+      "confidence": 0.9989175526540619
+    },
+    {
+      "text": "On Hand",
+      "bbox": [
+        289,
+        689,
+        341,
+        703
+      ],
+      "confidence": 0.9964986770268754
+    },
+    {
+      "text": "Case",
+      "bbox": [
+        57,
+        707,
+        81,
+        719
+      ],
+      "confidence": 0.7957482933998108
+    },
+    {
+      "text": "500",
+      "bbox": [
+        289,
+        705,
+        313,
+        719
+      ],
+      "confidence": 0.9170066874387559
+    },
+    {
+      "text": "5250",
+      "bbox": [
+        433,
+        705,
+        463,
+        721
+      ],
+      "confidence": 0.950743556022644
+    },
+    {
+      "text": "TIMETABLE:",
+      "bbox": [
+        59,
+        739,
+        131,
+        753
+      ],
+      "confidence": 0.9551781216683516
+    },
+    {
+      "text": "Manulacturing:",
+      "bbox": [
+        58,
+        755,
+        127,
+        769
+      ],
+      "confidence": 0.9472680156365326
+    },
+    {
+      "text": "Shipping:",
+      "bbox": [
+        383,
+        757,
+        433,
+        771
+      ],
+      "confidence": 0.9586192634547189
+    },
+    {
+      "text": "IProduc",
+      "bbox": [
+        56,
+        772,
+        91,
+        786
+      ],
+      "confidence": 0.4484050653934106
+    },
+    {
+      "text": "stant Manulacture Dale:",
+      "bbox": [
+        57,
+        791,
+        165,
+        803
+      ],
+      "confidence": 0.6426250179859411
+    },
+    {
+      "text": "APPRQVALS:",
+      "bbox": [
+        56,
+        814,
+        170,
+        838
+      ],
+      "confidence": 0.7715487011241181
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        677,
+        823,
+        701,
+        835
+      ],
+      "confidence": 0.6013932228088379
+    },
+    {
+      "text": "Group Prod Dir",
+      "bbox": [
+        59,
+        841,
+        129,
+        853
+      ],
+      "confidence": 0.9971547806147366
+    },
+    {
+      "text": "VP Int1 Planning",
+      "bbox": [
+        383,
+        839,
+        461,
+        853
+      ],
+      "confidence": 0.7597984085700364
+    },
+    {
+      "text": "Dir. Int1 Admin",
+      "bbox": [
+        57,
+        875,
+        127,
+        887
+      ],
+      "confidence": 0.6270467622892835
+    },
+    {
+      "text": "VP Int | Marketing",
+      "bbox": [
+        383,
+        873,
+        467,
+        887
+      ],
+      "confidence": 0.44158902677610024
+    },
+    {
+      "text": "Regiona",
+      "bbox": [
+        57,
+        907,
+        95,
+        919
+      ],
+      "confidence": 0.3875596145764212
+    },
+    {
+      "text": "670 S S6 182",
+      "bbox": [
+        517,
+        935,
+        644,
+        964
+      ],
+      "confidence": 0.4248321747900322
+    },
+    {
+      "text": "Duty",
+      "bbox": [
+        165,
+        217,
+        219,
+        249
+      ],
+      "confidence": 0.9999911785125732
+    },
+    {
+      "text": "Dale;",
+      "bbox": [
+        123,
+        772,
+        152,
+        787
+      ],
+      "confidence": 0.47051080208535856
+    }
+  ]
+}

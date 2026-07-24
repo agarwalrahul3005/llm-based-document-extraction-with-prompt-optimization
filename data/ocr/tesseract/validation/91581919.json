@@ -1,0 +1,1544 @@
+{
+  "words": [
+    {
+      "text": "9",
+      "bbox": [
+        191,
+        55,
+        199,
+        71
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        382,
+        109,
+        401,
+        140
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "PERFORMANCE",
+      "bbox": [
+        410,
+        113,
+        513,
+        130
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "From",
+      "bbox": [
+        111,
+        152,
+        148,
+        164
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Newspaper",
+      "bbox": [
+        157,
+        151,
+        240,
+        168
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "New",
+      "bbox": [
+        257,
+        153,
+        278,
+        163
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Albany",
+      "bbox": [
+        286,
+        153,
+        329,
+        165
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Tridune",
+      "bbox": [
+        338,
+        153,
+        388,
+        162
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        440,
+        161,
+        446,
+        163
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Account",
+      "bbox": [
+        521,
+        153,
+        586,
+        164
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Harley",
+      "bbox": [
+        596,
+        152,
+        637,
+        163
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Davidson",
+      "bbox": [
+        647,
+        152,
+        705,
+        161
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Cigarettes",
+      "bbox": [
+        596,
+        168,
+        668,
+        179
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "State",
+      "bbox": [
+        110,
+        198,
+        156,
+        210
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        167,
+        199,
+        185,
+        210
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "_Indisne",
+      "bbox": [
+        206,
+        198,
+        255,
+        207
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "}",
+      "bbox": [
+        384,
+        197,
+        388,
+        212
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Agency",
+      "bbox": [
+        521,
+        199,
+        576,
+        213
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Lorillard",
+      "bbox": [
+        596,
+        200,
+        660,
+        210
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "Service",
+      "bbox": [
+        713,
+        200,
+        763,
+        209
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "88:",
+      "bbox": [
+        409,
+        214,
+        433,
+        226
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "County",
+      "bbox": [
+        112,
+        229,
+        165,
+        244
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        176,
+        229,
+        194,
+        241
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Floyd",
+      "bbox": [
+        205,
+        230,
+        240,
+        241
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": ")",
+      "bbox": [
+        384,
+        227,
+        388,
+        243
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Before",
+      "bbox": [
+        110,
+        275,
+        165,
+        287
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "me",
+      "bbox": [
+        175,
+        279,
+        193,
+        287
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        204,
+        279,
+        211,
+        287
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Notary",
+      "bbox": [
+        221,
+        276,
+        276,
+        290
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Public,",
+      "bbox": [
+        288,
+        276,
+        350,
+        290
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "personally",
+      "bbox": [
+        363,
+        276,
+        455,
+        290
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Inzer",
+      "bbox": [
+        611,
+        269,
+        646,
+        282
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "who",
+      "bbox": [
+        110,
+        306,
+        137,
+        318
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "being",
+      "bbox": [
+        148,
+        307,
+        194,
+        321
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "duly",
+      "bbox": [
+        203,
+        307,
+        239,
+        321
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "sworn,",
+      "bbox": [
+        250,
+        309,
+        303,
+        321
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "says",
+      "bbox": [
+        316,
+        310,
+        351,
+        321
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "that",
+      "bbox": [
+        363,
+        306,
+        398,
+        318
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "(he)",
+      "bbox": [
+        411,
+        304,
+        444,
+        320
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "(she)",
+      "bbox": [
+        458,
+        304,
+        500,
+        320
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "is,",
+      "bbox": [
+        513,
+        307,
+        529,
+        318
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Bookkeeper",
+      "bbox": [
+        566,
+        306,
+        639,
+        317
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        111,
+        338,
+        128,
+        349
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        139,
+        338,
+        165,
+        349
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "abovementioned",
+      "bbox": [
+        176,
+        338,
+        304,
+        349
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "newspaper",
+      "bbox": [
+        315,
+        341,
+        398,
+        352
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        409,
+        338,
+        435,
+        349
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "that",
+      "bbox": [
+        447,
+        338,
+        483,
+        350
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "display",
+      "bbox": [
+        493,
+        338,
+        557,
+        352
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ads",
+      "bbox": [
+        569,
+        338,
+        594,
+        349
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        606,
+        338,
+        633,
+        349
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        644,
+        338,
+        669,
+        349
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "above",
+      "bbox": [
+        110,
+        369,
+        155,
+        381
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "account",
+      "bbox": [
+        166,
+        370,
+        230,
+        381
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "were",
+      "bbox": [
+        239,
+        372,
+        276,
+        381
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "made",
+      "bbox": [
+        287,
+        369,
+        323,
+        381
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "through",
+      "bbox": [
+        335,
+        369,
+        398,
+        384
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        410,
+        369,
+        435,
+        381
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "aforesaid",
+      "bbox": [
+        447,
+        369,
+        529,
+        381
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "newspaper",
+      "bbox": [
+        540,
+        372,
+        623,
+        384
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "during",
+      "bbox": [
+        633,
+        369,
+        688,
+        384
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        111,
+        400,
+        136,
+        412
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "month",
+      "bbox": [
+        147,
+        401,
+        193,
+        412
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        203,
+        401,
+        221,
+        412
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "__January",
+      "bbox": [
+        249,
+        401,
+        299,
+        413
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "19.88",
+      "bbox": [
+        399,
+        400,
+        440,
+        414
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "as",
+      "bbox": [
+        465,
+        404,
+        482,
+        412
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        109,
+        439,
+        145,
+        451
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Column",
+      "bbox": [
+        240,
+        439,
+        295,
+        451
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Inches",
+      "bbox": [
+        306,
+        440,
+        360,
+        452
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Exclusive",
+      "bbox": [
+        437,
+        440,
+        520,
+        451
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "advertising",
+      "bbox": [
+        531,
+        440,
+        633,
+        456
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        643,
+        440,
+        669,
+        451
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "1/31/88",
+      "bbox": [
+        110,
+        470,
+        159,
+        481
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Insert.",
+      "bbox": [
+        249,
+        467,
+        296,
+        488
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Harley",
+      "bbox": [
+        441,
+        471,
+        484,
+        482
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Davidson",
+      "bbox": [
+        492,
+        471,
+        550,
+        480
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Cigarettes",
+      "bbox": [
+        559,
+        470,
+        631,
+        482
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "We",
+      "bbox": [
+        108,
+        566,
+        126,
+        577
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "hereby",
+      "bbox": [
+        137,
+        566,
+        191,
+        581
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "certify",
+      "bbox": [
+        203,
+        566,
+        265,
+        580
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "charges",
+      "bbox": [
+        278,
+        567,
+        341,
+        582
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "shown",
+      "bbox": [
+        352,
+        567,
+        397,
+        578
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "above",
+      "bbox": [
+        408,
+        567,
+        454,
+        578
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        465,
+        570,
+        482,
+        579
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "dates",
+      "bbox": [
+        493,
+        567,
+        537,
+        579
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "per",
+      "bbox": [
+        549,
+        570,
+        576,
+        582
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "attached",
+      "bbox": [
+        587,
+        567,
+        659,
+        579
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "bill",
+      "bbox": [
+        109,
+        597,
+        145,
+        609
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "are",
+      "bbox": [
+        156,
+        601,
+        182,
+        609
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "true",
+      "bbox": [
+        193,
+        599,
+        228,
+        609
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        239,
+        598,
+        266,
+        609
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "correct",
+      "bbox": [
+        278,
+        599,
+        341,
+        609
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "as",
+      "bbox": [
+        352,
+        601,
+        369,
+        609
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "billed",
+      "bbox": [
+        380,
+        598,
+        435,
+        610
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        446,
+        600,
+        463,
+        609
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        475,
+        598,
+        500,
+        610
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "account",
+      "bbox": [
+        512,
+        599,
+        576,
+        610
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        587,
+        599,
+        604,
+        610
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "upper",
+      "bbox": [
+        615,
+        601,
+        659,
+        613
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "right",
+      "bbox": [
+        109,
+        628,
+        154,
+        643
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "hand",
+      "bbox": [
+        164,
+        628,
+        200,
+        640
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "corner",
+      "bbox": [
+        212,
+        632,
+        266,
+        640
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        277,
+        629,
+        295,
+        640
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        306,
+        629,
+        331,
+        640
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "affidavit",
+      "bbox": [
+        343,
+        629,
+        425,
+        640
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        436,
+        629,
+        463,
+        640
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "are",
+      "bbox": [
+        475,
+        632,
+        500,
+        640
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "exclusive",
+      "bbox": [
+        512,
+        629,
+        594,
+        640
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "New",
+      "bbox": [
+        109,
+        661,
+        130,
+        670
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Albany",
+      "bbox": [
+        139,
+        661,
+        181,
+        672
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "Tribune",
+      "bbox": [
+        190,
+        661,
+        240,
+        670
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "advertisements,",
+      "bbox": [
+        352,
+        660,
+        481,
+        671
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "/",
+      "bbox": [
+        503,
+        663,
+        505,
+        665
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Signed",
+      "bbox": [
+        398,
+        691,
+        453,
+        705
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Sworn",
+      "bbox": [
+        108,
+        752,
+        154,
+        764
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        165,
+        754,
+        181,
+        764
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        193,
+        752,
+        219,
+        764
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "subscribed",
+      "bbox": [
+        230,
+        752,
+        322,
+        764
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "before",
+      "bbox": [
+        333,
+        752,
+        387,
+        764
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "me",
+      "bbox": [
+        397,
+        755,
+        415,
+        764
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "this",
+      "bbox": [
+        427,
+        752,
+        462,
+        764
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "day",
+      "bbox": [
+        520,
+        752,
+        547,
+        766
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        559,
+        752,
+        577,
+        763
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Mercy,",
+      "bbox": [
+        588,
+        754,
+        667,
+        766
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "1986",
+      "bbox": [
+        680,
+        752,
+        713,
+        765
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        109,
+        783,
+        125,
+        795
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "TESTIMONY",
+      "bbox": [
+        137,
+        783,
+        219,
+        795
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "WHEREGF",
+      "bbox": [
+        228,
+        783,
+        294,
+        795
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "I",
+      "bbox": [
+        305,
+        784,
+        313,
+        795
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "have",
+      "bbox": [
+        323,
+        783,
+        359,
+        795
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "set",
+      "bbox": [
+        371,
+        785,
+        397,
+        795
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "my",
+      "bbox": [
+        407,
+        787,
+        425,
+        798
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "hand",
+      "bbox": [
+        436,
+        783,
+        472,
+        795
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        484,
+        783,
+        510,
+        795
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "seal",
+      "bbox": [
+        521,
+        783,
+        557,
+        795
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        569,
+        783,
+        595,
+        795
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "day",
+      "bbox": [
+        605,
+        783,
+        632,
+        797
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "end",
+      "bbox": [
+        643,
+        783,
+        669,
+        794
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "year",
+      "bbox": [
+        679,
+        786,
+        715,
+        797
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "aforesaid,",
+      "bbox": [
+        109,
+        815,
+        198,
+        827
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        743,
+        829,
+        753,
+        843
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "MY",
+      "bbox": [
+        107,
+        846,
+        126,
+        857
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "COMMISSION",
+      "bbox": [
+        137,
+        846,
+        227,
+        858
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "__",
+      "bbox": [
+        325,
+        837,
+        346,
+        868
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "29-90",
+      "bbox": [
+        353,
+        847,
+        396,
+        857
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Bos",
+      "bbox": [
+        480,
+        836,
+        526,
+        879
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "Spas",
+      "bbox": [
+        559,
+        837,
+        599,
+        879
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "ede",
+      "bbox": [
+        604,
+        837,
+        636,
+        879
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        742,
+        847,
+        752,
+        863
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "oo",
+      "bbox": [
+        319,
+        853,
+        436,
+        883
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "jotary",
+      "bbox": [
+        511,
+        865,
+        556,
+        876
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "Public",
+      "bbox": [
+        577,
+        865,
+        623,
+        873
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        740,
+        883,
+        750,
+        898
+      ],
+      "confidence": 49.0
+    }
+  ]
+}

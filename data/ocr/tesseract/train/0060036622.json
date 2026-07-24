@@ -1,0 +1,1134 @@
+{
+  "words": [
+    {
+      "text": "To:",
+      "bbox": [
+        248,
+        63,
+        270,
+        72
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        298,
+        62,
+        321,
+        71
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "G.",
+      "bbox": [
+        332,
+        62,
+        346,
+        71
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        357,
+        63,
+        372,
+        71
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Schramm",
+      "bbox": [
+        383,
+        62,
+        441,
+        71
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        508,
+        63,
+        532,
+        72
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "W.",
+      "bbox": [
+        542,
+        63,
+        557,
+        71
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "B.",
+      "bbox": [
+        568,
+        63,
+        582,
+        71
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "Myban",
+      "bbox": [
+        592,
+        62,
+        634,
+        74
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        298,
+        76,
+        321,
+        86
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        332,
+        76,
+        346,
+        85
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "H,",
+      "bbox": [
+        357,
+        76,
+        371,
+        86
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Stinnette",
+      "bbox": [
+        383,
+        75,
+        458,
+        86
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        508,
+        77,
+        532,
+        86
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "x,",
+      "bbox": [
+        568,
+        77,
+        581,
+        86
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Whelan",
+      "bbox": [
+        593,
+        76,
+        643,
+        86
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        298,
+        91,
+        321,
+        100
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        332,
+        91,
+        346,
+        100
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "B.",
+      "bbox": [
+        357,
+        91,
+        372,
+        100
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "McCarthy",
+      "bbox": [
+        382,
+        90,
+        450,
+        102
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        248,
+        119,
+        287,
+        128
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "B.",
+      "bbox": [
+        299,
+        119,
+        313,
+        128
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "5.",
+      "bbox": [
+        324,
+        119,
+        338,
+        128
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Curtin",
+      "bbox": [
+        349,
+        119,
+        399,
+        128
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Request",
+      "bbox": [
+        249,
+        189,
+        307,
+        201
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        316,
+        188,
+        340,
+        198
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "contribution",
+      "bbox": [
+        350,
+        188,
+        450,
+        198
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "ox",
+      "bbox": [
+        460,
+        191,
+        475,
+        198
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "membership",
+      "bbox": [
+        484,
+        188,
+        568,
+        200
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        578,
+        189,
+        593,
+        198
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        602,
+        188,
+        618,
+        198
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "considered",
+      "bbox": [
+        249,
+        204,
+        331,
+        213
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        341,
+        204,
+        357,
+        215
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Contributions",
+      "bbox": [
+        366,
+        203,
+        475,
+        213
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Committee",
+      "bbox": [
+        484,
+        203,
+        559,
+        213
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        569,
+        204,
+        584,
+        213
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "next",
+      "bbox": [
+        594,
+        204,
+        627,
+        213
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Kl",
+      "bbox": [
+        264,
+        246,
+        286,
+        278
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "contribution",
+      "bbox": [
+        291,
+        260,
+        391,
+        270
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "C",
+      "bbox": [
+        449,
+        257,
+        467,
+        273
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Membership",
+      "bbox": [
+        476,
+        260,
+        559,
+        272
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Harvard",
+      "bbox": [
+        379,
+        274,
+        438,
+        284
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Ndical",
+      "bbox": [
+        447,
+        273,
+        505,
+        283
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "School",
+      "bbox": [
+        515,
+        273,
+        564,
+        283
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Requested",
+      "bbox": [
+        250,
+        288,
+        324,
+        300
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "by__and",
+      "bbox": [
+        333,
+        288,
+        405,
+        300
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Dr.",
+      "bbox": [
+        414,
+        289,
+        436,
+        298
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Gary",
+      "bbox": [
+        447,
+        289,
+        480,
+        300
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Huber",
+      "bbox": [
+        489,
+        287,
+        531,
+        297
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        564,
+        311,
+        578,
+        338
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "6/1/76",
+      "bbox": [
+        515,
+        344,
+        523,
+        353
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "For",
+      "bbox": [
+        250,
+        374,
+        275,
+        383
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "American",
+      "bbox": [
+        283,
+        373,
+        350,
+        383
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Bran\u00e9s,",
+      "bbox": [
+        360,
+        373,
+        415,
+        384
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Inc.",
+      "bbox": [
+        427,
+        374,
+        457,
+        383
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Recent",
+      "bbox": [
+        267,
+        430,
+        316,
+        440
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "actions",
+      "bbox": [
+        326,
+        430,
+        384,
+        440
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "regarding",
+      "bbox": [
+        394,
+        429,
+        468,
+        442
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "above",
+      "bbox": [
+        478,
+        430,
+        519,
+        440
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "solicitor",
+      "bbox": [
+        529,
+        430,
+        603,
+        440
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        613,
+        434,
+        620,
+        436
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Payment",
+      "bbox": [
+        246,
+        457,
+        305,
+        469
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        314,
+        461,
+        321,
+        463
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "1976",
+      "bbox": [
+        332,
+        456,
+        363,
+        466
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "$40,921.30",
+      "bbox": [
+        374,
+        455,
+        457,
+        467
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        465,
+        455,
+        481,
+        467
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "A.B.,Inc.",
+      "bbox": [
+        490,
+        456,
+        564,
+        467
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "1975",
+      "bbox": [
+        331,
+        470,
+        363,
+        480
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "84,309.94",
+      "bbox": [
+        381,
+        470,
+        457,
+        481
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "1974",
+      "bbox": [
+        331,
+        484,
+        364,
+        494
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "92,131.29",
+      "bbox": [
+        382,
+        483,
+        457,
+        495
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "1973",
+      "bbox": [
+        331,
+        499,
+        363,
+        508
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "91,630.53",
+      "bbox": [
+        382,
+        498,
+        456,
+        509
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Remarks",
+      "bbox": [
+        268,
+        584,
+        326,
+        594
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        336,
+        588,
+        343,
+        590
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "For",
+      "bbox": [
+        248,
+        626,
+        273,
+        635
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "confirmation",
+      "bbox": [
+        282,
+        624,
+        382,
+        634
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        390,
+        624,
+        407,
+        636
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        417,
+        624,
+        441,
+        634
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Committee.",
+      "bbox": [
+        450,
+        623,
+        531,
+        633
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Check",
+      "bbox": [
+        551,
+        623,
+        592,
+        633
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        603,
+        623,
+        626,
+        633
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "$43,910.30",
+      "bbox": [
+        249,
+        638,
+        332,
+        650
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "representing",
+      "bbox": [
+        342,
+        638,
+        441,
+        651
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        450,
+        638,
+        475,
+        647
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ninth",
+      "bbox": [
+        484,
+        637,
+        525,
+        647
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "installment",
+      "bbox": [
+        249,
+        653,
+        340,
+        663
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "te",
+      "bbox": [
+        349,
+        653,
+        365,
+        662
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        375,
+        652,
+        399,
+        662
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Harvard",
+      "bbox": [
+        408,
+        652,
+        467,
+        662
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        476,
+        651,
+        533,
+        664
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "transmitted",
+      "bbox": [
+        543,
+        651,
+        635,
+        661
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "August",
+      "bbox": [
+        248,
+        667,
+        298,
+        679
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "1976.",
+      "bbox": [
+        308,
+        667,
+        346,
+        676
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Decision",
+      "bbox": [
+        253,
+        753,
+        320,
+        763
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        329,
+        753,
+        345,
+        763
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Committee",
+      "bbox": [
+        354,
+        752,
+        429,
+        762
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        438,
+        754,
+        454,
+        761
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Present",
+      "bbox": [
+        463,
+        753,
+        521,
+        762
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Request",
+      "bbox": [
+        531,
+        752,
+        588,
+        764
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "ray",
+      "bbox": [
+        270,
+        781,
+        295,
+        793
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        305,
+        785,
+        311,
+        787
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Declined",
+      "bbox": [
+        270,
+        809,
+        337,
+        819
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        347,
+        813,
+        354,
+        815
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Send",
+      "bbox": [
+        363,
+        809,
+        396,
+        819
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "NO",
+      "bbox": [
+        593,
+        798,
+        701,
+        828
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Consideration",
+      "bbox": [
+        271,
+        837,
+        379,
+        846
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "deferred",
+      "bbox": [
+        388,
+        836,
+        455,
+        846
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "until",
+      "bbox": [
+        464,
+        835,
+        505,
+        845
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "committer",
+      "bbox": [
+        372,
+        864,
+        447,
+        874
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "meeting",
+      "bbox": [
+        456,
+        864,
+        515,
+        876
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        524,
+        863,
+        540,
+        873
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "2/26",
+      "bbox": [
+        582,
+        847,
+        606,
+        870
+      ],
+      "confidence": 65.0
+    }
+  ]
+}

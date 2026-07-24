@@ -1,0 +1,414 @@
+{
+  "words": [
+    {
+      "text": "CQUPON CQPE REGISIBATION FORM",
+      "bbox": [
+        303,
+        144,
+        519,
+        161
+      ],
+      "confidence": 0.3173520915823317
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        109,
+        173,
+        149,
+        187
+      ],
+      "confidence": 0.9942727769958619
+    },
+    {
+      "text": "THOM",
+      "bbox": [
+        155,
+        173,
+        189,
+        187
+      ],
+      "confidence": 0.8994438052177429
+    },
+    {
+      "text": "SMIth",
+      "bbox": [
+        193,
+        173,
+        231,
+        187
+      ],
+      "confidence": 0.43878421013373564
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        109,
+        203,
+        131,
+        217
+      ],
+      "confidence": 0.6007182024204544
+    },
+    {
+      "text": "VINCE LOSITO",
+      "bbox": [
+        143,
+        203,
+        227,
+        217
+      ],
+      "confidence": 0.99119471267462
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        107,
+        233,
+        131,
+        247
+      ],
+      "confidence": 0.5391274723404973
+    },
+    {
+      "text": "WEST,",
+      "bbox": [
+        159,
+        233,
+        197,
+        249
+      ],
+      "confidence": 0.9982265500445043
+    },
+    {
+      "text": "GIORDANO",
+      "bbox": [
+        211,
+        233,
+        277,
+        249
+      ],
+      "confidence": 0.9992282521271509
+    },
+    {
+      "text": "LINDSLEY ,",
+      "bbox": [
+        293,
+        233,
+        357,
+        249
+      ],
+      "confidence": 0.8529441969068022
+    },
+    {
+      "text": "SADOVNICK,",
+      "bbox": [
+        371,
+        233,
+        443,
+        249
+      ],
+      "confidence": 0.7861404896116596
+    },
+    {
+      "text": "S. RAPISARLDI;",
+      "bbox": [
+        447,
+        235,
+        537,
+        249
+      ],
+      "confidence": 0.4574259259588305
+    },
+    {
+      "text": "DAVIN;",
+      "bbox": [
+        551,
+        235,
+        591,
+        249
+      ],
+      "confidence": 0.7964243137799505
+    },
+    {
+      "text": "Pasheluk",
+      "bbox": [
+        607,
+        235,
+        659,
+        249
+      ],
+      "confidence": 0.999823145345628
+    },
+    {
+      "text": "KENT HEAVY UP TEST DIRECT MAIL CPNS",
+      "bbox": [
+        299,
+        263,
+        541,
+        283
+      ],
+      "confidence": 0.4678149336542288
+    },
+    {
+      "text": "Nen",
+      "bbox": [
+        561,
+        269,
+        597,
+        285
+      ],
+      "confidence": 0.6081382147875766
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        301,
+        297,
+        337,
+        311
+      ],
+      "confidence": 0.9986803531646729
+    },
+    {
+      "text": "MEDIA",
+      "bbox": [
+        105,
+        327,
+        145,
+        341
+      ],
+      "confidence": 0.9998939617385565
+    },
+    {
+      "text": "DirECT MAIL",
+      "bbox": [
+        301,
+        327,
+        377,
+        341
+      ],
+      "confidence": 0.6958688194241573
+    },
+    {
+      "text": "ISSUE FREQUENCYIYEAR",
+      "bbox": [
+        105,
+        357,
+        253,
+        371
+      ],
+      "confidence": 0.8446970430727107
+    },
+    {
+      "text": "SPACEICOLOR",
+      "bbox": [
+        105,
+        387,
+        193,
+        401
+      ],
+      "confidence": 0.9968566656762673
+    },
+    {
+      "text": "COUPON ISSUE DATE",
+      "bbox": [
+        105,
+        417,
+        231,
+        431
+      ],
+      "confidence": 0.7553538384558177
+    },
+    {
+      "text": "10/13/95",
+      "bbox": [
+        299,
+        419,
+        349,
+        431
+      ],
+      "confidence": 0.6668937197095575
+    },
+    {
+      "text": "COUPON EXPIRATION DATE",
+      "bbox": [
+        105,
+        447,
+        265,
+        461
+      ],
+      "confidence": 0.8324448221848078
+    },
+    {
+      "text": "12/17/95",
+      "bbox": [
+        299,
+        449,
+        349,
+        463
+      ],
+      "confidence": 0.5498941381937813
+    },
+    {
+      "text": "CIRCULATION",
+      "bbox": [
+        105,
+        491,
+        187,
+        507
+      ],
+      "confidence": 0.9996823389068775
+    },
+    {
+      "text": "GECGRAPHICAL AREA(S)",
+      "bbox": [
+        105,
+        537,
+        247,
+        553
+      ],
+      "confidence": 0.7019033276458552
+    },
+    {
+      "text": "Regions 14,17,21",
+      "bbox": [
+        299,
+        537,
+        399,
+        555
+      ],
+      "confidence": 0.7989715223620503
+    },
+    {
+      "text": "COUPON VALUE",
+      "bbox": [
+        103,
+        567,
+        199,
+        583
+      ],
+      "confidence": 0.9969441004958977
+    },
+    {
+      "text": "52 oft 3 Pcks 0r Crtn",
+      "bbox": [
+        299,
+        569,
+        409,
+        583
+      ],
+      "confidence": 0.33547207976335
+    },
+    {
+      "text": "PACK AND OFUCARTON",
+      "bbox": [
+        103,
+        599,
+        239,
+        613
+      ],
+      "confidence": 0.6291750512175839
+    },
+    {
+      "text": "PACK OR CARTON",
+      "bbox": [
+        299,
+        599,
+        405,
+        613
+      ],
+      "confidence": 0.6082260138835406
+    },
+    {
+      "text": "ADVERTISING CREATIVE THEME",
+      "bbox": [
+        103,
+        629,
+        287,
+        643
+      ],
+      "confidence": 0.8535747527839318
+    },
+    {
+      "text": "SIGNATURE OF INITIATOR",
+      "bbox": [
+        103,
+        659,
+        253,
+        675
+      ],
+      "confidence": 0.976591850620657
+    },
+    {
+      "text": "DATE INITIATED",
+      "bbox": [
+        103,
+        689,
+        197,
+        705
+      ],
+      "confidence": 0.9997461295841954
+    },
+    {
+      "text": "6/8/95",
+      "bbox": [
+        299,
+        691,
+        335,
+        705
+      ],
+      "confidence": 0.5999354045482149
+    },
+    {
+      "text": "ANALYTICAL REQUIAEMENTS:",
+      "bbox": [
+        103,
+        718,
+        274,
+        735
+      ],
+      "confidence": 0.984596500369503
+    },
+    {
+      "text": "FOR CONTROL USE ONLY:",
+      "bbox": [
+        299,
+        751,
+        449,
+        765
+      ],
+      "confidence": 0.5801491276064996
+    },
+    {
+      "text": "CODE ASSIGNED:",
+      "bbox": [
+        299,
+        781,
+        401,
+        795
+      ],
+      "confidence": 0.8803726808595324
+    },
+    {
+      "text": "JOB NumbER;",
+      "bbox": [
+        297,
+        797,
+        381,
+        811
+      ],
+      "confidence": 0.4066671143035684
+    },
+    {
+      "text": "EST , REDEMPTION:",
+      "bbox": [
+        299,
+        811,
+        410,
+        825
+      ],
+      "confidence": 0.631904641794614
+    }
+  ]
+}

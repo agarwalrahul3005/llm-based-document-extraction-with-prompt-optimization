@@ -1,0 +1,344 @@
+{
+  "words": [
+    {
+      "text": "To:",
+      "bbox": [
+        49,
+        101,
+        77,
+        121
+      ],
+      "confidence": 0.7853659408076668
+    },
+    {
+      "text": "Mrs. KA Sparrow",
+      "bbox": [
+        127,
+        105,
+        247,
+        121
+      ],
+      "confidence": 0.6814597253212803
+    },
+    {
+      "text": "SUBMISSION DATE:",
+      "bbox": [
+        519,
+        101,
+        657,
+        119
+      ],
+      "confidence": 0.9574664676760168
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        49,
+        141,
+        99,
+        157
+      ],
+      "confidence": 0.9980298918488639
+    },
+    {
+      "text": "Ryan",
+      "bbox": [
+        159,
+        143,
+        195,
+        159
+      ],
+      "confidence": 0.9985764622688293
+    },
+    {
+      "text": "JUNE 7",
+      "bbox": [
+        511,
+        141,
+        563,
+        157
+      ],
+      "confidence": 0.9984039230590047
+    },
+    {
+      "text": "AUG: 2",
+      "bbox": [
+        511,
+        159,
+        561,
+        175
+      ],
+      "confidence": 0.7385189520071271
+    },
+    {
+      "text": "OCT,",
+      "bbox": [
+        509,
+        175,
+        545,
+        195
+      ],
+      "confidence": 0.9241321086883545
+    },
+    {
+      "text": "NEWPORI LIGHIS HEAVY UP PROGRESS REPORT",
+      "bbox": [
+        169,
+        213,
+        543,
+        233
+      ],
+      "confidence": 0.7405606910130846
+    },
+    {
+      "text": "EFFECTIVENESS OF DISTRIBUTION ALLQWANCE",
+      "bbox": [
+        47,
+        268,
+        418,
+        289
+      ],
+      "confidence": 0.6410878005909126
+    },
+    {
+      "text": "DIRECT ACCOUNTNHOLESALERS:",
+      "bbox": [
+        49,
+        307,
+        289,
+        327
+      ],
+      "confidence": 0.614115361596614
+    },
+    {
+      "text": "Distribution allowance was very effective in accomplishing our objectives:",
+      "bbox": [
+        49,
+        329,
+        513,
+        347
+      ],
+      "confidence": 0.7007346356863418
+    },
+    {
+      "text": "Allaccounts",
+      "bbox": [
+        521,
+        329,
+        601,
+        345
+      ],
+      "confidence": 0.8709213620270861
+    },
+    {
+      "text": "have purchased introductory products_",
+      "bbox": [
+        49,
+        347,
+        297,
+        365
+      ],
+      "confidence": 0.8103028731191854
+    },
+    {
+      "text": "DIRECT ACCOUNT CHAINS:",
+      "bbox": [
+        47,
+        437,
+        237,
+        457
+      ],
+      "confidence": 0.9477344429752785
+    },
+    {
+      "text": "Eagle Foods is the only Void;",
+      "bbox": [
+        47,
+        458,
+        237,
+        478
+      ],
+      "confidence": 0.5338941139334371
+    },
+    {
+      "text": "NON_DIRECT ACCOUNT CHAINS:",
+      "bbox": [
+        49,
+        551,
+        281,
+        571
+      ],
+      "confidence": 0.717759367745367
+    },
+    {
+      "text": "Reception from these accounts",
+      "bbox": [
+        49,
+        573,
+        251,
+        589
+      ],
+      "confidence": 0.8417850801842967
+    },
+    {
+      "text": "most positive with",
+      "bbox": [
+        265,
+        573,
+        381,
+        589
+      ],
+      "confidence": 0.9774587137928853
+    },
+    {
+      "text": "solid incentitive tO purchase",
+      "bbox": [
+        393,
+        571,
+        573,
+        589
+      ],
+      "confidence": 0.3820116867198814
+    },
+    {
+      "text": "EFFECTIVENESS OF THE",
+      "bbox": [
+        46,
+        662,
+        219,
+        683
+      ],
+      "confidence": 0.9685219781853366
+    },
+    {
+      "text": "RETAIL (1.00 OFF CARTON)",
+      "bbox": [
+        47,
+        683,
+        233,
+        703
+      ],
+      "confidence": 0.9648299600904682
+    },
+    {
+      "text": "DISTRIBUTION ALLOWANCE:",
+      "bbox": [
+        47,
+        700,
+        244,
+        721
+      ],
+      "confidence": 0.9320659171670005
+    },
+    {
+      "text": "Has been most helpful_in acquiring desireable distribution",
+      "bbox": [
+        279,
+        703,
+        649,
+        721
+      ],
+      "confidence": 0.8860804920946865
+    },
+    {
+      "text": "when needed by_Sales Reps",
+      "bbox": [
+        279,
+        722,
+        463,
+        742
+      ],
+      "confidence": 0.6434577050636051
+    },
+    {
+      "text": "PROMQTIONAL ACTIIY",
+      "bbox": [
+        47,
+        795,
+        237,
+        815
+      ],
+      "confidence": 0.575643330882464
+    },
+    {
+      "text": "40c OFF PACK",
+      "bbox": [
+        47,
+        833,
+        149,
+        851
+      ],
+      "confidence": 0.9959724337429056
+    },
+    {
+      "text": "8",
+      "bbox": [
+        684,
+        816,
+        708,
+        848
+      ],
+      "confidence": 0.9107177008918512
+    },
+    {
+      "text": "GENERAL MARKET:",
+      "bbox": [
+        49,
+        851,
+        183,
+        871
+      ],
+      "confidence": 0.8744628142841904
+    },
+    {
+      "text": "The 40c otf promotions continue to be well received at the retail",
+      "bbox": [
+        201,
+        853,
+        607,
+        871
+      ],
+      "confidence": 0.5688773693141417
+    },
+    {
+      "text": "stores and by consumers",
+      "bbox": [
+        201,
+        875,
+        367,
+        889
+      ],
+      "confidence": 0.7384840768640328
+    },
+    {
+      "text": "as well:",
+      "bbox": [
+        371,
+        873,
+        419,
+        889
+      ],
+      "confidence": 0.787542984879793
+    },
+    {
+      "text": "3",
+      "bbox": [
+        682,
+        856,
+        706,
+        912
+      ],
+      "confidence": 0.43873381460913663
+    },
+    {
+      "text": "RG",
+      "bbox": [
+        124,
+        138,
+        156,
+        160
+      ],
+      "confidence": 0.9931299155637879
+    }
+  ]
+}

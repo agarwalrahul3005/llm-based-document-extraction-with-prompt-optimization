@@ -1,0 +1,644 @@
+{
+  "words": [
+    {
+      "text": "PROJECT",
+      "bbox": [
+        288,
+        186,
+        340,
+        194
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "INYTIATION",
+      "bbox": [
+        351,
+        187,
+        426,
+        195
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        179,
+        275,
+        209,
+        283
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "pate_April",
+      "bbox": [
+        442,
+        273,
+        522,
+        285
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "30,",
+      "bbox": [
+        533,
+        273,
+        552,
+        283
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "1988",
+      "bbox": [
+        563,
+        273,
+        592,
+        281
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        117,
+        313,
+        170,
+        321
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "AME",
+      "bbox": [
+        179,
+        313,
+        209,
+        321
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "MALL",
+      "bbox": [
+        313,
+        302,
+        347,
+        335
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Regular",
+      "bbox": [
+        355,
+        302,
+        408,
+        335
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "LEADER",
+      "bbox": [
+        178,
+        352,
+        224,
+        360
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "WORK",
+      "bbox": [
+        116,
+        389,
+        146,
+        397
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "BY",
+      "bbox": [
+        232,
+        390,
+        247,
+        398
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "_R.",
+      "bbox": [
+        277,
+        388,
+        288,
+        396
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "S.",
+      "bbox": [
+        300,
+        388,
+        311,
+        396
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Sprinkle,",
+      "bbox": [
+        323,
+        387,
+        389,
+        398
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "TIT",
+      "bbox": [
+        401,
+        388,
+        422,
+        396
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        117,
+        427,
+        170,
+        436
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "OBJECTIVE",
+      "bbox": [
+        178,
+        427,
+        247,
+        436
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "_To",
+      "bbox": [
+        277,
+        427,
+        291,
+        434
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "davelop",
+      "bbox": [
+        300,
+        426,
+        353,
+        436
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        362,
+        428,
+        368,
+        434
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "nonfilter",
+      "bbox": [
+        377,
+        425,
+        445,
+        434
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "menthol",
+      "bbox": [
+        454,
+        425,
+        507,
+        434
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "cigarette",
+      "bbox": [
+        517,
+        425,
+        585,
+        436
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "delivering",
+      "bbox": [
+        277,
+        451,
+        353,
+        462
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "21-24",
+      "bbox": [
+        362,
+        451,
+        398,
+        459
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "ng",
+      "bbox": [
+        408,
+        453,
+        422,
+        462
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\"tar\"",
+      "bbox": [
+        432,
+        451,
+        467,
+        459
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "as",
+      "bbox": [
+        478,
+        453,
+        492,
+        459
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "companion",
+      "bbox": [
+        277,
+        479,
+        345,
+        488
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        354,
+        478,
+        368,
+        486
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PALL",
+      "bbox": [
+        377,
+        478,
+        408,
+        485
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "SALL",
+      "bbox": [
+        416,
+        477,
+        446,
+        485
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Cigarettes.",
+      "bbox": [
+        509,
+        477,
+        591,
+        487
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Cigarette",
+      "bbox": [
+        277,
+        503,
+        345,
+        513
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "84",
+      "bbox": [
+        455,
+        502,
+        468,
+        511
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "x",
+      "bbox": [
+        478,
+        504,
+        484,
+        510
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "24.9",
+      "bbox": [
+        494,
+        501,
+        523,
+        510
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "nm",
+      "bbox": [
+        532,
+        504,
+        547,
+        509
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "cireum-",
+      "bbox": [
+        555,
+        503,
+        608,
+        509
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "\u201cference.",
+      "bbox": [
+        270,
+        528,
+        335,
+        541
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        115,
+        555,
+        154,
+        563
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "PERSONNEL",
+      "bbox": [
+        163,
+        555,
+        231,
+        563
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "\u2018ASSIGNED",
+      "bbox": [
+        127,
+        553,
+        193,
+        585
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "B.",
+      "bbox": [
+        300,
+        567,
+        312,
+        575
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Approved",
+      "bbox": [
+        394,
+        689,
+        454,
+        699
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        463,
+        689,
+        478,
+        699
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ce:",
+      "bbox": [
+        115,
+        727,
+        135,
+        734
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "RSS",
+      "bbox": [
+        154,
+        726,
+        175,
+        734
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        396,
+        730,
+        404,
+        733
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "port",
+      "bbox": [
+        463,
+        721,
+        477,
+        742
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "e",
+      "bbox": [
+        503,
+        721,
+        507,
+        742
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "f",
+      "bbox": [
+        513,
+        721,
+        519,
+        742
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        561,
+        729,
+        568,
+        731
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "RoC",
+      "bbox": [
+        154,
+        738,
+        175,
+        747
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "PRE",
+      "bbox": [
+        154,
+        764,
+        175,
+        772
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "BNC",
+      "bbox": [
+        154,
+        776,
+        175,
+        784
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        154,
+        800,
+        206,
+        811
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Leader",
+      "bbox": [
+        215,
+        800,
+        260,
+        809
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        153,
+        814,
+        190,
+        822
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Personnel",
+      "bbox": [
+        200,
+        814,
+        268,
+        822
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Assigned",
+      "bbox": [
+        277,
+        814,
+        338,
+        825
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "0226607",
+      "bbox": [
+        558,
+        874,
+        615,
+        884
+      ],
+      "confidence": 91.0
+    }
+  ]
+}

@@ -1,0 +1,1504 @@
+{
+  "words": [
+    {
+      "text": "Re",
+      "bbox": [
+        504,
+        0,
+        517,
+        25
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "_Annval",
+      "bbox": [
+        84,
+        15,
+        144,
+        28
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Moeting",
+      "bbox": [
+        149,
+        16,
+        214,
+        34
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "ACCEPTED",
+      "bbox": [
+        261,
+        4,
+        354,
+        30
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "SYMPOSIUM",
+      "bbox": [
+        359,
+        4,
+        465,
+        29
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        479,
+        0,
+        489,
+        37
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Los",
+      "bbox": [
+        76,
+        34,
+        119,
+        52
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Angeles",
+      "bbox": [
+        126,
+        34,
+        222,
+        52
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        233,
+        18,
+        253,
+        56
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        480,
+        18,
+        487,
+        56
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Ave",
+      "bbox": [
+        575,
+        18,
+        592,
+        56
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "882",
+      "bbox": [
+        607,
+        37,
+        631,
+        47
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Z",
+      "bbox": [
+        15,
+        44,
+        29,
+        63
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "\u2018Washington,",
+      "bbox": [
+        500,
+        47,
+        566,
+        69
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "D.C.",
+      "bbox": [
+        573,
+        52,
+        596,
+        62
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "20005",
+      "bbox": [
+        602,
+        47,
+        630,
+        69
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Subrait",
+      "bbox": [
+        256,
+        66,
+        302,
+        78
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "not",
+      "bbox": [
+        308,
+        68,
+        325,
+        78
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "later",
+      "bbox": [
+        332,
+        67,
+        358,
+        78
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "than",
+      "bbox": [
+        365,
+        56,
+        392,
+        87
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        479,
+        56,
+        490,
+        87
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Telepnane:",
+      "bbox": [
+        504,
+        67,
+        558,
+        79
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "(202)",
+      "bbox": [
+        562,
+        56,
+        588,
+        87
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "882-9530",
+      "bbox": [
+        593,
+        56,
+        639,
+        87
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "READ",
+      "bbox": [
+        176,
+        105,
+        211,
+        116
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "REVERSE",
+      "bbox": [
+        215,
+        106,
+        272,
+        116
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SIDE",
+      "bbox": [
+        275,
+        106,
+        304,
+        116
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BEFORE",
+      "bbox": [
+        307,
+        105,
+        358,
+        116
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "FILLING",
+      "bbox": [
+        361,
+        106,
+        412,
+        116
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OUT",
+      "bbox": [
+        415,
+        106,
+        442,
+        116
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "THIS",
+      "bbox": [
+        445,
+        105,
+        474,
+        116
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        477,
+        105,
+        514,
+        116
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        552,
+        98,
+        555,
+        101
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "RINCIPAL",
+      "bbox": [
+        11,
+        131,
+        74,
+        160
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "ORGANIZER",
+      "bbox": [
+        81,
+        131,
+        152,
+        160
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "(who",
+      "bbox": [
+        158,
+        131,
+        181,
+        160
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "will",
+      "bbox": [
+        187,
+        131,
+        207,
+        160
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "reetive",
+      "bbox": [
+        211,
+        131,
+        243,
+        160
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "correspondence):",
+      "bbox": [
+        247,
+        142,
+        337,
+        154
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "202/_657-4850",
+      "bbox": [
+        527,
+        134,
+        643,
+        147
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "\u2018aMe\u2014Marvin",
+      "bbox": [
+        12,
+        159,
+        122,
+        191
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "A,",
+      "bbox": [
+        129,
+        159,
+        148,
+        191
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "AFFILIATION.",
+      "bbox": [
+        373,
+        159,
+        463,
+        191
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Eve",
+      "bbox": [
+        110,
+        189,
+        140,
+        220
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Street",
+      "bbox": [
+        146,
+        189,
+        202,
+        220
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "NW",
+      "bbox": [
+        211,
+        189,
+        230,
+        220
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Suite",
+      "bbox": [
+        239,
+        189,
+        284,
+        220
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "800",
+      "bbox": [
+        291,
+        189,
+        318,
+        220
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "crry,starz.",
+      "bbox": [
+        325,
+        189,
+        401,
+        220
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "DC",
+      "bbox": [
+        545,
+        196,
+        562,
+        210
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "20006",
+      "bbox": [
+        573,
+        195,
+        617,
+        210
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "\u2018ORGANIZER",
+      "bbox": [
+        14,
+        228,
+        105,
+        239
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "if",
+      "bbox": [
+        109,
+        229,
+        120,
+        239
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "applicable):",
+      "bbox": [
+        123,
+        229,
+        185,
+        241
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "TELEPHONE.",
+      "bbox": [
+        448,
+        229,
+        522,
+        239
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "(AME",
+      "bbox": [
+        13,
+        258,
+        137,
+        268
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "\u2014__\u2014",
+      "bbox": [
+        320,
+        254,
+        361,
+        276
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "AFFILIATION",
+      "bbox": [
+        373,
+        254,
+        450,
+        276
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "ry,",
+      "bbox": [
+        67,
+        288,
+        358,
+        298
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "STATE,",
+      "bbox": [
+        362,
+        288,
+        402,
+        298
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "ZIP",
+      "bbox": [
+        406,
+        288,
+        687,
+        297
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "FOR",
+      "bbox": [
+        292,
+        329,
+        314,
+        339
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ONE",
+      "bbox": [
+        321,
+        329,
+        343,
+        339
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "SESSION",
+      "bbox": [
+        350,
+        329,
+        402,
+        339
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "INAL",
+      "bbox": [
+        9,
+        352,
+        48,
+        385
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "TITLE",
+      "bbox": [
+        50,
+        352,
+        86,
+        385
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "HUMAN",
+      "bbox": [
+        319,
+        352,
+        367,
+        385
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Willtem",
+      "bbox": [
+        103,
+        443,
+        168,
+        455
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "J,",
+      "bbox": [
+        177,
+        443,
+        192,
+        455
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Schull",
+      "bbox": [
+        204,
+        443,
+        257,
+        455
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Director",
+      "bbox": [
+        394,
+        442,
+        465,
+        453
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        476,
+        447,
+        483,
+        450
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Genetics",
+      "bbox": [
+        493,
+        442,
+        564,
+        453
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Centers",
+      "bbox": [
+        575,
+        442,
+        637,
+        453
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "School",
+      "bbox": [
+        304,
+        468,
+        357,
+        480
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        367,
+        467,
+        384,
+        479
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Biomedical",
+      "bbox": [
+        394,
+        467,
+        484,
+        479
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Sciences",
+      "bbox": [
+        494,
+        467,
+        564,
+        478
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "(Houston)",
+      "bbox": [
+        577,
+        465,
+        653,
+        480
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        15,
+        508,
+        17,
+        511
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Amin",
+      "bbox": [
+        24,
+        511,
+        74,
+        545
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        150,
+        511,
+        171,
+        545
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Minnesota",
+      "bbox": [
+        178,
+        511,
+        261,
+        545
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Sehool",
+      "bbox": [
+        272,
+        511,
+        329,
+        545
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        337,
+        511,
+        355,
+        545
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Topic",
+      "bbox": [
+        19,
+        532,
+        48,
+        563
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "cogene,",
+      "bbox": [
+        124,
+        543,
+        184,
+        553
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        197,
+        539,
+        222,
+        551
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Fragile",
+      "bbox": [
+        232,
+        538,
+        295,
+        553
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Site,",
+      "bbox": [
+        305,
+        538,
+        346,
+        552
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        359,
+        538,
+        385,
+        550
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Nonrandom",
+      "bbox": [
+        395,
+        538,
+        476,
+        549
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Aberrations",
+      "bbox": [
+        485,
+        537,
+        583,
+        549
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DE.",
+      "bbox": [
+        78,
+        569,
+        102,
+        580
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Sheldon",
+      "bbox": [
+        115,
+        568,
+        178,
+        580
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Wolf?",
+      "bbox": [
+        187,
+        567,
+        232,
+        579
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Professor",
+      "bbox": [
+        495,
+        566,
+        575,
+        577
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        585,
+        565,
+        603,
+        577
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Radiobiology",
+      "bbox": [
+        160,
+        582,
+        268,
+        618
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        277,
+        582,
+        286,
+        618
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Environmental",
+      "bbox": [
+        298,
+        582,
+        415,
+        618
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "Health",
+      "bbox": [
+        424,
+        582,
+        478,
+        618
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        487,
+        582,
+        496,
+        618
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "U.",
+      "bbox": [
+        505,
+        582,
+        523,
+        618
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        532,
+        582,
+        550,
+        618
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Gal.",
+      "bbox": [
+        559,
+        582,
+        595,
+        618
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "San",
+      "bbox": [
+        607,
+        582,
+        640,
+        618
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Francis",
+      "bbox": [
+        649,
+        582,
+        709,
+        618
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Exchanges",
+      "bbox": [
+        252,
+        610,
+        334,
+        638
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "Dr",
+      "bbox": [
+        71,
+        638,
+        93,
+        663
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Patricia",
+      "bbox": [
+        106,
+        638,
+        180,
+        663
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Jacobs",
+      "bbox": [
+        190,
+        638,
+        247,
+        663
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "portion",
+      "bbox": [
+        302,
+        638,
+        395,
+        663
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        189,
+        660,
+        206,
+        672
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Hawaii",
+      "bbox": [
+        216,
+        661,
+        269,
+        672
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        280,
+        666,
+        286,
+        669
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Dept.",
+      "bbox": [
+        297,
+        662,
+        338,
+        675
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        352,
+        660,
+        369,
+        672
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Anatony",
+      "bbox": [
+        378,
+        661,
+        442,
+        674
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "__",
+      "bbox": [
+        655,
+        655,
+        688,
+        657
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Hyman",
+      "bbox": [
+        152,
+        680,
+        199,
+        708
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Chrowosome",
+      "bbox": [
+        208,
+        680,
+        299,
+        708
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "00",
+      "bbox": [
+        427,
+        684,
+        688,
+        702
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Ravmond",
+      "bbox": [
+        135,
+        714,
+        198,
+        725
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "White",
+      "bbox": [
+        207,
+        714,
+        252,
+        725
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "positon",
+      "bbox": [
+        353,
+        720,
+        389,
+        728
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        199,
+        734,
+        216,
+        746
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Utah",
+      "bbox": [
+        226,
+        735,
+        262,
+        746
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "\u201copie,",
+      "bbox": [
+        19,
+        747,
+        51,
+        779
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "\u2018A",
+      "bbox": [
+        98,
+        758,
+        107,
+        768
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Human",
+      "bbox": [
+        116,
+        757,
+        163,
+        768
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Linkage",
+      "bbox": [
+        171,
+        755,
+        234,
+        768
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "based",
+      "bbox": [
+        280,
+        755,
+        325,
+        767
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        335,
+        758,
+        352,
+        766
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "DNA",
+      "bbox": [
+        362,
+        755,
+        389,
+        766
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Markers",
+      "bbox": [
+        397,
+        755,
+        460,
+        766
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "DE.",
+      "bbox": [
+        81,
+        787,
+        105,
+        798
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Michael",
+      "bbox": [
+        117,
+        785,
+        180,
+        797
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "A",
+      "bbox": [
+        190,
+        785,
+        199,
+        796
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Bender",
+      "bbox": [
+        209,
+        784,
+        262,
+        796
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Nations:",
+      "bbox": [
+        199,
+        803,
+        271,
+        815
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Laboracory",
+      "bbox": [
+        281,
+        803,
+        371,
+        817
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        390,
+        808,
+        397,
+        811
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Mecicel",
+      "bbox": [
+        416,
+        802,
+        479,
+        813
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Topic",
+      "bbox": [
+        20,
+        825,
+        49,
+        851
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Epidemiology",
+      "bbox": [
+        210,
+        825,
+        322,
+        851
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "0",
+      "bbox": [
+        51,
+        829,
+        688,
+        846
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "ser",
+      "bbox": [
+        13,
+        861,
+        623,
+        866
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "ever",
+      "bbox": [
+        630,
+        843,
+        657,
+        875
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "ice",
+      "bbox": [
+        667,
+        857,
+        688,
+        865
+      ],
+      "confidence": 61.0
+    }
+  ]
+}

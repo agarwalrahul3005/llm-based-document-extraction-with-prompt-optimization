@@ -1,0 +1,1164 @@
+{
+  "words": [
+    {
+      "text": "DAVis",
+      "bbox": [
+        240,
+        115,
+        293,
+        124
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "POLK",
+      "bbox": [
+        301,
+        114,
+        346,
+        123
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "WARDWELL",
+      "bbox": [
+        369,
+        113,
+        473,
+        122
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        44,
+        161,
+        65,
+        170
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Transmittal",
+      "bbox": [
+        69,
+        159,
+        133,
+        170
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Sender",
+      "bbox": [
+        255,
+        157,
+        292,
+        167
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "450",
+      "bbox": [
+        44,
+        180,
+        62,
+        188
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Lexington",
+      "bbox": [
+        65,
+        179,
+        115,
+        190
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Avante",
+      "bbox": [
+        118,
+        179,
+        156,
+        187
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "Charles",
+      "bbox": [
+        255,
+        177,
+        307,
+        189
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Duggan",
+      "bbox": [
+        311,
+        177,
+        363,
+        193
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "New",
+      "bbox": [
+        45,
+        191,
+        66,
+        213
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Yo",
+      "bbox": [
+        69,
+        191,
+        96,
+        201
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        255,
+        191,
+        318,
+        206
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "\u2018Number",
+      "bbox": [
+        466,
+        193,
+        557,
+        206
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        512,
+        182,
+        523,
+        211
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Fages",
+      "bbox": [
+        529,
+        193,
+        557,
+        206
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "(his",
+      "bbox": [
+        561,
+        182,
+        583,
+        211
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "page",
+      "bbox": [
+        587,
+        182,
+        610,
+        211
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "included)",
+      "bbox": [
+        614,
+        192,
+        662,
+        204
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "November",
+      "bbox": [
+        251,
+        210,
+        326,
+        239
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Voies",
+      "bbox": [
+        297,
+        224,
+        325,
+        253
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Number",
+      "bbox": [
+        334,
+        224,
+        373,
+        253
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Teproblems",
+      "bbox": [
+        467,
+        232,
+        528,
+        244
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "recciving",
+      "bbox": [
+        531,
+        231,
+        579,
+        244
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "this",
+      "bbox": [
+        582,
+        230,
+        601,
+        241
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Rex,",
+      "bbox": [
+        605,
+        231,
+        624,
+        242
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "call",
+      "bbox": [
+        627,
+        230,
+        646,
+        240
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Sender",
+      "bbox": [
+        257,
+        272,
+        293,
+        282
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        298,
+        262,
+        316,
+        292
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Number",
+      "bbox": [
+        323,
+        262,
+        366,
+        292
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Reference",
+      "bbox": [
+        468,
+        269,
+        520,
+        280
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "212-450-3788",
+      "bbox": [
+        257,
+        282,
+        345,
+        311
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "ATSEE-002",
+      "bbox": [
+        468,
+        288,
+        536,
+        299
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "te",
+      "bbox": [
+        46,
+        328,
+        60,
+        337
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Fix",
+      "bbox": [
+        204,
+        317,
+        222,
+        346
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Company",
+      "bbox": [
+        359,
+        316,
+        413,
+        345
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "TRecipieat",
+      "bbox": [
+        521,
+        323,
+        571,
+        336
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Phone",
+      "bbox": [
+        575,
+        323,
+        606,
+        333
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Number",
+      "bbox": [
+        609,
+        322,
+        652,
+        332
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Thomas",
+      "bbox": [
+        47,
+        346,
+        100,
+        357
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "617-439-3278.",
+      "bbox": [
+        205,
+        345,
+        293,
+        356
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "Brown",
+      "bbox": [
+        364,
+        343,
+        406,
+        355
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Rudnick",
+      "bbox": [
+        411,
+        343,
+        466,
+        355
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Freed",
+      "bbox": [
+        471,
+        343,
+        508,
+        354
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "617-330-8000",
+      "bbox": [
+        522,
+        342,
+        609,
+        354
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        385,
+        360,
+        395,
+        371
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Gesmer",
+      "bbox": [
+        399,
+        361,
+        452,
+        371
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Joseph",
+      "bbox": [
+        48,
+        399,
+        96,
+        412
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "F.",
+      "bbox": [
+        101,
+        399,
+        112,
+        409
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Rice",
+      "bbox": [
+        117,
+        399,
+        146,
+        409
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "843-720-9290",
+      "bbox": [
+        201,
+        389,
+        293,
+        418
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Noss,",
+      "bbox": [
+        364,
+        397,
+        401,
+        410
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "843-720-8000",
+      "bbox": [
+        522,
+        396,
+        610,
+        407
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Leadholt,",
+      "bbox": [
+        385,
+        413,
+        447,
+        425
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "Richardson",
+      "bbox": [
+        385,
+        429,
+        462,
+        440
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        467,
+        429,
+        477,
+        439
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Poole",
+      "bbox": [
+        385,
+        445,
+        424,
+        456
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Robert",
+      "bbox": [
+        48,
+        483,
+        93,
+        493
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "V.",
+      "bbox": [
+        97,
+        482,
+        109,
+        493
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Costello",
+      "bbox": [
+        114,
+        482,
+        169,
+        493
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "617-722-0285",
+      "bbox": [
+        206,
+        482,
+        293,
+        493
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "Schneider,",
+      "bbox": [
+        364,
+        481,
+        436,
+        494
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Reilly,",
+      "bbox": [
+        441,
+        481,
+        481,
+        495
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "617-227-7500",
+      "bbox": [
+        522,
+        481,
+        610,
+        492
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Jefirey",
+      "bbox": [
+        48,
+        498,
+        93,
+        512
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "D.",
+      "bbox": [
+        98,
+        498,
+        111,
+        510
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Woolf",
+      "bbox": [
+        115,
+        498,
+        155,
+        509
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Zabin",
+      "bbox": [
+        385,
+        497,
+        422,
+        508
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        426,
+        497,
+        436,
+        508
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Costelio",
+      "bbox": [
+        441,
+        497,
+        496,
+        508
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Richard",
+      "bbox": [
+        48,
+        534,
+        100,
+        545
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "M.Helmann",
+      "bbox": [
+        105,
+        534,
+        182,
+        545
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "415-856-1008",
+      "bbox": [
+        206,
+        534,
+        293,
+        545
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Usff,",
+      "bbox": [
+        364,
+        534,
+        397,
+        546
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        467,
+        534,
+        476,
+        545
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "415-956-1000",
+      "bbox": [
+        522,
+        533,
+        610,
+        545
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Heimann",
+      "bbox": [
+        385,
+        550,
+        444,
+        561
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Michael",
+      "bbox": [
+        48,
+        587,
+        99,
+        597
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "P.",
+      "bbox": [
+        103,
+        587,
+        116,
+        597
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Thornton",
+      "bbox": [
+        120,
+        587,
+        182,
+        597
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "617-720-2448",
+      "bbox": [
+        205,
+        586,
+        293,
+        597
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Thornton,",
+      "bbox": [
+        364,
+        586,
+        429,
+        599
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "\u00a9",
+      "bbox": [
+        495,
+        577,
+        510,
+        607
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "617-720-1338",
+      "bbox": [
+        522,
+        586,
+        610,
+        597
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "Message:",
+      "bbox": [
+        48,
+        643,
+        98,
+        655
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "@",
+      "bbox": [
+        643,
+        725,
+        658,
+        733
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "ow",
+      "bbox": [
+        642,
+        739,
+        659,
+        747
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        643,
+        751,
+        659,
+        758
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        643,
+        763,
+        659,
+        771
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "ow",
+      "bbox": [
+        643,
+        777,
+        659,
+        785
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "w",
+      "bbox": [
+        644,
+        790,
+        659,
+        798
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        644,
+        803,
+        659,
+        811
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        377,
+        823,
+        379,
+        825
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        643,
+        815,
+        659,
+        823
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "SETS",
+      "bbox": [
+        42,
+        884,
+        127,
+        914
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "NSE",
+      "bbox": [
+        132,
+        884,
+        150,
+        914
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "TSS",
+      "bbox": [
+        157,
+        884,
+        212,
+        914
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "pT",
+      "bbox": [
+        219,
+        884,
+        257,
+        914
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "dao",
+      "bbox": [
+        281,
+        895,
+        322,
+        925
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "er",
+      "bbox": [
+        326,
+        895,
+        334,
+        925
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        371,
+        895,
+        379,
+        925
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "ia",
+      "bbox": [
+        384,
+        895,
+        394,
+        925
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "fea",
+      "bbox": [
+        399,
+        895,
+        432,
+        925
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        436,
+        909,
+        442,
+        915
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Nr",
+      "bbox": [
+        509,
+        907,
+        531,
+        914
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "arta",
+      "bbox": [
+        584,
+        895,
+        615,
+        925
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "ded",
+      "bbox": [
+        641,
+        895,
+        667,
+        925
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "reprise",
+      "bbox": [
+        201,
+        905,
+        257,
+        935
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "tes",
+      "bbox": [
+        354,
+        905,
+        372,
+        935
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "(ens",
+      "bbox": [
+        64,
+        919,
+        89,
+        948
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "mt",
+      "bbox": [
+        95,
+        930,
+        110,
+        939
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "natty",
+      "bbox": [
+        126,
+        919,
+        178,
+        948
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "vd",
+      "bbox": [
+        232,
+        929,
+        245,
+        937
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "one",
+      "bbox": [
+        254,
+        919,
+        284,
+        948
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "syn",
+      "bbox": [
+        291,
+        928,
+        355,
+        938
+      ],
+      "confidence": 40.0
+    }
+  ]
+}

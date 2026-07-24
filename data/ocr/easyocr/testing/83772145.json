@@ -1,0 +1,514 @@
+{
+  "words": [
+    {
+      "text": "1/3",
+      "bbox": [
+        615,
+        63,
+        641,
+        81
+      ],
+      "confidence": 0.42314743995666504
+    },
+    {
+      "text": "LAW QFFICES",
+      "bbox": [
+        337,
+        93,
+        411,
+        107
+      ],
+      "confidence": 0.8517972936725551
+    },
+    {
+      "text": "FAX",
+      "bbox": [
+        80,
+        111,
+        131,
+        138
+      ],
+      "confidence": 0.9999116285613665
+    },
+    {
+      "text": "SHOOK,HARDY & BACONLLP",
+      "bbox": [
+        238,
+        106,
+        508,
+        130
+      ],
+      "confidence": 0.8613201899231665
+    },
+    {
+      "text": "FAX",
+      "bbox": [
+        590,
+        114,
+        638,
+        138
+      ],
+      "confidence": 0.999910252067483
+    },
+    {
+      "text": "One Kansas Clty Place",
+      "bbox": [
+        307,
+        131,
+        445,
+        151
+      ],
+      "confidence": 0.9507737569468844
+    },
+    {
+      "text": "COVER'",
+      "bbox": [
+        66,
+        138,
+        146,
+        164
+      ],
+      "confidence": 0.9831760939178609
+    },
+    {
+      "text": "1200 Main Street",
+      "bbox": [
+        321,
+        149,
+        429,
+        167
+      ],
+      "confidence": 0.9859485355177178
+    },
+    {
+      "text": "COVER",
+      "bbox": [
+        576,
+        140,
+        654,
+        164
+      ],
+      "confidence": 0.9913404641360808
+    },
+    {
+      "text": "Kansas City; Missouri 64105-2118",
+      "bbox": [
+        273,
+        167,
+        477,
+        185
+      ],
+      "confidence": 0.7335843115129038
+    },
+    {
+      "text": "Telcphonc (B16) 474-6550",
+      "bbox": [
+        215,
+        183,
+        369,
+        201
+      ],
+      "confidence": 0.44427681938163677
+    },
+    {
+      "text": "Facsimile (816) 421-5547",
+      "bbox": [
+        385,
+        183,
+        535,
+        201
+      ],
+      "confidence": 0.8713244501949052
+    },
+    {
+      "text": "TO;",
+      "bbox": [
+        108,
+        224,
+        140,
+        248
+      ],
+      "confidence": 0.6761858039682583
+    },
+    {
+      "text": "JACK REILLY",
+      "bbox": [
+        163,
+        227,
+        263,
+        247
+      ],
+      "confidence": 0.9859966804708691
+    },
+    {
+      "text": "TELECOPY NO:",
+      "bbox": [
+        363,
+        231,
+        465,
+        247
+      ],
+      "confidence": 0.9929019770693749
+    },
+    {
+      "text": "212/545-3297",
+      "bbox": [
+        485,
+        231,
+        567,
+        247
+      ],
+      "confidence": 0.802425536889563
+    },
+    {
+      "text": "FROM;",
+      "bbox": [
+        109,
+        261,
+        159,
+        281
+      ],
+      "confidence": 0.999792667036561
+    },
+    {
+      "text": "JIM DALEY",
+      "bbox": [
+        165,
+        263,
+        247,
+        281
+      ],
+      "confidence": 0.909006905684634
+    },
+    {
+      "text": "392",
+      "bbox": [
+        485,
+        265,
+        509,
+        281
+      ],
+      "confidence": 0.9998856128699127
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        111,
+        297,
+        157,
+        315
+      ],
+      "confidence": 0.9992730594817595
+    },
+    {
+      "text": "JANUARY 31, 1997",
+      "bbox": [
+        163,
+        297,
+        287,
+        315
+      ],
+      "confidence": 0.9486351464505345
+    },
+    {
+      "text": "TIME:",
+      "bbox": [
+        423,
+        299,
+        463,
+        315
+      ],
+      "confidence": 0.8256759849723753
+    },
+    {
+      "text": "SHB Client Matter No:",
+      "bbox": [
+        109,
+        335,
+        249,
+        355
+      ],
+      "confidence": 0.743073417923964
+    },
+    {
+      "text": "LORI.45048",
+      "bbox": [
+        481,
+        337,
+        563,
+        355
+      ],
+      "confidence": 0.9360468259043593
+    },
+    {
+      "text": "Pages transmitted including",
+      "bbox": [
+        109,
+        371,
+        271,
+        392
+      ],
+      "confidence": 0.6284562366750448
+    },
+    {
+      "text": "shect:",
+      "bbox": [
+        303,
+        375,
+        341,
+        389
+      ],
+      "confidence": 0.6522218819981497
+    },
+    {
+      "text": "ORIGINAL DOCUMENT WILL FOLLOW VIA FEDERAL EXPRESS_",
+      "bbox": [
+        155,
+        405,
+        589,
+        423
+      ],
+      "confidence": 0.8633460863058127
+    },
+    {
+      "text": "Special Instructions:",
+      "bbox": [
+        110,
+        438,
+        231,
+        459
+      ],
+      "confidence": 0.8401356456398258
+    },
+    {
+      "text": "Ifyou cxpericnce any problems plcase call extension",
+      "bbox": [
+        111,
+        471,
+        411,
+        492
+      ],
+      "confidence": 0.709529064287239
+    },
+    {
+      "text": "OPERATOR:",
+      "bbox": [
+        111,
+        505,
+        193,
+        523
+      ],
+      "confidence": 0.9929649136235644
+    },
+    {
+      "text": "COMMENTSMMESSAGE:",
+      "bbox": [
+        101,
+        543,
+        257,
+        561
+      ],
+      "confidence": 0.7634621563325285
+    },
+    {
+      "text": "Jack;",
+      "bbox": [
+        99,
+        579,
+        133,
+        593
+      ],
+      "confidence": 0.9995730666254017
+    },
+    {
+      "text": "Per YOur request, attached is",
+      "bbox": [
+        183,
+        613,
+        351,
+        629
+      ],
+      "confidence": 0.635292267583518
+    },
+    {
+      "text": "[nemo",
+      "bbox": [
+        361,
+        615,
+        399,
+        627
+      ],
+      "confidence": 0.5757252845502314
+    },
+    {
+      "text": "regarding thc proccss of Jabeling reviewed",
+      "bbox": [
+        399,
+        612,
+        647,
+        631
+      ],
+      "confidence": 0.6564121507056703
+    },
+    {
+      "text": "diskeites for the purpose of latcr idenlification    Picase call me",
+      "bbox": [
+        99,
+        629,
+        449,
+        647
+      ],
+      "confidence": 0.383882107143447
+    },
+    {
+      "text": "you have any questious _",
+      "bbox": [
+        459,
+        631,
+        595,
+        647
+      ],
+      "confidence": 0.666118235659202
+    },
+    {
+      "text": "Ircgret",
+      "bbox": [
+        182,
+        662,
+        227,
+        682
+      ],
+      "confidence": 0.8847532458866729
+    },
+    {
+      "text": "cannoljoin you and the clcclronic docunent colleclion leam [or iunch today.",
+      "bbox": [
+        233,
+        663,
+        645,
+        681
+      ],
+      "confidence": 0.3607756541031657
+    },
+    {
+      "text": "Yoll agree",
+      "bbox": [
+        137,
+        681,
+        195,
+        699
+      ],
+      "confidence": 0.32580661623309976
+    },
+    {
+      "text": "have",
+      "bbox": [
+        221,
+        681,
+        251,
+        695
+      ],
+      "confidence": 0.7881633639335632
+    },
+    {
+      "text": "outstanding job} I look forward",
+      "bbox": [
+        294,
+        679,
+        471,
+        699
+      ],
+      "confidence": 0.6808824924268251
+    },
+    {
+      "text": "secing You on Febnlary $ for",
+      "bbox": [
+        483,
+        680,
+        647,
+        699
+      ],
+      "confidence": 0.3630794514335442
+    },
+    {
+      "text": "the Legal Edge presentation;",
+      "bbox": [
+        99,
+        696,
+        263,
+        716
+      ],
+      "confidence": 0.7041836349021345
+    },
+    {
+      "text": "Best Regards,",
+      "bbox": [
+        99,
+        730,
+        181,
+        750
+      ],
+      "confidence": 0.9897743229927647
+    },
+    {
+      "text": "Jim Daley.",
+      "bbox": [
+        99,
+        765,
+        163,
+        781
+      ],
+      "confidence": 0.6690588135900581
+    },
+    {
+      "text": "1",
+      "bbox": [
+        673,
+        793,
+        701,
+        862
+      ],
+      "confidence": 0.6382616038359288
+    },
+    {
+      "text": "5",
+      "bbox": [
+        676,
+        858,
+        700,
+        888
+      ],
+      "confidence": 0.599908160003654
+    },
+    {
+      "text": "Ihope",
+      "bbox": [
+        96,
+        677,
+        138,
+        698
+      ],
+      "confidence": 0.5677771921734104
+    },
+    {
+      "text": "they",
+      "bbox": [
+        191,
+        680,
+        220,
+        697
+      ],
+      "confidence": 0.45370247960090637
+    },
+    {
+      "text": "done",
+      "bbox": [
+        247,
+        680,
+        278,
+        697
+      ],
+      "confidence": 0.8889784216880798
+    }
+  ]
+}

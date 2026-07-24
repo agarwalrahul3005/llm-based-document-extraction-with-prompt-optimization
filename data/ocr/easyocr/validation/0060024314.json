@@ -1,0 +1,374 @@
+{
+  "words": [
+    {
+      "text": "CITY OF REIDSVILLE CHEMICAL MANAGEMENT PLAN",
+      "bbox": [
+        227,
+        53,
+        593,
+        69
+      ],
+      "confidence": 0.726780271505292
+    },
+    {
+      "text": "1993 INYENTORY",
+      "bbox": [
+        353,
+        69,
+        465,
+        85
+      ],
+      "confidence": 0.5095524774268965
+    },
+    {
+      "text": "CEEMCAL USAGE FACT SBEET",
+      "bbox": [
+        301,
+        83,
+        515,
+        99
+      ],
+      "confidence": 0.6918698063246188
+    },
+    {
+      "text": "Process Cbemicals Used in",
+      "bbox": [
+        252,
+        112,
+        407,
+        130
+      ],
+      "confidence": 0.9796740609663044
+    },
+    {
+      "text": "of 100 Pounds[Day,",
+      "bbox": [
+        449,
+        113,
+        565,
+        129
+      ],
+      "confidence": 0.5810759959387385
+    },
+    {
+      "text": "Water Treatment Chemicals, Cleanivg Compounds",
+      "bbox": [
+        261,
+        127,
+        555,
+        145
+      ],
+      "confidence": 0.6595209968546408
+    },
+    {
+      "text": "Facilit:",
+      "bbox": [
+        111,
+        159,
+        157,
+        175
+      ],
+      "confidence": 0.4823620169945381
+    },
+    {
+      "text": "Peml&",
+      "bbox": [
+        543,
+        159,
+        597,
+        173
+      ],
+      "confidence": 0.38476123982399935
+    },
+    {
+      "text": "The  Arerlcan",
+      "bbox": [
+        163,
+        179,
+        243,
+        193
+      ],
+      "confidence": 0.38184164213267374
+    },
+    {
+      "text": "Tobacco",
+      "bbox": [
+        247,
+        179,
+        297,
+        191
+      ],
+      "confidence": 0.999370401322134
+    },
+    {
+      "text": "Cozpany",
+      "bbox": [
+        301,
+        179,
+        349,
+        193
+      ],
+      "confidence": 0.3581265614102634
+    },
+    {
+      "text": "OO01",
+      "bbox": [
+        613,
+        177,
+        641,
+        191
+      ],
+      "confidence": 0.4056743085384369
+    },
+    {
+      "text": "CHEMCAL DESCRIPTION",
+      "bbox": [
+        337,
+        211,
+        475,
+        225
+      ],
+      "confidence": 0.5670392900524418
+    },
+    {
+      "text": "PRODUCT (CHEMCAL) NAMB:",
+      "bbox": [
+        121,
+        247,
+        279,
+        261
+      ],
+      "confidence": 0.36564655706637655
+    },
+    {
+      "text": "Fuller G231S DC",
+      "bbox": [
+        295,
+        255,
+        397,
+        271
+      ],
+      "confidence": 0.7753349303414693
+    },
+    {
+      "text": "DESCRPPTION: Liquid Adhesive",
+      "bbox": [
+        121,
+        285,
+        299,
+        301
+      ],
+      "confidence": 0.6502345021760121
+    },
+    {
+      "text": "Inorgmic",
+      "bbox": [
+        497,
+        323,
+        545,
+        337
+      ],
+      "confidence": 0.9410220085484469
+    },
+    {
+      "text": "CHEMICAL FORMULA:",
+      "bbox": [
+        119,
+        359,
+        237,
+        373
+      ],
+      "confidence": 0.9423321531555714
+    },
+    {
+      "text": "Viny [",
+      "bbox": [
+        267,
+        365,
+        303,
+        379
+      ],
+      "confidence": 0.7776517972522873
+    },
+    {
+      "text": "CAS:",
+      "bbox": [
+        119,
+        397,
+        151,
+        409
+      ],
+      "confidence": 0.3861985206604004
+    },
+    {
+      "text": "05-4",
+      "bbox": [
+        221,
+        401,
+        251,
+        415
+      ],
+      "confidence": 0.9320465326309204
+    },
+    {
+      "text": "PERCENT ACTIYES (Nor-watcr):",
+      "bbox": [
+        457,
+        397,
+        617,
+        411
+      ],
+      "confidence": 0.44557236921314314
+    },
+    {
+      "text": "MANLFACTURER:",
+      "bbox": [
+        117,
+        433,
+        211,
+        447
+      ],
+      "confidence": 0.9972332481388932
+    },
+    {
+      "text": "PEONE",
+      "bbox": [
+        535,
+        433,
+        577,
+        447
+      ],
+      "confidence": 0.7069985587986947
+    },
+    {
+      "text": "Fuller Company",
+      "bbox": [
+        279,
+        440,
+        373,
+        456
+      ],
+      "confidence": 0.8578954788820539
+    },
+    {
+      "text": "612-481-3300",
+      "bbox": [
+        585,
+        443,
+        667,
+        457
+      ],
+      "confidence": 0.9986890707362406
+    },
+    {
+      "text": "MSDS ON FILE? (Cucle One):",
+      "bbox": [
+        115,
+        469,
+        259,
+        485
+      ],
+      "confidence": 0.45669353331910495
+    },
+    {
+      "text": "CHEMICAL CSAGE",
+      "bbox": [
+        347,
+        519,
+        449,
+        533
+      ],
+      "confidence": 0.47365499414079176
+    },
+    {
+      "text": "1993 ANNUAL USAGE (LBS}:",
+      "bbox": [
+        115,
+        555,
+        261,
+        571
+      ],
+      "confidence": 0.6872120109752525
+    },
+    {
+      "text": "74880",
+      "bbox": [
+        297,
+        569,
+        333,
+        583
+      ],
+      "confidence": 0.9965549695089805
+    },
+    {
+      "text": "1593 AVG: MONTHLY USAGE (LBS )",
+      "bbox": [
+        113,
+        591,
+        295,
+        607
+      ],
+      "confidence": 0.40794140016913966
+    },
+    {
+      "text": "6240",
+      "bbox": [
+        309,
+        595,
+        339,
+        609
+      ],
+      "confidence": 0.9999731183052063
+    },
+    {
+      "text": "Jabel",
+      "bbox": [
+        287,
+        651,
+        323,
+        663
+      ],
+      "confidence": 0.7516867998268182
+    },
+    {
+      "text": "adhesive",
+      "bbox": [
+        327,
+        651,
+        381,
+        663
+      ],
+      "confidence": 0.996535021730203
+    },
+    {
+      "text": "Frodudion PTOcsss:",
+      "bbox": [
+        137,
+        655,
+        225,
+        669
+      ],
+      "confidence": 0.4043542720842569
+    },
+    {
+      "text": "Atxo2 0132045",
+      "bbox": [
+        527,
+        875,
+        639,
+        891
+      ],
+      "confidence": 0.5640379717449012
+    },
+    {
+      "text": "Excess \"",
+      "bbox": [
+        404,
+        110,
+        450,
+        132
+      ],
+      "confidence": 0.3272379158117252
+    }
+  ]
+}

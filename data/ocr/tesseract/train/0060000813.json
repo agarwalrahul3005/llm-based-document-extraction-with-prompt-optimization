@@ -1,0 +1,1054 @@
+{
+  "words": [
+    {
+      "text": "P.",
+      "bbox": [
+        250,
+        84,
+        262,
+        93
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "8.",
+      "bbox": [
+        273,
+        84,
+        285,
+        93
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "73-91",
+      "bbox": [
+        392,
+        82,
+        428,
+        92
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Week",
+      "bbox": [
+        93,
+        108,
+        124,
+        117
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "of:",
+      "bbox": [
+        133,
+        108,
+        154,
+        118
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "sate",
+      "bbox": [
+        163,
+        114,
+        427,
+        126
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Recetved",
+      "bbox": [
+        435,
+        113,
+        496,
+        123
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "125/91",
+      "bbox": [
+        554,
+        115,
+        605,
+        127
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "LASER",
+      "bbox": [
+        249,
+        136,
+        287,
+        146
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PERFORATED",
+      "bbox": [
+        296,
+        138,
+        373,
+        148
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "TLPPING",
+      "bbox": [
+        381,
+        139,
+        434,
+        148
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "APPEARANCE",
+      "bbox": [
+        443,
+        140,
+        520,
+        148
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "CHECK",
+      "bbox": [
+        528,
+        140,
+        566,
+        149
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "MOLE",
+      "bbox": [
+        296,
+        150,
+        326,
+        160
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "DEPTH,",
+      "bbox": [
+        335,
+        152,
+        373,
+        161
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "SCORCHING,",
+      "bbox": [
+        389,
+        152,
+        458,
+        161
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "CRATERING",
+      "bbox": [
+        474,
+        152,
+        543,
+        162
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Moduler",
+      "bbox": [
+        93,
+        162,
+        145,
+        192
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "412",
+      "bbox": [
+        198,
+        173,
+        219,
+        182
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Brand:",
+      "bbox": [
+        335,
+        178,
+        378,
+        187
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "CARLTON",
+      "bbox": [
+        391,
+        174,
+        445,
+        182
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Filter",
+      "bbox": [
+        453,
+        173,
+        498,
+        182
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "100\u2019s",
+      "bbox": [
+        508,
+        173,
+        545,
+        182
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        554,
+        177,
+        560,
+        179
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "4",
+      "bbox": [
+        569,
+        173,
+        575,
+        182
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Mg",
+      "bbox": [
+        583,
+        174,
+        599,
+        185
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Laser",
+      "bbox": [
+        607,
+        174,
+        645,
+        183
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "SF",
+      "bbox": [
+        387,
+        189,
+        700,
+        202
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "FRONT",
+      "bbox": [
+        342,
+        243,
+        380,
+        253
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "CIGARETTES",
+      "bbox": [
+        388,
+        244,
+        465,
+        253
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "Hole",
+      "bbox": [
+        93,
+        264,
+        123,
+        274
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Depths",
+      "bbox": [
+        132,
+        265,
+        175,
+        277
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "13,0",
+      "bbox": [
+        361,
+        263,
+        389,
+        273
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        398,
+        266,
+        413,
+        273
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "from",
+      "bbox": [
+        423,
+        263,
+        452,
+        273
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "end",
+      "bbox": [
+        460,
+        263,
+        483,
+        273
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Scorching",
+      "bbox": [
+        94,
+        291,
+        161,
+        303
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        173,
+        294,
+        175,
+        301
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Insignificant.",
+      "bbox": [
+        237,
+        288,
+        342,
+        299
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "cratering",
+      "bbox": [
+        93,
+        317,
+        161,
+        328
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        173,
+        320,
+        175,
+        326
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "None",
+      "bbox": [
+        236,
+        315,
+        266,
+        323
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        275,
+        315,
+        290,
+        323
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "insignificant.",
+      "bbox": [
+        299,
+        314,
+        404,
+        325
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "eee,",
+      "bbox": [
+        185,
+        328,
+        714,
+        336
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Comments",
+      "bbox": [
+        93,
+        342,
+        154,
+        352
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        173,
+        346,
+        175,
+        352
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Excellent",
+      "bbox": [
+        236,
+        340,
+        305,
+        349
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "appearance",
+      "bbox": [
+        314,
+        342,
+        390,
+        351
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "(10",
+      "bbox": [
+        401,
+        340,
+        420,
+        350
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "holes)",
+      "bbox": [
+        429,
+        340,
+        481,
+        351
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "ER",
+      "bbox": [
+        181,
+        338,
+        294,
+        368
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "none",
+      "bbox": [
+        185,
+        354,
+        700,
+        362
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "BACK",
+      "bbox": [
+        349,
+        386,
+        379,
+        395
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "CIGARETTES",
+      "bbox": [
+        387,
+        386,
+        464,
+        396
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Hole",
+      "bbox": [
+        93,
+        407,
+        123,
+        417
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Depth:",
+      "bbox": [
+        131,
+        408,
+        175,
+        419
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "ed",
+      "bbox": [
+        230,
+        410,
+        241,
+        421
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "nm",
+      "bbox": [
+        251,
+        413,
+        267,
+        419
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "13.0",
+      "bbox": [
+        361,
+        411,
+        390,
+        420
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "mn",
+      "bbox": [
+        398,
+        413,
+        414,
+        420
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "from",
+      "bbox": [
+        423,
+        411,
+        453,
+        420
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "end",
+      "bbox": [
+        461,
+        411,
+        483,
+        420
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Scorching",
+      "bbox": [
+        93,
+        432,
+        161,
+        444
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Insignificant.",
+      "bbox": [
+        237,
+        429,
+        342,
+        441
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Cratering",
+      "bbox": [
+        93,
+        458,
+        161,
+        470
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        171,
+        461,
+        175,
+        468
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "None",
+      "bbox": [
+        236,
+        456,
+        266,
+        465
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        276,
+        456,
+        290,
+        465
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "insignificant.",
+      "bbox": [
+        299,
+        455,
+        404,
+        467
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Excellent",
+      "bbox": [
+        237,
+        482,
+        306,
+        491
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "appearance",
+      "bbox": [
+        314,
+        484,
+        390,
+        493
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "(18",
+      "bbox": [
+        402,
+        482,
+        421,
+        492
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "holes).",
+      "bbox": [
+        430,
+        482,
+        481,
+        493
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "appearance",
+      "bbox": [
+        314,
+        478,
+        392,
+        509
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "(18",
+      "bbox": [
+        399,
+        478,
+        423,
+        509
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        479,
+        478,
+        483,
+        509
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Modules",
+      "bbox": [
+        92,
+        511,
+        143,
+        541
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Brand:",
+      "bbox": [
+        332,
+        526,
+        375,
+        535
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Shift",
+      "bbox": [
+        93,
+        547,
+        129,
+        556
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "6",
+      "bbox": [
+        139,
+        549,
+        144,
+        557
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Dates",
+      "bbox": [
+        154,
+        548,
+        189,
+        558
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Polser",
+      "bbox": [
+        332,
+        550,
+        375,
+        560
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Power:",
+      "bbox": [
+        510,
+        553,
+        552,
+        562
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "CIGARETTES",
+      "bbox": [
+        386,
+        590,
+        462,
+        598
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Hole",
+      "bbox": [
+        92,
+        611,
+        122,
+        619
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Depth:",
+      "bbox": [
+        130,
+        611,
+        173,
+        622
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "eee",
+      "bbox": [
+        183,
+        622,
+        701,
+        630
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "1",
+      "bbox": [
+        170,
+        640,
+        173,
+        646
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "ne",
+      "bbox": [
+        179,
+        632,
+        312,
+        662
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "cratering",
+      "bbox": [
+        91,
+        662,
+        159,
+        674
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Comments",
+      "bbox": [
+        91,
+        689,
+        151,
+        698
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        170,
+        692,
+        173,
+        699
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        183,
+        700,
+        701,
+        708
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "BACK",
+      "bbox": [
+        347,
+        732,
+        376,
+        741
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "vole",
+      "bbox": [
+        91,
+        753,
+        121,
+        762
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Depth:",
+      "bbox": [
+        130,
+        754,
+        173,
+        764
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "_-",
+      "bbox": [
+        179,
+        752,
+        214,
+        782
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        170,
+        782,
+        173,
+        788
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "cratering",
+      "bbox": [
+        90,
+        805,
+        158,
+        817
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "\u00a2",
+      "bbox": [
+        170,
+        808,
+        173,
+        815
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Comments",
+      "bbox": [
+        90,
+        834,
+        151,
+        842
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        170,
+        837,
+        173,
+        842
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "ATXOZ",
+      "bbox": [
+        536,
+        886,
+        577,
+        894
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "0062194",
+      "bbox": [
+        587,
+        885,
+        644,
+        895
+      ],
+      "confidence": 93.0
+    }
+  ]
+}

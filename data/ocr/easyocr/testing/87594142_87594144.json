@@ -1,0 +1,1064 @@
+{
+  "words": [
+    {
+      "text": "CENTER FOR INDOOR AIR RESEARCH",
+      "bbox": [
+        450,
+        82,
+        689,
+        102
+      ],
+      "confidence": 0.7218620863933409
+    },
+    {
+      "text": "1099 WINTERSON ROAD SUTTE 280 LINTHICUM, Mo. 21090",
+      "bbox": [
+        411,
+        97,
+        689,
+        113
+      ],
+      "confidence": 0.3396000389763472
+    },
+    {
+      "text": "APPLICATION FOR",
+      "bbox": [
+        89,
+        107,
+        292,
+        139
+      ],
+      "confidence": 0.9483663102851866
+    },
+    {
+      "text": "(410) 684-3777 FAX (410) 684-3729",
+      "bbox": [
+        513,
+        113,
+        689,
+        127
+      ],
+      "confidence": 0.6606399051229637
+    },
+    {
+      "text": "RESEARCH CONTRACT",
+      "bbox": [
+        89,
+        133,
+        340,
+        163
+      ],
+      "confidence": 0.6499649923205506
+    },
+    {
+      "text": "PRINCIPAL INVESTIGATOR NAME,",
+      "bbox": [
+        101,
+        162,
+        273,
+        177
+      ],
+      "confidence": 0.7117797004996126
+    },
+    {
+      "text": "(4) Steven",
+      "bbox": [
+        91,
+        181,
+        155,
+        199
+      ],
+      "confidence": 0.7766203216994704
+    },
+    {
+      "text": "Kleeberger ,",
+      "bbox": [
+        178,
+        180,
+        261,
+        197
+      ],
+      "confidence": 0.4740789472284241
+    },
+    {
+      "text": "PhD_",
+      "bbox": [
+        265,
+        181,
+        299,
+        195
+      ],
+      "confidence": 0.6435176730155945
+    },
+    {
+      "text": "Asb0cfate",
+      "bbox": [
+        371,
+        183,
+        439,
+        195
+      ],
+      "confidence": 0.3573502367820964
+    },
+    {
+      "text": "Professor_",
+      "bbox": [
+        440,
+        179,
+        509,
+        198
+      ],
+      "confidence": 0.8395218308188068
+    },
+    {
+      "text": "(410)",
+      "bbox": [
+        585,
+        181,
+        623,
+        197
+      ],
+      "confidence": 0.9986920486467066
+    },
+    {
+      "text": "955-3515/955-0299",
+      "bbox": [
+        627,
+        183,
+        753,
+        197
+      ],
+      "confidence": 0.7942368902716803
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        91,
+        197,
+        121,
+        209
+      ],
+      "confidence": 0.9601755738258362
+    },
+    {
+      "text": "(0) Environmental_Health_ScLences",
+      "bbox": [
+        91,
+        212,
+        319,
+        231
+      ],
+      "confidence": 0.48020736178189244
+    },
+    {
+      "text": "Johns_Hopklng_Univergity,",
+      "bbox": [
+        371,
+        215,
+        551,
+        231
+      ],
+      "confidence": 0.38220582568141037
+    },
+    {
+      "text": "School",
+      "bbox": [
+        555,
+        215,
+        601,
+        229
+      ],
+      "confidence": 0.9966051299082591
+    },
+    {
+      "text": "Pub .",
+      "bbox": [
+        677,
+        215,
+        709,
+        229
+      ],
+      "confidence": 0.9972492928631742
+    },
+    {
+      "text": "HIch.",
+      "bbox": [
+        713,
+        215,
+        751,
+        229
+      ],
+      "confidence": 0.7562569964539545
+    },
+    {
+      "text": "615",
+      "bbox": [
+        109,
+        243,
+        133,
+        257
+      ],
+      "confidence": 0.9999896073544079
+    },
+    {
+      "text": "North",
+      "bbox": [
+        137,
+        243,
+        175,
+        257
+      ],
+      "confidence": 0.9742746608740187
+    },
+    {
+      "text": "Wolfe",
+      "bbox": [
+        179,
+        243,
+        219,
+        257
+      ],
+      "confidence": 0.6972759623544041
+    },
+    {
+      "text": "Street",
+      "bbox": [
+        223,
+        245,
+        269,
+        257
+      ],
+      "confidence": 0.8293922467593609
+    },
+    {
+      "text": "Baltimore_",
+      "bbox": [
+        279,
+        245,
+        347,
+        257
+      ],
+      "confidence": 0.5220606480209357
+    },
+    {
+      "text": "Maryland",
+      "bbox": [
+        357,
+        245,
+        417,
+        259
+      ],
+      "confidence": 0.7527693951846206
+    },
+    {
+      "text": "21205",
+      "bbox": [
+        541,
+        245,
+        581,
+        259
+      ],
+      "confidence": 0.9993751206468855
+    },
+    {
+      "text": "STATELIFP",
+      "bbox": [
+        516,
+        264,
+        560,
+        272
+      ],
+      "confidence": 0.49635830194901664
+    },
+    {
+      "text": "2FROJECT TLE",
+      "bbox": [
+        91,
+        281,
+        173,
+        295
+      ],
+      "confidence": 0.5748081371325173
+    },
+    {
+      "text": "Mechanisns of",
+      "bbox": [
+        179,
+        281,
+        275,
+        295
+      ],
+      "confidence": 0.5067167932200284
+    },
+    {
+      "text": "Chronic",
+      "bbox": [
+        279,
+        281,
+        331,
+        295
+      ],
+      "confidence": 0.5871037998006092
+    },
+    {
+      "text": "Ozone",
+      "bbox": [
+        335,
+        283,
+        375,
+        295
+      ],
+      "confidence": 0.9993524872601948
+    },
+    {
+      "text": "Exposure:",
+      "bbox": [
+        379,
+        283,
+        445,
+        297
+      ],
+      "confidence": 0.9995920639418012
+    },
+    {
+      "text": "Role",
+      "bbox": [
+        455,
+        283,
+        487,
+        295
+      ],
+      "confidence": 0.9998218417167664
+    },
+    {
+      "text": "Inflamnation",
+      "bbox": [
+        513,
+        283,
+        603,
+        297
+      ],
+      "confidence": 0.9381999334616443
+    },
+    {
+      "text": "KEY WORDS. PLEASE FROVIDE THREE (J) KEY",
+      "bbox": [
+        101,
+        302,
+        301,
+        317
+      ],
+      "confidence": 0.4450097842431548
+    },
+    {
+      "text": "HORDS",
+      "bbox": [
+        304,
+        306,
+        332,
+        314
+      ],
+      "confidence": 0.4434713677305189
+    },
+    {
+      "text": "USHD",
+      "bbox": [
+        400,
+        306,
+        422,
+        314
+      ],
+      "confidence": 0.7435449361801147
+    },
+    {
+      "text": "REFERERCE HEADINCS Ozone",
+      "bbox": [
+        435,
+        305,
+        563,
+        317
+      ],
+      "confidence": 0.5292973498265134
+    },
+    {
+      "text": "Inflanma",
+      "bbox": [
+        577,
+        305,
+        637,
+        319
+      ],
+      "confidence": 0.7433485509399609
+    },
+    {
+      "text": "Hast",
+      "bbox": [
+        675,
+        307,
+        709,
+        321
+      ],
+      "confidence": 0.9908134341239929
+    },
+    {
+      "text": "Cell",
+      "bbox": [
+        713,
+        307,
+        745,
+        321
+      ],
+      "confidence": 0.9984784126281738
+    },
+    {
+      "text": "INSTITUTION: NAME AND ADDRESS",
+      "bbox": [
+        101,
+        325,
+        261,
+        337
+      ],
+      "confidence": 0.9187966924510217
+    },
+    {
+      "text": "UF THIS AFLICATIOR.",
+      "bbox": [
+        90,
+        338,
+        180,
+        346
+      ],
+      "confidence": 0.3731163412887046
+    },
+    {
+      "text": "Johns_HopkIns",
+      "bbox": [
+        107,
+        353,
+        203,
+        367
+      ],
+      "confidence": 0.5223559693932867
+    },
+    {
+      "text": "UnLversLty",
+      "bbox": [
+        207,
+        353,
+        283,
+        367
+      ],
+      "confidence": 0.3259398746925988
+    },
+    {
+      "text": "615_North_Wolfe",
+      "bbox": [
+        329,
+        352,
+        437,
+        370
+      ],
+      "confidence": 0.3974522784613166
+    },
+    {
+      "text": "Screet",
+      "bbox": [
+        441,
+        355,
+        487,
+        369
+      ],
+      "confidence": 0.9447378193648097
+    },
+    {
+      "text": "STRFFT ADDRFSS",
+      "bbox": [
+        304,
+        370,
+        376,
+        378
+      ],
+      "confidence": 0.4872531555277618
+    },
+    {
+      "text": "(c)_BaltImore",
+      "bbox": [
+        89,
+        385,
+        175,
+        403
+      ],
+      "confidence": 0.5498908100501577
+    },
+    {
+      "text": "Haryland",
+      "bbox": [
+        533,
+        387,
+        595,
+        401
+      ],
+      "confidence": 0.9660052384177845
+    },
+    {
+      "text": "21205",
+      "bbox": [
+        613,
+        387,
+        651,
+        401
+      ],
+      "confidence": 0.7287609280216855
+    },
+    {
+      "text": "STATEZIP",
+      "bbox": [
+        514,
+        400,
+        561,
+        414
+      ],
+      "confidence": 0.5545772206117273
+    },
+    {
+      "text": "LOCATION. LIsT",
+      "bbox": [
+        99,
+        421,
+        181,
+        433
+      ],
+      "confidence": 0.44212175291603817
+    },
+    {
+      "text": "CONDUCTLD",
+      "bbox": [
+        340,
+        424,
+        388,
+        432
+      ],
+      "confidence": 0.9363268515080779
+    },
+    {
+      "text": "44 AROVE",
+      "bbox": [
+        559,
+        423,
+        601,
+        435
+      ],
+      "confidence": 0.3592534591758134
+    },
+    {
+      "text": "MORE THAN ONE YEAR [S",
+      "bbox": [
+        555,
+        489,
+        659,
+        501
+      ],
+      "confidence": 0.5092080904671928
+    },
+    {
+      "text": "120} . It",
+      "bbox": [
+        389,
+        497,
+        429,
+        511
+      ],
+      "confidence": 0.5875967525429711
+    },
+    {
+      "text": "UNDERSTOOD TUAT AWARDS FOR ZND AND JRD",
+      "bbox": [
+        463,
+        499,
+        659,
+        511
+      ],
+      "confidence": 0.5029557430812778
+    },
+    {
+      "text": "FERIODS ARE DEFENDENT OK CENTER APPROVAL OF CONTINUATOY AFFLICATON",
+      "bbox": [
+        89,
+        507,
+        421,
+        519
+      ],
+      "confidence": 0.3253795725169486
+    },
+    {
+      "text": "Cost",
+      "bbox": [
+        507,
+        525,
+        535,
+        539
+      ],
+      "confidence": 0.922892689704895
+    },
+    {
+      "text": "(A) 151",
+      "bbox": [
+        87,
+        539,
+        123,
+        551
+      ],
+      "confidence": 0.36130456809944606
+    },
+    {
+      "text": "PERIDD",
+      "bbox": [
+        168,
+        540,
+        198,
+        548
+      ],
+      "confidence": 0.9558039153587522
+    },
+    {
+      "text": "12[3[94",
+      "bbox": [
+        369,
+        533,
+        429,
+        549
+      ],
+      "confidence": 0.3295110221326931
+    },
+    {
+      "text": "210 ,",
+      "bbox": [
+        453,
+        535,
+        485,
+        549
+      ],
+      "confidence": 0.8262268366219031
+    },
+    {
+      "text": "(0) ZND [2 KORTH FERIQD",
+      "bbox": [
+        87,
+        559,
+        199,
+        571
+      ],
+      "confidence": 0.4286502416731501
+    },
+    {
+      "text": "RFOUIRED",
+      "bbox": [
+        210,
+        562,
+        252,
+        570
+      ],
+      "confidence": 0.9245908358433078
+    },
+    {
+      "text": "01/01[95",
+      "bbox": [
+        263,
+        553,
+        323,
+        569
+      ],
+      "confidence": 0.5260051443621662
+    },
+    {
+      "text": "212,481",
+      "bbox": [
+        453,
+        555,
+        507,
+        571
+      ],
+      "confidence": 0.9347961750015441
+    },
+    {
+      "text": "(C) JRD",
+      "bbox": [
+        87,
+        579,
+        123,
+        593
+      ],
+      "confidence": 0.8473098371661278
+    },
+    {
+      "text": "MONTH PERIDD",
+      "bbox": [
+        136,
+        582,
+        198,
+        590
+      ],
+      "confidence": 0.5476264640272264
+    },
+    {
+      "text": "REOUIRED",
+      "bbox": [
+        210,
+        582,
+        252,
+        590
+      ],
+      "confidence": 0.6805332131931997
+    },
+    {
+      "text": "01/OL/96",
+      "bbox": [
+        263,
+        575,
+        323,
+        589
+      ],
+      "confidence": 0.3854783708530082
+    },
+    {
+      "text": "HXU",
+      "bbox": [
+        344,
+        584,
+        368,
+        592
+      ],
+      "confidence": 0.4058539075726326
+    },
+    {
+      "text": "12/31[96",
+      "bbox": [
+        371,
+        575,
+        431,
+        591
+      ],
+      "confidence": 0.3679025416134965
+    },
+    {
+      "text": "220,416",
+      "bbox": [
+        453,
+        577,
+        507,
+        591
+      ],
+      "confidence": 0.936182560632692
+    },
+    {
+      "text": "INSTITUTIONAL OFFICER",
+      "bbox": [
+        97,
+        600,
+        231,
+        615
+      ],
+      "confidence": 0.7379707446919656
+    },
+    {
+      "text": "#ABOVE",
+      "bbox": [
+        99,
+        611,
+        143,
+        623
+      ],
+      "confidence": 0.3413761812974344
+    },
+    {
+      "text": "LICY_",
+      "bbox": [
+        414,
+        626,
+        436,
+        634
+      ],
+      "confidence": 0.7566723179396702
+    },
+    {
+      "text": "Alan M_",
+      "bbox": [
+        105,
+        637,
+        153,
+        651
+      ],
+      "confidence": 0.4106122183361395
+    },
+    {
+      "text": "Goldberg,",
+      "bbox": [
+        161,
+        637,
+        229,
+        653
+      ],
+      "confidence": 0.8117760194795716
+    },
+    {
+      "text": "4880C",
+      "bbox": [
+        320,
+        642,
+        354,
+        650
+      ],
+      "confidence": 0.5008201473595346
+    },
+    {
+      "text": "Epr",
+      "bbox": [
+        403,
+        637,
+        427,
+        653
+      ],
+      "confidence": 0.32790289502975606
+    },
+    {
+      "text": "Research",
+      "bbox": [
+        431,
+        639,
+        491,
+        653
+      ],
+      "confidence": 0.999763502448762
+    },
+    {
+      "text": "955-9253",
+      "bbox": [
+        147,
+        659,
+        209,
+        675
+      ],
+      "confidence": 0.9993604193576664
+    },
+    {
+      "text": "Sich",
+      "bbox": [
+        302,
+        678,
+        326,
+        686
+      ],
+      "confidence": 0.30484092235565186
+    },
+    {
+      "text": "CFFICER",
+      "bbox": [
+        425,
+        679,
+        463,
+        691
+      ],
+      "confidence": 0.5106904436884553
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        513,
+        679,
+        541,
+        691
+      ],
+      "confidence": 0.583682119846344
+    },
+    {
+      "text": "&PRELIMINARY STUDIES * .",
+      "bbox": [
+        86,
+        696,
+        225,
+        711
+      ],
+      "confidence": 0.4653465733465083
+    },
+    {
+      "text": "D QUALIHICATIONS",
+      "bbox": [
+        88,
+        720,
+        172,
+        728
+      ],
+      "confidence": 0.3905315668898899
+    },
+    {
+      "text": "EXPERIMENTAL PLAN: ,",
+      "bbox": [
+        97,
+        737,
+        219,
+        751
+      ],
+      "confidence": 0.367518206685219
+    },
+    {
+      "text": "METHODS",
+      "bbox": [
+        101,
+        759,
+        147,
+        771
+      ],
+      "confidence": 0.6988792390599643
+    },
+    {
+      "text": "THE INVESnCATOR",
+      "bbox": [
+        170,
+        792,
+        250,
+        800
+      ],
+      "confidence": 0.4126359188238015
+    },
+    {
+      "text": "LIERATURE CED",
+      "bbox": [
+        101,
+        799,
+        191,
+        813
+      ],
+      "confidence": 0.6204226640415038
+    },
+    {
+      "text": "AVAILABLE FACILITIES AND RESOURCES.",
+      "bbox": [
+        101,
+        819,
+        317,
+        833
+      ],
+      "confidence": 0.975602726228492
+    },
+    {
+      "text": "T,OTHER SUPPORT",
+      "bbox": [
+        85,
+        841,
+        191,
+        853
+      ],
+      "confidence": 0.7227858556049582
+    },
+    {
+      "text": "1",
+      "bbox": [
+        684,
+        797,
+        711,
+        890
+      ],
+      "confidence": 0.9756787812155245
+    },
+    {
+      "text": "REDUIRED",
+      "bbox": [
+        226,
+        866,
+        268,
+        874
+      ],
+      "confidence": 0.8143724670999927
+    },
+    {
+      "text": "NAME OF THE",
+      "bbox": [
+        619,
+        867,
+        679,
+        879
+      ],
+      "confidence": 0.6297293465000938
+    },
+    {
+      "text": "PRINCIPAL [NVESTIGATOR IN THE UPPER RIGHT HAND CORNFR AND PAGE NUMBER",
+      "bbox": [
+        85,
+        875,
+        415,
+        887
+      ],
+      "confidence": 0.41650419624065876
+    },
+    {
+      "text": "THR ROTTOH",
+      "bbox": [
+        430,
+        878,
+        482,
+        886
+      ],
+      "confidence": 0.42063966281380505
+    },
+    {
+      "text": "CONsECUTYELY NUMBER EAOI",
+      "bbox": [
+        484,
+        874,
+        617,
+        888
+      ],
+      "confidence": 0.43425501426346674
+    },
+    {
+      "text": "ORIGINAL SETS",
+      "bbox": [
+        234,
+        898,
+        296,
+        906
+      ],
+      "confidence": 0.6598145105599541
+    },
+    {
+      "text": "EACH OF THE NINE COPIES MUST",
+      "bbox": [
+        329,
+        895,
+        469,
+        909
+      ],
+      "confidence": 0.5485098037175984
+    },
+    {
+      "text": "ASMUCTIONS",
+      "bbox": [
+        84,
+        908,
+        148,
+        916
+      ],
+      "confidence": 0.6357026948909338
+    },
+    {
+      "text": "cion,",
+      "bbox": [
+        634,
+        305,
+        670,
+        319
+      ],
+      "confidence": 0.47076574161841245
+    },
+    {
+      "text": "Non:",
+      "bbox": [
+        296,
+        894,
+        326,
+        907
+      ],
+      "confidence": 0.5959911942481995
+    }
+  ]
+}

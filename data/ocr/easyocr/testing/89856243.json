@@ -1,0 +1,1354 @@
+{
+  "words": [
+    {
+      "text": "4,1979",
+      "bbox": [
+        663,
+        25,
+        723,
+        41
+      ],
+      "confidence": 0.9038708194535692
+    },
+    {
+      "text": "(To",
+      "bbox": [
+        259,
+        55,
+        283,
+        71
+      ],
+      "confidence": 0.9974102702570957
+    },
+    {
+      "text": "filled",
+      "bbox": [
+        309,
+        57,
+        353,
+        71
+      ],
+      "confidence": 0.9533942002475357
+    },
+    {
+      "text": "PRQJECT",
+      "bbox": [
+        329,
+        99,
+        383,
+        113
+      ],
+      "confidence": 0.8651914110962611
+    },
+    {
+      "text": "PRODUCT",
+      "bbox": [
+        105,
+        115,
+        159,
+        131
+      ],
+      "confidence": 0.9986591774946205
+    },
+    {
+      "text": "TrLupb",
+      "bbox": [
+        201,
+        115,
+        255,
+        129
+      ],
+      "confidence": 0.5011723886378143
+    },
+    {
+      "text": "Trlumph_Dsaster_Check_Scudx",
+      "bbox": [
+        397,
+        113,
+        599,
+        129
+      ],
+      "confidence": 0.7150863241225351
+    },
+    {
+      "text": "Regcerch Deslgn",
+      "bbox": [
+        105,
+        155,
+        215,
+        174
+      ],
+      "confidence": 0.4145011546430402
+    },
+    {
+      "text": "Cells",
+      "bbox": [
+        245,
+        157,
+        283,
+        171
+      ],
+      "confidence": 0.7096837336260244
+    },
+    {
+      "text": "Elegibility",
+      "bbox": [
+        295,
+        155,
+        375,
+        171
+      ],
+      "confidence": 0.8971442567226355
+    },
+    {
+      "text": "Des",
+      "bbox": [
+        385,
+        155,
+        409,
+        169
+      ],
+      "confidence": 0.9999381949430484
+    },
+    {
+      "text": "Key",
+      "bbox": [
+        441,
+        155,
+        465,
+        171
+      ],
+      "confidence": 0.9918064974624401
+    },
+    {
+      "text": "Kreeks",
+      "bbox": [
+        519,
+        155,
+        563,
+        169
+      ],
+      "confidence": 0.7152686457977349
+    },
+    {
+      "text": "Ci:les",
+      "bbox": [
+        663,
+        155,
+        709,
+        169
+      ],
+      "confidence": 0.3789569585781317
+    },
+    {
+      "text": "Contact",
+      "bbox": [
+        147,
+        209,
+        199,
+        223
+      ],
+      "confidence": 0.9981696541293346
+    },
+    {
+      "text": "respondents",
+      "bbox": [
+        203,
+        209,
+        283,
+        223
+      ],
+      "confidence": 0.9952125060729553
+    },
+    {
+      "text": "fron Buffalo",
+      "bbox": [
+        287,
+        209,
+        373,
+        223
+      ],
+      "confidence": 0.8386388544577748
+    },
+    {
+      "text": "and",
+      "bbox": [
+        377,
+        211,
+        401,
+        223
+      ],
+      "confidence": 0.9858751615775101
+    },
+    {
+      "text": "Kansas City",
+      "bbox": [
+        405,
+        209,
+        485,
+        223
+      ],
+      "confidence": 0.840845887459047
+    },
+    {
+      "text": "who",
+      "bbox": [
+        489,
+        211,
+        513,
+        223
+      ],
+      "confidence": 0.9126458484215755
+    },
+    {
+      "text": "had",
+      "bbox": [
+        517,
+        209,
+        541,
+        223
+      ],
+      "confidence": 0.7262643575668335
+    },
+    {
+      "text": "prevlously",
+      "bbox": [
+        545,
+        209,
+        617,
+        223
+      ],
+      "confidence": 0.6159804508322904
+    },
+    {
+      "text": "participated",
+      "bbox": [
+        621,
+        209,
+        707,
+        223
+      ],
+      "confidence": 0.9863306383565646
+    },
+    {
+      "text": "steak knife offer:",
+      "bbox": [
+        145,
+        223,
+        269,
+        237
+      ],
+      "confidence": 0.6942504289181832
+    },
+    {
+      "text": "consLst of",
+      "bbox": [
+        357,
+        223,
+        429,
+        237
+      ],
+      "confidence": 0.6139823064803842
+    },
+    {
+      "text": "one",
+      "bbox": [
+        433,
+        225,
+        457,
+        237
+      ],
+      "confidence": 0.9991636792046222
+    },
+    {
+      "text": "cell",
+      "bbox": [
+        461,
+        223,
+        491,
+        237
+      ],
+      "confidence": 0.9996350407600403
+    },
+    {
+      "text": "approxinately 175 respondents",
+      "bbox": [
+        517,
+        221,
+        721,
+        237
+      ],
+      "confidence": 0.7077874459869444
+    },
+    {
+      "text": "who are Trlumph most often",
+      "bbox": [
+        111,
+        237,
+        297,
+        251
+      ],
+      "confidence": 0.38411361856697057
+    },
+    {
+      "text": "swokerof crlers",
+      "bbox": [
+        301,
+        237,
+        401,
+        251
+      ],
+      "confidence": 0.4435299952565938
+    },
+    {
+      "text": "This study 18",
+      "bbox": [
+        419,
+        237,
+        513,
+        251
+      ],
+      "confidence": 0.5400155192092811
+    },
+    {
+      "text": "Intended",
+      "bbox": [
+        517,
+        237,
+        575,
+        251
+      ],
+      "confidence": 0.9548318866265355
+    },
+    {
+      "text": "Eo provfde",
+      "bbox": [
+        579,
+        237,
+        653,
+        251
+      ],
+      "confidence": 0.5058188672689675
+    },
+    {
+      "text": "wich",
+      "bbox": [
+        677,
+        237,
+        709,
+        251
+      ],
+      "confidence": 0.8599186539649963
+    },
+    {
+      "text": "negatives agsociated with Triumph.",
+      "bbox": [
+        138,
+        249,
+        379,
+        268
+      ],
+      "confidence": 0.49691167731585933
+    },
+    {
+      "text": "Banncr points will Include Triumph most",
+      "bbox": [
+        391,
+        251,
+        667,
+        265
+      ],
+      "confidence": 0.5494514864448949
+    },
+    {
+      "text": "Bmokers",
+      "bbox": [
+        111,
+        265,
+        165,
+        279
+      ],
+      "confidence": 0.9863807191507298
+    },
+    {
+      "text": "(we antIclpate approxlnately",
+      "bbox": [
+        169,
+        263,
+        367,
+        281
+      ],
+      "confidence": 0.3876520714575337
+    },
+    {
+      "text": "IOSL",
+      "bbox": [
+        392,
+        268,
+        420,
+        276
+      ],
+      "confidence": 0.5060709714889526
+    },
+    {
+      "text": "ten people)",
+      "bbox": [
+        441,
+        265,
+        519,
+        279
+      ],
+      "confidence": 0.5452950318846649
+    },
+    {
+      "text": "Away",
+      "bbox": [
+        600,
+        268,
+        628,
+        276
+      ],
+      "confidence": 0.5139902234077454
+    },
+    {
+      "text": "frow TrLumph",
+      "bbox": [
+        635,
+        265,
+        723,
+        279
+      ],
+      "confidence": 0.75578046645805
+    },
+    {
+      "text": "(N approximately",
+      "bbox": [
+        113,
+        279,
+        227,
+        293
+      ],
+      "confidence": 0.8872969979239885
+    },
+    {
+      "text": "45) .",
+      "bbox": [
+        231,
+        279,
+        261,
+        293
+      ],
+      "confidence": 0.8202652917633625
+    },
+    {
+      "text": "It whould be noted",
+      "bbox": [
+        271,
+        279,
+        401,
+        293
+      ],
+      "confidence": 0.6820203018950716
+    },
+    {
+      "text": "that",
+      "bbox": [
+        405,
+        279,
+        437,
+        293
+      ],
+      "confidence": 0.9991050362586975
+    },
+    {
+      "text": "action #tandard",
+      "bbox": [
+        461,
+        279,
+        569,
+        293
+      ],
+      "confidence": 0.903508841971117
+    },
+    {
+      "text": "at leabt",
+      "bbox": [
+        593,
+        279,
+        653,
+        291
+      ],
+      "confidence": 0.6810828950972825
+    },
+    {
+      "text": "502 be",
+      "bbox": [
+        657,
+        277,
+        701,
+        291
+      ],
+      "confidence": 0.4066225543596478
+    },
+    {
+      "text": "obtained In acting",
+      "bbox": [
+        111,
+        293,
+        241,
+        309
+      ],
+      "confidence": 0.7489309156744484
+    },
+    {
+      "text": "upon   any",
+      "bbox": [
+        245,
+        295,
+        303,
+        309
+      ],
+      "confidence": 0.3073755403568639
+    },
+    {
+      "text": "product negatIves",
+      "bbox": [
+        307,
+        291,
+        429,
+        310
+      ],
+      "confidence": 0.781935523658484
+    },
+    {
+      "text": "assoclated with",
+      "bbox": [
+        433,
+        293,
+        541,
+        307
+      ],
+      "confidence": 0.666479741966655
+    },
+    {
+      "text": "chese groups",
+      "bbox": [
+        545,
+        292,
+        629,
+        307
+      ],
+      "confidence": 0.838422595688899
+    },
+    {
+      "text": "Gee",
+      "bbox": [
+        642,
+        294,
+        664,
+        302
+      ],
+      "confidence": 0.8883845337573519
+    },
+    {
+      "text": "regearch",
+      "bbox": [
+        111,
+        307,
+        169,
+        319
+      ],
+      "confidence": 0.8788279689765178
+    },
+    {
+      "text": "linltationg",
+      "bbox": [
+        173,
+        307,
+        255,
+        319
+      ],
+      "confidence": 0.3969773184940897
+    },
+    {
+      "text": "belov",
+      "bbox": [
+        259,
+        307,
+        297,
+        321
+      ],
+      "confidence": 0.4275861089128569
+    },
+    {
+      "text": "for",
+      "bbox": [
+        301,
+        307,
+        325,
+        321
+      ],
+      "confidence": 0.9973617652807465
+    },
+    {
+      "text": "additional",
+      "bbox": [
+        329,
+        307,
+        401,
+        321
+      ],
+      "confidence": 0.8406829834294305
+    },
+    {
+      "text": "action",
+      "bbox": [
+        405,
+        307,
+        451,
+        321
+      ],
+      "confidence": 0.8935908604896702
+    },
+    {
+      "text": "stundatd",
+      "bbox": [
+        454,
+        308,
+        510,
+        316
+      ],
+      "confidence": 0.3508215286992234
+    },
+    {
+      "text": "(See attached nemo)",
+      "bbox": [
+        365,
+        349,
+        497,
+        363
+      ],
+      "confidence": 0.4044872243201898
+    },
+    {
+      "text": "Key",
+      "bbox": [
+        105,
+        441,
+        129,
+        457
+      ],
+      "confidence": 0.9974312547774233
+    },
+    {
+      "text": "Criterie For",
+      "bbox": [
+        133,
+        441,
+        219,
+        455
+      ],
+      "confidence": 0.6594895155624925
+    },
+    {
+      "text": "Anelysis",
+      "bbox": [
+        223,
+        441,
+        283,
+        455
+      ],
+      "confidence": 0.8386593808325239
+    },
+    {
+      "text": "Triuoph",
+      "bbox": [
+        167,
+        461,
+        219,
+        475
+      ],
+      "confidence": 0.38048281940371426
+    },
+    {
+      "text": "switchers",
+      "bbox": [
+        223,
+        461,
+        289,
+        475
+      ],
+      "confidence": 0.43815913769432385
+    },
+    {
+      "text": "asked",
+      "bbox": [
+        293,
+        461,
+        331,
+        475
+      ],
+      "confidence": 0.9848379226296876
+    },
+    {
+      "text": "why",
+      "bbox": [
+        335,
+        463,
+        359,
+        477
+      ],
+      "confidence": 0.9722812642677909
+    },
+    {
+      "text": "no longer smoking TrLumph",
+      "bbox": [
+        363,
+        461,
+        541,
+        479
+      ],
+      "confidence": 0.7133121609485297
+    },
+    {
+      "text": "Present",
+      "bbox": [
+        165,
+        475,
+        219,
+        489
+      ],
+      "confidence": 0.9953942372142454
+    },
+    {
+      "text": "smokere",
+      "bbox": [
+        223,
+        475,
+        275,
+        489
+      ],
+      "confidence": 0.8686987319611298
+    },
+    {
+      "text": "of Trfumph a8ked reasons",
+      "bbox": [
+        279,
+        474,
+        449,
+        491
+      ],
+      "confidence": 0.6278742148468204
+    },
+    {
+      "text": "for gwitching",
+      "bbox": [
+        453,
+        475,
+        547,
+        493
+      ],
+      "confidence": 0.5171407380372298
+    },
+    {
+      "text": "Trfumph",
+      "bbox": [
+        573,
+        479,
+        625,
+        493
+      ],
+      "confidence": 0.9953987810244378
+    },
+    {
+      "text": "Hentiona.",
+      "bbox": [
+        165,
+        489,
+        227,
+        503
+      ],
+      "confidence": 0.8148116776669007
+    },
+    {
+      "text": "of \"harshness",
+      "bbox": [
+        235,
+        486,
+        329,
+        504
+      ],
+      "confidence": 0.7050613810560887
+    },
+    {
+      "text": "Research Linitatlong",
+      "bbox": [
+        103,
+        517,
+        247,
+        531
+      ],
+      "confidence": 0.8206551142818782
+    },
+    {
+      "text": "Due",
+      "bbox": [
+        137,
+        531,
+        163,
+        543
+      ],
+      "confidence": 0.9999575347777906
+    },
+    {
+      "text": "sumple",
+      "bbox": [
+        187,
+        531,
+        231,
+        543
+      ],
+      "confidence": 0.5822570278998528
+    },
+    {
+      "text": "sIz0 and",
+      "bbox": [
+        235,
+        531,
+        295,
+        545
+      ],
+      "confidence": 0.5234285004035609
+    },
+    {
+      "text": "experience",
+      "bbox": [
+        300,
+        534,
+        370,
+        542
+      ],
+      "confidence": 0.6671033121221588
+    },
+    {
+      "text": "feel 25",
+      "bbox": [
+        397,
+        531,
+        449,
+        547
+      ],
+      "confidence": 0.9991635863576819
+    },
+    {
+      "text": "respondents",
+      "bbox": [
+        453,
+        533,
+        533,
+        547
+      ],
+      "confidence": 0.5840280146878095
+    },
+    {
+      "text": "presently",
+      "bbox": [
+        571,
+        535,
+        637,
+        549
+      ],
+      "confidence": 0.923032811812274
+    },
+    {
+      "text": "Trluph",
+      "bbox": [
+        660,
+        532,
+        715,
+        549
+      ],
+      "confidence": 0.5451333297019371
+    },
+    {
+      "text": "snokers",
+      "bbox": [
+        103,
+        543,
+        155,
+        557
+      ],
+      "confidence": 0.6215296573000921
+    },
+    {
+      "text": "An action",
+      "bbox": [
+        173,
+        545,
+        239,
+        559
+      ],
+      "confidence": 0.7576980373113188
+    },
+    {
+      "text": "Itandard of Z57 should be",
+      "bbox": [
+        249,
+        543,
+        421,
+        561
+      ],
+      "confidence": 0.3670455314343608
+    },
+    {
+      "text": "utilized for Judgnent8 on product negatIves",
+      "bbox": [
+        425,
+        547,
+        727,
+        566
+      ],
+      "confidence": 0.5029595902664823
+    },
+    {
+      "text": "onLX among",
+      "bbox": [
+        103,
+        559,
+        175,
+        573
+      ],
+      "confidence": 0.47984188450074367
+    },
+    {
+      "text": "group",
+      "bbox": [
+        215,
+        559,
+        253,
+        573
+      ],
+      "confidence": 0.9194945263094024
+    },
+    {
+      "text": "'harshness",
+      "bbox": [
+        382,
+        572,
+        449,
+        589
+      ],
+      "confidence": 0.9352037916403774
+    },
+    {
+      "text": "could",
+      "bbox": [
+        481,
+        575,
+        519,
+        589
+      ],
+      "confidence": 0.9999847527499907
+    },
+    {
+      "text": "consider it",
+      "bbox": [
+        523,
+        575,
+        603,
+        589
+      ],
+      "confidence": 0.9083900343054253
+    },
+    {
+      "text": "problem .",
+      "bbox": [
+        619,
+        577,
+        677,
+        589
+      ],
+      "confidence": 0.7903758248011273
+    },
+    {
+      "text": "50-752",
+      "bbox": [
+        103,
+        585,
+        149,
+        599
+      ],
+      "confidence": 0.4125187736865252
+    },
+    {
+      "text": "Triumph",
+      "bbox": [
+        172,
+        584,
+        225,
+        601
+      ],
+      "confidence": 0.653645019839987
+    },
+    {
+      "text": "kers",
+      "bbox": [
+        249,
+        587,
+        281,
+        601
+      ],
+      "confidence": 0.39605024456977844
+    },
+    {
+      "text": "mention \"harshnes8",
+      "bbox": [
+        285,
+        587,
+        415,
+        601
+      ],
+      "confidence": 0.43066257596769664
+    },
+    {
+      "text": "coua",
+      "bbox": [
+        448,
+        590,
+        480,
+        598
+      ],
+      "confidence": 0.5983119010925293
+    },
+    {
+      "text": "con8Ider Lt",
+      "bbox": [
+        487,
+        589,
+        569,
+        603
+      ],
+      "confidence": 0.4755306766254204
+    },
+    {
+      "text": "poseIble problem",
+      "bbox": [
+        584,
+        588,
+        701,
+        605
+      ],
+      "confidence": 0.473472842554055
+    },
+    {
+      "text": "(look at other areas",
+      "bbox": [
+        103,
+        599,
+        247,
+        615
+      ],
+      "confidence": 0.6823994582589926
+    },
+    {
+      "text": "TrLunph",
+      "bbox": [
+        249,
+        615,
+        303,
+        629
+      ],
+      "confidence": 0.513584070161196
+    },
+    {
+      "text": "mention,\"harghness\"",
+      "bbox": [
+        361,
+        611,
+        499,
+        629
+      ],
+      "confidence": 0.5988721151277738
+    },
+    {
+      "text": "fould",
+      "bbox": [
+        522,
+        612,
+        561,
+        627
+      ],
+      "confidence": 0.8466217234594714
+    },
+    {
+      "text": "conalder IE_not_",
+      "bbox": [
+        565,
+        611,
+        675,
+        625
+      ],
+      "confidence": 0.422589725985156
+    },
+    {
+      "text": "problem .",
+      "bbox": [
+        689,
+        611,
+        747,
+        625
+      ],
+      "confidence": 0.5363436073074647
+    },
+    {
+      "text": "Estimute",
+      "bbox": [
+        141,
+        641,
+        199,
+        655
+      ],
+      "confidence": 0.3295723959657718
+    },
+    {
+      "text": "52,250",
+      "bbox": [
+        245,
+        643,
+        291,
+        657
+      ],
+      "confidence": 0.3762915388526942
+    },
+    {
+      "text": "Frm",
+      "bbox": [
+        533,
+        639,
+        563,
+        651
+      ],
+      "confidence": 0.763543118664064
+    },
+    {
+      "text": "10; ContIngency",
+      "bbox": [
+        133,
+        654,
+        241,
+        672
+      ],
+      "confidence": 0.6535310505142677
+    },
+    {
+      "text": "yes @",
+      "bbox": [
+        257,
+        655,
+        307,
+        671
+      ],
+      "confidence": 0.4725763014432281
+    },
+    {
+      "text": "FInal",
+      "bbox": [
+        105,
+        669,
+        143,
+        683
+      ],
+      "confidence": 0.5442157703510031
+    },
+    {
+      "text": "Report Inc_",
+      "bbox": [
+        147,
+        669,
+        221,
+        685
+      ],
+      "confidence": 0.9715768070420098
+    },
+    {
+      "text": "Prepared",
+      "bbox": [
+        105,
+        699,
+        165,
+        713
+      ],
+      "confidence": 0.9910459582930338
+    },
+    {
+      "text": "by :",
+      "bbox": [
+        169,
+        699,
+        191,
+        713
+      ],
+      "confidence": 0.5223029397599128
+    },
+    {
+      "text": "Scott",
+      "bbox": [
+        237,
+        699,
+        277,
+        713
+      ],
+      "confidence": 0.49830868690078467
+    },
+    {
+      "text": "Beneon",
+      "bbox": [
+        301,
+        699,
+        347,
+        713
+      ],
+      "confidence": 0.3459226230985151
+    },
+    {
+      "text": "8",
+      "bbox": [
+        354,
+        684,
+        388,
+        710
+      ],
+      "confidence": 0.5046489155313658
+    },
+    {
+      "text": "L0mLnuces",
+      "bbox": [
+        607,
+        697,
+        681,
+        711
+      ],
+      "confidence": 0.4497663809713874
+    },
+    {
+      "text": "Appreyed ly",
+      "bbox": [
+        104,
+        726,
+        185,
+        743
+      ],
+      "confidence": 0.39249545730343155
+    },
+    {
+      "text": "Marketin",
+      "bbox": [
+        105,
+        769,
+        165,
+        783
+      ],
+      "confidence": 0.9199157361873282
+    },
+    {
+      "text": "rector",
+      "bbox": [
+        253,
+        769,
+        297,
+        783
+      ],
+      "confidence": 0.9805780074106067
+    },
+    {
+      "text": "gtart_of",
+      "bbox": [
+        665,
+        781,
+        723,
+        795
+      ],
+      "confidence": 0.39513294306584407
+    },
+    {
+      "text": "fLd_",
+      "bbox": [
+        727,
+        779,
+        751,
+        793
+      ],
+      "confidence": 0.6255414485931396
+    },
+    {
+      "text": "Product Munege",
+      "bbox": [
+        105,
+        811,
+        203,
+        827
+      ],
+      "confidence": 0.4452385704011034
+    },
+    {
+      "text": "Eki from atart_of_fld _",
+      "bbox": [
+        601,
+        825,
+        753,
+        841
+      ],
+      "confidence": 0.3256699819964068
+    },
+    {
+      "text": "Group Product",
+      "bbox": [
+        105,
+        855,
+        199,
+        869
+      ],
+      "confidence": 0.9917093682466513
+    },
+    {
+      "text": "Manazer",
+      "bbox": [
+        203,
+        855,
+        255,
+        867
+      ],
+      "confidence": 0.3073141489199611
+    },
+    {
+      "text": "89856243",
+      "bbox": [
+        604,
+        867,
+        694,
+        887
+      ],
+      "confidence": 0.6266250731269356
+    },
+    {
+      "text": "Lobcr",
+      "bbox": [
+        622,
+        23,
+        660,
+        41
+      ],
+      "confidence": 0.6735951344662875
+    },
+    {
+      "text": "often",
+      "bbox": [
+        668,
+        249,
+        706,
+        263
+      ],
+      "confidence": 0.6795236044146489
+    }
+  ]
+}

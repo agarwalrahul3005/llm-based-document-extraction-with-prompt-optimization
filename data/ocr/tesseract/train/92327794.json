@@ -1,0 +1,704 @@
+{
+  "words": [
+    {
+      "text": "|",
+      "bbox": [
+        132,
+        29,
+        134,
+        31
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "RL",
+      "bbox": [
+        149,
+        19,
+        168,
+        27
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "22",
+      "bbox": [
+        175,
+        18,
+        188,
+        26
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "\"9a",
+      "bbox": [
+        197,
+        18,
+        214,
+        26
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "\u201cRD",
+      "bbox": [
+        323,
+        17,
+        339,
+        25
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "Sis",
+      "bbox": [
+        398,
+        17,
+        417,
+        25
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "373",
+      "bbox": [
+        424,
+        16,
+        443,
+        25
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "6817",
+      "bbox": [
+        450,
+        16,
+        476,
+        24
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "Pe",
+      "bbox": [
+        667,
+        15,
+        700,
+        23
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "2505",
+      "bbox": [
+        305,
+        111,
+        329,
+        142
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Soo",
+      "bbox": [
+        377,
+        111,
+        399,
+        142
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Bax",
+      "bbox": [
+        429,
+        111,
+        442,
+        142
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "21688,",
+      "bbox": [
+        447,
+        111,
+        476,
+        142
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Hoth",
+      "bbox": [
+        534,
+        111,
+        554,
+        142
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Carina",
+      "bbox": [
+        558,
+        111,
+        590,
+        142
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "27420-1668",
+      "bbox": [
+        594,
+        111,
+        647,
+        142
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        427,
+        160,
+        429,
+        169
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        427,
+        183,
+        428,
+        196
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        427,
+        198,
+        428,
+        215
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        627,
+        204,
+        629,
+        206
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "(919)",
+      "bbox": [
+        242,
+        301,
+        273,
+        312
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "378-1001",
+      "bbox": [
+        283,
+        300,
+        337,
+        311
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "0:",
+      "bbox": [
+        155,
+        325,
+        177,
+        335
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "Ron",
+      "bbox": [
+        241,
+        322,
+        262,
+        331
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Goldbrenner",
+      "bbox": [
+        269,
+        321,
+        344,
+        331
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        155,
+        353,
+        194,
+        362
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Becky",
+      "bbox": [
+        241,
+        349,
+        275,
+        363
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Haygen",
+      "bbox": [
+        282,
+        350,
+        324,
+        363
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "pave:",
+      "bbox": [
+        154,
+        380,
+        195,
+        390
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "July",
+      "bbox": [
+        240,
+        366,
+        269,
+        399
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "22,1993",
+      "bbox": [
+        276,
+        366,
+        335,
+        399
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "NUMBER",
+      "bbox": [
+        155,
+        422,
+        206,
+        431
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        213,
+        421,
+        230,
+        431
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PAGES",
+      "bbox": [
+        239,
+        420,
+        280,
+        430
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "(INCLUDING",
+      "bbox": [
+        299,
+        419,
+        380,
+        432
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "COVER",
+      "bbox": [
+        389,
+        419,
+        430,
+        429
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SHEET):",
+      "bbox": [
+        439,
+        418,
+        494,
+        430
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        517,
+        417,
+        523,
+        427
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "OUR",
+      "bbox": [
+        154,
+        449,
+        180,
+        459
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "PAX",
+      "bbox": [
+        189,
+        449,
+        213,
+        459
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "NUMBER",
+      "bbox": [
+        222,
+        448,
+        272,
+        459
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "IS:",
+      "bbox": [
+        281,
+        448,
+        303,
+        458
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "(919)",
+      "bbox": [
+        324,
+        446,
+        361,
+        460
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "373-6917",
+      "bbox": [
+        372,
+        446,
+        438,
+        457
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        426,
+        545,
+        428,
+        561
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "IP",
+      "bbox": [
+        156,
+        573,
+        171,
+        583
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "YOU",
+      "bbox": [
+        180,
+        573,
+        205,
+        583
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "DO",
+      "bbox": [
+        213,
+        572,
+        230,
+        582
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "NOT",
+      "bbox": [
+        239,
+        572,
+        264,
+        582
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "RECEIVE",
+      "bbox": [
+        272,
+        571,
+        330,
+        582
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "ANY",
+      "bbox": [
+        339,
+        571,
+        364,
+        581
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        372,
+        571,
+        389,
+        581
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        397,
+        571,
+        422,
+        580
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PAGES,",
+      "bbox": [
+        431,
+        570,
+        478,
+        581
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PLEASE",
+      "bbox": [
+        155,
+        586,
+        205,
+        597
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "CALL",
+      "bbox": [
+        214,
+        586,
+        247,
+        596
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "AT",
+      "bbox": [
+        155,
+        601,
+        171,
+        610
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Af",
+      "bbox": [
+        414,
+        598,
+        430,
+        608
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        439,
+        598,
+        464,
+        607
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "GREENSBORO",
+      "bbox": [
+        473,
+        597,
+        556,
+        607
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "BRANCH",
+      "bbox": [
+        564,
+        596,
+        616,
+        606
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "AS",
+      "bbox": [
+        624,
+        596,
+        640,
+        606
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SOON",
+      "bbox": [
+        155,
+        614,
+        188,
+        624
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "AS",
+      "bbox": [
+        196,
+        614,
+        213,
+        624
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "POSSIBLE.",
+      "bbox": [
+        222,
+        613,
+        295,
+        624
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "THANK",
+      "bbox": [
+        155,
+        642,
+        197,
+        651
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "YOU.",
+      "bbox": [
+        205,
+        641,
+        236,
+        651
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "x",
+      "bbox": [
+        704,
+        765,
+        716,
+        781
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        703,
+        781,
+        714,
+        788
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        701,
+        789,
+        712,
+        804
+      ],
+      "confidence": 51.0
+    }
+  ]
+}

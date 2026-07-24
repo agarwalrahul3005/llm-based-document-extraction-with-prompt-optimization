@@ -1,0 +1,294 @@
+{
+  "words": [
+    {
+      "text": "Newport pleasuret",
+      "bbox": [
+        97,
+        75,
+        664,
+        168
+      ],
+      "confidence": 0.4562519562215505
+    },
+    {
+      "text": "SPECIAL EVENT INFORMATION SHEEI",
+      "bbox": [
+        156,
+        227,
+        632,
+        260
+      ],
+      "confidence": 0.7282021672030798
+    },
+    {
+      "text": "EVENT NAME-",
+      "bbox": [
+        157,
+        361,
+        237,
+        375
+      ],
+      "confidence": 0.6501150424635518
+    },
+    {
+      "text": "Fegtival",
+      "bbox": [
+        383,
+        359,
+        437,
+        373
+      ],
+      "confidence": 0.5677357694687734
+    },
+    {
+      "text": "EVENT LOCATION:",
+      "bbox": [
+        157,
+        387,
+        267,
+        405
+      ],
+      "confidence": 0.9924649646578668
+    },
+    {
+      "text": "jZh_Street ,",
+      "bbox": [
+        329,
+        387,
+        411,
+        403
+      ],
+      "confidence": 0.3500288389014927
+    },
+    {
+      "text": "EVENT DATES:",
+      "bbox": [
+        157,
+        417,
+        241,
+        433
+      ],
+      "confidence": 0.9972938861368136
+    },
+    {
+      "text": "June",
+      "bbox": [
+        283,
+        417,
+        311,
+        429
+      ],
+      "confidence": 0.675984263420105
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        337,
+        415,
+        365,
+        429
+      ],
+      "confidence": 0.9419103860855103
+    },
+    {
+      "text": "HOURS;",
+      "bbox": [
+        156,
+        480,
+        232,
+        504
+      ],
+      "confidence": 0.4928007575985711
+    },
+    {
+      "text": "MONDAY-FRIDAY:",
+      "bbox": [
+        157,
+        517,
+        263,
+        531
+      ],
+      "confidence": 0.687214286073325
+    },
+    {
+      "text": "SATURDAY-SUNDAY:",
+      "bbox": [
+        157,
+        545,
+        277,
+        561
+      ],
+      "confidence": 0.8315859770644024
+    },
+    {
+      "text": "SPECIEICS",
+      "bbox": [
+        154,
+        608,
+        252,
+        632
+      ],
+      "confidence": 0.6886784633219826
+    },
+    {
+      "text": "check applicabie Doxiesi:",
+      "bbox": [
+        157,
+        633,
+        279,
+        647
+      ],
+      "confidence": 0.3454176783664505
+    },
+    {
+      "text": "1#OF BOOTHIS}",
+      "bbox": [
+        233,
+        659,
+        339,
+        675
+      ],
+      "confidence": 0.3161253894755883
+    },
+    {
+      "text": "SIGNAGE",
+      "bbox": [
+        481,
+        657,
+        537,
+        673
+      ],
+      "confidence": 0.9976365538803031
+    },
+    {
+      "text": "SAMPLINC",
+      "bbox": [
+        247,
+        687,
+        311,
+        703
+      ],
+      "confidence": 0.6631165135009166
+    },
+    {
+      "text": "PREMIUMS",
+      "bbox": [
+        323,
+        687,
+        387,
+        703
+      ],
+      "confidence": 0.9539994026364603
+    },
+    {
+      "text": "MUSIC VAV",
+      "bbox": [
+        481,
+        685,
+        551,
+        701
+      ],
+      "confidence": 0.9836963934359372
+    },
+    {
+      "text": "PREMIUMS ONLY",
+      "bbox": [
+        247,
+        717,
+        347,
+        731
+      ],
+      "confidence": 0.9012781791475876
+    },
+    {
+      "text": "RACING CAR",
+      "bbox": [
+        481,
+        715,
+        557,
+        729
+      ],
+      "confidence": 0.9431342329191834
+    },
+    {
+      "text": "SURERVISQR INEQRMATION:",
+      "bbox": [
+        155,
+        776,
+        412,
+        803
+      ],
+      "confidence": 0.4995761383141391
+    },
+    {
+      "text": "NAME OF ALLWAYS SUPERVISOR:",
+      "bbox": [
+        159,
+        815,
+        349,
+        831
+      ],
+      "confidence": 0.6373230612353955
+    },
+    {
+      "text": "JezonsCuEY",
+      "bbox": [
+        379,
+        817,
+        461,
+        831
+      ],
+      "confidence": 0.39995158453779805
+    },
+    {
+      "text": "PHONE NUMBER:",
+      "bbox": [
+        157,
+        841,
+        263,
+        859
+      ],
+      "confidence": 0.961886280930165
+    },
+    {
+      "text": "(201)",
+      "bbox": [
+        275,
+        843,
+        309,
+        857
+      ],
+      "confidence": 0.31339543348310406
+    },
+    {
+      "text": "923-9208",
+      "bbox": [
+        313,
+        843,
+        371,
+        857
+      ],
+      "confidence": 0.6822451415564347
+    },
+    {
+      "text": "BEEPER NUMBER:",
+      "bbox": [
+        391,
+        843,
+        495,
+        859
+      ],
+      "confidence": 0.7147572782985833
+    },
+    {
+      "text": "69-1180",
+      "bbox": [
+        551,
+        841,
+        607,
+        855
+      ],
+      "confidence": 0.8338477086457586
+    }
+  ]
+}

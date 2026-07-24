@@ -1,0 +1,564 @@
+{
+  "words": [
+    {
+      "text": "CASE",
+      "bbox": [
+        331,
+        133,
+        365,
+        164
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        372,
+        133,
+        404,
+        164
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "\u2018CASE",
+      "bbox": [
+        115,
+        174,
+        146,
+        183
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        149,
+        174,
+        189,
+        182
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Douala",
+      "bbox": [
+        243,
+        173,
+        330,
+        182
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Sellers",
+      "bbox": [
+        298,
+        173,
+        330,
+        182
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "nd",
+      "bbox": [
+        333,
+        173,
+        351,
+        182
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Robin",
+      "bbox": [
+        354,
+        173,
+        399,
+        182
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        388,
+        161,
+        400,
+        192
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Sellers",
+      "bbox": [
+        403,
+        173,
+        435,
+        182
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "v.",
+      "bbox": [
+        439,
+        175,
+        447,
+        181
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Raybestor-Manhatten,",
+      "bbox": [
+        450,
+        173,
+        564,
+        184
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "etal",
+      "bbox": [
+        568,
+        173,
+        592,
+        181
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "cour:",
+      "bbox": [
+        115,
+        189,
+        161,
+        219
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "San",
+      "bbox": [
+        243,
+        200,
+        261,
+        209
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Superior",
+      "bbox": [
+        316,
+        200,
+        360,
+        211
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Court",
+      "bbox": [
+        364,
+        200,
+        393,
+        209
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "996882",
+      "bbox": [
+        424,
+        200,
+        459,
+        208
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "LORILLARD",
+      "bbox": [
+        111,
+        225,
+        190,
+        247
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "ENTITIES:",
+      "bbox": [
+        115,
+        232,
+        174,
+        263
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Loriflard",
+      "bbox": [
+        243,
+        244,
+        288,
+        252
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "Tabacco",
+      "bbox": [
+        292,
+        244,
+        334,
+        252
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Company",
+      "bbox": [
+        337,
+        243,
+        386,
+        255
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        115,
+        258,
+        145,
+        289
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "FILED:",
+      "bbox": [
+        152,
+        258,
+        190,
+        289
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "DATESERVED:",
+      "bbox": [
+        114,
+        300,
+        202,
+        309
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "August",
+      "bbox": [
+        243,
+        300,
+        278,
+        311
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "1998",
+      "bbox": [
+        293,
+        300,
+        317,
+        309
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "case",
+      "bbox": [
+        111,
+        315,
+        145,
+        346
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Asbestos",
+      "bbox": [
+        242,
+        327,
+        286,
+        336
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "PLAINTIFFS",
+      "bbox": [
+        115,
+        354,
+        188,
+        363
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "COUNSEL:",
+      "bbox": [
+        115,
+        367,
+        175,
+        376
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Chaber,",
+      "bbox": [
+        297,
+        367,
+        337,
+        377
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Tigerman",
+      "bbox": [
+        435,
+        367,
+        484,
+        378
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "161",
+      "bbox": [
+        243,
+        394,
+        258,
+        402
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Califarnia",
+      "bbox": [
+        263,
+        394,
+        314,
+        402
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Street,",
+      "bbox": [
+        317,
+        394,
+        350,
+        404
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Seite",
+      "bbox": [
+        353,
+        394,
+        378,
+        402
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "2200",
+      "bbox": [
+        381,
+        394,
+        404,
+        402
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "San",
+      "bbox": [
+        242,
+        408,
+        261,
+        416
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "94123",
+      "bbox": [
+        376,
+        407,
+        404,
+        416
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "COUNSEL:",
+      "bbox": [
+        114,
+        462,
+        175,
+        471
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "\u2018TRIAL",
+      "bbox": [
+        110,
+        502,
+        152,
+        533
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        156,
+        515,
+        190,
+        523
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        591,
+        791,
+        606,
+        799
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "S",
+      "bbox": [
+        590,
+        804,
+        607,
+        812
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        639,
+        791,
+        652,
+        810
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        639,
+        822,
+        652,
+        830
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "eo",
+      "bbox": [
+        590,
+        830,
+        606,
+        838
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        639,
+        834,
+        652,
+        838
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        591,
+        842,
+        606,
+        850
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        639,
+        844,
+        652,
+        848
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        590,
+        856,
+        606,
+        864
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        639,
+        852,
+        652,
+        861
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "ES",
+      "bbox": [
+        590,
+        869,
+        605,
+        877
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "N",
+      "bbox": [
+        589,
+        882,
+        605,
+        890
+      ],
+      "confidence": 48.0
+    }
+  ]
+}

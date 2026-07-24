@@ -1,0 +1,814 @@
+{
+  "words": [
+    {
+      "text": "PROJECT",
+      "bbox": [
+        261,
+        159,
+        319,
+        168
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "INITIATION",
+      "bbox": [
+        329,
+        160,
+        411,
+        174
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        422,
+        162,
+        455,
+        172
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "*",
+      "bbox": [
+        464,
+        163,
+        466,
+        165
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        75,
+        254,
+        133,
+        264
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        141,
+        255,
+        175,
+        264
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "14/99",
+      "bbox": [
+        512,
+        263,
+        545,
+        276
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        74,
+        296,
+        132,
+        306
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        142,
+        298,
+        174,
+        307
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "BULL",
+      "bbox": [
+        265,
+        301,
+        292,
+        311
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "DURHAM",
+      "bbox": [
+        301,
+        301,
+        342,
+        314
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Full",
+      "bbox": [
+        350,
+        302,
+        374,
+        315
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Flavor",
+      "bbox": [
+        385,
+        303,
+        425,
+        314
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "King",
+      "bbox": [
+        434,
+        304,
+        460,
+        317
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Size",
+      "bbox": [
+        469,
+        305,
+        495,
+        315
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Cigerettes",
+      "bbox": [
+        503,
+        305,
+        572,
+        319
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        74,
+        339,
+        132,
+        349
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "LEADER",
+      "bbox": [
+        141,
+        341,
+        191,
+        350
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "dof.",
+      "bbox": [
+        265,
+        343,
+        297,
+        354
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Anders/J.",
+      "bbox": [
+        307,
+        344,
+        367,
+        358
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "WORK",
+      "bbox": [
+        73,
+        381,
+        105,
+        391
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "REQUESTED",
+      "bbox": [
+        115,
+        383,
+        190,
+        393
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BY",
+      "bbox": [
+        199,
+        385,
+        215,
+        393
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Yarketing",
+      "bbox": [
+        263,
+        385,
+        325,
+        399
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        73,
+        424,
+        131,
+        434
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "OBJECTIVE",
+      "bbox": [
+        140,
+        426,
+        215,
+        436
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Develop",
+      "bbox": [
+        263,
+        428,
+        312,
+        441
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "\u201ctar",
+      "bbox": [
+        362,
+        429,
+        394,
+        440
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "delivery",
+      "bbox": [
+        403,
+        430,
+        459,
+        444
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "king",
+      "bbox": [
+        466,
+        431,
+        493,
+        445
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "size",
+      "bbox": [
+        501,
+        432,
+        528,
+        443
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "cigarette.",
+      "bbox": [
+        536,
+        433,
+        603,
+        447
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "e",
+      "bbox": [
+        27,
+        441,
+        48,
+        462
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        262,
+        456,
+        283,
+        466
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "generic",
+      "bbox": [
+        290,
+        459,
+        338,
+        469
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "pricing",
+      "bbox": [
+        347,
+        458,
+        387,
+        471
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "directed",
+      "bbox": [
+        402,
+        458,
+        457,
+        470
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "toward",
+      "bbox": [
+        466,
+        460,
+        507,
+        471
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "young",
+      "bbox": [
+        522,
+        463,
+        542,
+        471
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "male",
+      "bbox": [
+        557,
+        461,
+        584,
+        472
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "smokers.",
+      "bbox": [
+        263,
+        484,
+        316,
+        495
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Cigarette",
+      "bbox": [
+        333,
+        485,
+        394,
+        499
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        480,
+        493,
+        485,
+        495
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "85",
+      "bbox": [
+        493,
+        487,
+        506,
+        499
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "nm",
+      "bbox": [
+        514,
+        491,
+        528,
+        499
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "x",
+      "bbox": [
+        535,
+        491,
+        541,
+        499
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "24.9",
+      "bbox": [
+        549,
+        489,
+        577,
+        500
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "mm",
+      "bbox": [
+        584,
+        492,
+        598,
+        500
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        360,
+        506,
+        368,
+        535
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "20",
+      "bbox": [
+        375,
+        506,
+        388,
+        535
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "nm",
+      "bbox": [
+        394,
+        517,
+        408,
+        524
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "filter",
+      "bbox": [
+        416,
+        515,
+        457,
+        526
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        465,
+        521,
+        470,
+        523
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "24",
+      "bbox": [
+        479,
+        516,
+        492,
+        526
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "nm",
+      "bbox": [
+        500,
+        519,
+        513,
+        526
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "tipping.",
+      "bbox": [
+        521,
+        517,
+        575,
+        528
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Offshore",
+      "bbox": [
+        261,
+        538,
+        316,
+        549
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "tobacco",
+      "bbox": [
+        324,
+        539,
+        372,
+        550
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "blend",
+      "bbox": [
+        380,
+        540,
+        414,
+        551
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        422,
+        541,
+        449,
+        551
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "unique",
+      "bbox": [
+        458,
+        542,
+        499,
+        554
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "formulation.",
+      "bbox": [
+        555,
+        543,
+        638,
+        555
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Cork",
+      "bbox": [
+        261,
+        566,
+        287,
+        576
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "tipping.",
+      "bbox": [
+        295,
+        566,
+        349,
+        581
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        70,
+        592,
+        105,
+        602
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "PERSONNEL",
+      "bbox": [
+        113,
+        592,
+        175,
+        603
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Approved",
+      "bbox": [
+        372,
+        719,
+        439,
+        731
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        448,
+        721,
+        464,
+        733
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "cc:",
+      "bbox": [
+        68,
+        759,
+        90,
+        766
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "RSS",
+      "bbox": [
+        110,
+        757,
+        134,
+        767
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        568,
+        767,
+        577,
+        770
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "RC",
+      "bbox": [
+        111,
+        772,
+        134,
+        781
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "PRE",
+      "bbox": [
+        110,
+        786,
+        134,
+        795
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "PRC",
+      "bbox": [
+        110,
+        800,
+        134,
+        809
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "@",
+      "bbox": [
+        21,
+        806,
+        43,
+        827
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Records",
+      "bbox": [
+        110,
+        827,
+        168,
+        838
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        110,
+        842,
+        167,
+        853
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Leader",
+      "bbox": [
+        177,
+        843,
+        226,
+        853
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        109,
+        856,
+        150,
+        866
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Personnel",
+      "bbox": [
+        160,
+        858,
+        234,
+        867
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Assigned",
+      "bbox": [
+        243,
+        858,
+        310,
+        871
+      ],
+      "confidence": 90.0
+    }
+  ]
+}

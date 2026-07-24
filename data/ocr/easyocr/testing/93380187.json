@@ -1,0 +1,504 @@
+{
+  "words": [
+    {
+      "text": "EXHIBIT",
+      "bbox": [
+        563,
+        87,
+        615,
+        101
+      ],
+      "confidence": 0.6012976109221048
+    },
+    {
+      "text": "FAXED)",
+      "bbox": [
+        43,
+        75,
+        187,
+        135
+      ],
+      "confidence": 0.585172237439711
+    },
+    {
+      "text": "SQUPON CQQE REGISIRATION FQRM",
+      "bbox": [
+        197,
+        119,
+        423,
+        139
+      ],
+      "confidence": 0.3037069512122257
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        101,
+        151,
+        145,
+        165
+      ],
+      "confidence": 0.5207135122727343
+    },
+    {
+      "text": "MICHELLE Lepae",
+      "bbox": [
+        203,
+        151,
+        309,
+        167
+      ],
+      "confidence": 0.45724102556581697
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        101,
+        181,
+        125,
+        197
+      ],
+      "confidence": 0.48497418486116856
+    },
+    {
+      "text": "VAM: LOSIto",
+      "bbox": [
+        205,
+        181,
+        281,
+        197
+      ],
+      "confidence": 0.3262047851662061
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        101,
+        213,
+        125,
+        227
+      ],
+      "confidence": 0.9765902507537053
+    },
+    {
+      "text": "S.4 RAPISARLDI",
+      "bbox": [
+        203,
+        213,
+        307,
+        229
+      ],
+      "confidence": 0.9075287816934933
+    },
+    {
+      "text": "KP AUGUSTYN",
+      "bbox": [
+        203,
+        245,
+        301,
+        259
+      ],
+      "confidence": 0.8816964401849732
+    },
+    {
+      "text": "BRAND(S) APPUCABLE",
+      "bbox": [
+        113,
+        277,
+        251,
+        293
+      ],
+      "confidence": 0.8122628768792488
+    },
+    {
+      "text": "TrUe",
+      "bbox": [
+        337,
+        279,
+        373,
+        293
+      ],
+      "confidence": 0.43213000893592834
+    },
+    {
+      "text": "MEDIA TYPE",
+      "bbox": [
+        113,
+        309,
+        189,
+        323
+      ],
+      "confidence": 0.6711430395386419
+    },
+    {
+      "text": "SALES FORCE APPLIED",
+      "bbox": [
+        335,
+        309,
+        475,
+        325
+      ],
+      "confidence": 0.909435239050621
+    },
+    {
+      "text": "IRC",
+      "bbox": [
+        485,
+        311,
+        509,
+        325
+      ],
+      "confidence": 0.6214635879498142
+    },
+    {
+      "text": "MEDIA NAME",
+      "bbox": [
+        113,
+        339,
+        191,
+        355
+      ],
+      "confidence": 0.9582693496266262
+    },
+    {
+      "text": "ISSUE FREQUENCYMEAR",
+      "bbox": [
+        111,
+        369,
+        264,
+        386
+      ],
+      "confidence": 0.5433717073524493
+    },
+    {
+      "text": "SPACEICOLOR",
+      "bbox": [
+        111,
+        401,
+        201,
+        417
+      ],
+      "confidence": 0.971224216783615
+    },
+    {
+      "text": "COUPON ISSUE DATE",
+      "bbox": [
+        111,
+        431,
+        241,
+        447
+      ],
+      "confidence": 0.973197214783669
+    },
+    {
+      "text": "MAY 1992",
+      "bbox": [
+        333,
+        435,
+        395,
+        449
+      ],
+      "confidence": 0.9074343165751837
+    },
+    {
+      "text": "COUPON EXPIRATION DATE",
+      "bbox": [
+        111,
+        463,
+        277,
+        481
+      ],
+      "confidence": 0.9383334266657635
+    },
+    {
+      "text": "8/31/92",
+      "bbox": [
+        333,
+        467,
+        379,
+        481
+      ],
+      "confidence": 0.7754196852540972
+    },
+    {
+      "text": "CIACULATION",
+      "bbox": [
+        109,
+        495,
+        193,
+        509
+      ],
+      "confidence": 0.9222070715299269
+    },
+    {
+      "text": "560,000",
+      "bbox": [
+        333,
+        497,
+        381,
+        511
+      ],
+      "confidence": 0.8262545611522985
+    },
+    {
+      "text": "GEOGRAPHICAL ARENS)",
+      "bbox": [
+        109,
+        523,
+        259,
+        543
+      ],
+      "confidence": 0.8048233044284567
+    },
+    {
+      "text": "TRUE CORE MARKEUS",
+      "bbox": [
+        331,
+        527,
+        467,
+        543
+      ],
+      "confidence": 0.4359067446655738
+    },
+    {
+      "text": "COUPON VALUE",
+      "bbox": [
+        109,
+        555,
+        205,
+        571
+      ],
+      "confidence": 0.9944285318309843
+    },
+    {
+      "text": "PACK ANDIOR CARTON",
+      "bbox": [
+        107,
+        587,
+        247,
+        603
+      ],
+      "confidence": 0.6679109538449394
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        331,
+        589,
+        367,
+        603
+      ],
+      "confidence": 0.6985393762588501
+    },
+    {
+      "text": "ADVEFTISING CAEATIVE Title",
+      "bbox": [
+        113,
+        619,
+        297,
+        635
+      ],
+      "confidence": 0.3987451925231968
+    },
+    {
+      "text": "SIGNATURE OF INITIATOR",
+      "bbox": [
+        107,
+        665,
+        261,
+        681
+      ],
+      "confidence": 0.974593755002326
+    },
+    {
+      "text": "DATE INITIATED",
+      "bbox": [
+        105,
+        695,
+        201,
+        711
+      ],
+      "confidence": 0.9423073247058584
+    },
+    {
+      "text": "JANUARY 8, 1992",
+      "bbox": [
+        327,
+        697,
+        433,
+        713
+      ],
+      "confidence": 0.6878668066663625
+    },
+    {
+      "text": "ANALYTICAL REQUIREMENS:",
+      "bbox": [
+        91,
+        726,
+        270,
+        744
+      ],
+      "confidence": 0.4652988194339273
+    },
+    {
+      "text": "True CQRE AREAS",
+      "bbox": [
+        101,
+        759,
+        219,
+        775
+      ],
+      "confidence": 0.45042929702515583
+    },
+    {
+      "text": "NEW HAVEN",
+      "bbox": [
+        89,
+        791,
+        147,
+        805
+      ],
+      "confidence": 0.6848843435332491
+    },
+    {
+      "text": "TOTAL Bostom",
+      "bbox": [
+        89,
+        807,
+        161,
+        821
+      ],
+      "confidence": 0.526118881068413
+    },
+    {
+      "text": "FOR CONTROL USE ONLY:",
+      "bbox": [
+        327,
+        807,
+        485,
+        823
+      ],
+      "confidence": 0.8470039380869645
+    },
+    {
+      "text": "HAATFORD",
+      "bbox": [
+        89,
+        823,
+        141,
+        837
+      ],
+      "confidence": 0.799431063868988
+    },
+    {
+      "text": "COMCORD",
+      "bbox": [
+        207,
+        823,
+        255,
+        837
+      ],
+      "confidence": 0.42254530818494507
+    },
+    {
+      "text": "EPAINGAED",
+      "bbox": [
+        203,
+        839,
+        265,
+        851
+      ],
+      "confidence": 0.353794670409573
+    },
+    {
+      "text": "CQDE ASSIGNED;",
+      "bbox": [
+        327,
+        837,
+        433,
+        853
+      ],
+      "confidence": 0.401069605048212
+    },
+    {
+      "text": "SYRACUSE",
+      "bbox": [
+        89,
+        853,
+        141,
+        867
+      ],
+      "confidence": 0.9186771392453336
+    },
+    {
+      "text": "JOBNUMBER;",
+      "bbox": [
+        325,
+        855,
+        413,
+        869
+      ],
+      "confidence": 0.5014400910697924
+    },
+    {
+      "text": "RCCHESTEA",
+      "bbox": [
+        89,
+        869,
+        147,
+        881
+      ],
+      "confidence": 0.5618365768429171
+    },
+    {
+      "text": "POATLAND. ME",
+      "bbox": [
+        205,
+        871,
+        275,
+        883
+      ],
+      "confidence": 0.5532511317622892
+    },
+    {
+      "text": "ESL_REDENPIION:",
+      "bbox": [
+        327,
+        869,
+        443,
+        885
+      ],
+      "confidence": 0.49697230209472554
+    },
+    {
+      "text": "TOTAL WASHINGTON DC",
+      "bbox": [
+        201,
+        901,
+        309,
+        913
+      ],
+      "confidence": 0.4493605491694515
+    },
+    {
+      "text": "BUFFALC",
+      "bbox": [
+        90,
+        918,
+        130,
+        926
+      ],
+      "confidence": 0.8018093142485858
+    },
+    {
+      "text": "'2-9j7",
+      "bbox": [
+        476,
+        89,
+        564,
+        150
+      ],
+      "confidence": 0.43164945052523523
+    }
+  ]
+}

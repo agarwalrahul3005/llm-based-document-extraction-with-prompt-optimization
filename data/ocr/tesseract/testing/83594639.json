@@ -1,0 +1,574 @@
+{
+  "words": [
+    {
+      "text": "wow",
+      "bbox": [
+        120,
+        81,
+        138,
+        88
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "15:35",
+      "bbox": [
+        146,
+        81,
+        176,
+        88
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "FAL",
+      "bbox": [
+        184,
+        81,
+        202,
+        88
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        210,
+        80,
+        277,
+        108
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "rove",
+      "bbox": [
+        341,
+        79,
+        372,
+        86
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "sare",
+      "bbox": [
+        379,
+        78,
+        416,
+        86
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "nto",
+      "bbox": [
+        422,
+        78,
+        486,
+        104
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Boo",
+      "bbox": [
+        639,
+        74,
+        668,
+        84
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "PATA",
+      "bbox": [
+        261,
+        188,
+        291,
+        199
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        122,
+        228,
+        161,
+        246
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        178,
+        229,
+        215,
+        246
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        232,
+        229,
+        269,
+        246
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        286,
+        230,
+        322,
+        246
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        340,
+        230,
+        376,
+        247
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        393,
+        229,
+        429,
+        247
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        447,
+        230,
+        483,
+        247
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        501,
+        230,
+        538,
+        247
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        555,
+        231,
+        593,
+        247
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        104,
+        261,
+        131,
+        287
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Septomber-22,",
+      "bbox": [
+        212,
+        270,
+        286,
+        284
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "1997",
+      "bbox": [
+        290,
+        271,
+        313,
+        281
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        99,
+        290,
+        120,
+        321
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Ron",
+      "bbox": [
+        212,
+        301,
+        233,
+        312
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        384,
+        290,
+        414,
+        322
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Gompany:",
+      "bbox": [
+        104,
+        320,
+        157,
+        351
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Lorillard",
+      "bbox": [
+        212,
+        331,
+        255,
+        342
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        104,
+        361,
+        123,
+        372
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Number:",
+      "bbox": [
+        126,
+        361,
+        171,
+        372
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "{910}",
+      "bbox": [
+        212,
+        361,
+        237,
+        375
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "335-7707",
+      "bbox": [
+        240,
+        362,
+        286,
+        372
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Pagas",
+      "bbox": [
+        385,
+        362,
+        416,
+        375
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "(Including",
+      "bbox": [
+        420,
+        362,
+        471,
+        375
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "cover",
+      "bbox": [
+        475,
+        364,
+        504,
+        373
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "page):",
+      "bbox": [
+        508,
+        362,
+        539,
+        375
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        566,
+        362,
+        572,
+        373
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "co",
+      "bbox": [
+        647,
+        692,
+        663,
+        699
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "w",
+      "bbox": [
+        647,
+        704,
+        662,
+        713
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        646,
+        717,
+        661,
+        725
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        643,
+        756,
+        658,
+        765
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        643,
+        770,
+        658,
+        778
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Aer",
+      "bbox": [
+        101,
+        863,
+        123,
+        872
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "i.",
+      "bbox": [
+        190,
+        863,
+        200,
+        870
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        469,
+        873,
+        484,
+        882
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "ans",
+      "bbox": [
+        496,
+        859,
+        533,
+        890
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        542,
+        873,
+        553,
+        880
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "ps",
+      "bbox": [
+        565,
+        873,
+        584,
+        882
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        594,
+        859,
+        610,
+        890
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Seth",
+      "bbox": [
+        488,
+        869,
+        512,
+        901
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "sot",
+      "bbox": [
+        554,
+        869,
+        579,
+        901
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Rte",
+      "bbox": [
+        592,
+        883,
+        622,
+        890
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "fa",
+      "bbox": [
+        151,
+        894,
+        161,
+        901
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Faery",
+      "bbox": [
+        522,
+        880,
+        592,
+        912
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Soon",
+      "bbox": [
+        596,
+        880,
+        626,
+        912
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Hie",
+      "bbox": [
+        101,
+        904,
+        123,
+        911
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "om",
+      "bbox": [
+        130,
+        904,
+        144,
+        912
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Pex",
+      "bbox": [
+        151,
+        890,
+        167,
+        921
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "ae",
+      "bbox": [
+        536,
+        890,
+        554,
+        922
+      ],
+      "confidence": 41.0
+    }
+  ]
+}

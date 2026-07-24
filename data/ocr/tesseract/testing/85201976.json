@@ -1,0 +1,824 @@
+{
+  "words": [
+    {
+      "text": "Marden-",
+      "bbox": [
+        72,
+        83,
+        168,
+        98
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Keane,",
+      "bbox": [
+        176,
+        84,
+        239,
+        99
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Inc.",
+      "bbox": [
+        253,
+        83,
+        289,
+        99
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        31,
+        137,
+        34,
+        140
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "TRUE",
+      "bbox": [
+        246,
+        137,
+        279,
+        146
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "\u201cYOU",
+      "bbox": [
+        290,
+        137,
+        321,
+        146
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "FOUND",
+      "bbox": [
+        331,
+        137,
+        372,
+        146
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "rr\"",
+      "bbox": [
+        382,
+        138,
+        405,
+        147
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "SWEEPSTAKES",
+      "bbox": [
+        416,
+        138,
+        509,
+        148
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "PRIZE",
+      "bbox": [
+        339,
+        166,
+        380,
+        175
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "WINNER",
+      "bbox": [
+        390,
+        166,
+        441,
+        176
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "TRAVEL",
+      "bbox": [
+        280,
+        194,
+        330,
+        203
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "INFORMATION",
+      "bbox": [
+        340,
+        194,
+        432,
+        204
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "SHEET",
+      "bbox": [
+        443,
+        195,
+        484,
+        204
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "DESTINATION",
+      "bbox": [
+        185,
+        239,
+        277,
+        248
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        288,
+        239,
+        303,
+        248
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        312,
+        239,
+        336,
+        248
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "CONTINENTAL",
+      "bbox": [
+        346,
+        239,
+        438,
+        248
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "UNITED",
+      "bbox": [
+        448,
+        240,
+        498,
+        249
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "STATES",
+      "bbox": [
+        508,
+        240,
+        556,
+        249
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        566,
+        240,
+        572,
+        249
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "WISH",
+      "bbox": [
+        582,
+        240,
+        615,
+        249
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "TRAVEL",
+      "bbox": [
+        176,
+        254,
+        228,
+        263
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "30",
+      "bbox": [
+        237,
+        254,
+        253,
+        263
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "TS:",
+      "bbox": [
+        263,
+        253,
+        284,
+        262
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        639,
+        256,
+        642,
+        257
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "wane",
+      "bbox": [
+        151,
+        295,
+        494,
+        308
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "ADDRESS",
+      "bbox": [
+        151,
+        323,
+        211,
+        332
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "ew",
+      "bbox": [
+        473,
+        353,
+        556,
+        366
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        608,
+        364,
+        630,
+        366
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "WOME",
+      "bbox": [
+        151,
+        395,
+        185,
+        403
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "PHONE",
+      "bbox": [
+        195,
+        395,
+        468,
+        409
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "BUSINESS",
+      "bbox": [
+        151,
+        423,
+        220,
+        432
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PHONE",
+      "bbox": [
+        230,
+        424,
+        271,
+        432
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        151,
+        467,
+        185,
+        475
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        195,
+        466,
+        211,
+        475
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "GUEST",
+      "bbox": [
+        221,
+        467,
+        263,
+        475
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ROE",
+      "bbox": [
+        152,
+        495,
+        176,
+        504
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        186,
+        506,
+        194,
+        508
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "RELATIONSHIP",
+      "bbox": [
+        152,
+        524,
+        255,
+        533
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        160,
+        538,
+        177,
+        547
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "KIRNER",
+      "bbox": [
+        186,
+        539,
+        238,
+        547
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "PLEASE",
+      "bbox": [
+        151,
+        596,
+        203,
+        605
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "LIST",
+      "bbox": [
+        213,
+        596,
+        247,
+        604
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "THABE",
+      "bbox": [
+        256,
+        596,
+        297,
+        604
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "ALTERNATIVE",
+      "bbox": [
+        306,
+        596,
+        399,
+        604
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "DATES",
+      "bbox": [
+        409,
+        596,
+        450,
+        604
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "YOU",
+      "bbox": [
+        460,
+        596,
+        485,
+        605
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "WOCLD",
+      "bbox": [
+        494,
+        596,
+        536,
+        605
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "LIKE",
+      "bbox": [
+        545,
+        596,
+        578,
+        605
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        587,
+        596,
+        604,
+        605
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "TRAVEL",
+      "bbox": [
+        613,
+        596,
+        663,
+        605
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Te",
+      "bbox": [
+        178,
+        638,
+        443,
+        651
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "2.77",
+      "bbox": [
+        178,
+        666,
+        226,
+        676
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        179,
+        694,
+        192,
+        704
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "NEAREST",
+      "bbox": [
+        160,
+        743,
+        221,
+        752
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "YOUR",
+      "bbox": [
+        231,
+        743,
+        264,
+        752
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "HOME",
+      "bbox": [
+        274,
+        743,
+        306,
+        752
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        497,
+        755,
+        516,
+        757
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "AIRLINE:",
+      "bbox": [
+        152,
+        771,
+        218,
+        780
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "(CHECK",
+      "bbox": [
+        156,
+        785,
+        203,
+        795
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "SMOKING",
+      "bbox": [
+        376,
+        786,
+        435,
+        795
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "N",
+      "bbox": [
+        667,
+        803,
+        679,
+        813
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        668,
+        814,
+        680,
+        824
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "SPECIAL",
+      "bbox": [
+        153,
+        828,
+        213,
+        837
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "DIETARY",
+      "bbox": [
+        222,
+        828,
+        281,
+        837
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "REQUIREVENTS",
+      "bbox": [
+        291,
+        828,
+        391,
+        838
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "rd",
+      "bbox": [
+        668,
+        825,
+        681,
+        855
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "ANY",
+      "bbox": [
+        152,
+        857,
+        177,
+        865
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "ADDITIONAL",
+      "bbox": [
+        187,
+        857,
+        274,
+        865
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        667,
+        856,
+        680,
+        866
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        64,
+        871,
+        66,
+        873
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "INFORMATION",
+      "bbox": [
+        170,
+        871,
+        264,
+        880
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "YOU",
+      "bbox": [
+        274,
+        871,
+        299,
+        880
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "WOULD",
+      "bbox": [
+        307,
+        871,
+        350,
+        880
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "LIKE",
+      "bbox": [
+        359,
+        871,
+        392,
+        880
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        401,
+        871,
+        418,
+        880
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "PROVIDE",
+      "bbox": [
+        427,
+        871,
+        486,
+        881
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\u201cag",
+      "bbox": [
+        176,
+        927,
+        205,
+        963
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Pe",
+      "bbox": [
+        581,
+        939,
+        604,
+        951
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        703,
+        915,
+        710,
+        966
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "soma",
+      "bbox": [
+        638,
+        957,
+        686,
+        966
+      ],
+      "confidence": 32.0
+    }
+  ]
+}

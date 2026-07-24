@@ -1,0 +1,1694 @@
+{
+  "words": [
+    {
+      "text": ":",
+      "bbox": [
+        89,
+        104,
+        92,
+        106
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "NEWPORT",
+      "bbox": [
+        224,
+        121,
+        303,
+        134
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "RAGING",
+      "bbox": [
+        311,
+        119,
+        370,
+        131
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        378,
+        118,
+        428,
+        129
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SURVEY",
+      "bbox": [
+        435,
+        116,
+        498,
+        128
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Location",
+      "bbox": [
+        74,
+        150,
+        134,
+        171
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "DETROIT",
+      "bbox": [
+        163,
+        152,
+        218,
+        162
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "GRAND",
+      "bbox": [
+        229,
+        151,
+        268,
+        161
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "PRIX",
+      "bbox": [
+        278,
+        150,
+        309,
+        160
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Division",
+      "bbox": [
+        401,
+        143,
+        456,
+        166
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Detroit",
+      "bbox": [
+        508,
+        144,
+        564,
+        154
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        575,
+        149,
+        580,
+        151
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "MCA",
+      "bbox": [
+        590,
+        143,
+        613,
+        153
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        76,
+        179,
+        106,
+        204
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "(8)",
+      "bbox": [
+        114,
+        179,
+        129,
+        204
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Sune",
+      "bbox": [
+        164,
+        181,
+        194,
+        191
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "44,",
+      "bbox": [
+        206,
+        181,
+        226,
+        192
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        239,
+        180,
+        268,
+        189
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Division",
+      "bbox": [
+        406,
+        177,
+        486,
+        190
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Mgr",
+      "bbox": [
+        466,
+        169,
+        496,
+        194
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        509,
+        176,
+        522,
+        185
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        533,
+        176,
+        547,
+        185
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "Lavoie",
+      "bbox": [
+        558,
+        175,
+        606,
+        185
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        261,
+        199,
+        294,
+        230
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Submitted",
+      "bbox": [
+        302,
+        199,
+        367,
+        230
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "6,",
+      "bbox": [
+        418,
+        207,
+        432,
+        219
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        445,
+        206,
+        474,
+        216
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        337,
+        227,
+        349,
+        239
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "30",
+      "bbox": [
+        352,
+        226,
+        365,
+        236
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "days",
+      "bbox": [
+        368,
+        227,
+        391,
+        238
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "event)",
+      "bbox": [
+        423,
+        225,
+        456,
+        236
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        329,
+        263,
+        353,
+        279
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        451,
+        271,
+        457,
+        272
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Mugs",
+      "bbox": [
+        78,
+        275,
+        116,
+        301
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "9",
+      "bbox": [
+        190,
+        279,
+        196,
+        289
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "is",
+      "bbox": [
+        298,
+        272,
+        331,
+        294
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        416,
+        273,
+        423,
+        284
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Requested",
+      "bbox": [
+        431,
+        266,
+        503,
+        292
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "10",
+      "bbox": [
+        544,
+        270,
+        557,
+        281
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Displays",
+      "bbox": [
+        82,
+        297,
+        137,
+        310
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        412,
+        277,
+        446,
+        308
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Notified",
+      "bbox": [
+        450,
+        283,
+        578,
+        300
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Floor",
+      "bbox": [
+        83,
+        312,
+        116,
+        323
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "(40)",
+      "bbox": [
+        121,
+        311,
+        144,
+        325
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        412,
+        293,
+        446,
+        324
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Ordered",
+      "bbox": [
+        453,
+        293,
+        503,
+        324
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Posters",
+      "bbox": [
+        83,
+        317,
+        134,
+        347
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        84,
+        357,
+        113,
+        367
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        417,
+        348,
+        446,
+        360
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Rec'd",
+      "bbox": [
+        451,
+        347,
+        487,
+        359
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        84,
+        395,
+        94,
+        405
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Displays",
+      "bbox": [
+        99,
+        394,
+        153,
+        407
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Placed:",
+      "bbox": [
+        158,
+        393,
+        205,
+        404
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Attendees:",
+      "bbox": [
+        368,
+        387,
+        435,
+        399
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Counter",
+      "bbox": [
+        84,
+        416,
+        135,
+        439
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "oO",
+      "bbox": [
+        187,
+        414,
+        198,
+        436
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        369,
+        414,
+        379,
+        424
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Customers",
+      "bbox": [
+        384,
+        413,
+        452,
+        425
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Invited",
+      "bbox": [
+        458,
+        411,
+        500,
+        422
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Floor",
+      "bbox": [
+        85,
+        432,
+        117,
+        454
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        192,
+        433,
+        199,
+        443
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        369,
+        429,
+        379,
+        439
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "Customers",
+      "bbox": [
+        384,
+        428,
+        453,
+        440
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Attended,",
+      "bbox": [
+        457,
+        426,
+        515,
+        437
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "EJ",
+      "bbox": [
+        541,
+        421,
+        551,
+        443
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Posters",
+      "bbox": [
+        85,
+        451,
+        132,
+        462
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        370,
+        444,
+        376,
+        455
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Lorillard",
+      "bbox": [
+        385,
+        443,
+        436,
+        455
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Personnel",
+      "bbox": [
+        441,
+        441,
+        505,
+        453
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        510,
+        437,
+        581,
+        450
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Comments,",
+      "bbox": [
+        143,
+        475,
+        239,
+        493
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Invitees",
+      "bbox": [
+        242,
+        474,
+        298,
+        489
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "stated",
+      "bbox": [
+        308,
+        472,
+        355,
+        488
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        366,
+        477,
+        388,
+        487
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Newport",
+      "bbox": [
+        398,
+        475,
+        453,
+        487
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "hospitality",
+      "bbox": [
+        464,
+        473,
+        553,
+        489
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "tent",
+      "bbox": [
+        563,
+        473,
+        593,
+        483
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "was",
+      "bbox": [
+        604,
+        474,
+        627,
+        482
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "very",
+      "bbox": [
+        637,
+        474,
+        668,
+        484
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "difficult",
+      "bbox": [
+        85,
+        501,
+        157,
+        512
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        168,
+        501,
+        182,
+        510
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "locate.",
+      "bbox": [
+        193,
+        499,
+        246,
+        510
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Also,",
+      "bbox": [
+        266,
+        498,
+        298,
+        508
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        316,
+        497,
+        339,
+        507
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Indy",
+      "bbox": [
+        349,
+        496,
+        379,
+        509
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Lights",
+      "bbox": [
+        389,
+        495,
+        437,
+        508
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Paddock",
+      "bbox": [
+        447,
+        493,
+        503,
+        504
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "area",
+      "bbox": [
+        514,
+        495,
+        545,
+        505
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "was",
+      "bbox": [
+        555,
+        494,
+        577,
+        502
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "not",
+      "bbox": [
+        588,
+        491,
+        610,
+        501
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "clearly",
+      "bbox": [
+        85,
+        516,
+        141,
+        530
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "fdentified.",
+      "bbox": [
+        152,
+        514,
+        238,
+        525
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Host",
+      "bbox": [
+        258,
+        513,
+        289,
+        522
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "invitees",
+      "bbox": [
+        300,
+        512,
+        364,
+        522
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "were",
+      "bbox": [
+        374,
+        512,
+        405,
+        520
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "looking",
+      "bbox": [
+        415,
+        509,
+        470,
+        522
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        482,
+        508,
+        504,
+        518
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        514,
+        507,
+        537,
+        517
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "hospitality",
+      "bbox": [
+        547,
+        505,
+        635,
+        520
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "tent",
+      "bbox": [
+        86,
+        532,
+        116,
+        541
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "inva",
+      "bbox": [
+        128,
+        531,
+        158,
+        541
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "separate",
+      "bbox": [
+        169,
+        530,
+        232,
+        541
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "identified",
+      "bbox": [
+        251,
+        527,
+        323,
+        538
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "area",
+      "bbox": [
+        333,
+        529,
+        364,
+        537
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "@way",
+      "bbox": [
+        375,
+        528,
+        405,
+        539
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "from",
+      "bbox": [
+        416,
+        525,
+        446,
+        535
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        457,
+        524,
+        479,
+        534
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Paddock",
+      "bbox": [
+        489,
+        523,
+        545,
+        533
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "erea",
+      "bbox": [
+        556,
+        524,
+        586,
+        532
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "gnd",
+      "bbox": [
+        597,
+        521,
+        619,
+        531
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        630,
+        520,
+        652,
+        530
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Newport",
+      "bbox": [
+        86,
+        546,
+        141,
+        558
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "car",
+      "bbox": [
+        153,
+        548,
+        175,
+        555
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "transporter.",
+      "bbox": [
+        186,
+        544,
+        281,
+        556
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "OO",
+      "bbox": [
+        81,
+        563,
+        216,
+        594
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "eee",
+      "bbox": [
+        85,
+        576,
+        656,
+        590
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "GEST",
+      "bbox": [
+        180,
+        635,
+        253,
+        645
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "LT",
+      "bbox": [
+        337,
+        616,
+        382,
+        652
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Tene",
+      "bbox": [
+        488,
+        629,
+        508,
+        638
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Quality",
+      "bbox": [
+        91,
+        665,
+        135,
+        679
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        140,
+        665,
+        152,
+        676
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Hospitality",
+      "bbox": [
+        157,
+        664,
+        224,
+        677
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Tent:",
+      "bbox": [
+        228,
+        663,
+        261,
+        674
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Food",
+      "bbox": [
+        162,
+        669,
+        198,
+        699
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        299,
+        665,
+        324,
+        695
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "_x",
+      "bbox": [
+        441,
+        661,
+        483,
+        692
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        586,
+        680,
+        658,
+        684
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "Cleantiness",
+      "bbox": [
+        163,
+        683,
+        237,
+        714
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "x",
+      "bbox": [
+        617,
+        685,
+        624,
+        693
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Service",
+      "bbox": [
+        163,
+        699,
+        210,
+        729
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        445,
+        699,
+        517,
+        703
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Fair",
+      "bbox": [
+        324,
+        717,
+        352,
+        739
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "\u2018Average",
+      "bbox": [
+        451,
+        714,
+        508,
+        735
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Ts",
+      "bbox": [
+        320,
+        734,
+        343,
+        772
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "please",
+      "bbox": [
+        446,
+        734,
+        495,
+        772
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "were",
+      "bbox": [
+        573,
+        734,
+        615,
+        772
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        624,
+        734,
+        647,
+        772
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        652,
+        734,
+        666,
+        772
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "Inthe",
+      "bbox": [
+        333,
+        751,
+        372,
+        759
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "future,",
+      "bbox": [
+        391,
+        751,
+        436,
+        759
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "please",
+      "bbox": [
+        448,
+        749,
+        495,
+        761
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "where",
+      "bbox": [
+        572,
+        746,
+        611,
+        754
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        621,
+        743,
+        643,
+        752
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "hospitality",
+      "bbox": [
+        160,
+        768,
+        241,
+        779
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "area",
+      "bbox": [
+        259,
+        769,
+        290,
+        776
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "will",
+      "bbox": [
+        300,
+        766,
+        331,
+        775
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        342,
+        766,
+        356,
+        775
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "located",
+      "bbox": [
+        367,
+        764,
+        422,
+        774
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        432,
+        768,
+        438,
+        770
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        448,
+        763,
+        463,
+        772
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        473,
+        763,
+        496,
+        771
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Newport",
+      "bbox": [
+        506,
+        760,
+        562,
+        772
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "cer",
+      "bbox": [
+        573,
+        761,
+        595,
+        769
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "cite",
+      "bbox": [
+        152,
+        784,
+        183,
+        793
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "oF",
+      "bbox": [
+        194,
+        786,
+        208,
+        792
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "afes",
+      "bbox": [
+        334,
+        783,
+        365,
+        790
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        377,
+        787,
+        379,
+        789
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Specific",
+      "bbox": [
+        400,
+        779,
+        463,
+        792
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "directions",
+      "bbox": [
+        474,
+        777,
+        555,
+        789
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "will",
+      "bbox": [
+        564,
+        771,
+        602,
+        787
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        605,
+        775,
+        620,
+        786
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "needed,",
+      "bbox": [
+        95,
+        798,
+        149,
+        808
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        688,
+        789,
+        698,
+        803
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "OE",
+      "bbox": [
+        687,
+        804,
+        697,
+        818
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        687,
+        821,
+        697,
+        828
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        93,
+        829,
+        697,
+        857
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        687,
+        837,
+        697,
+        844
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        93,
+        845,
+        696,
+        872
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Oe",
+      "bbox": [
+        238,
+        871,
+        666,
+        888
+      ],
+      "confidence": 31.0
+    }
+  ]
+}

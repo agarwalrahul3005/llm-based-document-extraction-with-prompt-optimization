@@ -1,0 +1,1374 @@
+{
+  "words": [
+    {
+      "text": "pn",
+      "bbox": [
+        110,
+        86,
+        129,
+        94
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "as",
+      "bbox": [
+        135,
+        72,
+        148,
+        109
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "10",
+      "bbox": [
+        182,
+        86,
+        196,
+        94
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "me",
+      "bbox": [
+        219,
+        72,
+        232,
+        109
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "gp",
+      "bbox": [
+        240,
+        72,
+        261,
+        109
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "70",
+      "bbox": [
+        445,
+        71,
+        462,
+        106
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Pot",
+      "bbox": [
+        574,
+        86,
+        599,
+        94
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "*",
+      "bbox": [
+        62,
+        132,
+        68,
+        137
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "FAX",
+      "bbox": [
+        102,
+        130,
+        144,
+        145
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "TRANSMISSION",
+      "bbox": [
+        150,
+        129,
+        318,
+        145
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "DICKSTEIN",
+      "bbox": [
+        518,
+        144,
+        594,
+        161
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SHAPIRO",
+      "bbox": [
+        519,
+        163,
+        593,
+        179
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "MORIN",
+      "bbox": [
+        519,
+        182,
+        573,
+        198
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "OSHINSKY",
+      "bbox": [
+        519,
+        200,
+        593,
+        223
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        102,
+        233,
+        135,
+        264
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "February",
+      "bbox": [
+        189,
+        243,
+        240,
+        258
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "28,",
+      "bbox": [
+        243,
+        243,
+        262,
+        256
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "1998",
+      "bbox": [
+        267,
+        243,
+        295,
+        254
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "18557.002",
+      "bbox": [
+        189,
+        270,
+        254,
+        281
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Message",
+      "bbox": [
+        102,
+        307,
+        179,
+        317
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        160,
+        297,
+        183,
+        326
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Ronald",
+      "bbox": [
+        189,
+        305,
+        231,
+        316
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\u00a7,",
+      "bbox": [
+        234,
+        306,
+        244,
+        316
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "Mitscein",
+      "bbox": [
+        248,
+        305,
+        295,
+        316
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "COMPANY:",
+      "bbox": [
+        102,
+        335,
+        162,
+        344
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Tobacco",
+      "bbox": [
+        245,
+        322,
+        292,
+        353
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Campany",
+      "bbox": [
+        296,
+        332,
+        350,
+        347
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "FAX",
+      "bbox": [
+        103,
+        362,
+        124,
+        371
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "NUMBER:",
+      "bbox": [
+        128,
+        362,
+        179,
+        372
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "920/335-7707",
+      "bbox": [
+        189,
+        360,
+        278,
+        375
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "PHONE:",
+      "bbox": [
+        102,
+        384,
+        145,
+        406
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "910/335-7718",
+      "bbox": [
+        189,
+        388,
+        277,
+        402
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        103,
+        424,
+        138,
+        433
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Andy",
+      "bbox": [
+        189,
+        422,
+        220,
+        437
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Zausnes",
+      "bbox": [
+        224,
+        422,
+        269,
+        433
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "PHONE:",
+      "bbox": [
+        103,
+        451,
+        145,
+        460
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "PAGES",
+      "bbox": [
+        103,
+        477,
+        141,
+        487
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Cover",
+      "bbox": [
+        200,
+        478,
+        232,
+        487
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Sheet}:",
+      "bbox": [
+        235,
+        477,
+        273,
+        488
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        307,
+        472,
+        314,
+        495
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "HARD",
+      "bbox": [
+        319,
+        478,
+        350,
+        487
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "COPY",
+      "bbox": [
+        354,
+        478,
+        384,
+        487
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        387,
+        477,
+        402,
+        487
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "FOLLOW;",
+      "bbox": [
+        406,
+        477,
+        457,
+        487
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Yes",
+      "bbox": [
+        493,
+        473,
+        523,
+        495
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "KO",
+      "bbox": [
+        581,
+        478,
+        597,
+        487
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "MESSAGE:",
+      "bbox": [
+        103,
+        500,
+        161,
+        509
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "[Boe",
+      "bbox": [
+        170,
+        502,
+        189,
+        512
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "attached",
+      "bbox": [
+        193,
+        501,
+        292,
+        512
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Ex",
+      "bbox": [
+        246,
+        491,
+        260,
+        522
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Hom",
+      "bbox": [
+        266,
+        491,
+        288,
+        522
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        296,
+        501,
+        313,
+        512
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Committee",
+      "bbox": [
+        318,
+        501,
+        398,
+        512
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        385,
+        491,
+        399,
+        522
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Commerce",
+      "bbox": [
+        402,
+        501,
+        465,
+        512
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "just",
+      "bbox": [
+        468,
+        501,
+        489,
+        515
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        543,
+        491,
+        554,
+        522
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "my",
+      "bbox": [
+        556,
+        505,
+        574,
+        515
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "loficc,",
+      "bbox": [
+        170,
+        518,
+        203,
+        529
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Call",
+      "bbox": [
+        212,
+        518,
+        235,
+        529
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "me",
+      "bbox": [
+        239,
+        522,
+        256,
+        529
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        260,
+        521,
+        271,
+        529
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "discuss.",
+      "bbox": [
+        275,
+        518,
+        317,
+        529
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\u2018Af",
+      "bbox": [
+        166,
+        705,
+        179,
+        736
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "your",
+      "bbox": [
+        182,
+        716,
+        206,
+        728
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "receipt",
+      "bbox": [
+        209,
+        716,
+        244,
+        729
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        248,
+        705,
+        257,
+        736
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "this",
+      "bbox": [
+        255,
+        716,
+        281,
+        726
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "isi",
+      "bbox": [
+        351,
+        716,
+        370,
+        726
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "ervor,",
+      "bbox": [
+        374,
+        719,
+        402,
+        728
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "please",
+      "bbox": [
+        406,
+        716,
+        437,
+        729
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "this",
+      "bbox": [
+        475,
+        716,
+        493,
+        726
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "frm",
+      "bbox": [
+        497,
+        716,
+        517,
+        726
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "imumediately",
+      "bbox": [
+        521,
+        716,
+        584,
+        728
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        588,
+        716,
+        600,
+        729
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "\u2018collect",
+      "bbox": [
+        170,
+        731,
+        204,
+        741
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "call",
+      "bbox": [
+        207,
+        731,
+        224,
+        741
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        228,
+        722,
+        238,
+        748
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "our",
+      "bbox": [
+        243,
+        734,
+        260,
+        741
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Facsimile",
+      "bbox": [
+        264,
+        731,
+        311,
+        741
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Department",
+      "bbox": [
+        315,
+        731,
+        389,
+        744
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "az",
+      "bbox": [
+        380,
+        722,
+        390,
+        748
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "202-861-9106,",
+      "bbox": [
+        393,
+        731,
+        473,
+        742
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        477,
+        730,
+        495,
+        740
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "send",
+      "bbox": [
+        499,
+        731,
+        522,
+        741
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        526,
+        731,
+        542,
+        741
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "original",
+      "bbox": [
+        546,
+        731,
+        585,
+        744
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        239,
+        734,
+        248,
+        765
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "us",
+      "bbox": [
+        252,
+        734,
+        263,
+        765
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        270,
+        734,
+        279,
+        765
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "ma",
+      "bbox": [
+        319,
+        734,
+        335,
+        765
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "atthe",
+      "bbox": [
+        345,
+        734,
+        372,
+        765
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "address",
+      "bbox": [
+        376,
+        734,
+        413,
+        765
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "below.",
+      "bbox": [
+        417,
+        734,
+        451,
+        765
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "\u201cThis",
+      "bbox": [
+        166,
+        759,
+        190,
+        790
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        297,
+        759,
+        311,
+        790
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        313,
+        759,
+        327,
+        790
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "nol",
+      "bbox": [
+        331,
+        759,
+        345,
+        790
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "eof",
+      "bbox": [
+        352,
+        759,
+        375,
+        790
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "he",
+      "bbox": [
+        377,
+        759,
+        391,
+        790
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "advil",
+      "bbox": [
+        395,
+        759,
+        435,
+        790
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        439,
+        759,
+        453,
+        790
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "eit",
+      "bbox": [
+        457,
+        759,
+        492,
+        790
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Whom",
+      "bbox": [
+        499,
+        759,
+        520,
+        790
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "ddr,",
+      "bbox": [
+        548,
+        759,
+        590,
+        790
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        594,
+        759,
+        613,
+        790
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "contin",
+      "bbox": [
+        192,
+        771,
+        224,
+        802
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "cst",
+      "bbox": [
+        283,
+        771,
+        299,
+        802
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        415,
+        771,
+        428,
+        802
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "orm",
+      "bbox": [
+        435,
+        771,
+        457,
+        802
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Gun",
+      "bbox": [
+        469,
+        771,
+        488,
+        802
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "coder",
+      "bbox": [
+        539,
+        771,
+        563,
+        802
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "applicable",
+      "bbox": [
+        567,
+        771,
+        612,
+        802
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "You",
+      "bbox": [
+        193,
+        796,
+        211,
+        804
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "ac",
+      "bbox": [
+        214,
+        798,
+        227,
+        804
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "noted",
+      "bbox": [
+        262,
+        783,
+        294,
+        814
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "tha",
+      "bbox": [
+        298,
+        796,
+        314,
+        804
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "iy",
+      "bbox": [
+        318,
+        798,
+        332,
+        806
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "dion",
+      "bbox": [
+        397,
+        796,
+        447,
+        804
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        513,
+        783,
+        521,
+        814
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "tha",
+      "bbox": [
+        519,
+        796,
+        539,
+        804
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "mansion",
+      "bbox": [
+        542,
+        798,
+        595,
+        805
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        599,
+        796,
+        609,
+        807
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "oer",
+      "bbox": [
+        213,
+        795,
+        235,
+        826
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "than",
+      "bbox": [
+        236,
+        795,
+        255,
+        826
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "te",
+      "bbox": [
+        260,
+        795,
+        273,
+        826
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "cis",
+      "bbox": [
+        360,
+        795,
+        379,
+        826
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "aget",
+      "bbox": [
+        430,
+        795,
+        454,
+        826
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        648,
+        827,
+        663,
+        835
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "oe",
+      "bbox": [
+        649,
+        840,
+        664,
+        848
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        649,
+        852,
+        664,
+        860
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        650,
+        878,
+        665,
+        886
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Sueet",
+      "bbox": [
+        195,
+        922,
+        222,
+        953
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "MWY",
+      "bbox": [
+        226,
+        922,
+        245,
+        953
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "DG",
+      "bbox": [
+        311,
+        935,
+        324,
+        943
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "20087-4008",
+      "bbox": [
+        330,
+        935,
+        381,
+        943
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "Fae",
+      "bbox": [
+        483,
+        935,
+        499,
+        944
+      ],
+      "confidence": 42.0
+    }
+  ]
+}

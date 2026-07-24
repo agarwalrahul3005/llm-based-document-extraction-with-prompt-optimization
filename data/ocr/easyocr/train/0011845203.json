@@ -1,0 +1,494 @@
+{
+  "words": [
+    {
+      "text": "EROLN",
+      "bbox": [
+        261,
+        85,
+        299,
+        101
+      ],
+      "confidence": 0.32455608018071164
+    },
+    {
+      "text": "PROJECT NUMBER:",
+      "bbox": [
+        113,
+        179,
+        217,
+        195
+      ],
+      "confidence": 0.6332814633519444
+    },
+    {
+      "text": "199LJ8",
+      "bbox": [
+        275,
+        179,
+        325,
+        193
+      ],
+      "confidence": 0.44429649763144735
+    },
+    {
+      "text": "Bbw ORIGINATOR:",
+      "bbox": [
+        115,
+        204,
+        217,
+        223
+      ],
+      "confidence": 0.3781427576293302
+    },
+    {
+      "text": "Mary D",
+      "bbox": [
+        235,
+        207,
+        281,
+        221
+      ],
+      "confidence": 0.3427377524714638
+    },
+    {
+      "text": "Daxis",
+      "bbox": [
+        289,
+        207,
+        325,
+        221
+      ],
+      "confidence": 0.6519112451293247
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        115,
+        235,
+        137,
+        249
+      ],
+      "confidence": 0.6349731961595616
+    },
+    {
+      "text": "Johuny_Pedersen_",
+      "bbox": [
+        179,
+        233,
+        289,
+        249
+      ],
+      "confidence": 0.34099363381143294
+    },
+    {
+      "text": "Gallun",
+      "bbox": [
+        301,
+        233,
+        347,
+        247
+      ],
+      "confidence": 0.34477482007643995
+    },
+    {
+      "text": "INSIRUCILOHS",
+      "bbox": [
+        114,
+        272,
+        199,
+        291
+      ],
+      "confidence": 0.7120258195774132
+    },
+    {
+      "text": "Tho SECTIONS",
+      "bbox": [
+        417,
+        295,
+        499,
+        311
+      ],
+      "confidence": 0.6061446047189949
+    },
+    {
+      "text": "FROH",
+      "bbox": [
+        589,
+        321,
+        619,
+        335
+      ],
+      "confidence": 0.9364974498748779
+    },
+    {
+      "text": "AlL BIDS Skould BE BASED ON THE SPECIFICATIONS In",
+      "bbox": [
+        197,
+        334,
+        527,
+        355
+      ],
+      "confidence": 0.3146595283558128
+    },
+    {
+      "text": "This DOCUMENT",
+      "bbox": [
+        531,
+        333,
+        619,
+        349
+      ],
+      "confidence": 0.4993905505412988
+    },
+    {
+      "text": "SECILQN IQ SHOULD BE COHPLETED",
+      "bbox": [
+        157,
+        365,
+        367,
+        381
+      ],
+      "confidence": 0.37408395990540777
+    },
+    {
+      "text": "By THE RESEARCH AGENCY AND RETURNED BY",
+      "bbox": [
+        371,
+        361,
+        627,
+        379
+      ],
+      "confidence": 0.4417983566159709
+    },
+    {
+      "text": "FAX To THE FOLLOWING PERSON=",
+      "bbox": [
+        157,
+        377,
+        343,
+        395
+      ],
+      "confidence": 0.6290615237230573
+    },
+    {
+      "text": "JACKIE KEY",
+      "bbox": [
+        391,
+        403,
+        461,
+        419
+      ],
+      "confidence": 0.9978125057731448
+    },
+    {
+      "text": "Bew",
+      "bbox": [
+        365,
+        417,
+        389,
+        431
+      ],
+      "confidence": 0.41665227963681745
+    },
+    {
+      "text": "LOUI SYILLE_",
+      "bbox": [
+        365,
+        429,
+        435,
+        445
+      ],
+      "confidence": 0.6990817299668375
+    },
+    {
+      "text": "KENTUCKY",
+      "bbox": [
+        443,
+        429,
+        501,
+        445
+      ],
+      "confidence": 0.8296958344969904
+    },
+    {
+      "text": "U.S.A",
+      "bbox": [
+        365,
+        443,
+        401,
+        459
+      ],
+      "confidence": 0.8848886002105882
+    },
+    {
+      "text": "FAX MUHBER:",
+      "bbox": [
+        365,
+        469,
+        441,
+        485
+      ],
+      "confidence": 0.5329650206106689
+    },
+    {
+      "text": "1-502-568-8092",
+      "bbox": [
+        451,
+        467,
+        549,
+        483
+      ],
+      "confidence": 0.9992834037913764
+    },
+    {
+      "text": "In ORDER",
+      "bbox": [
+        159,
+        499,
+        215,
+        513
+      ],
+      "confidence": 0.5505165805732004
+    },
+    {
+      "text": "To ALLOW US To COHPARE BIOS_",
+      "bbox": [
+        219,
+        497,
+        403,
+        513
+      ],
+      "confidence": 0.32150544623563476
+    },
+    {
+      "text": "WE REQUEST",
+      "bbox": [
+        411,
+        495,
+        481,
+        511
+      ],
+      "confidence": 0.8465112879928518
+    },
+    {
+      "text": "THAT YOU SUBMIT",
+      "bbox": [
+        485,
+        493,
+        589,
+        509
+      ],
+      "confidence": 0.6044987489650847
+    },
+    {
+      "text": "BID",
+      "bbox": [
+        605,
+        493,
+        629,
+        507
+      ],
+      "confidence": 0.9994364091363127
+    },
+    {
+      "text": "FOR THE RESEARCH AS",
+      "bbox": [
+        159,
+        511,
+        289,
+        527
+      ],
+      "confidence": 0.7046117366414499
+    },
+    {
+      "text": "SPECIFIED IN SECTION ONE",
+      "bbox": [
+        293,
+        509,
+        455,
+        525
+      ],
+      "confidence": 0.6234516847012668
+    },
+    {
+      "text": "SUGGESTIONS FCR ALTERNATE",
+      "bbox": [
+        159,
+        537,
+        329,
+        553
+      ],
+      "confidence": 0.9833393428842993
+    },
+    {
+      "text": "DESIGNS",
+      "bbox": [
+        333,
+        537,
+        383,
+        551
+      ],
+      "confidence": 0.9904009994139952
+    },
+    {
+      "text": "FROH",
+      "bbox": [
+        387,
+        537,
+        417,
+        551
+      ],
+      "confidence": 0.7816234230995178
+    },
+    {
+      "text": "AGENCY ARE WELCOHED",
+      "bbox": [
+        445,
+        533,
+        575,
+        549
+      ],
+      "confidence": 0.5637805710452363
+    },
+    {
+      "text": "HOHEVER,",
+      "bbox": [
+        591,
+        533,
+        647,
+        549
+      ],
+      "confidence": 0.6055100669264512
+    },
+    {
+      "text": "THESE  SHOULD BE  SUBHITTED AS SEPARATE",
+      "bbox": [
+        159,
+        549,
+        409,
+        567
+      ],
+      "confidence": 0.4746306466212965
+    },
+    {
+      "text": "DOCUMENTS APPENDED TO THIS BID",
+      "bbox": [
+        413,
+        545,
+        615,
+        563
+      ],
+      "confidence": 0.4790577097915424
+    },
+    {
+      "text": "FORH_",
+      "bbox": [
+        159,
+        567,
+        191,
+        581
+      ],
+      "confidence": 0.631635658554097
+    },
+    {
+      "text": "IF YCU HAVE ANY QUESTIONS_",
+      "bbox": [
+        159,
+        591,
+        331,
+        607
+      ],
+      "confidence": 0.48510305147811555
+    },
+    {
+      "text": "PLEASE contacT THE FOLLOWING PERSON:",
+      "bbox": [
+        341,
+        587,
+        581,
+        605
+      ],
+      "confidence": 0.5753616202785611
+    },
+    {
+      "text": "Marx D",
+      "bbox": [
+        173,
+        631,
+        223,
+        647
+      ],
+      "confidence": 0.796660607893937
+    },
+    {
+      "text": "Dax is",
+      "bbox": [
+        227,
+        631,
+        265,
+        645
+      ],
+      "confidence": 0.5974213284868842
+    },
+    {
+      "text": "FAX NUMBER:",
+      "bbox": [
+        159,
+        657,
+        237,
+        673
+      ],
+      "confidence": 0.9247625851989909
+    },
+    {
+      "text": "1502-568-8092",
+      "bbox": [
+        247,
+        657,
+        345,
+        673
+      ],
+      "confidence": 0.9547930880356085
+    },
+    {
+      "text": "DATE REQUESTED:",
+      "bbox": [
+        119,
+        723,
+        225,
+        739
+      ],
+      "confidence": 0.7262911956580159
+    },
+    {
+      "text": "DEADLINE FOR BID RECEIPT:",
+      "bbox": [
+        119,
+        743,
+        291,
+        759
+      ],
+      "confidence": 0.7035615210280722
+    },
+    {
+      "text": "464565018",
+      "bbox": [
+        506,
+        836,
+        620,
+        860
+      ],
+      "confidence": 0.9993450761294709
+    },
+    {
+      "text": "IHE",
+      "bbox": [
+        417,
+        534,
+        441,
+        551
+      ],
+      "confidence": 0.3377578086859846
+    }
+  ]
+}

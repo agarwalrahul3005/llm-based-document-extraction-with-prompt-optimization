@@ -1,0 +1,294 @@
+{
+  "words": [
+    {
+      "text": "Te",
+      "bbox": [
+        37,
+        13,
+        74,
+        35
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "AMERICAN",
+      "bbox": [
+        33,
+        31,
+        141,
+        63
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "APPROVED",
+      "bbox": [
+        356,
+        40,
+        460,
+        53
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "MARKETING",
+      "bbox": [
+        472,
+        39,
+        584,
+        53
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        596,
+        39,
+        684,
+        53
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "TOBACCO",
+      "bbox": [
+        37,
+        59,
+        128,
+        72
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "EXPENSE",
+      "bbox": [
+        378,
+        58,
+        466,
+        72
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "RECOMMENDATION",
+      "bbox": [
+        477,
+        58,
+        662,
+        72
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "COMPANY",
+      "bbox": [
+        38,
+        77,
+        131,
+        90
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "BRANDS",
+      "bbox": [
+        158,
+        189,
+        218,
+        199
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Private",
+      "bbox": [
+        151,
+        208,
+        194,
+        219
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Stock",
+      "bbox": [
+        199,
+        208,
+        233,
+        219
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Cortton",
+      "bbox": [
+        169,
+        219,
+        216,
+        251
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "___",
+      "bbox": [
+        527,
+        241,
+        557,
+        242
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "$0.00",
+      "bbox": [
+        600,
+        226,
+        632,
+        241
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Offer",
+      "bbox": [
+        89,
+        317,
+        122,
+        326
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Description",
+      "bbox": [
+        128,
+        317,
+        205,
+        329
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Charge",
+      "bbox": [
+        397,
+        317,
+        445,
+        329
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Cade",
+      "bbox": [
+        453,
+        316,
+        489,
+        326
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "Amount",
+      "bbox": [
+        586,
+        317,
+        637,
+        326
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Displays.",
+      "bbox": [
+        158,
+        342,
+        213,
+        363
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "GAR-MMT\u2014DSP_",
+      "bbox": [
+        351,
+        341,
+        452,
+        363
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "32,000.00.",
+      "bbox": [
+        578,
+        345,
+        633,
+        355
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        183,
+        371,
+        187,
+        375
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "PRV-MMT-OSP",
+      "bbox": [
+        352,
+        366,
+        448,
+        388
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "{31,000.00}",
+      "bbox": [
+        574,
+        369,
+        636,
+        382
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "ce",
+      "bbox": [
+        452,
+        785,
+        469,
+        801
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "ADR",
+      "bbox": [
+        476,
+        784,
+        542,
+        798
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "Cee",
+      "bbox": [
+        43,
+        807,
+        415,
+        840
+      ],
+      "confidence": 35.0
+    }
+  ]
+}

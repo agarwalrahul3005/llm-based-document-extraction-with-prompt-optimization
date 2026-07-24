@@ -1,0 +1,464 @@
+{
+  "words": [
+    {
+      "text": "To:",
+      "bbox": [
+        39,
+        113,
+        63,
+        127
+      ],
+      "confidence": 0.47675492919538975
+    },
+    {
+      "text": "Sparrow",
+      "bbox": [
+        220,
+        112,
+        269,
+        130
+      ],
+      "confidence": 0.640585879821399
+    },
+    {
+      "text": "SUBMISEIQN DATE",
+      "bbox": [
+        529,
+        113,
+        645,
+        129
+      ],
+      "confidence": 0.47961932204153784
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        39,
+        147,
+        81,
+        161
+      ],
+      "confidence": 0.9845675123193748
+    },
+    {
+      "text": "Landro",
+      "bbox": [
+        221,
+        147,
+        261,
+        161
+      ],
+      "confidence": 0.7422170211306799
+    },
+    {
+      "text": "MAY 12|",
+      "bbox": [
+        431,
+        145,
+        481,
+        161
+      ],
+      "confidence": 0.3331732308726842
+    },
+    {
+      "text": "AUG",
+      "bbox": [
+        553,
+        147,
+        583,
+        161
+      ],
+      "confidence": 0.9999209887265065
+    },
+    {
+      "text": "JUN 23x",
+      "bbox": [
+        433,
+        179,
+        491,
+        197
+      ],
+      "confidence": 0.35813494500872706
+    },
+    {
+      "text": "SEP 15",
+      "bbox": [
+        547,
+        181,
+        591,
+        195
+      ],
+      "confidence": 0.9037503347882854
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        37,
+        213,
+        99,
+        227
+      ],
+      "confidence": 0.9903837218690489
+    },
+    {
+      "text": "ULIRALIGHTS 1008",
+      "bbox": [
+        375,
+        213,
+        497,
+        229
+      ],
+      "confidence": 0.4128098540252336
+    },
+    {
+      "text": "PROGRESS REPORI",
+      "bbox": [
+        503,
+        213,
+        629,
+        229
+      ],
+      "confidence": 0.6330179422586732
+    },
+    {
+      "text": "GEOGRAP",
+      "bbox": [
+        161,
+        263,
+        225,
+        277
+      ],
+      "confidence": 0.9985286785647376
+    },
+    {
+      "text": "REGION:",
+      "bbox": [
+        37,
+        297,
+        93,
+        313
+      ],
+      "confidence": 0.979770271558629
+    },
+    {
+      "text": "(ONLY IF PARTIAL REGION CONTINUE WITH DIVISION(S} SCOPE)",
+      "bbox": [
+        37,
+        331,
+        415,
+        347
+      ],
+      "confidence": 0.735787412107857
+    },
+    {
+      "text": "DIVISION:",
+      "bbox": [
+        37,
+        365,
+        97,
+        379
+      ],
+      "confidence": 0.8370900310129319
+    },
+    {
+      "text": "DIVISION NAME:",
+      "bbox": [
+        55,
+        397,
+        151,
+        413
+      ],
+      "confidence": 0.7681414063752461
+    },
+    {
+      "text": "Milw South",
+      "bbox": [
+        191,
+        397,
+        269,
+        413
+      ],
+      "confidence": 0.520554006999373
+    },
+    {
+      "text": "DIVISION NAME:",
+      "bbox": [
+        277,
+        399,
+        373,
+        413
+      ],
+      "confidence": 0.9663461578608563
+    },
+    {
+      "text": "REP",
+      "bbox": [
+        487,
+        399,
+        515,
+        413
+      ],
+      "confidence": 0.9993677267757858
+    },
+    {
+      "text": "DIVISION NAME:",
+      "bbox": [
+        54,
+        429,
+        151,
+        447
+      ],
+      "confidence": 0.9984880429918819
+    },
+    {
+      "text": "Milw.",
+      "bbox": [
+        191,
+        431,
+        225,
+        445
+      ],
+      "confidence": 0.9204921154672404
+    },
+    {
+      "text": "North",
+      "bbox": [
+        229,
+        431,
+        267,
+        445
+      ],
+      "confidence": 0.9915946520319768
+    },
+    {
+      "text": "DIVISION NAME:",
+      "bbox": [
+        277,
+        431,
+        373,
+        447
+      ],
+      "confidence": 0.9817593170373626
+    },
+    {
+      "text": "DIVISION NAME:",
+      "bbox": [
+        55,
+        465,
+        151,
+        479
+      ],
+      "confidence": 0.9938207911129088
+    },
+    {
+      "text": "DIVISION NAME:",
+      "bbox": [
+        277,
+        465,
+        373,
+        479
+      ],
+      "confidence": 0.9959612975095667
+    },
+    {
+      "text": "REPS",
+      "bbox": [
+        487,
+        465,
+        523,
+        479
+      ],
+      "confidence": 0.9984582662582397
+    },
+    {
+      "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION",
+      "bbox": [
+        65,
+        545,
+        573,
+        565
+      ],
+      "confidence": 0.708454090172486
+    },
+    {
+      "text": "(15",
+      "bbox": [
+        35,
+        563,
+        63,
+        583
+      ],
+      "confidence": 0.9999205757777969
+    },
+    {
+      "text": "STORES) STOCKING NO OLD GOLD MENTHOL LIGHTS OR ULTRA LIGHTS 100'S",
+      "bbox": [
+        73,
+        563,
+        619,
+        583
+      ],
+      "confidence": 0.8545984148776248
+    },
+    {
+      "text": "INDILOR",
+      "bbox": [
+        207,
+        615,
+        259,
+        631
+      ],
+      "confidence": 0.8895719615162412
+    },
+    {
+      "text": "NO:",
+      "bbox": [
+        299,
+        617,
+        323,
+        631
+      ],
+      "confidence": 0.7970534260899828
+    },
+    {
+      "text": "INDILOR",
+      "bbox": [
+        531,
+        615,
+        583,
+        633
+      ],
+      "confidence": 0.9931974002737244
+    },
+    {
+      "text": "No. OF",
+      "bbox": [
+        623,
+        615,
+        673,
+        633
+      ],
+      "confidence": 0.5329092389946619
+    },
+    {
+      "text": "NAME @FACCQUNT",
+      "bbox": [
+        53,
+        635,
+        173,
+        651
+      ],
+      "confidence": 0.824813983126119
+    },
+    {
+      "text": "VOLUME",
+      "bbox": [
+        207,
+        633,
+        261,
+        649
+      ],
+      "confidence": 0.9582153123031486
+    },
+    {
+      "text": "STORES",
+      "bbox": [
+        297,
+        633,
+        351,
+        649
+      ],
+      "confidence": 0.997027351246391
+    },
+    {
+      "text": "NAME OF ACCOUNT",
+      "bbox": [
+        381,
+        635,
+        501,
+        649
+      ],
+      "confidence": 0.9661083021623955
+    },
+    {
+      "text": "VOLUME",
+      "bbox": [
+        529,
+        633,
+        583,
+        649
+      ],
+      "confidence": 0.9981944288743955
+    },
+    {
+      "text": "SIORES",
+      "bbox": [
+        621,
+        633,
+        675,
+        651
+      ],
+      "confidence": 0.797688489496854
+    },
+    {
+      "text": "Walgreen_",
+      "bbox": [
+        36,
+        652,
+        93,
+        670
+      ],
+      "confidence": 0.840451171851852
+    },
+    {
+      "text": "144/14",
+      "bbox": [
+        191,
+        653,
+        231,
+        667
+      ],
+      "confidence": 0.9959449200934849
+    },
+    {
+      "text": "Page1",
+      "bbox": [
+        551,
+        917,
+        595,
+        933
+      ],
+      "confidence": 0.9968135274982278
+    },
+    {
+      "text": "of 3 Pages",
+      "bbox": [
+        601,
+        917,
+        671,
+        933
+      ],
+      "confidence": 0.9958277206737531
+    },
+    {
+      "text": "REP",
+      "bbox": [
+        485,
+        430,
+        515,
+        446
+      ],
+      "confidence": 0.9981441443800338
+    },
+    {
+      "text": "Drug",
+      "bbox": [
+        92,
+        652,
+        124,
+        668
+      ],
+      "confidence": 0.9665026068687439
+    }
+  ]
+}

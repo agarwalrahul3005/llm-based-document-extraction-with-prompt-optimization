@@ -1,0 +1,534 @@
+{
+  "words": [
+    {
+      "text": "frate:",
+      "bbox": [
+        58,
+        188,
+        106,
+        205
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "Type",
+      "bbox": [
+        59,
+        251,
+        91,
+        262
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        102,
+        248,
+        118,
+        258
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Events",
+      "bbox": [
+        129,
+        246,
+        176,
+        257
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Beauty",
+      "bbox": [
+        244,
+        233,
+        350,
+        266
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Contest",
+      "bbox": [
+        357,
+        233,
+        421,
+        266
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Estimated",
+      "bbox": [
+        62,
+        389,
+        139,
+        401
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Attendance:",
+      "bbox": [
+        150,
+        387,
+        241,
+        398
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        253,
+        398,
+        270,
+        399
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Dates:",
+      "bbox": [
+        423,
+        384,
+        471,
+        394
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "March",
+      "bbox": [
+        493,
+        381,
+        534,
+        390
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "3rd,",
+      "bbox": [
+        545,
+        380,
+        574,
+        391
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "ath",
+      "bbox": [
+        587,
+        380,
+        610,
+        389
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        620,
+        381,
+        626,
+        389
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Sth,",
+      "bbox": [
+        637,
+        379,
+        667,
+        390
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Nane",
+      "bbox": [
+        64,
+        449,
+        97,
+        458
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        108,
+        446,
+        123,
+        457
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Event:",
+      "bbox": [
+        134,
+        445,
+        181,
+        455
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Beauty",
+      "bbox": [
+        419,
+        439,
+        467,
+        449
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Pageant",
+      "bbox": [
+        477,
+        437,
+        535,
+        449
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Contact",
+      "bbox": [
+        66,
+        531,
+        125,
+        543
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "_Ms.",
+      "bbox": [
+        303,
+        527,
+        325,
+        536
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Joy",
+      "bbox": [
+        336,
+        527,
+        360,
+        540
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Weathers",
+      "bbox": [
+        369,
+        524,
+        616,
+        539
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "(Sales)",
+      "bbox": [
+        444,
+        517,
+        505,
+        547
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Audience",
+      "bbox": [
+        68,
+        588,
+        136,
+        599
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "White",
+      "bbox": [
+        336,
+        582,
+        378,
+        592
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        388,
+        586,
+        393,
+        588
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "108",
+      "bbox": [
+        404,
+        582,
+        427,
+        591
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Black",
+      "bbox": [
+        439,
+        573,
+        484,
+        603
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "category",
+      "bbox": [
+        335,
+        605,
+        403,
+        635
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "yes:",
+      "bbox": [
+        435,
+        605,
+        471,
+        635
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        480,
+        605,
+        498,
+        635
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "45",
+      "bbox": [
+        505,
+        605,
+        521,
+        635
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Reconmended",
+      "bbox": [
+        71,
+        700,
+        165,
+        712
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Brand(s)",
+      "bbox": [
+        175,
+        696,
+        241,
+        709
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        253,
+        696,
+        277,
+        706
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Promotional",
+      "bbox": [
+        287,
+        696,
+        378,
+        706
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Activity:",
+      "bbox": [
+        389,
+        694,
+        462,
+        707
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "BARCLAY",
+      "bbox": [
+        506,
+        695,
+        563,
+        704
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "sampling",
+      "bbox": [
+        574,
+        694,
+        639,
+        706
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "12M",
+      "bbox": [
+        206,
+        727,
+        229,
+        736
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "cases",
+      "bbox": [
+        239,
+        728,
+        280,
+        735
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "mixed.",
+      "bbox": [
+        289,
+        725,
+        336,
+        734
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        71,
+        771,
+        83,
+        772
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "To",
+      "bbox": [
+        171,
+        756,
+        187,
+        765
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        196,
+        755,
+        212,
+        764
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "placed",
+      "bbox": [
+        222,
+        753,
+        272,
+        767
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        281,
+        756,
+        297,
+        762
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "tables",
+      "bbox": [
+        307,
+        753,
+        354,
+        762
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        364,
+        752,
+        380,
+        765
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Reps.",
+      "bbox": [
+        439,
+        752,
+        478,
+        761
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "466603840",
+      "bbox": [
+        545,
+        844,
+        653,
+        860
+      ],
+      "confidence": 93.0
+    }
+  ]
+}

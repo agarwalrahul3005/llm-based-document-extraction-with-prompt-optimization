@@ -1,0 +1,434 @@
+{
+  "words": [
+    {
+      "text": "FEB 25",
+      "bbox": [
+        109,
+        83,
+        151,
+        97
+      ],
+      "confidence": 0.796016064873448
+    },
+    {
+      "text": "'58 10;23 FR",
+      "bbox": [
+        155,
+        83,
+        233,
+        97
+      ],
+      "confidence": 0.5445795643301562
+    },
+    {
+      "text": "FAX TRANSMISSION",
+      "bbox": [
+        98,
+        124,
+        319,
+        148
+      ],
+      "confidence": 0.9605581308453058
+    },
+    {
+      "text": "DICKSTENN",
+      "bbox": [
+        514,
+        140,
+        598,
+        164
+      ],
+      "confidence": 0.8965806997371524
+    },
+    {
+      "text": "SHApiRO",
+      "bbox": [
+        514,
+        158,
+        596,
+        184
+      ],
+      "confidence": 0.6001175858083881
+    },
+    {
+      "text": "MORIV&",
+      "bbox": [
+        517,
+        179,
+        597,
+        199
+      ],
+      "confidence": 0.4849414442304621
+    },
+    {
+      "text": "OSHINSKY",
+      "bbox": [
+        516,
+        196,
+        596,
+        226
+      ],
+      "confidence": 0.48482483387909836
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        101,
+        243,
+        139,
+        259
+      ],
+      "confidence": 0.9968743792074781
+    },
+    {
+      "text": "Fcbruarz 25,1998",
+      "bbox": [
+        188,
+        240,
+        299,
+        259
+      ],
+      "confidence": 0.7188559744288462
+    },
+    {
+      "text": "CLIENT NO:;",
+      "bbox": [
+        101,
+        271,
+        173,
+        285
+      ],
+      "confidence": 0.4599054002729455
+    },
+    {
+      "text": "L8557.002",
+      "bbox": [
+        187,
+        269,
+        257,
+        285
+      ],
+      "confidence": 0.7294558700463526
+    },
+    {
+      "text": "MESSAGE TO: Ronald",
+      "bbox": [
+        101,
+        302,
+        233,
+        321
+      ],
+      "confidence": 0.6655352757081359
+    },
+    {
+      "text": "Milstcin",
+      "bbox": [
+        247,
+        305,
+        297,
+        319
+      ],
+      "confidence": 0.3680967690906387
+    },
+    {
+      "text": "COMPANY:",
+      "bbox": [
+        101,
+        333,
+        165,
+        347
+      ],
+      "confidence": 0.926822788501288
+    },
+    {
+      "text": "Lorlard Tobacco Company",
+      "bbox": [
+        187,
+        331,
+        353,
+        347
+      ],
+      "confidence": 0.6950304538635056
+    },
+    {
+      "text": "FAX NUMBER: 910/335-7707",
+      "bbox": [
+        101,
+        359,
+        279,
+        375
+      ],
+      "confidence": 0.49023658587261953
+    },
+    {
+      "text": "PHONE:",
+      "bbox": [
+        101,
+        387,
+        149,
+        403
+      ],
+      "confidence": 0.9956750504303187
+    },
+    {
+      "text": "910/335-7718",
+      "bbox": [
+        186,
+        384,
+        281,
+        404
+      ],
+      "confidence": 0.9795184177390857
+    },
+    {
+      "text": "FROM;",
+      "bbox": [
+        101,
+        421,
+        141,
+        437
+      ],
+      "confidence": 0.9804794179519336
+    },
+    {
+      "text": "Andy Zausner_",
+      "bbox": [
+        189,
+        421,
+        273,
+        437
+      ],
+      "confidence": 0.763327599481393
+    },
+    {
+      "text": "PHONE:",
+      "bbox": [
+        101,
+        449,
+        149,
+        463
+      ],
+      "confidence": 0.9366993854282778
+    },
+    {
+      "text": "202/828-2259",
+      "bbox": [
+        189,
+        447,
+        281,
+        465
+      ],
+      "confidence": 0.9678827012516578
+    },
+    {
+      "text": "PAGES (Including Cover Sheet):",
+      "bbox": [
+        101,
+        475,
+        277,
+        491
+      ],
+      "confidence": 0.4040333384555447
+    },
+    {
+      "text": "HARD COPY TO FOLLOW:",
+      "bbox": [
+        317,
+        475,
+        461,
+        491
+      ],
+      "confidence": 0.5458092126694507
+    },
+    {
+      "text": "YES",
+      "bbox": [
+        497,
+        475,
+        523,
+        489
+      ],
+      "confidence": 0.9911547790502342
+    },
+    {
+      "text": "NO",
+      "bbox": [
+        579,
+        475,
+        601,
+        489
+      ],
+      "confidence": 0.4686562065313298
+    },
+    {
+      "text": "MESSAGE;",
+      "bbox": [
+        101,
+        497,
+        165,
+        513
+      ],
+      "confidence": 0.8936219389121586
+    },
+    {
+      "text": "Scc attached @x fom thc Committce on Comnierce just received in my",
+      "bbox": [
+        169,
+        499,
+        577,
+        517
+      ],
+      "confidence": 0.41637926887322946
+    },
+    {
+      "text": "ofticc_",
+      "bbox": [
+        169,
+        517,
+        203,
+        533
+      ],
+      "confidence": 0.7647235571601974
+    },
+    {
+      "text": "Call me to discuss",
+      "bbox": [
+        211,
+        515,
+        317,
+        534
+      ],
+      "confidence": 0.6688107628251505
+    },
+    {
+      "text": "Ifyour rercipt of this rransmission is in crTOr; pleasc notify this fin immediatcly by",
+      "bbox": [
+        169,
+        715,
+        603,
+        731
+      ],
+      "confidence": 0.32426837103161027
+    },
+    {
+      "text": "collcct call",
+      "bbox": [
+        169,
+        729,
+        227,
+        745
+      ],
+      "confidence": 0.3869979855157512
+    },
+    {
+      "text": "Facsimile Department ar 202-861-9106_",
+      "bbox": [
+        263,
+        728,
+        473,
+        746
+      ],
+      "confidence": 0.6902276024253781
+    },
+    {
+      "text": "and scrd thc original",
+      "bbox": [
+        475,
+        731,
+        589,
+        745
+      ],
+      "confidence": 0.491514697815482
+    },
+    {
+      "text": "Tis [nnsmission",
+      "bbox": [
+        169,
+        771,
+        245,
+        783
+      ],
+      "confidence": 0.5875266332879667
+    },
+    {
+      "text": "You arc",
+      "bbox": [
+        193,
+        795,
+        227,
+        807
+      ],
+      "confidence": 0.6065494049087279
+    },
+    {
+      "text": "hocby notlicd Lbat ay disscminalion, distbuton",
+      "bbox": [
+        229,
+        795,
+        449,
+        809
+      ],
+      "confidence": 0.31724205834500246
+    },
+    {
+      "text": "duplicaton of this Dansmission hy",
+      "bbox": [
+        461,
+        795,
+        613,
+        809
+      ],
+      "confidence": 0.3257970003858602
+    },
+    {
+      "text": "2101",
+      "bbox": [
+        159,
+        933,
+        187,
+        945
+      ],
+      "confidence": 0.8417246186162316
+    },
+    {
+      "text": "Sbeet NW",
+      "bbox": [
+        193,
+        933,
+        245,
+        947
+      ],
+      "confidence": 0.8330345389579101
+    },
+    {
+      "text": "Washington: DC 25037-1528",
+      "bbox": [
+        249,
+        933,
+        385,
+        947
+      ],
+      "confidence": 0.6332834767986335
+    },
+    {
+      "text": "Tel 202-785-9700",
+      "bbox": [
+        391,
+        933,
+        475,
+        947
+      ],
+      "confidence": 0.5325392631988063
+    },
+    {
+      "text": "Fax 202-887-0688",
+      "bbox": [
+        481,
+        933,
+        567,
+        947
+      ],
+      "confidence": 0.716183614929385
+    }
+  ]
+}

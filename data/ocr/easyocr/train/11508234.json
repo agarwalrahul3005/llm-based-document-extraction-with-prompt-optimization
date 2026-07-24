@@ -1,0 +1,954 @@
+{
+  "words": [
+    {
+      "text": "MERKETIG RESEARCHAUIHQRL",
+      "bbox": [
+        219,
+        29,
+        459,
+        45
+      ],
+      "confidence": 0.3446303150422354
+    },
+    {
+      "text": "TON",
+      "bbox": [
+        471,
+        29,
+        511,
+        47
+      ],
+      "confidence": 0.4158208789728139
+    },
+    {
+      "text": "(DOMESTIC)",
+      "bbox": [
+        321,
+        45,
+        409,
+        61
+      ],
+      "confidence": 0.9416619994041784
+    },
+    {
+      "text": "(Recommended Proposal Attached)",
+      "bbox": [
+        259,
+        63,
+        469,
+        79
+      ],
+      "confidence": 0.6315999349179784
+    },
+    {
+      "text": "Date;",
+      "bbox": [
+        77,
+        79,
+        111,
+        93
+      ],
+      "confidence": 0.8458162082347386
+    },
+    {
+      "text": "March",
+      "bbox": [
+        179,
+        81,
+        217,
+        93
+      ],
+      "confidence": 0.6673651326435348
+    },
+    {
+      "text": "995",
+      "bbox": [
+        233,
+        81,
+        257,
+        93
+      ],
+      "confidence": 0.9801374310422669
+    },
+    {
+      "text": "995-48D",
+      "bbox": [
+        571,
+        81,
+        621,
+        93
+      ],
+      "confidence": 0.9845428037354856
+    },
+    {
+      "text": "Description:",
+      "bbox": [
+        76,
+        94,
+        147,
+        112
+      ],
+      "confidence": 0.9242743363294819
+    },
+    {
+      "text": "LUCKY STRIKE QUALITATIVF ADVERTISING RESEARCH",
+      "bbox": [
+        179,
+        94,
+        517,
+        109
+      ],
+      "confidence": 0.6486197536499246
+    },
+    {
+      "text": "GATEWAY",
+      "bbox": [
+        523,
+        95,
+        591,
+        109
+      ],
+      "confidence": 0.9997011683789344
+    },
+    {
+      "text": "CITIES",
+      "bbox": [
+        179,
+        109,
+        223,
+        125
+      ],
+      "confidence": 0.9638890209680073
+    },
+    {
+      "text": "Requested bxa",
+      "bbox": [
+        77,
+        125,
+        157,
+        141
+      ],
+      "confidence": 0.328026259124168
+    },
+    {
+      "text": "Strobel",
+      "bbox": [
+        209,
+        125,
+        247,
+        139
+      ],
+      "confidence": 0.9752347621365295
+    },
+    {
+      "text": "Research RegAutachedi",
+      "bbox": [
+        303,
+        127,
+        439,
+        141
+      ],
+      "confidence": 0.7585703525151412
+    },
+    {
+      "text": "Yes_",
+      "bbox": [
+        477,
+        127,
+        499,
+        141
+      ],
+      "confidence": 0.4470488429069519
+    },
+    {
+      "text": "Budgctcdi",
+      "bbox": [
+        303,
+        143,
+        361,
+        157
+      ],
+      "confidence": 0.6739840822632801
+    },
+    {
+      "text": "Qrigina",
+      "bbox": [
+        283,
+        159,
+        327,
+        173
+      ],
+      "confidence": 0.9781202545025937
+    },
+    {
+      "text": "Budgeted Amount:",
+      "bbox": [
+        331,
+        159,
+        433,
+        173
+      ],
+      "confidence": 0.9000039863804694
+    },
+    {
+      "text": "Competitive Proposals Obtained; Only two bidders because third supplier has not yet signed Bew",
+      "bbox": [
+        79,
+        172,
+        599,
+        191
+      ],
+      "confidence": 0.5232100589523418
+    },
+    {
+      "text": "contract",
+      "bbox": [
+        77,
+        191,
+        127,
+        203
+      ],
+      "confidence": 0.9784755077514031
+    },
+    {
+      "text": "Cost per",
+      "bbox": [
+        579,
+        205,
+        629,
+        221
+      ],
+      "confidence": 0.999694921833345
+    },
+    {
+      "text": "Supplier_",
+      "bbox": [
+        161,
+        219,
+        211,
+        237
+      ],
+      "confidence": 0.7886548029088627
+    },
+    {
+      "text": "Cost_",
+      "bbox": [
+        325,
+        219,
+        353,
+        235
+      ],
+      "confidence": 0.6362348772106006
+    },
+    {
+      "text": "Est_ITravel",
+      "bbox": [
+        403,
+        219,
+        465,
+        235
+      ],
+      "confidence": 0.4721208165218827
+    },
+    {
+      "text": "Total Cost_",
+      "bbox": [
+        491,
+        219,
+        551,
+        235
+      ],
+      "confidence": 0.5039236051698245
+    },
+    {
+      "text": "Intenview",
+      "bbox": [
+        575,
+        221,
+        631,
+        235
+      ],
+      "confidence": 0.6681287865360999
+    },
+    {
+      "text": "Anal ttic Insight",
+      "bbox": [
+        79,
+        237,
+        163,
+        251
+      ],
+      "confidence": 0.4145273120752061
+    },
+    {
+      "text": "27,00Q",
+      "bbox": [
+        319,
+        237,
+        359,
+        251
+      ],
+      "confidence": 0.3290596224836644
+    },
+    {
+      "text": "2500",
+      "bbox": [
+        413,
+        237,
+        447,
+        251
+      ],
+      "confidence": 0.8040127158164978
+    },
+    {
+      "text": "29500_",
+      "bbox": [
+        501,
+        235,
+        541,
+        251
+      ],
+      "confidence": 0.7781191787677714
+    },
+    {
+      "text": "Goldfarb Consultants",
+      "bbox": [
+        79,
+        251,
+        187,
+        267
+      ],
+      "confidence": 0.9084400928823476
+    },
+    {
+      "text": "2500",
+      "bbox": [
+        413,
+        251,
+        447,
+        267
+      ],
+      "confidence": 0.8688810467720032
+    },
+    {
+      "text": "3716_",
+      "bbox": [
+        501,
+        251,
+        541,
+        267
+      ],
+      "confidence": 0.5650625280641942
+    },
+    {
+      "text": "Projected:",
+      "bbox": [
+        77,
+        285,
+        137,
+        299
+      ],
+      "confidence": 0.8549996851652838
+    },
+    {
+      "text": "Summary",
+      "bbox": [
+        323,
+        285,
+        379,
+        299
+      ],
+      "confidence": 0.3833110345367437
+    },
+    {
+      "text": "OfMRD Budget",
+      "bbox": [
+        376,
+        281,
+        467,
+        301
+      ],
+      "confidence": 0.33751925710547515
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        539,
+        285,
+        567,
+        297
+      ],
+      "confidence": 0.9843171238899231
+    },
+    {
+      "text": "Unterna",
+      "bbox": [
+        80,
+        302,
+        118,
+        310
+      ],
+      "confidence": 0.4036937966321535
+    },
+    {
+      "text": "3/1/95",
+      "bbox": [
+        229,
+        299,
+        267,
+        313
+      ],
+      "confidence": 0.9399856737494605
+    },
+    {
+      "text": "Total Area",
+      "bbox": [
+        341,
+        301,
+        399,
+        315
+      ],
+      "confidence": 0.6660530167733437
+    },
+    {
+      "text": "Field Start",
+      "bbox": [
+        77,
+        331,
+        139,
+        347
+      ],
+      "confidence": 0.8725497336390071
+    },
+    {
+      "text": "Current Balance Available",
+      "bbox": [
+        323,
+        333,
+        467,
+        347
+      ],
+      "confidence": 0.7956698907896645
+    },
+    {
+      "text": "322095",
+      "bbox": [
+        227,
+        347,
+        269,
+        361
+      ],
+      "confidence": 0.7717254880845942
+    },
+    {
+      "text": "This Change:",
+      "bbox": [
+        393,
+        362,
+        467,
+        380
+      ],
+      "confidence": 0.8804724934123596
+    },
+    {
+      "text": "29,500",
+      "bbox": [
+        549,
+        363,
+        589,
+        377
+      ],
+      "confidence": 0.6060185383884071
+    },
+    {
+      "text": "(Erom Current Budget)",
+      "bbox": [
+        339,
+        378,
+        467,
+        396
+      ],
+      "confidence": 0.5782768567889022
+    },
+    {
+      "text": "Field Complete _",
+      "bbox": [
+        79,
+        394,
+        163,
+        412
+      ],
+      "confidence": 0.756048568192327
+    },
+    {
+      "text": "Wavels)",
+      "bbox": [
+        78,
+        410,
+        125,
+        427
+      ],
+      "confidence": 0.4907773645221119
+    },
+    {
+      "text": "32595",
+      "bbox": [
+        227,
+        411,
+        269,
+        425
+      ],
+      "confidence": 0.6178792771424022
+    },
+    {
+      "text": "Thisamount:",
+      "bbox": [
+        303,
+        411,
+        375,
+        425
+      ],
+      "confidence": 0.9680954200430703
+    },
+    {
+      "text": "Final Report Due",
+      "bbox": [
+        77,
+        459,
+        175,
+        475
+      ],
+      "confidence": 0.9781532002480103
+    },
+    {
+      "text": "New Balance=",
+      "bbox": [
+        391,
+        459,
+        463,
+        473
+      ],
+      "confidence": 0.7291176259302333
+    },
+    {
+      "text": "353,075",
+      "bbox": [
+        543,
+        457,
+        589,
+        473
+      ],
+      "confidence": 0.39359177210280755
+    },
+    {
+      "text": "(Supplier Rpt)",
+      "bbox": [
+        77,
+        475,
+        163,
+        491
+      ],
+      "confidence": 0.6613513579684221
+    },
+    {
+      "text": "Warefs)",
+      "bbox": [
+        79,
+        491,
+        123,
+        507
+      ],
+      "confidence": 0.45145560464195905
+    },
+    {
+      "text": "33195",
+      "bbox": [
+        227,
+        491,
+        269,
+        505
+      ],
+      "confidence": 0.8156101797599875
+    },
+    {
+      "text": "Committed",
+      "bbox": [
+        359,
+        491,
+        421,
+        505
+      ],
+      "confidence": 0.9999030407608539
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        435,
+        491,
+        463,
+        505
+      ],
+      "confidence": 0.9647321593108124
+    },
+    {
+      "text": "446.925",
+      "bbox": [
+        545,
+        489,
+        589,
+        505
+      ],
+      "confidence": 0.6116270651740228
+    },
+    {
+      "text": "(Current_",
+      "bbox": [
+        383,
+        507,
+        435,
+        521
+      ],
+      "confidence": 0.7476732021637281
+    },
+    {
+      "text": "Project Txpei",
+      "bbox": [
+        391,
+        539,
+        467,
+        553
+      ],
+      "confidence": 0.6236148510328912
+    },
+    {
+      "text": "Qualitative Rescarch",
+      "bbox": [
+        499,
+        537,
+        609,
+        553
+      ],
+      "confidence": 0.7986205794371272
+    },
+    {
+      "text": "Sample Sizei",
+      "bbox": [
+        79,
+        555,
+        151,
+        569
+      ],
+      "confidence": 0.5931584517764216
+    },
+    {
+      "text": "Recommended Supplier:",
+      "bbox": [
+        78,
+        568,
+        213,
+        587
+      ],
+      "confidence": 0.896548553482755
+    },
+    {
+      "text": "Analyuc Insight_Inc",
+      "bbox": [
+        305,
+        571,
+        409,
+        585
+      ],
+      "confidence": 0.46775071287686604
+    },
+    {
+      "text": "Reason(s) for Recommendation:",
+      "bbox": [
+        79,
+        586,
+        252,
+        601
+      ],
+      "confidence": 0.953502391216075
+    },
+    {
+      "text": "Lowest Bid",
+      "bbox": [
+        302,
+        584,
+        365,
+        601
+      ],
+      "confidence": 0.615860356953982
+    },
+    {
+      "text": "Submitted By:",
+      "bbox": [
+        79,
+        633,
+        159,
+        649
+      ],
+      "confidence": 0.7837929376680358
+    },
+    {
+      "text": "Ituk",
+      "bbox": [
+        308,
+        620,
+        372,
+        652
+      ],
+      "confidence": 0.41081066740796934
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        461,
+        633,
+        493,
+        647
+      ],
+      "confidence": 0.9930044887804707
+    },
+    {
+      "text": "Analys",
+      "bbox": [
+        201,
+        649,
+        239,
+        663
+      ],
+      "confidence": 0.5231388745180054
+    },
+    {
+      "text": "Approved By:",
+      "bbox": [
+        79,
+        663,
+        159,
+        679
+      ],
+      "confidence": 0.8186787082115942
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        461,
+        663,
+        493,
+        677
+      ],
+      "confidence": 0.6362267193689782
+    },
+    {
+      "text": "Approved By:",
+      "bbox": [
+        79,
+        693,
+        159,
+        709
+      ],
+      "confidence": 0.9987525806427733
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        461,
+        693,
+        493,
+        707
+      ],
+      "confidence": 0.9940896307366677
+    },
+    {
+      "text": "Approved By:",
+      "bbox": [
+        79,
+        723,
+        159,
+        739
+      ],
+      "confidence": 0.9313975764997102
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        461,
+        723,
+        493,
+        737
+      ],
+      "confidence": 0.9784097358505749
+    },
+    {
+      "text": "Senior VP Marketing (to $1,000,000)",
+      "bbox": [
+        203,
+        736,
+        395,
+        755
+      ],
+      "confidence": 0.6098224397844477
+    },
+    {
+      "text": "Budget Check:",
+      "bbox": [
+        78,
+        752,
+        163,
+        771
+      ],
+      "confidence": 0.9994666030552452
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        461,
+        753,
+        493,
+        767
+      ],
+      "confidence": 0.9726874272141606
+    },
+    {
+      "text": "Vicki Clark",
+      "bbox": [
+        203,
+        769,
+        265,
+        783
+      ],
+      "confidence": 0.8423284244419138
+    },
+    {
+      "text": "Project No::",
+      "bbox": [
+        460,
+        782,
+        529,
+        800
+      ],
+      "confidence": 0.7917137228445054
+    },
+    {
+      "text": "Acct Name",
+      "bbox": [
+        461,
+        799,
+        525,
+        813
+      ],
+      "confidence": 0.7255478549773035
+    },
+    {
+      "text": "Original:",
+      "bbox": [
+        79,
+        829,
+        127,
+        845
+      ],
+      "confidence": 0.9995091153716305
+    },
+    {
+      "text": "Projcct File",
+      "bbox": [
+        131,
+        829,
+        189,
+        843
+      ],
+      "confidence": 0.6508002365130762
+    },
+    {
+      "text": "H Williams",
+      "bbox": [
+        131,
+        843,
+        193,
+        855
+      ],
+      "confidence": 0.5828289925968501
+    },
+    {
+      "text": "466840246",
+      "bbox": [
+        529,
+        852,
+        648,
+        883
+      ],
+      "confidence": 0.9992650763547741
+    },
+    {
+      "text": "466840246",
+      "bbox": [
+        0,
+        953,
+        83,
+        967
+      ],
+      "confidence": 0.8470027846970386
+    },
+    {
+      "text": "PRODUCED",
+      "bbox": [
+        1,
+        969,
+        75,
+        985
+      ],
+      "confidence": 0.9984216023176107
+    },
+    {
+      "text": "EROM",
+      "bbox": [
+        79,
+        969,
+        119,
+        983
+      ],
+      "confidence": 0.5886592268943787
+    },
+    {
+      "text": "BEN",
+      "bbox": [
+        123,
+        969,
+        155,
+        983
+      ],
+      "confidence": 0.6316009188994887
+    },
+    {
+      "text": "WEB",
+      "bbox": [
+        159,
+        969,
+        189,
+        983
+      ],
+      "confidence": 0.509856641292572
+    },
+    {
+      "text": "SITE",
+      "bbox": [
+        195,
+        969,
+        233,
+        985
+      ],
+      "confidence": 0.9978209137916565
+    },
+    {
+      "text": "Year",
+      "bbox": [
+        432,
+        504,
+        461,
+        521
+      ],
+      "confidence": 0.3320096731185913
+    }
+  ]
+}

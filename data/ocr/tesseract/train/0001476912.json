@@ -1,0 +1,894 @@
+{
+  "words": [
+    {
+      "text": "MR",
+      "bbox": [
+        13,
+        45,
+        31,
+        53
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "1909",
+      "bbox": [
+        40,
+        43,
+        71,
+        53
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "(3-65)",
+      "bbox": [
+        83,
+        43,
+        126,
+        54
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        138,
+        43,
+        161,
+        53
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "BROWN",
+      "bbox": [
+        169,
+        68,
+        212,
+        78
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        219,
+        69,
+        227,
+        77
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "WILLIAMSON",
+      "bbox": [
+        234,
+        68,
+        316,
+        77
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "CORPORATION",
+      "bbox": [
+        385,
+        66,
+        472,
+        76
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "FILTER",
+      "bbox": [
+        276,
+        94,
+        323,
+        104
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "SCORES.",
+      "bbox": [
+        331,
+        94,
+        377,
+        104
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Brand:",
+      "bbox": [
+        22,
+        177,
+        69,
+        187
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "{BRTATR",
+      "bbox": [
+        181,
+        167,
+        238,
+        193
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "portion",
+      "bbox": [
+        246,
+        174,
+        302,
+        188
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "not",
+      "bbox": [
+        311,
+        175,
+        333,
+        184
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "tested)",
+      "bbox": [
+        343,
+        173,
+        394,
+        187
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "project",
+      "bbox": [
+        442,
+        173,
+        497,
+        185
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "#_",
+      "bbox": [
+        506,
+        172,
+        514,
+        183
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "1969-105",
+      "bbox": [
+        541,
+        173,
+        598,
+        184
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Commercial:",
+      "bbox": [
+        21,
+        203,
+        110,
+        213
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "LAKE",
+      "bbox": [
+        124,
+        205,
+        147,
+        216
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        157,
+        208,
+        164,
+        210
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "NEW",
+      "bbox": [
+        173,
+        204,
+        199,
+        215
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        206,
+        204,
+        239,
+        215
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": ":40",
+      "bbox": [
+        248,
+        202,
+        270,
+        212
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "{with",
+      "bbox": [
+        279,
+        195,
+        320,
+        220
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Sample:",
+      "bbox": [
+        442,
+        200,
+        495,
+        212
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "226.",
+      "bbox": [
+        551,
+        200,
+        573,
+        212
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "ton",
+      "bbox": [
+        374,
+        215,
+        397,
+        224
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "+20)",
+      "bbox": [
+        407,
+        211,
+        434,
+        224
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "PM\u00e9",
+      "bbox": [
+        444,
+        215,
+        467,
+        225
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Bases",
+      "bbox": [
+        476,
+        216,
+        514,
+        224
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "(234)",
+      "bbox": [
+        545,
+        213,
+        579,
+        224
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "code",
+      "bbox": [
+        22,
+        231,
+        55,
+        240
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Supplier:",
+      "bbox": [
+        23,
+        257,
+        94,
+        269
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "_AYDLENCE",
+      "bbox": [
+        116,
+        258,
+        182,
+        269
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "STUDIES",
+      "bbox": [
+        192,
+        257,
+        246,
+        269
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "DATES",
+      "bbox": [
+        324,
+        296,
+        364,
+        308
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        27,
+        341,
+        41,
+        350
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "Angetes:",
+      "bbox": [
+        51,
+        339,
+        114,
+        351
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "8/3",
+      "bbox": [
+        289,
+        335,
+        312,
+        349
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        321,
+        335,
+        344,
+        345
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "6",
+      "bbox": [
+        352,
+        335,
+        359,
+        344
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        20,
+        413,
+        22,
+        415
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        22,
+        469,
+        31,
+        471
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Overall",
+      "bbox": [
+        110,
+        468,
+        171,
+        489
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "1.7",
+      "bbox": [
+        267,
+        471,
+        290,
+        481
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "This",
+      "bbox": [
+        448,
+        469,
+        479,
+        479
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "commercial",
+      "bbox": [
+        489,
+        467,
+        569,
+        478
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "was",
+      "bbox": [
+        578,
+        470,
+        602,
+        476
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        236,
+        481,
+        319,
+        484
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        506,
+        482,
+        521,
+        492
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "color.",
+      "bbox": [
+        530,
+        482,
+        576,
+        491
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "grr",
+      "bbox": [
+        113,
+        500,
+        147,
+        508
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Tos",
+      "bbox": [
+        110,
+        514,
+        134,
+        523
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Angeles",
+      "bbox": [
+        143,
+        512,
+        201,
+        525
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "bo",
+      "bbox": [
+        267,
+        512,
+        290,
+        523
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        360,
+        508,
+        369,
+        513
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        36,
+        537,
+        38,
+        539
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "thicago",
+      "bbox": [
+        110,
+        521,
+        172,
+        542
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "3.3",
+      "bbox": [
+        267,
+        525,
+        290,
+        534
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        22,
+        577,
+        24,
+        579
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Fate",
+      "bbox": [
+        110,
+        565,
+        146,
+        599
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "9.0",
+      "bbox": [
+        267,
+        578,
+        291,
+        591
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Fenale",
+      "bbox": [
+        114,
+        578,
+        163,
+        612
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": ";",
+      "bbox": [
+        18,
+        639,
+        21,
+        641
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Ags",
+      "bbox": [
+        114,
+        634,
+        139,
+        642
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "4",
+      "bbox": [
+        13,
+        643,
+        20,
+        650
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "16-25",
+      "bbox": [
+        115,
+        646,
+        155,
+        656
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "0.0",
+      "bbox": [
+        268,
+        645,
+        292,
+        657
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "26-35",
+      "bbox": [
+        115,
+        660,
+        155,
+        669
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "36-45",
+      "bbox": [
+        115,
+        673,
+        155,
+        683
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "5",
+      "bbox": [
+        268,
+        672,
+        292,
+        681
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "46",
+      "bbox": [
+        114,
+        686,
+        130,
+        696
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        139,
+        687,
+        147,
+        696
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Over",
+      "bbox": [
+        155,
+        687,
+        188,
+        696
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "9.3",
+      "bbox": [
+        268,
+        685,
+        291,
+        694
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "35",
+      "bbox": [
+        115,
+        727,
+        130,
+        737
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        139,
+        728,
+        147,
+        736
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Under",
+      "bbox": [
+        155,
+        726,
+        197,
+        736
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "9.0",
+      "bbox": [
+        269,
+        725,
+        292,
+        735
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "36",
+      "bbox": [
+        115,
+        740,
+        130,
+        750
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        139,
+        741,
+        147,
+        749
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Over",
+      "bbox": [
+        155,
+        741,
+        189,
+        749
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "$20",
+      "bbox": [
+        269,
+        738,
+        292,
+        748
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        270,
+        776,
+        272,
+        779
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        16,
+        792,
+        37,
+        806
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "P",
+      "bbox": [
+        618,
+        785,
+        632,
+        812
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        399,
+        870,
+        401,
+        872
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "\u2018",
+      "bbox": [
+        673,
+        864,
+        680,
+        873
+      ],
+      "confidence": 56.0
+    }
+  ]
+}

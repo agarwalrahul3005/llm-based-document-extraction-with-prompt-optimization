@@ -1,0 +1,724 @@
+{
+  "words": [
+    {
+      "text": "INFORMATION",
+      "bbox": [
+        250,
+        132,
+        367,
+        145
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "SEARCH",
+      "bbox": [
+        374,
+        133,
+        435,
+        145
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SUMMARY",
+      "bbox": [
+        442,
+        133,
+        525,
+        145
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Valerian",
+      "bbox": [
+        118,
+        229,
+        173,
+        238
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Plaid",
+      "bbox": [
+        181,
+        229,
+        214,
+        238
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "eee",
+      "bbox": [
+        93,
+        266,
+        693,
+        293
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "II.",
+      "bbox": [
+        146,
+        313,
+        164,
+        321
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "mane",
+      "bbox": [
+        633,
+        308,
+        667,
+        314
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "1974-",
+      "bbox": [
+        627,
+        341,
+        661,
+        350
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Jan,",
+      "bbox": [
+        626,
+        355,
+        651,
+        364
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "1982",
+      "bbox": [
+        662,
+        355,
+        687,
+        364
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        243,
+        382,
+        256,
+        390
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        265,
+        382,
+        284,
+        391
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Toxic",
+      "bbox": [
+        292,
+        382,
+        325,
+        391
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Effects",
+      "bbox": [
+        334,
+        382,
+        381,
+        391
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        389,
+        382,
+        402,
+        391
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "chemicals",
+      "bbox": [
+        410,
+        382,
+        472,
+        391
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        627,
+        384,
+        639,
+        391
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Dec.",
+      "bbox": [
+        646,
+        383,
+        672,
+        392
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "1981",
+      "bbox": [
+        627,
+        396,
+        652,
+        405
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "4",
+      "bbox": [
+        273,
+        421,
+        283,
+        432
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Jan",
+      "bbox": [
+        117,
+        465,
+        138,
+        474
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "C,",
+      "bbox": [
+        146,
+        465,
+        157,
+        474
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Literacure",
+      "bbox": [
+        118,
+        479,
+        186,
+        488
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "TEL,",
+      "bbox": [
+        139,
+        521,
+        164,
+        530
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "SUPPLEMENTAL",
+      "bbox": [
+        181,
+        521,
+        263,
+        530
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "LITERATURE",
+      "bbox": [
+        271,
+        522,
+        340,
+        530
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "SEARCH",
+      "bbox": [
+        348,
+        522,
+        389,
+        530
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Chemical",
+      "bbox": [
+        181,
+        548,
+        235,
+        557
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Vol.",
+      "bbox": [
+        333,
+        549,
+        359,
+        558
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "23",
+      "bbox": [
+        369,
+        549,
+        381,
+        558
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        389,
+        553,
+        395,
+        555
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Vol.",
+      "bbox": [
+        403,
+        549,
+        428,
+        557
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "65",
+      "bbox": [
+        438,
+        548,
+        450,
+        558
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "1929-1966",
+      "bbox": [
+        627,
+        549,
+        688,
+        558
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Arctander's",
+      "bbox": [
+        180,
+        575,
+        256,
+        584
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Petfune",
+      "bbox": [
+        264,
+        576,
+        311,
+        585
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        319,
+        576,
+        339,
+        585
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Flavor",
+      "bbox": [
+        348,
+        576,
+        388,
+        585
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Materisis",
+      "bbox": [
+        395,
+        576,
+        458,
+        585
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        181,
+        589,
+        193,
+        598
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Natural",
+      "bbox": [
+        201,
+        590,
+        248,
+        598
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Origin",
+      "bbox": [
+        256,
+        590,
+        298,
+        601
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "(1960)",
+      "bbox": [
+        307,
+        589,
+        345,
+        600
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Guenther\u2019s",
+      "bbox": [
+        180,
+        616,
+        248,
+        626
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Monographa",
+      "bbox": [
+        256,
+        618,
+        325,
+        629
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        333,
+        620,
+        347,
+        626
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Fragrance",
+      "bbox": [
+        354,
+        618,
+        416,
+        629
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Raw",
+      "bbox": [
+        424,
+        619,
+        444,
+        627
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Materials",
+      "bbox": [
+        180,
+        631,
+        242,
+        640
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "(1979)",
+      "bbox": [
+        251,
+        630,
+        289,
+        642
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Tobacco",
+      "bbox": [
+        180,
+        658,
+        228,
+        667
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Abstracts",
+      "bbox": [
+        235,
+        658,
+        297,
+        667
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Dec.",
+      "bbox": [
+        626,
+        673,
+        652,
+        682
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "1981",
+      "bbox": [
+        663,
+        673,
+        687,
+        682
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "U.S.",
+      "bbox": [
+        180,
+        700,
+        212,
+        708
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Dinpenantory",
+      "bbox": [
+        222,
+        700,
+        305,
+        711
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "23rd",
+      "bbox": [
+        334,
+        700,
+        360,
+        709
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "edition",
+      "bbox": [
+        369,
+        700,
+        416,
+        708
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "(1943)",
+      "bbox": [
+        425,
+        700,
+        463,
+        710
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": ",",
+      "bbox": [
+        152,
+        762,
+        155,
+        764
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Beth,",
+      "bbox": [
+        270,
+        743,
+        329,
+        764
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Heft,",
+      "bbox": [
+        117,
+        768,
+        170,
+        777
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "nel)",
+      "bbox": [
+        180,
+        768,
+        205,
+        777
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Bf",
+      "bbox": [
+        215,
+        769,
+        221,
+        777
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "See",
+      "bbox": [
+        236,
+        769,
+        254,
+        777
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "\u00b0",
+      "bbox": [
+        624,
+        780,
+        636,
+        789
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        623,
+        790,
+        635,
+        799
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        623,
+        801,
+        635,
+        810
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        622,
+        811,
+        634,
+        820
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "4",
+      "bbox": [
+        621,
+        822,
+        634,
+        852
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Nn",
+      "bbox": [
+        621,
+        852,
+        633,
+        862
+      ],
+      "confidence": 35.0
+    }
+  ]
+}

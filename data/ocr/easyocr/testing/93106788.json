@@ -1,0 +1,374 @@
+{
+  "words": [
+    {
+      "text": "LORILLARD MEDIA SERVICES",
+      "bbox": [
+        275,
+        81,
+        487,
+        99
+      ],
+      "confidence": 0.7360130411787568
+    },
+    {
+      "text": "ONE PARK AVENUE_",
+      "bbox": [
+        205,
+        95,
+        349,
+        115
+      ],
+      "confidence": 0.9864412382481725
+    },
+    {
+      "text": "NEW YORK, NY 10016-5896",
+      "bbox": [
+        355,
+        95,
+        557,
+        115
+      ],
+      "confidence": 0.7535323082154753
+    },
+    {
+      "text": "MAGAZINE INSERTION QRDER",
+      "bbox": [
+        269,
+        123,
+        492,
+        149
+      ],
+      "confidence": 0.7202318314669196
+    },
+    {
+      "text": "ESSENCE",
+      "bbox": [
+        157,
+        195,
+        207,
+        207
+      ],
+      "confidence": 0.9928000444414353
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        495,
+        191,
+        525,
+        205
+      ],
+      "confidence": 0.8451669579558906
+    },
+    {
+      "text": "VARCH 17, 1995",
+      "bbox": [
+        537,
+        191,
+        615,
+        203
+      ],
+      "confidence": 0.8452058171275647
+    },
+    {
+      "text": "Isp0 BAOADWAY",
+      "bbox": [
+        157,
+        209,
+        241,
+        223
+      ],
+      "confidence": 0.6023120470923222
+    },
+    {
+      "text": "NEX",
+      "bbox": [
+        156,
+        228,
+        180,
+        236
+      ],
+      "confidence": 0.3014117013179497
+    },
+    {
+      "text": "YORK, NY",
+      "bbox": [
+        181,
+        225,
+        229,
+        239
+      ],
+      "confidence": 0.8222482446306324
+    },
+    {
+      "text": "LORILLAAD",
+      "bbox": [
+        537,
+        223,
+        595,
+        235
+      ],
+      "confidence": 0.7869867605183044
+    },
+    {
+      "text": "AMN;",
+      "bbox": [
+        156,
+        244,
+        186,
+        252
+      ],
+      "confidence": 0.30929216742515564
+    },
+    {
+      "text": "Joyce Winston",
+      "bbox": [
+        191,
+        241,
+        277,
+        255
+      ],
+      "confidence": 0.5728017536208664
+    },
+    {
+      "text": "PFODUCT:",
+      "bbox": [
+        475,
+        255,
+        525,
+        269
+      ],
+      "confidence": 0.611109866853918
+    },
+    {
+      "text": "Newport",
+      "bbox": [
+        537,
+        255,
+        589,
+        267
+      ],
+      "confidence": 0.7548169917312183
+    },
+    {
+      "text": "CAPTCN",
+      "bbox": [
+        229,
+        375,
+        275,
+        387
+      ],
+      "confidence": 0.5056637626213177
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        523,
+        373,
+        553,
+        385
+      ],
+      "confidence": 0.9062264384932172
+    },
+    {
+      "text": "NPT-531",
+      "bbox": [
+        97,
+        405,
+        145,
+        419
+      ],
+      "confidence": 0.4835834646704774
+    },
+    {
+      "text": "FOUNTAIN COUPLE",
+      "bbox": [
+        229,
+        403,
+        325,
+        417
+      ],
+      "confidence": 0.6316722577115201
+    },
+    {
+      "text": "PscB",
+      "bbox": [
+        375,
+        403,
+        405,
+        417
+      ],
+      "confidence": 0.30381178855895996
+    },
+    {
+      "text": "JUNE 1995",
+      "bbox": [
+        523,
+        403,
+        577,
+        415
+      ],
+      "confidence": 0.9640992538549435
+    },
+    {
+      "text": "Po /7219",
+      "bbox": [
+        97,
+        451,
+        147,
+        465
+      ],
+      "confidence": 0.6920642088657623
+    },
+    {
+      "text": "UNABLE To",
+      "bbox": [
+        107,
+        481,
+        161,
+        493
+      ],
+      "confidence": 0.4218075772311128
+    },
+    {
+      "text": "FAR FORWARD; OPPOSITE FULL EDITORIAL",
+      "bbox": [
+        95,
+        547,
+        307,
+        563
+      ],
+      "confidence": 0.6176648606512348
+    },
+    {
+      "text": "poccs",
+      "bbox": [
+        362,
+        598,
+        388,
+        606
+      ],
+      "confidence": 0.7825350048104147
+    },
+    {
+      "text": "INSTAUCTICNS:",
+      "bbox": [
+        123,
+        613,
+        197,
+        627
+      ],
+      "confidence": 0.9278316068502678
+    },
+    {
+      "text": "CoLOR PAOOF ATTACHED , FILM FAOM COLLIER WITH",
+      "bbox": [
+        105,
+        643,
+        367,
+        657
+      ],
+      "confidence": 0.4261422605995647
+    },
+    {
+      "text": "WARNING",
+      "bbox": [
+        383,
+        643,
+        433,
+        655
+      ],
+      "confidence": 0.9854682055442899
+    },
+    {
+      "text": "IMFCRTANT INSTAUCTONS;",
+      "bbox": [
+        95,
+        675,
+        225,
+        689
+      ],
+      "confidence": 0.5111985724656719
+    },
+    {
+      "text": "ILLING INSTRUCTIONS:",
+      "bbox": [
+        487,
+        673,
+        589,
+        687
+      ],
+      "confidence": 0.7205600969399966
+    },
+    {
+      "text": "Theyihould produco",
+      "bbox": [
+        116,
+        756,
+        202,
+        764
+      ],
+      "confidence": 0.3522246924243745
+    },
+    {
+      "text": "CNE ?ARKAVENUE",
+      "bbox": [
+        447,
+        795,
+        533,
+        807
+      ],
+      "confidence": 0.6582852091714526
+    },
+    {
+      "text": "FLCOR",
+      "bbox": [
+        471,
+        805,
+        507,
+        819
+      ],
+      "confidence": 0.8260416065515923
+    },
+    {
+      "text": "FoYiox",
+      "bbox": [
+        506,
+        814,
+        552,
+        840
+      ],
+      "confidence": 0.5173972294927688
+    },
+    {
+      "text": "ATTN: StevE",
+      "bbox": [
+        447,
+        825,
+        511,
+        839
+      ],
+      "confidence": 0.40076548465552914
+    },
+    {
+      "text": "CCFY",
+      "bbox": [
+        96,
+        611,
+        123,
+        625
+      ],
+      "confidence": 0.31039395928382874
+    },
+    {
+      "text": "1",
+      "bbox": [
+        676,
+        795,
+        697,
+        866
+      ],
+      "confidence": 0.8702353729825205
+    }
+  ]
+}

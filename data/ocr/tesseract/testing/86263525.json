@@ -1,0 +1,814 @@
+{
+  "words": [
+    {
+      "text": "|",
+      "bbox": [
+        0,
+        32,
+        2,
+        65
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "RECORDS",
+      "bbox": [
+        205,
+        49,
+        268,
+        59
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "RETENTION",
+      "bbox": [
+        278,
+        48,
+        360,
+        58
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "SCHEDULE",
+      "bbox": [
+        370,
+        48,
+        442,
+        58
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "RECONCILIATION",
+      "bbox": [
+        451,
+        48,
+        579,
+        58
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "RECORDS",
+      "bbox": [
+        233,
+        79,
+        296,
+        88
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "MANAGEMENT",
+      "bbox": [
+        305,
+        78,
+        397,
+        88
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "DEPARTMENT",
+      "bbox": [
+        406,
+        78,
+        497,
+        88
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        507,
+        82,
+        514,
+        84
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "M/C",
+      "bbox": [
+        524,
+        77,
+        551,
+        89
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        0,
+        111,
+        2,
+        148
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DEPARTMENT",
+      "bbox": [
+        97,
+        140,
+        187,
+        150
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "NAHE",
+      "bbox": [
+        196,
+        140,
+        232,
+        150
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "SCIENCE",
+      "bbox": [
+        325,
+        140,
+        387,
+        149
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        397,
+        140,
+        404,
+        149
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "TECHNOLOGY",
+      "bbox": [
+        415,
+        139,
+        505,
+        149
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "COST",
+      "bbox": [
+        97,
+        186,
+        132,
+        195
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "CENTER",
+      "bbox": [
+        143,
+        186,
+        196,
+        195
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "NUMBER",
+      "bbox": [
+        205,
+        185,
+        260,
+        195
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "INDEX",
+      "bbox": [
+        97,
+        246,
+        141,
+        256
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "BINDERS",
+      "bbox": [
+        151,
+        246,
+        214,
+        255
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "CONSOLIDATED",
+      "bbox": [
+        224,
+        245,
+        333,
+        255
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        342,
+        245,
+        366,
+        255
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "WA",
+      "bbox": [
+        233,
+        290,
+        260,
+        302
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        469,
+        290,
+        506,
+        300
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "INDEX",
+      "bbox": [
+        98,
+        352,
+        142,
+        362
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BINDER",
+      "bbox": [
+        151,
+        351,
+        206,
+        361
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "RE-LABELED",
+      "bbox": [
+        215,
+        351,
+        306,
+        361
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        315,
+        351,
+        339,
+        361
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        469,
+        396,
+        506,
+        406
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "2/15/90",
+      "bbox": [
+        562,
+        394,
+        623,
+        409
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "RETENTION",
+      "bbox": [
+        97,
+        457,
+        178,
+        467
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        189,
+        457,
+        196,
+        467
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "RECOMMENDATION",
+      "bbox": [
+        206,
+        457,
+        333,
+        467
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "FILE",
+      "bbox": [
+        343,
+        457,
+        378,
+        466
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "REORGANIZED",
+      "bbox": [
+        388,
+        456,
+        488,
+        466
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        497,
+        456,
+        524,
+        466
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "RE-LABELED",
+      "bbox": [
+        534,
+        456,
+        624,
+        466
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        634,
+        456,
+        658,
+        466
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        470,
+        501,
+        506,
+        511
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "RECORDS",
+      "bbox": [
+        97,
+        563,
+        160,
+        573
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "RETENTION",
+      "bbox": [
+        170,
+        563,
+        251,
+        573
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SCHEDULE",
+      "bbox": [
+        261,
+        563,
+        333,
+        573
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PLACED",
+      "bbox": [
+        343,
+        563,
+        397,
+        572
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        407,
+        563,
+        424,
+        572
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "INDEX",
+      "bbox": [
+        434,
+        563,
+        479,
+        572
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BINDER",
+      "bbox": [
+        488,
+        563,
+        543,
+        572
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        552,
+        563,
+        579,
+        572
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        589,
+        563,
+        606,
+        572
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "FILE",
+      "bbox": [
+        616,
+        562,
+        651,
+        572
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        661,
+        562,
+        685,
+        572
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "A",
+      "bbox": [
+        166,
+        604,
+        171,
+        622
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "yeas",
+      "bbox": [
+        179,
+        597,
+        221,
+        642
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Be",
+      "bbox": [
+        230,
+        587,
+        254,
+        627
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        470,
+        608,
+        506,
+        617
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "4/18/90",
+      "bbox": [
+        562,
+        606,
+        623,
+        621
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "BOXES",
+      "bbox": [
+        97,
+        669,
+        141,
+        679
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "CREATED",
+      "bbox": [
+        152,
+        669,
+        215,
+        679
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "FOR",
+      "bbox": [
+        225,
+        669,
+        252,
+        679
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "HARD",
+      "bbox": [
+        261,
+        669,
+        297,
+        679
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "COPY",
+      "bbox": [
+        307,
+        669,
+        342,
+        679
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PERMANENT",
+      "bbox": [
+        352,
+        668,
+        433,
+        679
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "RETENTION",
+      "bbox": [
+        443,
+        668,
+        524,
+        678
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "RECORDS",
+      "bbox": [
+        534,
+        668,
+        596,
+        678
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        607,
+        668,
+        631,
+        678
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "N/A",
+      "bbox": [
+        233,
+        713,
+        260,
+        725
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        470,
+        713,
+        506,
+        723
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "RECORDS",
+      "bbox": [
+        97,
+        775,
+        160,
+        785
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "TRANSFER",
+      "bbox": [
+        170,
+        775,
+        243,
+        785
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "INVENTORY",
+      "bbox": [
+        252,
+        775,
+        334,
+        784
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "FORMS",
+      "bbox": [
+        343,
+        774,
+        387,
+        784
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "UPDATED",
+      "bbox": [
+        398,
+        774,
+        461,
+        784
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        470,
+        774,
+        494,
+        784
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "cr",
+      "bbox": [
+        723,
+        794,
+        739,
+        803
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "rae",
+      "bbox": [
+        724,
+        808,
+        740,
+        818
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        470,
+        819,
+        506,
+        829
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "7/25/90",
+      "bbox": [
+        562,
+        818,
+        623,
+        833
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "an",
+      "bbox": [
+        724,
+        837,
+        740,
+        846
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "\u00a9",
+      "bbox": [
+        724,
+        851,
+        740,
+        860
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "2\u00b0",
+      "bbox": [
+        724,
+        865,
+        740,
+        874
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Ss",
+      "bbox": [
+        724,
+        879,
+        741,
+        889
+      ],
+      "confidence": 45.0
+    }
+  ]
+}

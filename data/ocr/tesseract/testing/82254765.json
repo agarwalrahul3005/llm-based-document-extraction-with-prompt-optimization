@@ -1,0 +1,874 @@
+{
+  "words": [
+    {
+      "text": "TO",
+      "bbox": [
+        79,
+        128,
+        167,
+        144
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        305,
+        141,
+        309,
+        143
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "DATETONYO:",
+      "bbox": [
+        500,
+        129,
+        583,
+        138
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "1/24/97",
+      "bbox": [
+        607,
+        128,
+        664,
+        139
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        75,
+        143,
+        124,
+        172
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "S.",
+      "bbox": [
+        220,
+        154,
+        233,
+        162
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Reinde?",
+      "bbox": [
+        245,
+        153,
+        301,
+        162
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "DIV.NAME/NO:",
+      "bbox": [
+        79,
+        182,
+        179,
+        193
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "107",
+      "bbox": [
+        296,
+        182,
+        318,
+        192
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "3957",
+      "bbox": [
+        251,
+        229,
+        283,
+        258
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "SPHCIAL",
+      "bbox": [
+        289,
+        229,
+        336,
+        258
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        342,
+        229,
+        382,
+        258
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "REQUESF",
+      "bbox": [
+        388,
+        229,
+        445,
+        258
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        451,
+        229,
+        491,
+        258
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "NAMBOPEVENT:",
+      "bbox": [
+        79,
+        291,
+        185,
+        300
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "H.",
+      "bbox": [
+        220,
+        290,
+        233,
+        300
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Levinson",
+      "bbox": [
+        245,
+        290,
+        311,
+        304
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Tradeshow",
+      "bbox": [
+        321,
+        289,
+        395,
+        304
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "\u201cDATEOFEVENT:",
+      "bbox": [
+        80,
+        319,
+        188,
+        328
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        208,
+        309,
+        224,
+        338
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "3/18/97",
+      "bbox": [
+        229,
+        316,
+        285,
+        328
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "\u2018SAMPLES",
+      "bbox": [
+        74,
+        366,
+        135,
+        395
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "/[TEMS",
+      "bbox": [
+        139,
+        366,
+        186,
+        395
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "REQUIRED:",
+      "bbox": [
+        190,
+        366,
+        261,
+        395
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "SAMPLE",
+      "bbox": [
+        272,
+        366,
+        319,
+        395
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "10'S",
+      "bbox": [
+        325,
+        366,
+        343,
+        395
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "(400",
+      "bbox": [
+        349,
+        366,
+        369,
+        395
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PACKS",
+      "bbox": [
+        376,
+        366,
+        408,
+        395
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "PER",
+      "bbox": [
+        412,
+        366,
+        432,
+        395
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "CASE)",
+      "bbox": [
+        438,
+        366,
+        473,
+        395
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "NEWPORTKS.",
+      "bbox": [
+        74,
+        449,
+        158,
+        474
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        238,
+        453,
+        243,
+        463
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "KENTIIKS.",
+      "bbox": [
+        304,
+        450,
+        378,
+        474
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "NEWPORT",
+      "bbox": [
+        78,
+        469,
+        137,
+        479
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "10S",
+      "bbox": [
+        140,
+        470,
+        165,
+        479
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        308,
+        470,
+        340,
+        479
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "ill",
+      "bbox": [
+        343,
+        469,
+        355,
+        479
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        359,
+        470,
+        375,
+        479
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        553,
+        470,
+        569,
+        479
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "NEWPORTLTS.",
+      "bbox": [
+        78,
+        473,
+        162,
+        503
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "KS.",
+      "bbox": [
+        166,
+        473,
+        185,
+        503
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        237,
+        483,
+        242,
+        493
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "NEWPORTUTS.",
+      "bbox": [
+        77,
+        497,
+        162,
+        506
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        166,
+        497,
+        182,
+        506
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "KENTKS.",
+      "bbox": [
+        304,
+        487,
+        362,
+        516
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "\u2014_",
+      "bbox": [
+        405,
+        494,
+        465,
+        505
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "Z",
+      "bbox": [
+        217,
+        522,
+        227,
+        524
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        304,
+        501,
+        338,
+        530
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        342,
+        501,
+        362,
+        530
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        404,
+        521,
+        465,
+        523
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        297,
+        577,
+        301,
+        578
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "EMS,",
+      "bbox": [
+        308,
+        566,
+        347,
+        575
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "\u2018QUANTITY",
+      "bbox": [
+        494,
+        556,
+        565,
+        585
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "REQUIRED",
+      "bbox": [
+        571,
+        556,
+        639,
+        585
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "BASERALE,",
+      "bbox": [
+        304,
+        583,
+        375,
+        612
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "CAP",
+      "bbox": [
+        378,
+        583,
+        404,
+        612
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "1500",
+      "bbox": [
+        530,
+        592,
+        603,
+        606
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "BOTTLES",
+      "bbox": [
+        359,
+        611,
+        415,
+        640
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "500",
+      "bbox": [
+        550,
+        619,
+        573,
+        629
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "\u2018SHIP",
+      "bbox": [
+        74,
+        720,
+        106,
+        749
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "TO.",
+      "bbox": [
+        110,
+        720,
+        132,
+        749
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "\u2018CUSTOMER",
+      "bbox": [
+        74,
+        747,
+        140,
+        776
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "SHIPPING",
+      "bbox": [
+        146,
+        747,
+        200,
+        776
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "NUMBER",
+      "bbox": [
+        206,
+        747,
+        258,
+        776
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "co",
+      "bbox": [
+        679,
+        775,
+        694,
+        782
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        679,
+        801,
+        695,
+        809
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        679,
+        814,
+        695,
+        821
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        74,
+        816,
+        108,
+        845
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "FORWARDED",
+      "bbox": [
+        115,
+        816,
+        188,
+        845
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        194,
+        826,
+        207,
+        835
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "PROMOTION",
+      "bbox": [
+        214,
+        816,
+        282,
+        845
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "SERVICES:",
+      "bbox": [
+        289,
+        816,
+        348,
+        845
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "hla",
+      "bbox": [
+        413,
+        814,
+        461,
+        839
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        680,
+        827,
+        695,
+        834
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        679,
+        840,
+        695,
+        848
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        679,
+        852,
+        695,
+        861
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "*",
+      "bbox": [
+        79,
+        881,
+        84,
+        886
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "PLEASE",
+      "bbox": [
+        91,
+        871,
+        133,
+        900
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "ALLOW",
+      "bbox": [
+        140,
+        871,
+        179,
+        900
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\u00a7",
+      "bbox": [
+        186,
+        881,
+        193,
+        892
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "WEEKS",
+      "bbox": [
+        200,
+        871,
+        237,
+        900
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "FOR",
+      "bbox": [
+        244,
+        871,
+        266,
+        900
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PROCESSING",
+      "bbox": [
+        273,
+        871,
+        349,
+        900
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        355,
+        881,
+        370,
+        890
+      ],
+      "confidence": 97.0
+    },
+    {
+      "text": "YOUR",
+      "bbox": [
+        377,
+        871,
+        409,
+        900
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "REQUEST.",
+      "bbox": [
+        415,
+        871,
+        475,
+        900
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "REQFOR",
+      "bbox": [
+        52,
+        927,
+        111,
+        957
+      ],
+      "confidence": 56.0
+    }
+  ]
+}

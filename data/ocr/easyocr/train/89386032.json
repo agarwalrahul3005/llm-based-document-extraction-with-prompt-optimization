@@ -1,0 +1,544 @@
+{
+  "words": [
+    {
+      "text": "EPL",
+      "bbox": [
+        70,
+        130,
+        124,
+        160
+      ],
+      "confidence": 0.9995055050549128
+    },
+    {
+      "text": "EXPERIMENTAL PATHOLOGY LABORATORIES",
+      "bbox": [
+        139,
+        167,
+        395,
+        183
+      ],
+      "confidence": 0.8820991486695977
+    },
+    {
+      "text": "INC.",
+      "bbox": [
+        399,
+        169,
+        423,
+        181
+      ],
+      "confidence": 0.4570417106151581
+    },
+    {
+      "text": "QUALITY",
+      "bbox": [
+        299,
+        219,
+        353,
+        233
+      ],
+      "confidence": 0.9026514573863077
+    },
+    {
+      "text": "REPORT CERTIF",
+      "bbox": [
+        293,
+        231,
+        387,
+        247
+      ],
+      "confidence": 0.8759007830899987
+    },
+    {
+      "text": "Client",
+      "bbox": [
+        107,
+        275,
+        153,
+        291
+      ],
+      "confidence": 0.8142902736272077
+    },
+    {
+      "text": "Mame",
+      "bbox": [
+        157,
+        275,
+        189,
+        289
+      ],
+      "confidence": 0.7346414923667908
+    },
+    {
+      "text": "Borriston",
+      "bbox": [
+        199,
+        275,
+        267,
+        289
+      ],
+      "confidence": 0.9972530406420996
+    },
+    {
+      "text": "Laboratories",
+      "bbox": [
+        271,
+        275,
+        359,
+        289
+      ],
+      "confidence": 0.9710448024319658
+    },
+    {
+      "text": "Client Study",
+      "bbox": [
+        405,
+        275,
+        495,
+        291
+      ],
+      "confidence": 0.8861836820122961
+    },
+    {
+      "text": "14194",
+      "bbox": [
+        571,
+        275,
+        609,
+        289
+      ],
+      "confidence": 0.9389720765927172
+    },
+    {
+      "text": "Study Director",
+      "bbox": [
+        107,
+        317,
+        211,
+        335
+      ],
+      "confidence": 0.7472956001794783
+    },
+    {
+      "text": "Dr .",
+      "bbox": [
+        215,
+        319,
+        239,
+        333
+      ],
+      "confidence": 0.6125964788811726
+    },
+    {
+      "text": "William 0.",
+      "bbox": [
+        243,
+        319,
+        315,
+        333
+      ],
+      "confidence": 0.912725035447631
+    },
+    {
+      "text": "Iverson",
+      "bbox": [
+        321,
+        319,
+        373,
+        333
+      ],
+      "confidence": 0.9763574143777934
+    },
+    {
+      "text": "Pathologist",
+      "bbox": [
+        385,
+        319,
+        467,
+        335
+      ],
+      "confidence": 0.7097615204197562
+    },
+    {
+      "text": "Charley",
+      "bbox": [
+        507,
+        319,
+        559,
+        333
+      ],
+      "confidence": 0.9164092916104714
+    },
+    {
+      "text": "Gi Imore",
+      "bbox": [
+        585,
+        319,
+        637,
+        333
+      ],
+      "confidence": 0.9562923121848574
+    },
+    {
+      "text": "Bioassay",
+      "bbox": [
+        213,
+        347,
+        275,
+        363
+      ],
+      "confidence": 0.9976500962474195
+    },
+    {
+      "text": "Cigarette Smoke Condensates for Potential",
+      "bbox": [
+        298,
+        346,
+        593,
+        366
+      ],
+      "confidence": 0.8190328134474213
+    },
+    {
+      "text": "Study Title",
+      "bbox": [
+        107,
+        361,
+        189,
+        377
+      ],
+      "confidence": 0.7898545222290667
+    },
+    {
+      "text": "Iunorigenic Activity",
+      "bbox": [
+        215,
+        361,
+        359,
+        377
+      ],
+      "confidence": 0.5213796917941995
+    },
+    {
+      "text": "on_Mouse",
+      "bbox": [
+        363,
+        363,
+        423,
+        377
+      ],
+      "confidence": 0.6904280956011356
+    },
+    {
+      "text": "Skin",
+      "bbox": [
+        427,
+        363,
+        459,
+        377
+      ],
+      "confidence": 0.9935667514801025
+    },
+    {
+      "text": "(Revised",
+      "bbox": [
+        217,
+        377,
+        275,
+        391
+      ],
+      "confidence": 0.9997844935444921
+    },
+    {
+      "text": "Pathology Report )",
+      "bbox": [
+        279,
+        377,
+        401,
+        393
+      ],
+      "confidence": 0.7038748371696487
+    },
+    {
+      "text": "Test Article",
+      "bbox": [
+        107,
+        405,
+        197,
+        421
+      ],
+      "confidence": 0.8236370383327645
+    },
+    {
+      "text": "Multiple",
+      "bbox": [
+        213,
+        405,
+        275,
+        421
+      ],
+      "confidence": 0.9886186974946466
+    },
+    {
+      "text": "Species",
+      "bbox": [
+        441,
+        405,
+        495,
+        421
+      ],
+      "confidence": 0.9998118367685453
+    },
+    {
+      "text": "Mice",
+      "bbox": [
+        527,
+        405,
+        559,
+        419
+      ],
+      "confidence": 0.9974672794342041
+    },
+    {
+      "text": "AII",
+      "bbox": [
+        129,
+        491,
+        153,
+        505
+      ],
+      "confidence": 0.6685591511721525
+    },
+    {
+      "text": "the pathology phase",
+      "bbox": [
+        223,
+        491,
+        359,
+        507
+      ],
+      "confidence": 0.9762359034497093
+    },
+    {
+      "text": "of this",
+      "bbox": [
+        363,
+        491,
+        415,
+        507
+      ],
+      "confidence": 0.9748822123189534
+    },
+    {
+      "text": "study",
+      "bbox": [
+        421,
+        493,
+        459,
+        507
+      ],
+      "confidence": 0.9963947534483658
+    },
+    {
+      "text": "including the final",
+      "bbox": [
+        471,
+        491,
+        609,
+        507
+      ],
+      "confidence": 0.8716271136521129
+    },
+    {
+      "text": "report",
+      "bbox": [
+        613,
+        493,
+        659,
+        507
+      ],
+      "confidence": 0.998654397560828
+    },
+    {
+      "text": "mere",
+      "bbox": [
+        127,
+        523,
+        161,
+        535
+      ],
+      "confidence": 0.7528825402259827
+    },
+    {
+      "text": "reviewed by Experimental",
+      "bbox": [
+        165,
+        519,
+        337,
+        537
+      ],
+      "confidence": 0.8305471390897247
+    },
+    {
+      "text": "Pathology",
+      "bbox": [
+        343,
+        521,
+        409,
+        537
+      ],
+      "confidence": 0.9989838402455504
+    },
+    {
+      "text": "Laboratories",
+      "bbox": [
+        413,
+        521,
+        503,
+        535
+      ],
+      "confidence": 0.9998328814258434
+    },
+    {
+      "text": "Quality",
+      "bbox": [
+        507,
+        521,
+        559,
+        537
+      ],
+      "confidence": 0.998907944140582
+    },
+    {
+      "text": "Assurance",
+      "bbox": [
+        563,
+        521,
+        631,
+        535
+      ],
+      "confidence": 0.9999622102981948
+    },
+    {
+      "text": "Unit",
+      "bbox": [
+        635,
+        521,
+        665,
+        535
+      ],
+      "confidence": 0.9998312592506409
+    },
+    {
+      "text": "March",
+      "bbox": [
+        179,
+        549,
+        219,
+        565
+      ],
+      "confidence": 0.9868727956986236
+    },
+    {
+      "text": "1983",
+      "bbox": [
+        307,
+        549,
+        339,
+        563
+      ],
+      "confidence": 0.9999980926513672
+    },
+    {
+      "text": "AI findings",
+      "bbox": [
+        471,
+        549,
+        559,
+        565
+      ],
+      "confidence": 0.8565099849536202
+    },
+    {
+      "text": "were",
+      "bbox": [
+        563,
+        551,
+        595,
+        565
+      ],
+      "confidence": 0.8724005222320557
+    },
+    {
+      "text": "reported",
+      "bbox": [
+        599,
+        551,
+        659,
+        565
+      ],
+      "confidence": 0.999145405658286
+    },
+    {
+      "text": "the Study Director and Management .",
+      "bbox": [
+        151,
+        576,
+        389,
+        596
+      ],
+      "confidence": 0.6465183359342522
+    },
+    {
+      "text": "L",
+      "bbox": [
+        21,
+        709,
+        37,
+        739
+      ],
+      "confidence": 0.8598874569934765
+    },
+    {
+      "text": "83",
+      "bbox": [
+        540,
+        726,
+        576,
+        750
+      ],
+      "confidence": 0.9800478194634817
+    },
+    {
+      "text": "1",
+      "bbox": [
+        673,
+        833,
+        693,
+        925
+      ],
+      "confidence": 0.5567370012149695
+    },
+    {
+      "text": "parts",
+      "bbox": [
+        155,
+        489,
+        196,
+        507
+      ],
+      "confidence": 0.9019269718720141
+    },
+    {
+      "text": "June",
+      "bbox": [
+        250,
+        548,
+        282,
+        564
+      ],
+      "confidence": 0.6516396747987478
+    }
+  ]
+}

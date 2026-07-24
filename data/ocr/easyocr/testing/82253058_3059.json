@@ -1,0 +1,474 @@
+{
+  "words": [
+    {
+      "text": "12/10/36",
+      "bbox": [
+        84,
+        60,
+        138,
+        68
+      ],
+      "confidence": 0.6576705159526227
+    },
+    {
+      "text": "00;51",
+      "bbox": [
+        157,
+        61,
+        193,
+        73
+      ],
+      "confidence": 0.5574142782031032
+    },
+    {
+      "text": "COMPETITIVE PRODUCT INTRODUCTION",
+      "bbox": [
+        221,
+        135,
+        543,
+        155
+      ],
+      "confidence": 0.8885259374844453
+    },
+    {
+      "text": "PROGRESS REPQRI",
+      "bbox": [
+        299,
+        152,
+        462,
+        176
+      ],
+      "confidence": 0.6373888713616261
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        93,
+        203,
+        119,
+        219
+      ],
+      "confidence": 0.6616977269959191
+    },
+    {
+      "text": "MRS",
+      "bbox": [
+        143,
+        205,
+        173,
+        219
+      ],
+      "confidence": 0.9590825626620191
+    },
+    {
+      "text": "KA. SPARAOW",
+      "bbox": [
+        177,
+        203,
+        273,
+        219
+      ],
+      "confidence": 0.6538780540727476
+    },
+    {
+      "text": "MANUFACTURER: R,",
+      "bbox": [
+        331,
+        205,
+        453,
+        219
+      ],
+      "confidence": 0.8362507660951358
+    },
+    {
+      "text": "Reynolds_",
+      "bbox": [
+        469,
+        205,
+        525,
+        221
+      ],
+      "confidence": 0.8757019050449296
+    },
+    {
+      "text": "FAOM:",
+      "bbox": [
+        93,
+        223,
+        137,
+        237
+      ],
+      "confidence": 0.589054592249935
+    },
+    {
+      "text": "R.G: Ryan",
+      "bbox": [
+        143,
+        223,
+        199,
+        239
+      ],
+      "confidence": 0.5375420126838164
+    },
+    {
+      "text": "BRAND:",
+      "bbox": [
+        329,
+        223,
+        379,
+        239
+      ],
+      "confidence": 0.9999043196715174
+    },
+    {
+      "text": "Camel Menthol",
+      "bbox": [
+        383,
+        223,
+        471,
+        237
+      ],
+      "confidence": 0.9971129644613704
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        93,
+        243,
+        133,
+        257
+      ],
+      "confidence": 0.7141698664355083
+    },
+    {
+      "text": "1210/95",
+      "bbox": [
+        143,
+        243,
+        191,
+        259
+      ],
+      "confidence": 0.7329580965327178
+    },
+    {
+      "text": "TYPE OF PACKINGS:",
+      "bbox": [
+        329,
+        243,
+        453,
+        257
+      ],
+      "confidence": 0.7569245331045004
+    },
+    {
+      "text": "Fyll Flavor_Box and Light Box",
+      "bbox": [
+        457,
+        243,
+        629,
+        259
+      ],
+      "confidence": 0.5879351955137527
+    },
+    {
+      "text": "REPORTING PERIODS:",
+      "bbox": [
+        93,
+        279,
+        231,
+        295
+      ],
+      "confidence": 0.7845141320660804
+    },
+    {
+      "text": "AUG",
+      "bbox": [
+        291,
+        279,
+        321,
+        295
+      ],
+      "confidence": 0.9939691284880802
+    },
+    {
+      "text": "SEPT",
+      "bbox": [
+        385,
+        281,
+        419,
+        295
+      ],
+      "confidence": 0.6574230790138245
+    },
+    {
+      "text": "OCT",
+      "bbox": [
+        483,
+        281,
+        513,
+        295
+      ],
+      "confidence": 0.9897133654026199
+    },
+    {
+      "text": "NOV",
+      "bbox": [
+        581,
+        281,
+        611,
+        295
+      ],
+      "confidence": 0.7420716961694305
+    },
+    {
+      "text": "(Forward by tho 1Oth of the following month )",
+      "bbox": [
+        241,
+        299,
+        499,
+        315
+      ],
+      "confidence": 0.6497305392554442
+    },
+    {
+      "text": "TEST MARKET GEOGRAPHY:",
+      "bbox": [
+        93,
+        337,
+        265,
+        351
+      ],
+      "confidence": 0.9797759796397869
+    },
+    {
+      "text": "PRICE POINT:",
+      "bbox": [
+        93,
+        375,
+        179,
+        389
+      ],
+      "confidence": 0.9991831051866322
+    },
+    {
+      "text": "FULL $11.89",
+      "bbox": [
+        193,
+        375,
+        269,
+        389
+      ],
+      "confidence": 0.6823105277275325
+    },
+    {
+      "text": "PNS",
+      "bbox": [
+        295,
+        375,
+        327,
+        391
+      ],
+      "confidence": 0.9514238402715146
+    },
+    {
+      "text": "(Indicate Distributor's Cost Per Carton)",
+      "bbox": [
+        367,
+        374,
+        593,
+        391
+      ],
+      "confidence": 0.7110909388634457
+    },
+    {
+      "text": "SALES FORCE INVOLVEMENT:",
+      "bbox": [
+        93,
+        413,
+        275,
+        429
+      ],
+      "confidence": 0.9480848576219745
+    },
+    {
+      "text": "Merchand sing te {Op tray Opermanent counter displays and labeling",
+      "bbox": [
+        281,
+        415,
+        647,
+        431
+      ],
+      "confidence": 0.3645830871033885
+    },
+    {
+      "text": "carion fiuures",
+      "bbox": [
+        93,
+        433,
+        171,
+        445
+      ],
+      "confidence": 0.48067497719344027
+    },
+    {
+      "text": "the Camel section;",
+      "bbox": [
+        181,
+        433,
+        281,
+        447
+      ],
+      "confidence": 0.837105945854294
+    },
+    {
+      "text": "DISTRIBUTORS",
+      "bbox": [
+        93,
+        487,
+        187,
+        503
+      ],
+      "confidence": 0.9998829571968009
+    },
+    {
+      "text": "ACCEPTANCEIINTRO TERMSIINTRO DEALS:",
+      "bbox": [
+        201,
+        489,
+        459,
+        505
+      ],
+      "confidence": 0.6830092404982318
+    },
+    {
+      "text": "Product",
+      "bbox": [
+        93,
+        507,
+        139,
+        521
+      ],
+      "confidence": 0.9850514183654235
+    },
+    {
+      "text": "DISTRIBUTOR INVOLVEMENT:",
+      "bbox": [
+        92,
+        582,
+        273,
+        598
+      ],
+      "confidence": 0.9913412485821314
+    },
+    {
+      "text": "receivingBIG1F product",
+      "bbox": [
+        93,
+        621,
+        229,
+        637
+      ],
+      "confidence": 0.7534531056004996
+    },
+    {
+      "text": "CHAINS",
+      "bbox": [
+        93,
+        679,
+        143,
+        693
+      ],
+      "confidence": 0.9998926393277258
+    },
+    {
+      "text": "ACCEPTANCEIMERCHANDISING ALLOWANCE",
+      "bbox": [
+        156,
+        678,
+        427,
+        694
+      ],
+      "confidence": 0.9763948045382913
+    },
+    {
+      "text": "INDEPENDENTS",
+      "bbox": [
+        93,
+        773,
+        193,
+        789
+      ],
+      "confidence": 0.9987862389341401
+    },
+    {
+      "text": "ACCEPTANCEMMERCHANDISING ALLOWANCE",
+      "bbox": [
+        205,
+        775,
+        475,
+        789
+      ],
+      "confidence": 0.8139824124623248
+    },
+    {
+      "text": "Acceptance",
+      "bbox": [
+        93,
+        795,
+        157,
+        809
+      ],
+      "confidence": 0.9491298964487953
+    },
+    {
+      "text": "lower volure rotail calls",
+      "bbox": [
+        367,
+        795,
+        493,
+        809
+      ],
+      "confidence": 0.8695888108798099
+    },
+    {
+      "text": "82253058",
+      "bbox": [
+        565,
+        895,
+        676,
+        931
+      ],
+      "confidence": 0.9999959960460711
+    },
+    {
+      "text": "CAMEL,WKI/FMT",
+      "bbox": [
+        65,
+        925,
+        161,
+        941
+      ],
+      "confidence": 0.46652884787784393
+    },
+    {
+      "text": "PAGE",
+      "bbox": [
+        347,
+        921,
+        383,
+        941
+      ],
+      "confidence": 0.9990870952606201
+    },
+    {
+      "text": "OF 2",
+      "bbox": [
+        391,
+        923,
+        421,
+        941
+      ],
+      "confidence": 0.5783952520653132
+    }
+  ]
+}

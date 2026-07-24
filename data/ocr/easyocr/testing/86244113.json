@@ -1,0 +1,274 @@
+{
+  "words": [
+    {
+      "text": "DIVISION:",
+      "bbox": [
+        39,
+        143,
+        95,
+        157
+      ],
+      "confidence": 0.8714793848600668
+    },
+    {
+      "text": "DATES:",
+      "bbox": [
+        491,
+        143,
+        537,
+        157
+      ],
+      "confidence": 0.9686885675980533
+    },
+    {
+      "text": "ACCOUNT:",
+      "bbox": [
+        39,
+        171,
+        103,
+        185
+      ],
+      "confidence": 0.9979108036133396
+    },
+    {
+      "text": "INVENTORY FOR:",
+      "bbox": [
+        39,
+        197,
+        137,
+        213
+      ],
+      "confidence": 0.9704749105746375
+    },
+    {
+      "text": "{STATE}",
+      "bbox": [
+        167,
+        211,
+        219,
+        227
+      ],
+      "confidence": 0.9990170183328038
+    },
+    {
+      "text": "OF CARTONS",
+      "bbox": [
+        249,
+        327,
+        327,
+        343
+      ],
+      "confidence": 0.964061948522317
+    },
+    {
+      "text": "AVERACE WEEKLY",
+      "bbox": [
+        355,
+        327,
+        461,
+        343
+      ],
+      "confidence": 0.9430864464506002
+    },
+    {
+      "text": "OF WEEKS",
+      "bbox": [
+        505,
+        327,
+        567,
+        343
+      ],
+      "confidence": 0.856003118791004
+    },
+    {
+      "text": "BRAND",
+      "bbox": [
+        39,
+        343,
+        83,
+        357
+      ],
+      "confidence": 0.9491269733281439
+    },
+    {
+      "text": "ONHAND",
+      "bbox": [
+        251,
+        341,
+        309,
+        357
+      ],
+      "confidence": 0.9986200509322944
+    },
+    {
+      "text": "MOVEMENL",
+      "bbox": [
+        373,
+        341,
+        443,
+        357
+      ],
+      "confidence": 0.8289211260080372
+    },
+    {
+      "text": "ON HAND",
+      "bbox": [
+        507,
+        341,
+        565,
+        357
+      ],
+      "confidence": 0.9815864745413373
+    },
+    {
+      "text": "STYLE LIGHT 100'S",
+      "bbox": [
+        39,
+        369,
+        151,
+        385
+      ],
+      "confidence": 0.42630906571638905
+    },
+    {
+      "text": "STYLE LIGHT MENTHOL 100'S",
+      "bbox": [
+        39,
+        395,
+        209,
+        411
+      ],
+      "confidence": 0.6094504816303261
+    },
+    {
+      "text": "STYLE LIGHT BOX 10T'5",
+      "bbox": [
+        39,
+        423,
+        177,
+        439
+      ],
+      "confidence": 0.4069534763852574
+    },
+    {
+      "text": "STYLE MEN; LIGHT BOX 100\"S",
+      "bbox": [
+        39,
+        451,
+        209,
+        465
+      ],
+      "confidence": 0.3750273935335144
+    },
+    {
+      "text": "STYLE",
+      "bbox": [
+        39,
+        479,
+        77,
+        493
+      ],
+      "confidence": 0.9994576395085285
+    },
+    {
+      "text": "SUM LIGHT",
+      "bbox": [
+        81,
+        479,
+        149,
+        493
+      ],
+      "confidence": 0.8183647065959347
+    },
+    {
+      "text": "100'S",
+      "bbox": [
+        153,
+        479,
+        187,
+        493
+      ],
+      "confidence": 0.4853427441946952
+    },
+    {
+      "text": "STYLE SLIM MEN: LT, 10J*8",
+      "bbox": [
+        39,
+        505,
+        195,
+        521
+      ],
+      "confidence": 0.3809476033479976
+    },
+    {
+      "text": "NOTE: REPORT STYLE INVENTORY ONLY.",
+      "bbox": [
+        39,
+        589,
+        289,
+        603
+      ],
+      "confidence": 0.8696938994020985
+    },
+    {
+      "text": "SUBMIT REPORT ONLY IF STYLE IS STILL ON HAND IN THIS ACCOUNT_",
+      "bbox": [
+        87,
+        615,
+        505,
+        631
+      ],
+      "confidence": 0.7628046879004929
+    },
+    {
+      "text": "CC: REGIONAL SALES MANAGER",
+      "bbox": [
+        87,
+        643,
+        289,
+        657
+      ],
+      "confidence": 0.665217103948148
+    },
+    {
+      "text": "ALL DIVISIONS SERVICED BY THIS ACCOUNT .",
+      "bbox": [
+        293,
+        643,
+        565,
+        657
+      ],
+      "confidence": 0.5801546656408452
+    },
+    {
+      "text": "ACTION PLAN:",
+      "bbox": [
+        39,
+        711,
+        121,
+        727
+      ],
+      "confidence": 0.7332844816374257
+    },
+    {
+      "text": "1",
+      "bbox": [
+        666,
+        712,
+        690,
+        792
+      ],
+      "confidence": 0.8768203951391662
+    },
+    {
+      "text": "STyLeREP",
+      "bbox": [
+        619,
+        915,
+        673,
+        929
+      ],
+      "confidence": 0.3927242327914627
+    }
+  ]
+}

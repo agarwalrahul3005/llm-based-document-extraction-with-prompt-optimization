@@ -1,0 +1,304 @@
+{
+  "words": [
+    {
+      "text": "JAN 19",
+      "bbox": [
+        87,
+        85,
+        131,
+        99
+      ],
+      "confidence": 0.8687168964681665
+    },
+    {
+      "text": "05.27P11 AB RESEARCH PSSCC -",
+      "bbox": [
+        167,
+        85,
+        333,
+        99
+      ],
+      "confidence": 0.45942743580277506
+    },
+    {
+      "text": "P.116",
+      "bbox": [
+        599,
+        81,
+        643,
+        95
+      ],
+      "confidence": 0.5731637347115531
+    },
+    {
+      "text": "#Research Associates Inc",
+      "bbox": [
+        71,
+        113,
+        353,
+        149
+      ],
+      "confidence": 0.5861617575859182
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        95,
+        223,
+        123,
+        243
+      ],
+      "confidence": 0.4991149497346582
+    },
+    {
+      "text": "MARYMAZZA",
+      "bbox": [
+        176,
+        220,
+        272,
+        244
+      ],
+      "confidence": 0.9814596821475707
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        95,
+        255,
+        145,
+        275
+      ],
+      "confidence": 0.6616946102364747
+    },
+    {
+      "text": "Pam ChurchiL",
+      "bbox": [
+        179,
+        255,
+        269,
+        273
+      ],
+      "confidence": 0.6234445641375969
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        97,
+        289,
+        141,
+        305
+      ],
+      "confidence": 0.721960212062483
+    },
+    {
+      "text": "PAGES:",
+      "bbox": [
+        95,
+        317,
+        151,
+        337
+      ],
+      "confidence": 0.9983618594837493
+    },
+    {
+      "text": "(Including this cover sheet)",
+      "bbox": [
+        303,
+        315,
+        471,
+        335
+      ],
+      "confidence": 0.741357303099328
+    },
+    {
+      "text": "AE:",
+      "bbox": [
+        99,
+        353,
+        125,
+        369
+      ],
+      "confidence": 0.5051502228227638
+    },
+    {
+      "text": "Here is yet another version ol the questionnalre",
+      "bbox": [
+        100,
+        426,
+        396,
+        452
+      ],
+      "confidence": 0.5330920820413642
+    },
+    {
+      "text": "Plaaso note that tha last 2 pages are",
+      "bbox": [
+        405,
+        425,
+        637,
+        443
+      ],
+      "confidence": 0.5117387770884401
+    },
+    {
+      "text": "the alternate versions that we discussed",
+      "bbox": [
+        99,
+        445,
+        351,
+        465
+      ],
+      "confidence": 0.7332352915221109
+    },
+    {
+      "text": "Take",
+      "bbox": [
+        355,
+        445,
+        389,
+        459
+      ],
+      "confidence": 0.969765841960907
+    },
+    {
+      "text": "look et the alternate 09 to try to get at",
+      "bbox": [
+        399,
+        439,
+        637,
+        459
+      ],
+      "confidence": 0.3156282999498034
+    },
+    {
+      "text": "maybo we can improve on it from here:",
+      "bbox": [
+        247,
+        459,
+        489,
+        479
+      ],
+      "confidence": 0.5183636246940163
+    },
+    {
+      "text": "By the wey, we recelved 13 more slgnature cards today",
+      "bbox": [
+        100,
+        488,
+        440,
+        514
+      ],
+      "confidence": 0.3103908463648092
+    },
+    {
+      "text": "are nOW Up to 74 respondents who have been sent cigarettes",
+      "bbox": [
+        100,
+        504,
+        474,
+        530
+      ],
+      "confidence": 0.4312803421256776
+    },
+    {
+      "text": "of callbacks thls wbekend:",
+      "bbox": [
+        101,
+        527,
+        267,
+        545
+      ],
+      "confidence": 0.33999068059312193
+    },
+    {
+      "text": "Talk to you Monday:",
+      "bbox": [
+        101,
+        559,
+        233,
+        577
+      ],
+      "confidence": 0.36774335250283496
+    },
+    {
+      "text": "Thanks",
+      "bbox": [
+        239,
+        557,
+        287,
+        573
+      ],
+      "confidence": 0.9736942366352461
+    },
+    {
+      "text": "1",
+      "bbox": [
+        629,
+        809,
+        645,
+        879
+      ],
+      "confidence": 0.3303784746691605
+    },
+    {
+      "text": "41 Kennsia Avenue. Danbunv",
+      "bbox": [
+        119,
+        939,
+        299,
+        955
+      ],
+      "confidence": 0.5437162448874209
+    },
+    {
+      "text": "CT 06810",
+      "bbox": [
+        303,
+        937,
+        365,
+        953
+      ],
+      "confidence": 0.9968918595799825
+    },
+    {
+      "text": "Phone 203 794-0323",
+      "bbox": [
+        373,
+        935,
+        501,
+        953
+      ],
+      "confidence": 0.7632690603876698
+    },
+    {
+      "text": "Fax 203 748-6304",
+      "bbox": [
+        511,
+        933,
+        625,
+        953
+      ],
+      "confidence": 0.7441049744323834
+    },
+    {
+      "text": "and",
+      "bbox": [
+        217,
+        462,
+        245,
+        478
+      ],
+      "confidence": 0.9904196710891541
+    },
+    {
+      "text": "and",
+      "bbox": [
+        437,
+        490,
+        465,
+        506
+      ],
+      "confidence": 0.973137782729557
+    }
+  ]
+}

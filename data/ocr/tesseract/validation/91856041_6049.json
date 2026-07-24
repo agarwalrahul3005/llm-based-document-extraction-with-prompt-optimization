@@ -1,0 +1,554 @@
+{
+  "words": [
+    {
+      "text": "SPECIAL",
+      "bbox": [
+        159,
+        234,
+        257,
+        252
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        266,
+        234,
+        351,
+        251
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "INFORMATION",
+      "bbox": [
+        360,
+        232,
+        538,
+        250
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SHEET",
+      "bbox": [
+        548,
+        232,
+        627,
+        250
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "GENERAL",
+      "bbox": [
+        159,
+        329,
+        242,
+        342
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "INFORMATION:",
+      "bbox": [
+        249,
+        328,
+        381,
+        341
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        159,
+        362,
+        196,
+        372
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        201,
+        362,
+        234,
+        371
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "The",
+      "bbox": [
+        288,
+        361,
+        307,
+        371
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "{39",
+      "bbox": [
+        312,
+        361,
+        330,
+        368
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        159,
+        391,
+        196,
+        401
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "LOCATION:",
+      "bbox": [
+        200,
+        391,
+        260,
+        401
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        317,
+        382,
+        324,
+        407
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "37th",
+      "bbox": [
+        332,
+        382,
+        358,
+        407
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Street,",
+      "bbox": [
+        363,
+        390,
+        408,
+        401
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Sew",
+      "bbox": [
+        417,
+        390,
+        434,
+        399
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "turk,",
+      "bbox": [
+        444,
+        382,
+        478,
+        407
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "WE",
+      "bbox": [
+        484,
+        382,
+        499,
+        407
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        11,
+        413,
+        12,
+        418
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        159,
+        420,
+        196,
+        430
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "3.1995",
+      "bbox": [
+        320,
+        407,
+        368,
+        437
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "HOURS:",
+      "bbox": [
+        159,
+        485,
+        226,
+        497
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        11,
+        552,
+        12,
+        564
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "SATURDAY-SUNDAY",
+      "bbox": [
+        159,
+        547,
+        271,
+        557
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Lan",
+      "bbox": [
+        288,
+        543,
+        313,
+        564
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        319,
+        543,
+        325,
+        564
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        11,
+        566,
+        12,
+        577
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        11,
+        578,
+        13,
+        590
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        11,
+        609,
+        12,
+        623
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "SPECIFICS:",
+      "bbox": [
+        159,
+        613,
+        247,
+        625
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "\u00a9",
+      "bbox": [
+        233,
+        660,
+        244,
+        672
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "4",
+      "bbox": [
+        249,
+        662,
+        255,
+        670
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        260,
+        661,
+        275,
+        671
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "BOOTHIS)",
+      "bbox": [
+        280,
+        661,
+        336,
+        671
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        312,
+        690,
+        319,
+        699
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "PREMIUMS.",
+      "bbox": [
+        324,
+        689,
+        383,
+        699
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "VAN.",
+      "bbox": [
+        522,
+        688,
+        547,
+        698
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "ONLY",
+      "bbox": [
+        313,
+        718,
+        344,
+        727
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "RACING",
+      "bbox": [
+        467,
+        716,
+        527,
+        727
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "CAR",
+      "bbox": [
+        531,
+        716,
+        554,
+        726
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        11,
+        790,
+        12,
+        801
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "SUPERVISOR",
+      "bbox": [
+        160,
+        784,
+        267,
+        796
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "INFORMATION:",
+      "bbox": [
+        275,
+        783,
+        407,
+        795
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        664,
+        776,
+        674,
+        798
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        11,
+        815,
+        12,
+        826
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        160,
+        818,
+        194,
+        827
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        199,
+        818,
+        214,
+        827
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "ALLWAYS",
+      "bbox": [
+        218,
+        817,
+        268,
+        827
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "SUPERVISOR:",
+      "bbox": [
+        273,
+        817,
+        343,
+        827
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Ea",
+      "bbox": [
+        668,
+        808,
+        678,
+        829
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "PHONE",
+      "bbox": [
+        160,
+        846,
+        202,
+        856
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "923-9208",
+      "bbox": [
+        263,
+        844,
+        433,
+        855
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        378,
+        839,
+        390,
+        862
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "BEEPER",
+      "bbox": [
+        393,
+        839,
+        434,
+        862
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "NUIVBER:",
+      "bbox": [
+        438,
+        845,
+        487,
+        854
+      ],
+      "confidence": 53.0
+    }
+  ]
+}

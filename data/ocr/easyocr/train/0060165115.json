@@ -1,0 +1,304 @@
+{
+  "words": [
+    {
+      "text": "INBIFO Institut fur biologische Forschung GmbH",
+      "bbox": [
+        97,
+        111,
+        385,
+        129
+      ],
+      "confidence": 0.9054307049569034
+    },
+    {
+      "text": "Contract Research",
+      "bbox": [
+        487,
+        139,
+        603,
+        153
+      ],
+      "confidence": 0.9982835673504367
+    },
+    {
+      "text": "TELEFAX MESSAGE NO:",
+      "bbox": [
+        97,
+        161,
+        261,
+        177
+      ],
+      "confidence": 0.987177331013803
+    },
+    {
+      "text": "246",
+      "bbox": [
+        302,
+        152,
+        348,
+        176
+      ],
+      "confidence": 0.374771386384964
+    },
+    {
+      "text": "INBIFO Instilul",
+      "bbox": [
+        97,
+        195,
+        157,
+        207
+      ],
+      "confidence": 0.43099212261577496
+    },
+    {
+      "text": "-IBVI",
+      "bbox": [
+        495,
+        213,
+        525,
+        225
+      ],
+      "confidence": 0.4559459861064846
+    },
+    {
+      "text": "DLEY FAX",
+      "bbox": [
+        495,
+        225,
+        557,
+        241
+      ],
+      "confidence": 0.6707415370134231
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        99,
+        263,
+        145,
+        279
+      ],
+      "confidence": 0.9997459111260343
+    },
+    {
+      "text": "28. Apr: 98",
+      "bbox": [
+        267,
+        263,
+        341,
+        279
+      ],
+      "confidence": 0.9848561565632805
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        99,
+        311,
+        149,
+        327
+      ],
+      "confidence": 0.9999368250266828
+    },
+    {
+      "text": "Dr. Wolf Reininghaus",
+      "bbox": [
+        267,
+        311,
+        407,
+        327
+      ],
+      "confidence": 0.7499695391415577
+    },
+    {
+      "text": "12:05",
+      "bbox": [
+        559,
+        337,
+        604,
+        357
+      ],
+      "confidence": 0.9956023219050858
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        99,
+        359,
+        127,
+        375
+      ],
+      "confidence": 0.5665319434577742
+    },
+    {
+      "text": "Dr. Don Leyden;",
+      "bbox": [
+        267,
+        359,
+        377,
+        375
+      ],
+      "confidence": 0.6551583383728412
+    },
+    {
+      "text": "Dept: Scientific Affairs",
+      "bbox": [
+        267,
+        375,
+        423,
+        391
+      ],
+      "confidence": 0.7390527371974914
+    },
+    {
+      "text": "Telefax-",
+      "bbox": [
+        512,
+        398,
+        614,
+        430
+      ],
+      "confidence": 0.9845243018682672
+    },
+    {
+      "text": "ADDRESS:",
+      "bbox": [
+        99,
+        423,
+        177,
+        439
+      ],
+      "confidence": 0.9974646309180402
+    },
+    {
+      "text": "Philip Morris Europe",
+      "bbox": [
+        269,
+        423,
+        401,
+        439
+      ],
+      "confidence": 0.7859835134230989
+    },
+    {
+      "text": "Fabriques de Tabac Reunies SA_",
+      "bbox": [
+        269,
+        439,
+        483,
+        455
+      ],
+      "confidence": 0.9442893358314788
+    },
+    {
+      "text": "Original",
+      "bbox": [
+        510,
+        426,
+        621,
+        466
+      ],
+      "confidence": 0.9998387407717114
+    },
+    {
+      "text": "CH-2003 Neuchatel",
+      "bbox": [
+        269,
+        469,
+        399,
+        485
+      ],
+      "confidence": 0.9982193444375134
+    },
+    {
+      "text": "Ablage",
+      "bbox": [
+        510,
+        450,
+        654,
+        510
+      ],
+      "confidence": 0.9988593428698525
+    },
+    {
+      "text": "Fax no::",
+      "bbox": [
+        269,
+        517,
+        323,
+        533
+      ],
+      "confidence": 0.6968797573565918
+    },
+    {
+      "text": "0041-32-888 5776",
+      "bbox": [
+        335,
+        517,
+        457,
+        533
+      ],
+      "confidence": 0.8400489795512246
+    },
+    {
+      "text": "NUMBER OF FOLLOWING PAGES:",
+      "bbox": [
+        101,
+        563,
+        339,
+        581
+      ],
+      "confidence": 0.9233375291205416
+    },
+    {
+      "text": "Re_",
+      "bbox": [
+        101,
+        629,
+        125,
+        645
+      ],
+      "confidence": 0.9999824495142035
+    },
+    {
+      "text": "TPMINicotine ratio",
+      "bbox": [
+        137,
+        627,
+        279,
+        645
+      ],
+      "confidence": 0.9901572020277675
+    },
+    {
+      "text": "For your informationl",
+      "bbox": [
+        101,
+        670,
+        260,
+        691
+      ],
+      "confidence": 0.8003059327717441
+    },
+    {
+      "text": "1",
+      "bbox": [
+        663,
+        803,
+        683,
+        895
+      ],
+      "confidence": 0.38061704940906793
+    },
+    {
+      "text": "98-04-28",
+      "bbox": [
+        484,
+        326,
+        556,
+        352
+      ],
+      "confidence": 0.9999787157476783
+    }
+  ]
+}

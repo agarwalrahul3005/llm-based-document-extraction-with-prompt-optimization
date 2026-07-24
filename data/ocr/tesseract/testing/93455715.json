@@ -1,0 +1,1364 @@
+{
+  "words": [
+    {
+      "text": "COMPETITIVE",
+      "bbox": [
+        251,
+        72,
+        329,
+        83
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "ACTIVITIES",
+      "bbox": [
+        338,
+        72,
+        410,
+        84
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "KD",
+      "bbox": [
+        418,
+        74,
+        439,
+        85
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "PROMOTIOKS",
+      "bbox": [
+        448,
+        75,
+        519,
+        86
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "REPORTED",
+      "bbox": [
+        68,
+        143,
+        126,
+        154
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        135,
+        144,
+        153,
+        155
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "E.",
+      "bbox": [
+        214,
+        144,
+        229,
+        153
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Klein,",
+      "bbox": [
+        241,
+        143,
+        290,
+        154
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Regional",
+      "bbox": [
+        302,
+        142,
+        370,
+        155
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Sales",
+      "bbox": [
+        381,
+        143,
+        423,
+        153
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Manager,",
+      "bbox": [
+        432,
+        144,
+        499,
+        156
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Cleveland,",
+      "bbox": [
+        511,
+        144,
+        595,
+        155
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "DATE:_",
+      "bbox": [
+        69,
+        187,
+        102,
+        198
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "4/7/88",
+      "bbox": [
+        121,
+        187,
+        171,
+        198
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "SOURCE",
+      "bbox": [
+        69,
+        231,
+        111,
+        242
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        120,
+        231,
+        133,
+        242
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Cigarette",
+      "bbox": [
+        295,
+        231,
+        372,
+        243
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Co.,",
+      "bbox": [
+        382,
+        232,
+        414,
+        243
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Mentor,",
+      "bbox": [
+        425,
+        232,
+        483,
+        243
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OH",
+      "bbox": [
+        495,
+        232,
+        511,
+        242
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Cove",
+      "bbox": [
+        381,
+        229,
+        417,
+        259
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Mentor,",
+      "bbox": [
+        426,
+        229,
+        487,
+        259
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "OB",
+      "bbox": [
+        496,
+        245,
+        636,
+        252
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "MANUFACTURERS:",
+      "bbox": [
+        68,
+        274,
+        171,
+        286
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "J+",
+      "bbox": [
+        224,
+        276,
+        238,
+        285
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "REYNOLDS",
+      "bbox": [
+        251,
+        275,
+        319,
+        285
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        328,
+        276,
+        355,
+        285
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PHILIP",
+      "bbox": [
+        364,
+        276,
+        415,
+        286
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "MORRIS",
+      "bbox": [
+        424,
+        277,
+        476,
+        286
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "J+",
+      "bbox": [
+        222,
+        272,
+        240,
+        302
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "REYNOLDS",
+      "bbox": [
+        250,
+        272,
+        320,
+        302
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        327,
+        272,
+        355,
+        302
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "PHTLTP",
+      "bbox": [
+        362,
+        272,
+        418,
+        302
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "MORRIS",
+      "bbox": [
+        425,
+        272,
+        480,
+        302
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "SS",
+      "bbox": [
+        176,
+        332,
+        635,
+        340
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "TYPE",
+      "bbox": [
+        67,
+        361,
+        95,
+        372
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        104,
+        362,
+        117,
+        372
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "PROMOTION:",
+      "bbox": [
+        126,
+        362,
+        195,
+        373
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "cee",
+      "bbox": [
+        216,
+        368,
+        240,
+        378
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "COPRESPANDENCE",
+      "bbox": [
+        329,
+        370,
+        450,
+        381
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "REGARDING:",
+      "bbox": [
+        460,
+        372,
+        544,
+        382
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "R,_J.",
+      "bbox": [
+        216,
+        395,
+        255,
+        404
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "REYNOLDS",
+      "bbox": [
+        268,
+        395,
+        336,
+        404
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "SPRING",
+      "bbox": [
+        346,
+        395,
+        398,
+        405
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DIRECT",
+      "bbox": [
+        407,
+        396,
+        458,
+        406
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ACCOUNT",
+      "bbox": [
+        468,
+        397,
+        528,
+        406
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "INCENTIVE",
+      "bbox": [
+        538,
+        397,
+        615,
+        407
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PROGRAM",
+      "bbox": [
+        625,
+        398,
+        686,
+        407
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Philip",
+      "bbox": [
+        215,
+        422,
+        257,
+        433
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Morris",
+      "bbox": [
+        276,
+        424,
+        328,
+        433
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        338,
+        428,
+        345,
+        430
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "SPECIAL",
+      "bbox": [
+        355,
+        424,
+        415,
+        434
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PROMOTIONS",
+      "bbox": [
+        425,
+        425,
+        510,
+        435
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ON",
+      "bbox": [
+        520,
+        426,
+        537,
+        436
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "MAXLBORO",
+      "bbox": [
+        546,
+        426,
+        616,
+        436
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        625,
+        427,
+        651,
+        436
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "CAMBRIDGE",
+      "bbox": [
+        355,
+        454,
+        432,
+        464
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "CIGARETTES",
+      "bbox": [
+        442,
+        455,
+        528,
+        464
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "canis",
+      "bbox": [
+        65,
+        461,
+        662,
+        472
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "HOW",
+      "bbox": [
+        66,
+        492,
+        87,
+        503
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "WIDESPREAD?",
+      "bbox": [
+        95,
+        493,
+        173,
+        504
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        174,
+        506,
+        662,
+        516
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        65,
+        536,
+        100,
+        547
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "COMMENTS:",
+      "bbox": [
+        109,
+        536,
+        171,
+        548
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        173,
+        550,
+        661,
+        559
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        64,
+        577,
+        661,
+        588
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "eS",
+      "bbox": [
+        63,
+        634,
+        660,
+        646
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "ce:",
+      "bbox": [
+        63,
+        725,
+        82,
+        733
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        106,
+        723,
+        125,
+        733
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        135,
+        723,
+        147,
+        734
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        157,
+        724,
+        168,
+        734
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Ave",
+      "bbox": [
+        178,
+        724,
+        199,
+        735
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        287,
+        726,
+        307,
+        737
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "T.",
+      "bbox": [
+        317,
+        726,
+        329,
+        737
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Le",
+      "bbox": [
+        339,
+        727,
+        351,
+        737
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Achey",
+      "bbox": [
+        360,
+        727,
+        396,
+        740
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        106,
+        737,
+        125,
+        748
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "HL",
+      "bbox": [
+        156,
+        738,
+        168,
+        748
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Orcutt",
+      "bbox": [
+        178,
+        738,
+        221,
+        749
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        287,
+        740,
+        307,
+        751
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "PL",
+      "bbox": [
+        317,
+        740,
+        328,
+        751
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        338,
+        741,
+        350,
+        751
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        105,
+        751,
+        124,
+        762
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "HL",
+      "bbox": [
+        134,
+        752,
+        146,
+        763
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "AL",
+      "bbox": [
+        156,
+        752,
+        168,
+        763
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Peterson",
+      "bbox": [
+        178,
+        752,
+        235,
+        764
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Hr.",
+      "bbox": [
+        286,
+        754,
+        306,
+        765
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "AL",
+      "bbox": [
+        316,
+        754,
+        328,
+        766
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        338,
+        755,
+        350,
+        766
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Glacoto",
+      "bbox": [
+        360,
+        755,
+        410,
+        767
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "HL",
+      "bbox": [
+        156,
+        767,
+        167,
+        777
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "Maw",
+      "bbox": [
+        177,
+        767,
+        198,
+        778
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Bre",
+      "bbox": [
+        286,
+        769,
+        306,
+        779
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Kersh",
+      "bbox": [
+        360,
+        770,
+        395,
+        781
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Ms.",
+      "bbox": [
+        105,
+        780,
+        124,
+        790
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "S.",
+      "bbox": [
+        134,
+        780,
+        146,
+        791
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Ridgway",
+      "bbox": [
+        156,
+        781,
+        206,
+        795
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        286,
+        783,
+        305,
+        794
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Ryan",
+      "bbox": [
+        360,
+        784,
+        387,
+        797
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "wr.",
+      "bbox": [
+        104,
+        794,
+        124,
+        805
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "J.P,",
+      "bbox": [
+        133,
+        795,
+        167,
+        806
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Mastendrea",
+      "bbox": [
+        176,
+        796,
+        248,
+        807
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "fir.",
+      "bbox": [
+        285,
+        797,
+        305,
+        808
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "P,",
+      "bbox": [
+        315,
+        798,
+        327,
+        809
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        336,
+        798,
+        349,
+        809
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Lawless",
+      "bbox": [
+        359,
+        798,
+        408,
+        810
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Hr.",
+      "bbox": [
+        104,
+        808,
+        124,
+        819
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Gordon",
+      "bbox": [
+        155,
+        809,
+        197,
+        820
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        285,
+        811,
+        305,
+        822
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        315,
+        812,
+        327,
+        822
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "EL",
+      "bbox": [
+        337,
+        812,
+        348,
+        823
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "ian",
+      "bbox": [
+        397,
+        813,
+        416,
+        824
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        682,
+        813,
+        695,
+        832
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Hr.",
+      "bbox": [
+        104,
+        822,
+        123,
+        833
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "6.",
+      "bbox": [
+        133,
+        823,
+        145,
+        834
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        155,
+        823,
+        166,
+        834
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Telford",
+      "bbox": [
+        176,
+        824,
+        226,
+        835
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Hr.",
+      "bbox": [
+        285,
+        826,
+        304,
+        836
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "S.",
+      "bbox": [
+        336,
+        826,
+        348,
+        837
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Goldbrenner",
+      "bbox": [
+        358,
+        826,
+        438,
+        838
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Or.",
+      "bbox": [
+        104,
+        836,
+        123,
+        847
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "S.",
+      "bbox": [
+        133,
+        837,
+        144,
+        848
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "1.",
+      "bbox": [
+        154,
+        837,
+        166,
+        848
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Jones",
+      "bbox": [
+        176,
+        838,
+        211,
+        849
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Ms.",
+      "bbox": [
+        284,
+        840,
+        304,
+        851
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "E.R.",
+      "bbox": [
+        314,
+        840,
+        348,
+        851
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Harrow",
+      "bbox": [
+        358,
+        841,
+        401,
+        852
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "tir.",
+      "bbox": [
+        103,
+        851,
+        122,
+        862
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Totd",
+      "bbox": [
+        154,
+        852,
+        181,
+        863
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Ms.",
+      "bbox": [
+        284,
+        854,
+        304,
+        865
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Smith",
+      "bbox": [
+        357,
+        855,
+        393,
+        866
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Mr.",
+      "bbox": [
+        103,
+        865,
+        122,
+        876
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "Ruffalo",
+      "bbox": [
+        176,
+        866,
+        225,
+        878
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        682,
+        879,
+        695,
+        884
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        682,
+        889,
+        695,
+        899
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        715,
+        992,
+        719,
+        999
+      ],
+      "confidence": 35.0
+    }
+  ]
+}

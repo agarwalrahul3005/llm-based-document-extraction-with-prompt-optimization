@@ -1,0 +1,1224 @@
+{
+  "words": [
+    {
+      "text": "AME",
+      "bbox": [
+        79,
+        85,
+        144,
+        105
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        543,
+        88,
+        611,
+        104
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        77,
+        106,
+        150,
+        124
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "5",
+      "bbox": [
+        30,
+        120,
+        33,
+        130
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": ">",
+      "bbox": [
+        78,
+        126,
+        82,
+        130
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "COUPON",
+      "bbox": [
+        194,
+        116,
+        251,
+        143
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        257,
+        116,
+        289,
+        143
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "REGISTRATION",
+      "bbox": [
+        295,
+        116,
+        381,
+        143
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        387,
+        116,
+        424,
+        143
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "q",
+      "bbox": [
+        470,
+        130,
+        483,
+        158
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "ey",
+      "bbox": [
+        488,
+        121,
+        544,
+        154
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        30,
+        160,
+        33,
+        162
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        99,
+        148,
+        141,
+        169
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "MICHELLE",
+      "bbox": [
+        205,
+        153,
+        265,
+        163
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        98,
+        179,
+        126,
+        200
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "VM.",
+      "bbox": [
+        205,
+        184,
+        230,
+        194
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        22,
+        218,
+        24,
+        220
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "co:",
+      "bbox": [
+        98,
+        196,
+        126,
+        233
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "S.A",
+      "bbox": [
+        205,
+        215,
+        228,
+        224
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "RAPISARLDI",
+      "bbox": [
+        233,
+        215,
+        302,
+        230
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        284,
+        224,
+        294,
+        251
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Cu.",
+      "bbox": [
+        322,
+        228,
+        351,
+        244
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "McGLYAD.",
+      "bbox": [
+        355,
+        217,
+        416,
+        252
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        418,
+        238,
+        424,
+        241
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "K.P,",
+      "bbox": [
+        205,
+        246,
+        227,
+        256
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "\"=",
+      "bbox": [
+        82,
+        275,
+        107,
+        285
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "BRAND(S)",
+      "bbox": [
+        114,
+        271,
+        172,
+        295
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "APPLICABLE",
+      "bbox": [
+        178,
+        271,
+        247,
+        295
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "TRUE",
+      "bbox": [
+        333,
+        276,
+        370,
+        297
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        599,
+        293,
+        601,
+        295
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "MEDIA",
+      "bbox": [
+        114,
+        310,
+        151,
+        319
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "TYPE",
+      "bbox": [
+        155,
+        310,
+        185,
+        320
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "SALES",
+      "bbox": [
+        337,
+        312,
+        375,
+        322
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "FORCE",
+      "bbox": [
+        379,
+        312,
+        419,
+        322
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "APPLIED",
+      "bbox": [
+        422,
+        312,
+        472,
+        322
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        476,
+        318,
+        482,
+        320
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "IAG",
+      "bbox": [
+        486,
+        313,
+        506,
+        323
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        99,
+        345,
+        106,
+        348
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "MEDIA",
+      "bbox": [
+        113,
+        341,
+        151,
+        350
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        154,
+        342,
+        188,
+        351
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        99,
+        376,
+        106,
+        378
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "ISSUE",
+      "bbox": [
+        112,
+        372,
+        148,
+        381
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "FREQUENCYIYEAA",
+      "bbox": [
+        152,
+        372,
+        262,
+        383
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "SPACEICOLOR",
+      "bbox": [
+        112,
+        403,
+        197,
+        413
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        627,
+        407,
+        630,
+        410
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        98,
+        439,
+        104,
+        441
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "COUPON",
+      "bbox": [
+        112,
+        434,
+        163,
+        444
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "ISSUE",
+      "bbox": [
+        167,
+        434,
+        202,
+        444
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        205,
+        435,
+        237,
+        445
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "MAY",
+      "bbox": [
+        335,
+        436,
+        361,
+        446
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "1992",
+      "bbox": [
+        365,
+        437,
+        391,
+        446
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        97,
+        470,
+        104,
+        472
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "COUPON",
+      "bbox": [
+        111,
+        465,
+        162,
+        475
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "EXPIRATION",
+      "bbox": [
+        167,
+        466,
+        237,
+        476
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        242,
+        467,
+        273,
+        476
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        96,
+        501,
+        103,
+        503
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "CIRCULATION",
+      "bbox": [
+        110,
+        496,
+        190,
+        506
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "660,000",
+      "bbox": [
+        334,
+        498,
+        377,
+        508
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        96,
+        532,
+        103,
+        534
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "GEOGRAPHICAL",
+      "bbox": [
+        110,
+        527,
+        204,
+        537
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "ARENS)",
+      "bbox": [
+        207,
+        528,
+        255,
+        540
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "TRUE",
+      "bbox": [
+        329,
+        513,
+        365,
+        549
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "CORE",
+      "bbox": [
+        371,
+        529,
+        401,
+        539
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "MARKETS",
+      "bbox": [
+        407,
+        530,
+        463,
+        540
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        470,
+        531,
+        472,
+        534
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        96,
+        563,
+        102,
+        565
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "COUPON",
+      "bbox": [
+        109,
+        558,
+        161,
+        568
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "VALUE",
+      "bbox": [
+        165,
+        559,
+        203,
+        568
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "se",
+      "bbox": [
+        333,
+        560,
+        352,
+        569
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        95,
+        594,
+        102,
+        596
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        109,
+        589,
+        141,
+        598
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "ANDIOR",
+      "bbox": [
+        144,
+        589,
+        189,
+        599
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "CARTON",
+      "bbox": [
+        194,
+        589,
+        244,
+        599
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "PAGK",
+      "bbox": [
+        333,
+        591,
+        364,
+        600
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        95,
+        625,
+        101,
+        627
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "\u201cADVERTISING",
+      "bbox": [
+        110,
+        620,
+        194,
+        630
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "CREATIVE",
+      "bbox": [
+        198,
+        621,
+        258,
+        631
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "TITLE",
+      "bbox": [
+        262,
+        622,
+        293,
+        631
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        94,
+        671,
+        100,
+        673
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "SIGNATURE",
+      "bbox": [
+        107,
+        666,
+        258,
+        677
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        183,
+        652,
+        195,
+        685
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "INMIATOA",
+      "bbox": [
+        202,
+        666,
+        258,
+        677
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Van",
+      "bbox": [
+        327,
+        660,
+        376,
+        682
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "pen",
+      "bbox": [
+        491,
+        673,
+        539,
+        688
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        93,
+        702,
+        100,
+        704
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        107,
+        698,
+        138,
+        707
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "JANUARY",
+      "bbox": [
+        330,
+        699,
+        386,
+        709
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        390,
+        700,
+        398,
+        710
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "1982",
+      "bbox": [
+        403,
+        700,
+        429,
+        709
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "ANALYTICAL",
+      "bbox": [
+        92,
+        728,
+        165,
+        741
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "REQUIREMENTS:",
+      "bbox": [
+        172,
+        729,
+        268,
+        742
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "\u201cTRUE",
+      "bbox": [
+        93,
+        760,
+        135,
+        770
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "CORE",
+      "bbox": [
+        138,
+        760,
+        172,
+        770
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "AREAS:",
+      "bbox": [
+        175,
+        761,
+        215,
+        773
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "\u2018TOTAL",
+      "bbox": [
+        91,
+        809,
+        119,
+        817
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "BOSTON,",
+      "bbox": [
+        122,
+        810,
+        158,
+        817
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "\u2018CAMDEN",
+      "bbox": [
+        202,
+        804,
+        248,
+        824
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "FOR",
+      "bbox": [
+        329,
+        809,
+        353,
+        819
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "CONTROL",
+      "bbox": [
+        357,
+        809,
+        415,
+        819
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "USE",
+      "bbox": [
+        418,
+        809,
+        442,
+        819
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ONLY:",
+      "bbox": [
+        446,
+        810,
+        481,
+        820
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        603,
+        812,
+        614,
+        827
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "CONCORD",
+      "bbox": [
+        203,
+        820,
+        257,
+        840
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "we",
+      "bbox": [
+        486,
+        825,
+        514,
+        849
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        603,
+        829,
+        614,
+        844
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Tom",
+      "bbox": [
+        90,
+        822,
+        116,
+        858
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "ASSIGNED:",
+      "bbox": [
+        366,
+        841,
+        429,
+        849
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        521,
+        849,
+        523,
+        851
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Ey",
+      "bbox": [
+        604,
+        845,
+        614,
+        852
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "BALTIMORE",
+      "bbox": [
+        206,
+        857,
+        257,
+        864
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "N",
+      "bbox": [
+        355,
+        856,
+        363,
+        864
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Pi",
+      "bbox": [
+        394,
+        847,
+        408,
+        873
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "PORTLAND,",
+      "bbox": [
+        206,
+        872,
+        256,
+        880
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "YN",
+      "bbox": [
+        424,
+        867,
+        439,
+        887
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "nd",
+      "bbox": [
+        604,
+        870,
+        614,
+        876
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        90,
+        886,
+        118,
+        894
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "PHILADELPHIA",
+      "bbox": [
+        121,
+        887,
+        182,
+        895
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        191,
+        881,
+        200,
+        901
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        206,
+        881,
+        233,
+        901
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "DETROIT",
+      "bbox": [
+        237,
+        881,
+        274,
+        901
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Tora",
+      "bbox": [
+        188,
+        884,
+        227,
+        920
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "DS",
+      "bbox": [
+        296,
+        884,
+        311,
+        920
+      ],
+      "confidence": 33.0
+    }
+  ]
+}

@@ -1,0 +1,624 @@
+{
+  "words": [
+    {
+      "text": ":",
+      "bbox": [
+        40,
+        112,
+        41,
+        115
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        97,
+        118,
+        119,
+        129
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "SPELL",
+      "bbox": [
+        219,
+        119,
+        260,
+        130
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        38,
+        138,
+        42,
+        160
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "7",
+      "bbox": [
+        60,
+        140,
+        63,
+        142
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        98,
+        146,
+        138,
+        157
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "may27",
+      "bbox": [
+        453,
+        149,
+        503,
+        160
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "[7]",
+      "bbox": [
+        521,
+        167,
+        547,
+        185
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "ocro7",
+      "bbox": [
+        581,
+        170,
+        631,
+        181
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "[7]",
+      "bbox": [
+        642,
+        168,
+        668,
+        186
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        97,
+        198,
+        160,
+        210
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "MAVERIGK",
+      "bbox": [
+        187,
+        200,
+        260,
+        213
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "SPECIALS",
+      "bbox": [
+        264,
+        200,
+        333,
+        214
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        339,
+        206,
+        343,
+        208
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PROGRESS",
+      "bbox": [
+        348,
+        201,
+        426,
+        215
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "REPORT",
+      "bbox": [
+        432,
+        201,
+        488,
+        215
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        34,
+        232,
+        41,
+        249
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        95,
+        233,
+        667,
+        241
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        34,
+        275,
+        40,
+        292
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "GF.",
+      "bbox": [
+        221,
+        264,
+        242,
+        298
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        447,
+        282,
+        454,
+        288
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "\u2018Mavorickitarley",
+      "bbox": [
+        463,
+        272,
+        586,
+        291
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "og",
+      "bbox": [
+        28,
+        281,
+        44,
+        314
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "(Report",
+      "bbox": [
+        102,
+        294,
+        151,
+        308
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        156,
+        297,
+        172,
+        306
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "May",
+      "bbox": [
+        178,
+        295,
+        205,
+        308
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "27",
+      "bbox": [
+        210,
+        295,
+        226,
+        306
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "only)",
+      "bbox": [
+        231,
+        295,
+        263,
+        309
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        36,
+        300,
+        40,
+        332
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "PRE-SELL",
+      "bbox": [
+        97,
+        315,
+        164,
+        327
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "4q",
+      "bbox": [
+        34,
+        331,
+        40,
+        344
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        94,
+        351,
+        99,
+        353
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        331,
+        353,
+        405,
+        355
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "BOOKLET/COUPON",
+      "bbox": [
+        96,
+        453,
+        230,
+        482
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        330,
+        477,
+        334,
+        479
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "MAVERICK/HARLEY",
+      "bbox": [
+        95,
+        608,
+        230,
+        620
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "B1G1F",
+      "bbox": [
+        235,
+        608,
+        279,
+        619
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        389,
+        623,
+        394,
+        625
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "ONAL",
+      "bbox": [
+        272,
+        738,
+        311,
+        770
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "{Report",
+      "bbox": [
+        100,
+        767,
+        150,
+        780
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        154,
+        770,
+        171,
+        778
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "May",
+      "bbox": [
+        177,
+        767,
+        204,
+        781
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "27",
+      "bbox": [
+        208,
+        768,
+        224,
+        778
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "onty)",
+      "bbox": [
+        229,
+        768,
+        261,
+        781
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Fy",
+      "bbox": [
+        689,
+        769,
+        698,
+        784
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "\u2018Average",
+      "bbox": [
+        94,
+        790,
+        144,
+        803
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Cupon/Buydown",
+      "bbox": [
+        148,
+        789,
+        256,
+        803
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Value",
+      "bbox": [
+        260,
+        790,
+        294,
+        801
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "On",
+      "bbox": [
+        298,
+        790,
+        315,
+        802
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Targeted",
+      "bbox": [
+        319,
+        791,
+        373,
+        804
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Brands",
+      "bbox": [
+        377,
+        791,
+        419,
+        802
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        690,
+        811,
+        699,
+        825
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "-.",
+      "bbox": [
+        23,
+        833,
+        52,
+        842
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        285,
+        808,
+        296,
+        847
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "[J",
+      "bbox": [
+        310,
+        822,
+        376,
+        840
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "5",
+      "bbox": [
+        690,
+        827,
+        700,
+        833
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "cantons",
+      "bbox": [
+        218,
+        855,
+        281,
+        867
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "J",
+      "bbox": [
+        355,
+        854,
+        376,
+        872
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "1",
+      "bbox": [
+        653,
+        910,
+        657,
+        921
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "of3",
+      "bbox": [
+        667,
+        910,
+        689,
+        921
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "te",
+      "bbox": [
+        566,
+        932,
+        654,
+        971
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "ce",
+      "bbox": [
+        695,
+        954,
+        719,
+        962
+      ],
+      "confidence": 32.0
+    }
+  ]
+}

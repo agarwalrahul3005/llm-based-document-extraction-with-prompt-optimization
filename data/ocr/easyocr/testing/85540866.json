@@ -1,0 +1,124 @@
+{
+  "words": [
+    {
+      "text": "MEDIA CONTACT SHEET",
+      "bbox": [
+        234,
+        86,
+        538,
+        116
+      ],
+      "confidence": 0.6818911276128876
+    },
+    {
+      "text": "(Publlcatlon or statlon)",
+      "bbox": [
+        55,
+        151,
+        193,
+        169
+      ],
+      "confidence": 0.7442603527547094
+    },
+    {
+      "text": "(Locallon/address)",
+      "bbox": [
+        409,
+        155,
+        525,
+        171
+      ],
+      "confidence": 0.9688656550661119
+    },
+    {
+      "text": "(Name)",
+      "bbox": [
+        53,
+        189,
+        103,
+        205
+      ],
+      "confidence": 0.9994503925084177
+    },
+    {
+      "text": "(Positlon)",
+      "bbox": [
+        409,
+        191,
+        471,
+        207
+      ],
+      "confidence": 0.9943438315224902
+    },
+    {
+      "text": "(Date)",
+      "bbox": [
+        55,
+        227,
+        97,
+        241
+      ],
+      "confidence": 0.9873185226341407
+    },
+    {
+      "text": "(Phone number)",
+      "bbox": [
+        409,
+        229,
+        509,
+        245
+      ],
+      "confidence": 0.9997478958261027
+    },
+    {
+      "text": "Reason tor Contact",
+      "bbox": [
+        55,
+        261,
+        195,
+        279
+      ],
+      "confidence": 0.7917474525275963
+    },
+    {
+      "text": "Questions/Responses",
+      "bbox": [
+        55,
+        424,
+        213,
+        444
+      ],
+      "confidence": 0.9999346345972457
+    },
+    {
+      "text": "Additional Comments",
+      "bbox": [
+        53,
+        761,
+        213,
+        779
+      ],
+      "confidence": 0.8853592547976906
+    },
+    {
+      "text": "Inquiry handled by:",
+      "bbox": [
+        53,
+        953,
+        195,
+        973
+      ],
+      "confidence": 0.9927411972402062
+    },
+    {
+      "text": "(Name)",
+      "bbox": [
+        212,
+        968,
+        261,
+        985
+      ],
+      "confidence": 0.9999352724342636
+    }
+  ]
+}

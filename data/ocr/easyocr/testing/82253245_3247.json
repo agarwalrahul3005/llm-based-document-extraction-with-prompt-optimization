@@ -1,0 +1,704 @@
+{
+  "words": [
+    {
+      "text": "To:",
+      "bbox": [
+        39,
+        95,
+        61,
+        109
+      ],
+      "confidence": 0.6239726630519147
+    },
+    {
+      "text": "Spartow",
+      "bbox": [
+        211,
+        95,
+        255,
+        109
+      ],
+      "confidence": 0.5271276507591109
+    },
+    {
+      "text": "SUBMISSION DATE",
+      "bbox": [
+        503,
+        97,
+        607,
+        109
+      ],
+      "confidence": 0.9986963118731335
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        39,
+        125,
+        77,
+        137
+      ],
+      "confidence": 0.9934809462293089
+    },
+    {
+      "text": "Lane",
+      "bbox": [
+        212,
+        126,
+        236,
+        134
+      ],
+      "confidence": 0.8207632899284363
+    },
+    {
+      "text": "SEP 22",
+      "bbox": [
+        555,
+        125,
+        595,
+        139
+      ],
+      "confidence": 0.9980313347463546
+    },
+    {
+      "text": "AUG 11",
+      "bbox": [
+        431,
+        153,
+        473,
+        167
+      ],
+      "confidence": 0.7974751264539408
+    },
+    {
+      "text": "NOV 10",
+      "bbox": [
+        553,
+        155,
+        595,
+        167
+      ],
+      "confidence": 0.7110498583474429
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        39,
+        183,
+        93,
+        197
+      ],
+      "confidence": 0.9613739899320278
+    },
+    {
+      "text": "SIYLELQW PRICE",
+      "bbox": [
+        183,
+        183,
+        285,
+        197
+      ],
+      "confidence": 0.5459433931186584
+    },
+    {
+      "text": "PROCRES: REPORI",
+      "bbox": [
+        291,
+        183,
+        403,
+        197
+      ],
+      "confidence": 0.49898433598625436
+    },
+    {
+      "text": "EFFECTIVENESS OF: Iransltion Plan.",
+      "bbox": [
+        241,
+        207,
+        435,
+        221
+      ],
+      "confidence": 0.5889872670207137
+    },
+    {
+      "text": "(Repoit",
+      "bbox": [
+        39,
+        223,
+        79,
+        237
+      ],
+      "confidence": 0.4127942079252163
+    },
+    {
+      "text": "only)",
+      "bbox": [
+        133,
+        223,
+        161,
+        237
+      ],
+      "confidence": 0.6812809550128773
+    },
+    {
+      "text": "PRE-SELL",
+      "bbox": [
+        39,
+        237,
+        95,
+        251
+      ],
+      "confidence": 0.9978642181911971
+    },
+    {
+      "text": "Overall pre-sell emorts wefe successiul;,",
+      "bbox": [
+        183,
+        237,
+        373,
+        249
+      ],
+      "confidence": 0.3859084993570225
+    },
+    {
+      "text": "Relal",
+      "bbox": [
+        377,
+        237,
+        403,
+        249
+      ],
+      "confidence": 0.8683983405983948
+    },
+    {
+      "text": "acccunts hat prevlously stocked",
+      "bbox": [
+        407,
+        236,
+        565,
+        250
+      ],
+      "confidence": 0.3992677336152278
+    },
+    {
+      "text": "Style Full Prlce accepted the Introducticn of the lovt price:",
+      "bbox": [
+        39,
+        251,
+        313,
+        265
+      ],
+      "confidence": 0.470134810202418
+    },
+    {
+      "text": "BIGIF / 2 FOR 1:",
+      "bbox": [
+        39,
+        295,
+        125,
+        309
+      ],
+      "confidence": 0.77656065726439
+    },
+    {
+      "text": "Proved to be an excellent",
+      "bbox": [
+        183,
+        295,
+        307,
+        309
+      ],
+      "confidence": 0.7599472670028028
+    },
+    {
+      "text": "for pulling the balance",
+      "bbox": [
+        325,
+        295,
+        435,
+        309
+      ],
+      "confidence": 0.9708598675278654
+    },
+    {
+      "text": "Style Full Price pecks through _",
+      "bbox": [
+        447,
+        294,
+        593,
+        310
+      ],
+      "confidence": 0.36947007627760403
+    },
+    {
+      "text": "the syatem",
+      "bbox": [
+        39,
+        311,
+        95,
+        323
+      ],
+      "confidence": 0.7531268167884918
+    },
+    {
+      "text": "Thls alded the fleld grcatly duiing the tansition",
+      "bbox": [
+        101,
+        309,
+        329,
+        323
+      ],
+      "confidence": 0.3661818948530831
+    },
+    {
+      "text": "57.00 CARTON COUPONIBUYDOWN:",
+      "bbox": [
+        39,
+        352,
+        231,
+        367
+      ],
+      "confidence": 0.9296687187918522
+    },
+    {
+      "text": "Effcctive",
+      "bbox": [
+        249,
+        353,
+        295,
+        367
+      ],
+      "confidence": 0.4571526556638903
+    },
+    {
+      "text": "those",
+      "bbox": [
+        305,
+        353,
+        335,
+        367
+      ],
+      "confidence": 0.5199417497488085
+    },
+    {
+      "text": "not oxchange product out o",
+      "bbox": [
+        451,
+        353,
+        591,
+        367
+      ],
+      "confidence": 0.6778199154142971
+    },
+    {
+      "text": "Thcse situations were Iimited",
+      "bbox": [
+        39,
+        369,
+        181,
+        381
+      ],
+      "confidence": 0.46615733985492336
+    },
+    {
+      "text": "DIISTRIBUTION:",
+      "bbox": [
+        147,
+        411,
+        229,
+        425
+      ],
+      "confidence": 0.5112309055821487
+    },
+    {
+      "text": "L15",
+      "bbox": [
+        37,
+        441,
+        59,
+        455
+      ],
+      "confidence": 0.30137044040484856
+    },
+    {
+      "text": "INDILOR",
+      "bbox": [
+        191,
+        465,
+        241,
+        479
+      ],
+      "confidence": 0.9827717083661202
+    },
+    {
+      "text": "No. OF",
+      "bbox": [
+        259,
+        463,
+        303,
+        479
+      ],
+      "confidence": 0.5536040518482565
+    },
+    {
+      "text": "INDILOR",
+      "bbox": [
+        481,
+        465,
+        531,
+        479
+      ],
+      "confidence": 0.9952534468549835
+    },
+    {
+      "text": "NO\" OF",
+      "bbox": [
+        547,
+        465,
+        593,
+        479
+      ],
+      "confidence": 0.5493809588175895
+    },
+    {
+      "text": "NAME QF",
+      "bbox": [
+        55,
+        479,
+        109,
+        495
+      ],
+      "confidence": 0.3273340793195842
+    },
+    {
+      "text": "CcoUNT",
+      "bbox": [
+        117,
+        479,
+        165,
+        493
+      ],
+      "confidence": 0.3474321530082005
+    },
+    {
+      "text": "VOLUME",
+      "bbox": [
+        191,
+        479,
+        241,
+        493
+      ],
+      "confidence": 0.9642276461108026
+    },
+    {
+      "text": "STORES",
+      "bbox": [
+        259,
+        479,
+        305,
+        493
+      ],
+      "confidence": 0.9954947546961038
+    },
+    {
+      "text": "NAME OF ACCOUNT",
+      "bbox": [
+        349,
+        479,
+        459,
+        493
+      ],
+      "confidence": 0.825680273084319
+    },
+    {
+      "text": "VOLUME",
+      "bbox": [
+        481,
+        479,
+        531,
+        493
+      ],
+      "confidence": 0.8519806007446956
+    },
+    {
+      "text": "STORES",
+      "bbox": [
+        547,
+        479,
+        595,
+        493
+      ],
+      "confidence": 0.9982347900144254
+    },
+    {
+      "text": "Sons",
+      "bbox": [
+        108,
+        498,
+        134,
+        506
+      ],
+      "confidence": 0.909521222114563
+    },
+    {
+      "text": "Pollock Candy and Cigar",
+      "bbox": [
+        39,
+        513,
+        169,
+        527
+      ],
+      "confidence": 0.5491899458016662
+    },
+    {
+      "text": "McKeesport Candy Co",
+      "bbox": [
+        39,
+        529,
+        155,
+        543
+      ],
+      "confidence": 0.6943850802190792
+    },
+    {
+      "text": "104/22",
+      "bbox": [
+        199,
+        545,
+        235,
+        559
+      ],
+      "confidence": 0.9456284944880177
+    },
+    {
+      "text": "521/42",
+      "bbox": [
+        197,
+        563,
+        235,
+        575
+      ],
+      "confidence": 0.6651016491135308
+    },
+    {
+      "text": "ThIUEckerd",
+      "bbox": [
+        39,
+        579,
+        109,
+        593
+      ],
+      "confidence": 0.6219717220428749
+    },
+    {
+      "text": "137420",
+      "bbox": [
+        200,
+        580,
+        232,
+        588
+      ],
+      "confidence": 0.6268108439621627
+    },
+    {
+      "text": "INDILOR",
+      "bbox": [
+        191,
+        695,
+        239,
+        709
+      ],
+      "confidence": 0.8948256964639508
+    },
+    {
+      "text": "NO: OF",
+      "bbox": [
+        257,
+        695,
+        301,
+        709
+      ],
+      "confidence": 0.555939640703562
+    },
+    {
+      "text": "INDILOR",
+      "bbox": [
+        481,
+        695,
+        529,
+        709
+      ],
+      "confidence": 0.9909554679765874
+    },
+    {
+      "text": "NO.",
+      "bbox": [
+        547,
+        695,
+        571,
+        709
+      ],
+      "confidence": 0.6584742393334986
+    },
+    {
+      "text": "NAME OF ACCQUNI",
+      "bbox": [
+        53,
+        709,
+        165,
+        725
+      ],
+      "confidence": 0.36485199112335115
+    },
+    {
+      "text": "VOLUME",
+      "bbox": [
+        189,
+        709,
+        241,
+        723
+      ],
+      "confidence": 0.9834081879964413
+    },
+    {
+      "text": "STORES",
+      "bbox": [
+        257,
+        709,
+        305,
+        725
+      ],
+      "confidence": 0.9971606886428421
+    },
+    {
+      "text": "NAME QF ACCOUNT",
+      "bbox": [
+        349,
+        709,
+        459,
+        725
+      ],
+      "confidence": 0.6345215313431831
+    },
+    {
+      "text": "VOLUME",
+      "bbox": [
+        479,
+        709,
+        529,
+        723
+      ],
+      "confidence": 0.8752788499335288
+    },
+    {
+      "text": "STORES",
+      "bbox": [
+        545,
+        709,
+        593,
+        723
+      ],
+      "confidence": 0.9863282687871805
+    },
+    {
+      "text": "Kroger",
+      "bbox": [
+        36,
+        726,
+        75,
+        740
+      ],
+      "confidence": 0.9944043960979166
+    },
+    {
+      "text": "Rich Qil",
+      "bbox": [
+        39,
+        743,
+        83,
+        757
+      ],
+      "confidence": 0.4820972687648966
+    },
+    {
+      "text": "Super America",
+      "bbox": [
+        37,
+        759,
+        117,
+        773
+      ],
+      "confidence": 0.8512140114099706
+    },
+    {
+      "text": "Smith",
+      "bbox": [
+        61,
+        791,
+        95,
+        805
+      ],
+      "confidence": 0.9968724839366139
+    },
+    {
+      "text": "35",
+      "bbox": [
+        283,
+        823,
+        299,
+        853
+      ],
+      "confidence": 0.4127106267485923
+    },
+    {
+      "text": "Paga1",
+      "bbox": [
+        561,
+        943,
+        601,
+        959
+      ],
+      "confidence": 0.9845996116513536
+    },
+    {
+      "text": "of 3 Pages",
+      "bbox": [
+        605,
+        943,
+        673,
+        959
+      ],
+      "confidence": 0.9965287092139247
+    },
+    {
+      "text": "JUNE",
+      "bbox": [
+        426,
+        122,
+        459,
+        139
+      ],
+      "confidence": 0.977152407169342
+    },
+    {
+      "text": "rotail",
+      "bbox": [
+        334,
+        352,
+        360,
+        365
+      ],
+      "confidence": 0.4735056213302873
+    },
+    {
+      "text": "could",
+      "bbox": [
+        422,
+        352,
+        450,
+        364
+      ],
+      "confidence": 0.8074686794611238
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "words": [
+    {
+      "text": "LORILLARD TOBACCO COMPANY",
+      "bbox": [
+        237,
+        181,
+        475,
+        201
+      ],
+      "confidence": 0.8845118181022277
+    },
+    {
+      "text": "Market Planning and Information Department",
+      "bbox": [
+        199,
+        204,
+        509,
+        225
+      ],
+      "confidence": 0.9009105276121218
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        169,
+        263,
+        195,
+        277
+      ],
+      "confidence": 0.9355194982534711
+    },
+    {
+      "text": "Mike Mozina",
+      "bbox": [
+        271,
+        261,
+        359,
+        277
+      ],
+      "confidence": 0.9994392666720562
+    },
+    {
+      "text": "Firm:",
+      "bbox": [
+        169,
+        283,
+        207,
+        299
+      ],
+      "confidence": 0.9986594165898772
+    },
+    {
+      "text": "MSA",
+      "bbox": [
+        271,
+        283,
+        305,
+        299
+      ],
+      "confidence": 0.9942420125007629
+    },
+    {
+      "text": "FAX #:",
+      "bbox": [
+        167,
+        303,
+        219,
+        321
+      ],
+      "confidence": 0.9914205288702963
+    },
+    {
+      "text": "Autodial",
+      "bbox": [
+        269,
+        305,
+        331,
+        321
+      ],
+      "confidence": 0.9999813710210839
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        169,
+        343,
+        211,
+        359
+      ],
+      "confidence": 0.9995439567479839
+    },
+    {
+      "text": "Susan Smith_",
+      "bbox": [
+        269,
+        342,
+        359,
+        362
+      ],
+      "confidence": 0.7506010712015232
+    },
+    {
+      "text": "FAX #:",
+      "bbox": [
+        167,
+        363,
+        219,
+        381
+      ],
+      "confidence": 0.9770986722385201
+    },
+    {
+      "text": "335-7733",
+      "bbox": [
+        271,
+        367,
+        337,
+        381
+      ],
+      "confidence": 0.6055356173235156
+    },
+    {
+      "text": "Phone #:",
+      "bbox": [
+        169,
+        389,
+        231,
+        405
+      ],
+      "confidence": 0.9558381285525266
+    },
+    {
+      "text": "335-7150",
+      "bbox": [
+        269,
+        389,
+        337,
+        405
+      ],
+      "confidence": 0.9996620850651284
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        169,
+        427,
+        209,
+        443
+      ],
+      "confidence": 0.9969344838395865
+    },
+    {
+      "text": "8/31/98",
+      "bbox": [
+        269,
+        425,
+        325,
+        443
+      ],
+      "confidence": 0.9986456094685829
+    },
+    {
+      "text": "# Pages:",
+      "bbox": [
+        169,
+        449,
+        235,
+        465
+      ],
+      "confidence": 0.7621131740516783
+    },
+    {
+      "text": "3 (including this cover page)",
+      "bbox": [
+        269,
+        449,
+        469,
+        465
+      ],
+      "confidence": 0.7259686703613457
+    },
+    {
+      "text": "Mike,",
+      "bbox": [
+        117,
+        561,
+        151,
+        575
+      ],
+      "confidence": 0.9425777079800357
+    },
+    {
+      "text": "As promised, here are:",
+      "bbox": [
+        117,
+        605,
+        263,
+        621
+      ],
+      "confidence": 0.9199065075712728
+    },
+    {
+      "text": "Approval for AWS Quarterly Store Count Database to begin 3rd Quarter",
+      "bbox": [
+        128,
+        647,
+        579,
+        668
+      ],
+      "confidence": 0.8391088460037589
+    },
+    {
+      "text": "998",
+      "bbox": [
+        587,
+        647,
+        615,
+        663
+      ],
+      "confidence": 0.9999983481878129
+    },
+    {
+      "text": "Table showing signiticant jump in Convenience Store market importance",
+      "bbox": [
+        129,
+        693,
+        589,
+        713
+      ],
+      "confidence": 0.7931948533894134
+    },
+    {
+      "text": "in 2nd Quarter 1998",
+      "bbox": [
+        131,
+        715,
+        261,
+        733
+      ],
+      "confidence": 0.7123198077194411
+    },
+    {
+      "text": "Talk t0 you soonl",
+      "bbox": [
+        117,
+        761,
+        229,
+        779
+      ],
+      "confidence": 0.7991295819042473
+    }
+  ]
+}

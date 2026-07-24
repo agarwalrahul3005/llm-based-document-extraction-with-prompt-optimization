@@ -1,0 +1,284 @@
+{
+  "words": [
+    {
+      "text": "CASE FORM",
+      "bbox": [
+        325,
+        141,
+        401,
+        155
+      ],
+      "confidence": 0.7930568317292757
+    },
+    {
+      "text": "CASE NAME:",
+      "bbox": [
+        107,
+        169,
+        185,
+        183
+      ],
+      "confidence": 0.7420115682259122
+    },
+    {
+      "text": "Wanda GRobiuson and Carroll Robinson",
+      "bbox": [
+        235,
+        167,
+        453,
+        181
+      ],
+      "confidence": 0.6749192402723773
+    },
+    {
+      "text": "Raybestos-Manhattan; et al",
+      "bbox": [
+        463,
+        169,
+        609,
+        183
+      ],
+      "confidence": 0.44823701020690476
+    },
+    {
+      "text": "COURT:",
+      "bbox": [
+        107,
+        195,
+        157,
+        209
+      ],
+      "confidence": 0.920287758229402
+    },
+    {
+      "text": "San Francisco Superior Court - No. 996378",
+      "bbox": [
+        233,
+        194,
+        455,
+        212
+      ],
+      "confidence": 0.757634623178989
+    },
+    {
+      "text": "LORILLARD",
+      "bbox": [
+        105,
+        225,
+        181,
+        239
+      ],
+      "confidence": 0.9982808987884885
+    },
+    {
+      "text": "ENTITIES:",
+      "bbox": [
+        105,
+        239,
+        171,
+        253
+      ],
+      "confidence": 0.8726554649566438
+    },
+    {
+      "text": "Lorillard Tobacco Company",
+      "bbox": [
+        233,
+        238,
+        381,
+        254
+      ],
+      "confidence": 0.9635657427699335
+    },
+    {
+      "text": "DATE FILED:",
+      "bbox": [
+        104,
+        264,
+        187,
+        282
+      ],
+      "confidence": 0.9927381096682649
+    },
+    {
+      "text": "July 23,1998",
+      "bbox": [
+        233,
+        265,
+        305,
+        281
+      ],
+      "confidence": 0.9655808578298917
+    },
+    {
+      "text": "DATE SERVED:",
+      "bbox": [
+        105,
+        295,
+        199,
+        309
+      ],
+      "confidence": 0.9805547189714694
+    },
+    {
+      "text": "Avgust 3,1998",
+      "bbox": [
+        235,
+        295,
+        313,
+        311
+      ],
+      "confidence": 0.5712693275537432
+    },
+    {
+      "text": "CASE TYPE:",
+      "bbox": [
+        107,
+        323,
+        181,
+        337
+      ],
+      "confidence": 0.9578334727565166
+    },
+    {
+      "text": "Asbestos",
+      "bbox": [
+        235,
+        323,
+        283,
+        337
+      ],
+      "confidence": 0.9933694021307433
+    },
+    {
+      "text": "PLANNTIFF'S",
+      "bbox": [
+        105,
+        351,
+        183,
+        365
+      ],
+      "confidence": 0.509288510735149
+    },
+    {
+      "text": "COUNSEL:",
+      "bbox": [
+        107,
+        363,
+        171,
+        377
+      ],
+      "confidence": 0.9669471971827526
+    },
+    {
+      "text": "Wartnick; Chaber; Harowitz, Smith& Tigerman",
+      "bbox": [
+        235,
+        363,
+        481,
+        379
+      ],
+      "confidence": 0.5116024270943702
+    },
+    {
+      "text": "Madelyn _",
+      "bbox": [
+        233,
+        377,
+        283,
+        391
+      ],
+      "confidence": 0.8687194585931511
+    },
+    {
+      "text": "Chaber",
+      "bbox": [
+        293,
+        377,
+        335,
+        389
+      ],
+      "confidence": 0.999208458343287
+    },
+    {
+      "text": "101 California Street; Suite 2200",
+      "bbox": [
+        233,
+        391,
+        401,
+        405
+      ],
+      "confidence": 0.7331668993068635
+    },
+    {
+      "text": "San Francisco, Califarnia 94MI1",
+      "bbox": [
+        233,
+        405,
+        401,
+        417
+      ],
+      "confidence": 0.31627531427562644
+    },
+    {
+      "text": "415/986-5566",
+      "bbox": [
+        233,
+        417,
+        305,
+        431
+      ],
+      "confidence": 0.9649484945244894
+    },
+    {
+      "text": "LORILLARD",
+      "bbox": [
+        105,
+        445,
+        181,
+        459
+      ],
+      "confidence": 0.9998879003897531
+    },
+    {
+      "text": "COUNSEL:",
+      "bbox": [
+        107,
+        459,
+        171,
+        473
+      ],
+      "confidence": 0.995198825786462
+    },
+    {
+      "text": "JUDGE:",
+      "bbox": [
+        105,
+        485,
+        155,
+        499
+      ],
+      "confidence": 0.9980999268692994
+    },
+    {
+      "text": "TRIAL DATE:",
+      "bbox": [
+        105,
+        511,
+        187,
+        525
+      ],
+      "confidence": 0.664375283955218
+    },
+    {
+      "text": "1",
+      "bbox": [
+        584,
+        773,
+        615,
+        884
+      ],
+      "confidence": 0.8201343753299284
+    }
+  ]
+}

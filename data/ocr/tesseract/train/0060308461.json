@@ -1,0 +1,924 @@
+{
+  "words": [
+    {
+      "text": "CIGARETTE",
+      "bbox": [
+        270,
+        45,
+        347,
+        55
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "REPORT",
+      "bbox": [
+        357,
+        46,
+        406,
+        56
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "PORH",
+      "bbox": [
+        416,
+        47,
+        449,
+        57
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "(1)",
+      "bbox": [
+        82,
+        86,
+        104,
+        98
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "YEAR",
+      "bbox": [
+        115,
+        87,
+        150,
+        96
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "COVERED!",
+      "bbox": [
+        159,
+        87,
+        224,
+        97
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        234,
+        99,
+        244,
+        100
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "(2)",
+      "bbox": [
+        82,
+        114,
+        104,
+        126
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "BRAND",
+      "bbox": [
+        116,
+        115,
+        158,
+        125
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "FAMILY",
+      "bbox": [
+        168,
+        116,
+        218,
+        126
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "LUCKY",
+      "bbox": [
+        311,
+        117,
+        353,
+        127
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "STRIKE",
+      "bbox": [
+        364,
+        117,
+        412,
+        127
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "(3)",
+      "bbox": [
+        81,
+        142,
+        104,
+        155
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "VARIETY",
+      "bbox": [
+        115,
+        143,
+        175,
+        154
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "DESCRIPTION:",
+      "bbox": [
+        185,
+        144,
+        590,
+        162
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Low",
+      "bbox": [
+        303,
+        134,
+        336,
+        166
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "tar,",
+      "bbox": [
+        346,
+        134,
+        379,
+        166
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "king",
+      "bbox": [
+        389,
+        134,
+        421,
+        166
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "size,",
+      "bbox": [
+        429,
+        134,
+        475,
+        166
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "filter,",
+      "bbox": [
+        482,
+        134,
+        544,
+        166
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "hard",
+      "bbox": [
+        551,
+        134,
+        587,
+        166
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "pack",
+      "bbox": [
+        595,
+        146,
+        628,
+        159
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "(4)",
+      "bbox": [
+        82,
+        170,
+        104,
+        183
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "PRopucT",
+      "bbox": [
+        116,
+        172,
+        175,
+        182
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "0",
+      "bbox": [
+        264,
+        163,
+        290,
+        194
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "King",
+      "bbox": [
+        310,
+        163,
+        352,
+        194
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "(3)",
+      "bbox": [
+        82,
+        200,
+        104,
+        212
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "check",
+      "bbox": [
+        495,
+        203,
+        544,
+        215
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "one)",
+      "bbox": [
+        554,
+        204,
+        586,
+        216
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "(6)",
+      "bbox": [
+        82,
+        228,
+        104,
+        240
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "BARD",
+      "bbox": [
+        116,
+        229,
+        150,
+        239
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "PACKX",
+      "bbox": [
+        159,
+        228,
+        271,
+        244
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "SOFT",
+      "bbox": [
+        287,
+        231,
+        321,
+        240
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "PACK:",
+      "bbox": [
+        331,
+        231,
+        486,
+        246
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "(check",
+      "bbox": [
+        494,
+        232,
+        544,
+        244
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "one)",
+      "bbox": [
+        554,
+        233,
+        586,
+        244
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "(7)",
+      "bbox": [
+        82,
+        256,
+        104,
+        268
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Xs",
+      "bbox": [
+        436,
+        272,
+        485,
+        274
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "one)",
+      "bbox": [
+        554,
+        261,
+        586,
+        272
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "{8)",
+      "bbox": [
+        82,
+        285,
+        104,
+        297
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Pack",
+      "bbox": [
+        116,
+        286,
+        150,
+        295
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "size",
+      "bbox": [
+        159,
+        287,
+        193,
+        296
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "soup:",
+      "bbox": [
+        202,
+        287,
+        279,
+        300
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "20's",
+      "bbox": [
+        287,
+        284,
+        416,
+        301
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "(9)",
+      "bbox": [
+        82,
+        313,
+        104,
+        325
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "rar\";",
+      "bbox": [
+        120,
+        314,
+        165,
+        324
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "lime",
+      "bbox": [
+        188,
+        312,
+        245,
+        328
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "0.8",
+      "bbox": [
+        465,
+        308,
+        499,
+        335
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "mg",
+      "bbox": [
+        507,
+        308,
+        526,
+        335
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "(Jan,",
+      "bbox": [
+        534,
+        308,
+        578,
+        335
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Report)",
+      "bbox": [
+        621,
+        314,
+        678,
+        327
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "(20)",
+      "bbox": [
+        82,
+        341,
+        113,
+        353
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "VARIETY",
+      "bbox": [
+        124,
+        343,
+        184,
+        353
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "UNIT",
+      "bbox": [
+        193,
+        343,
+        227,
+        353
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "SALES:",
+      "bbox": [
+        236,
+        343,
+        337,
+        357
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "(11)",
+      "bbox": [
+        82,
+        370,
+        113,
+        382
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "VARIETY",
+      "bbox": [
+        124,
+        372,
+        184,
+        381
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "DOLLAR",
+      "bbox": [
+        194,
+        372,
+        244,
+        381
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "(22)",
+      "bbox": [
+        82,
+        399,
+        113,
+        410
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "FIRST",
+      "bbox": [
+        125,
+        400,
+        167,
+        409
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "SALES",
+      "bbox": [
+        176,
+        400,
+        218,
+        409
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        228,
+        401,
+        284,
+        414
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "LAST",
+      "bbox": [
+        296,
+        401,
+        406,
+        415
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "SALES",
+      "bbox": [
+        416,
+        401,
+        457,
+        410
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "\u201cREPORTABLE",
+      "bbox": [
+        256,
+        438,
+        347,
+        453
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "EXPENDITURES",
+      "bbox": [
+        357,
+        444,
+        457,
+        454
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "C13)",
+      "bbox": [
+        82,
+        469,
+        113,
+        481
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "(24)",
+      "bbox": [
+        82,
+        498,
+        113,
+        510
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "CATOR-EXPERSESs",
+      "bbox": [
+        123,
+        493,
+        250,
+        520
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "03890",
+      "bbox": [
+        267,
+        513,
+        599,
+        516
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "(15)",
+      "bbox": [
+        82,
+        526,
+        113,
+        538
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "0",
+      "bbox": [
+        267,
+        521,
+        323,
+        549
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "ME",
+      "bbox": [
+        374,
+        525,
+        599,
+        544
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "(16)",
+      "bbox": [
+        82,
+        555,
+        113,
+        567
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "(27)",
+      "bbox": [
+        82,
+        584,
+        113,
+        595
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "(xa)",
+      "bbox": [
+        83,
+        612,
+        113,
+        624
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "(09)",
+      "bbox": [
+        83,
+        640,
+        113,
+        652
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "(20)",
+      "bbox": [
+        83,
+        669,
+        113,
+        680
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "0",
+      "bbox": [
+        270,
+        682,
+        310,
+        684
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "(22)",
+      "bbox": [
+        82,
+        725,
+        113,
+        738
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "(23)",
+      "bbox": [
+        83,
+        754,
+        113,
+        766
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "4767",
+      "bbox": [
+        316,
+        750,
+        591,
+        771
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "(24)",
+      "bbox": [
+        82,
+        783,
+        113,
+        796
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "85/208",
+      "bbox": [
+        305,
+        784,
+        392,
+        799
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "(25)",
+      "bbox": [
+        83,
+        812,
+        113,
+        824
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "26085",
+      "bbox": [
+        333,
+        805,
+        394,
+        836
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "(26)",
+      "bbox": [
+        82,
+        841,
+        113,
+        853
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        125,
+        842,
+        168,
+        852
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "REPORTABLE",
+      "bbox": [
+        177,
+        842,
+        261,
+        852
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "EXPENDITURES",
+      "bbox": [
+        271,
+        842,
+        372,
+        852
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "FOR",
+      "bbox": [
+        383,
+        843,
+        407,
+        852
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "VARIETY:",
+      "bbox": [
+        416,
+        842,
+        483,
+        852
+      ],
+      "confidence": 84.0
+    }
+  ]
+}

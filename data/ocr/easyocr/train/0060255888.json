@@ -1,0 +1,544 @@
+{
+  "words": [
+    {
+      "text": "AMERICAN BROADCASTING COMPANY",
+      "bbox": [
+        235,
+        51,
+        447,
+        69
+      ],
+      "confidence": 0.9687671174147545
+    },
+    {
+      "text": "TELEVISION NETHORK",
+      "bbox": [
+        271,
+        77,
+        413,
+        95
+      ],
+      "confidence": 0.770193630993576
+    },
+    {
+      "text": "tha Amticas",
+      "bbox": [
+        287,
+        103,
+        343,
+        115
+      ],
+      "confidence": 0.7003788606324045
+    },
+    {
+      "text": "Ocotber",
+      "bbox": [
+        456,
+        181,
+        521,
+        199
+      ],
+      "confidence": 0.9985763710400921
+    },
+    {
+      "text": "1968",
+      "bbox": [
+        551,
+        183,
+        591,
+        197
+      ],
+      "confidence": 0.9878714404860975
+    },
+    {
+      "text": "BBDO Inc .",
+      "bbox": [
+        137,
+        219,
+        217,
+        235
+      ],
+      "confidence": 0.5625771673595967
+    },
+    {
+      "text": "Mr .",
+      "bbox": [
+        465,
+        219,
+        495,
+        233
+      ],
+      "confidence": 0.9600369334220886
+    },
+    {
+      "text": "Marv",
+      "bbox": [
+        499,
+        219,
+        539,
+        233
+      ],
+      "confidence": 0.9823537468910217
+    },
+    {
+      "text": "Goldsmith",
+      "bbox": [
+        545,
+        217,
+        625,
+        233
+      ],
+      "confidence": 0.9943414275128026
+    },
+    {
+      "text": "Aroncy:",
+      "bbox": [
+        71,
+        235,
+        117,
+        249
+      ],
+      "confidence": 0.4391023828121912
+    },
+    {
+      "text": "383",
+      "bbox": [
+        137,
+        275,
+        167,
+        291
+      ],
+      "confidence": 0.9977235305728838
+    },
+    {
+      "text": "Madison Avenue",
+      "bbox": [
+        171,
+        275,
+        297,
+        289
+      ],
+      "confidence": 0.797377572503548
+    },
+    {
+      "text": "New",
+      "bbox": [
+        301,
+        275,
+        333,
+        289
+      ],
+      "confidence": 0.59663987159729
+    },
+    {
+      "text": "York",
+      "bbox": [
+        337,
+        275,
+        375,
+        289
+      ],
+      "confidence": 0.9968025088310242
+    },
+    {
+      "text": "1001 7",
+      "bbox": [
+        391,
+        273,
+        435,
+        289
+      ],
+      "confidence": 0.5460970741815497
+    },
+    {
+      "text": "Anerican",
+      "bbox": [
+        137,
+        329,
+        211,
+        345
+      ],
+      "confidence": 0.9388056491061931
+    },
+    {
+      "text": "Tobacco",
+      "bbox": [
+        217,
+        329,
+        281,
+        345
+      ],
+      "confidence": 0.9995495787087463
+    },
+    {
+      "text": "Clientt_",
+      "bbox": [
+        73,
+        341,
+        113,
+        355
+      ],
+      "confidence": 0.49687469325012706
+    },
+    {
+      "text": "Tareyton",
+      "bbox": [
+        138,
+        378,
+        211,
+        395
+      ],
+      "confidence": 0.9926598679224315
+    },
+    {
+      "text": "Cigarettes",
+      "bbox": [
+        217,
+        379,
+        307,
+        395
+      ],
+      "confidence": 0.9998405330853666
+    },
+    {
+      "text": "Product",
+      "bbox": [
+        73,
+        397,
+        121,
+        411
+      ],
+      "confidence": 0.8773350031881108
+    },
+    {
+      "text": "Scripi(s} (and /or atoryboard(s)) cleared:",
+      "bbox": [
+        73,
+        451,
+        281,
+        467
+      ],
+      "confidence": 0.6751388818987969
+    },
+    {
+      "text": "Phone",
+      "bbox": [
+        138,
+        503,
+        185,
+        522
+      ],
+      "confidence": 0.9945704545259939
+    },
+    {
+      "text": "Booth",
+      "bbox": [
+        191,
+        505,
+        237,
+        519
+      ],
+      "confidence": 0.994739187136792
+    },
+    {
+      "text": "Phone",
+      "bbox": [
+        139,
+        519,
+        185,
+        535
+      ],
+      "confidence": 0.999832705245118
+    },
+    {
+      "text": "Booth",
+      "bbox": [
+        191,
+        519,
+        237,
+        535
+      ],
+      "confidence": 0.9204706203139097
+    },
+    {
+      "text": "Phone",
+      "bbox": [
+        139,
+        535,
+        185,
+        549
+      ],
+      "confidence": 0.9851272300601047
+    },
+    {
+      "text": "Booth",
+      "bbox": [
+        191,
+        533,
+        237,
+        547
+      ],
+      "confidence": 0.9997110972644717
+    },
+    {
+      "text": "ECU",
+      "bbox": [
+        139,
+        545,
+        169,
+        561
+      ],
+      "confidence": 0.9963601565876735
+    },
+    {
+      "text": "ECU",
+      "bbox": [
+        139,
+        561,
+        169,
+        575
+      ],
+      "confidence": 0.9998994465993164
+    },
+    {
+      "text": "ECU",
+      "bbox": [
+        139,
+        575,
+        169,
+        591
+      ],
+      "confidence": 0.9997622116322753
+    },
+    {
+      "text": "THESE",
+      "bbox": [
+        131,
+        617,
+        177,
+        631
+      ],
+      "confidence": 0.9989216958535109
+    },
+    {
+      "text": "COMERCIALS",
+      "bbox": [
+        182,
+        616,
+        280,
+        630
+      ],
+      "confidence": 0.997826660199517
+    },
+    {
+      "text": "CANNOT",
+      "bbox": [
+        287,
+        617,
+        343,
+        631
+      ],
+      "confidence": 0.996230067761268
+    },
+    {
+      "text": "SCHEDULED",
+      "bbox": [
+        373,
+        617,
+        455,
+        631
+      ],
+      "confidence": 0.9832672894775242
+    },
+    {
+      "text": "UNTIL",
+      "bbox": [
+        461,
+        615,
+        507,
+        631
+      ],
+      "confidence": 0.9963025371665526
+    },
+    {
+      "text": "THIS",
+      "bbox": [
+        513,
+        615,
+        549,
+        629
+      ],
+      "confidence": 0.9984249472618103
+    },
+    {
+      "text": "DEPARTMENT HAS",
+      "bbox": [
+        555,
+        613,
+        679,
+        629
+      ],
+      "confidence": 0.9357636254735794
+    },
+    {
+      "text": "BEEN NOTIFIED",
+      "bbox": [
+        131,
+        631,
+        247,
+        647
+      ],
+      "confidence": 0.6728198586813983
+    },
+    {
+      "text": "THEIR",
+      "bbox": [
+        279,
+        631,
+        325,
+        645
+      ],
+      "confidence": 0.9941692809099656
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        331,
+        629,
+        369,
+        645
+      ],
+      "confidence": 0.9967227578163147
+    },
+    {
+      "text": "NUMBERS _",
+      "bbox": [
+        373,
+        631,
+        439,
+        645
+      ],
+      "confidence": 0.9319939071927791
+    },
+    {
+      "text": "PLEASE NOTIFY THIS DEPARTMENT OF ANY CHANGES IN THE CODE NUMBER(S)",
+      "bbox": [
+        75,
+        665,
+        535,
+        684
+      ],
+      "confidence": 0.39124504096490986
+    },
+    {
+      "text": "Final Pproval",
+      "bbox": [
+        77,
+        694,
+        153,
+        709
+      ],
+      "confidence": 0.40603165231308647
+    },
+    {
+      "text": "courst",
+      "bbox": [
+        188,
+        696,
+        220,
+        704
+      ],
+      "confidence": 0.5481504068934192
+    },
+    {
+      "text": "dependont \"pon",
+      "bbox": [
+        227,
+        693,
+        307,
+        707
+      ],
+      "confidence": 0.5356411459533256
+    },
+    {
+      "text": "screoning the finished (ilm(s) and",
+      "bbox": [
+        329,
+        689,
+        509,
+        705
+      ],
+      "confidence": 0.6328507767330362
+    },
+    {
+      "text": "upon time and placenent o the commerciallo)",
+      "bbox": [
+        77,
+        705,
+        315,
+        721
+      ],
+      "confidence": 0.5057668612625312
+    },
+    {
+      "text": "Sincerely .",
+      "bbox": [
+        407,
+        745,
+        453,
+        759
+      ],
+      "confidence": 0.7052584622084541
+    },
+    {
+      "text": "Americen Broadcatting Company",
+      "bbox": [
+        407,
+        763,
+        591,
+        779
+      ],
+      "confidence": 0.34384108637946303
+    },
+    {
+      "text": "PrLco",
+      "bbox": [
+        449,
+        813,
+        489,
+        827
+      ],
+      "confidence": 0.9744764120092146
+    },
+    {
+      "text": "JP /gb",
+      "bbox": [
+        122,
+        817,
+        171,
+        838
+      ],
+      "confidence": 0.3380545346275539
+    },
+    {
+      "text": "257 { F-Z",
+      "bbox": [
+        112,
+        858,
+        146,
+        866
+      ],
+      "confidence": 0.3161278875359291
+    },
+    {
+      "text": "co.",
+      "bbox": [
+        283,
+        327,
+        313,
+        344
+      ],
+      "confidence": 0.6781516389092417
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "words": [
+    {
+      "text": "CQUPON CODE REGISTRATIONFQRM",
+      "bbox": [
+        311,
+        77,
+        557,
+        93
+      ],
+      "confidence": 0.712661510234637
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        89,
+        113,
+        135,
+        129
+      ],
+      "confidence": 0.952016382127686
+    },
+    {
+      "text": "JESSICA ARATO",
+      "bbox": [
+        141,
+        113,
+        249,
+        129
+      ],
+      "confidence": 0.511176426170689
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        87,
+        147,
+        113,
+        163
+      ],
+      "confidence": 0.5541886215148119
+    },
+    {
+      "text": "VINCE LOSITO",
+      "bbox": [
+        125,
+        145,
+        223,
+        165
+      ],
+      "confidence": 0.7106743535240699
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        87,
+        183,
+        115,
+        199
+      ],
+      "confidence": 0.9945562391524894
+    },
+    {
+      "text": "K AUGUSTYN; L GIORDANO_",
+      "bbox": [
+        129,
+        183,
+        315,
+        199
+      ],
+      "confidence": 0.8197858586348339
+    },
+    {
+      "text": "M. MCGLYNN,",
+      "bbox": [
+        319,
+        183,
+        407,
+        199
+      ],
+      "confidence": 0.44707060480067834
+    },
+    {
+      "text": "RAPISARLDI",
+      "bbox": [
+        425,
+        181,
+        505,
+        197
+      ],
+      "confidence": 0.9991410791001862
+    },
+    {
+      "text": "BRANDS(S) APPLICABLE",
+      "bbox": [
+        87,
+        255,
+        245,
+        271
+      ],
+      "confidence": 0.9886467651383244
+    },
+    {
+      "text": "AlI Kent Family Packings",
+      "bbox": [
+        311,
+        255,
+        457,
+        269
+      ],
+      "confidence": 0.8191563966153989
+    },
+    {
+      "text": "MEDIA",
+      "bbox": [
+        87,
+        289,
+        131,
+        305
+      ],
+      "confidence": 0.9998431545999655
+    },
+    {
+      "text": "Magazines: People, Rolling Stone, Cosmopolitan",
+      "bbox": [
+        309,
+        285,
+        604,
+        309
+      ],
+      "confidence": 0.7528431878493932
+    },
+    {
+      "text": "Macemoiselle_",
+      "bbox": [
+        308,
+        304,
+        394,
+        320
+      ],
+      "confidence": 0.8203204278002146
+    },
+    {
+      "text": "New York Magazine",
+      "bbox": [
+        399,
+        305,
+        519,
+        323
+      ],
+      "confidence": 0.9993661952591304
+    },
+    {
+      "text": "Newspaper: Village Voice _",
+      "bbox": [
+        308,
+        322,
+        463,
+        339
+      ],
+      "confidence": 0.32895780611818576
+    },
+    {
+      "text": "ISSUE FREQUENCYMEAR",
+      "bbox": [
+        85,
+        356,
+        254,
+        373
+      ],
+      "confidence": 0.6499927381592647
+    },
+    {
+      "text": "September",
+      "bbox": [
+        309,
+        357,
+        377,
+        373
+      ],
+      "confidence": 0.9994903948301574
+    },
+    {
+      "text": "SPACEICOLOR",
+      "bbox": [
+        84,
+        391,
+        182,
+        407
+      ],
+      "confidence": 0.9998657111910008
+    },
+    {
+      "text": "Magazines:",
+      "bbox": [
+        309,
+        393,
+        379,
+        409
+      ],
+      "confidence": 0.9947656433962703
+    },
+    {
+      "text": "COUPON ISSUE DATE",
+      "bbox": [
+        85,
+        425,
+        227,
+        441
+      ],
+      "confidence": 0.7537812888255665
+    },
+    {
+      "text": "September",
+      "bbox": [
+        309,
+        427,
+        377,
+        443
+      ],
+      "confidence": 0.8242614439778368
+    },
+    {
+      "text": "1992",
+      "bbox": [
+        393,
+        427,
+        425,
+        441
+      ],
+      "confidence": 0.9962051462921427
+    },
+    {
+      "text": "COUPON EXPIRATION DATE",
+      "bbox": [
+        85,
+        457,
+        267,
+        477
+      ],
+      "confidence": 0.9098157620978232
+    },
+    {
+      "text": "December 31 .",
+      "bbox": [
+        309,
+        461,
+        391,
+        475
+      ],
+      "confidence": 0.5791861358178645
+    },
+    {
+      "text": "1992",
+      "bbox": [
+        395,
+        461,
+        429,
+        475
+      ],
+      "confidence": 0.9999995231628418
+    },
+    {
+      "text": "CIRCULATION",
+      "bbox": [
+        85,
+        511,
+        177,
+        527
+      ],
+      "confidence": 0.7972329367844317
+    },
+    {
+      "text": "221,000",
+      "bbox": [
+        319,
+        511,
+        371,
+        527
+      ],
+      "confidence": 0.9989122260512215
+    },
+    {
+      "text": "GEOGFIAPHICAL AREA(S)",
+      "bbox": [
+        85,
+        545,
+        249,
+        563
+      ],
+      "confidence": 0.9884689815677667
+    },
+    {
+      "text": "Tier",
+      "bbox": [
+        309,
+        547,
+        335,
+        561
+      ],
+      "confidence": 0.999457061290741
+    },
+    {
+      "text": "COUPON VALUE",
+      "bbox": [
+        85,
+        581,
+        193,
+        597
+      ],
+      "confidence": 0.8793248694947915
+    },
+    {
+      "text": "Pack",
+      "bbox": [
+        339,
+        581,
+        371,
+        595
+      ],
+      "confidence": 0.9999687671661377
+    },
+    {
+      "text": "PACK AND ORICARTON",
+      "bbox": [
+        85,
+        615,
+        237,
+        631
+      ],
+      "confidence": 0.8226286969288751
+    },
+    {
+      "text": "Pack",
+      "bbox": [
+        309,
+        615,
+        341,
+        629
+      ],
+      "confidence": 0.9997591376304626
+    },
+    {
+      "text": "ADVERTISING CREATIVE THEME",
+      "bbox": [
+        85,
+        649,
+        295,
+        665
+      ],
+      "confidence": 0.9963743231772041
+    },
+    {
+      "text": "Rebecca",
+      "bbox": [
+        309,
+        649,
+        363,
+        665
+      ],
+      "confidence": 0.9999451202384405
+    },
+    {
+      "text": "SIGNATURE OF INITIATOR",
+      "bbox": [
+        85,
+        683,
+        255,
+        699
+      ],
+      "confidence": 0.9188041772452978
+    },
+    {
+      "text": "DATE INITIATED",
+      "bbox": [
+        85,
+        717,
+        189,
+        733
+      ],
+      "confidence": 0.9898662563055176
+    },
+    {
+      "text": "May 14 1992",
+      "bbox": [
+        309,
+        717,
+        391,
+        733
+      ],
+      "confidence": 0.6297765523603803
+    },
+    {
+      "text": "ANALYTICAL REQUIREMENTS:",
+      "bbox": [
+        85,
+        751,
+        281,
+        767
+      ],
+      "confidence": 0.9418712565985398
+    },
+    {
+      "text": "FOR CONTROL USE ONLY:",
+      "bbox": [
+        307,
+        781,
+        479,
+        801
+      ],
+      "confidence": 0.9819713257751433
+    },
+    {
+      "text": "CODE ASSIGNED:",
+      "bbox": [
+        309,
+        819,
+        425,
+        835
+      ],
+      "confidence": 0.9992889983114175
+    },
+    {
+      "text": "231782",
+      "bbox": [
+        528,
+        806,
+        616,
+        834
+      ],
+      "confidence": 0.5073967587796517
+    },
+    {
+      "text": "JOB NUMBER:",
+      "bbox": [
+        307,
+        837,
+        403,
+        851
+      ],
+      "confidence": 0.9963122377904424
+    },
+    {
+      "text": "44",
+      "bbox": [
+        553,
+        835,
+        585,
+        853
+      ],
+      "confidence": 0.5320125093752717
+    },
+    {
+      "text": "EST. REDEMPTION:",
+      "bbox": [
+        307,
+        853,
+        435,
+        871
+      ],
+      "confidence": 0.9956320667273935
+    },
+    {
+      "text": "1",
+      "bbox": [
+        721,
+        829,
+        739,
+        905
+      ],
+      "confidence": 0.3994796398235714
+    },
+    {
+      "text": "Free",
+      "bbox": [
+        307,
+        580,
+        339,
+        597
+      ],
+      "confidence": 0.7952591776847839
+    }
+  ]
+}

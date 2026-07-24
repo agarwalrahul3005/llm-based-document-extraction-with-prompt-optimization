@@ -1,0 +1,494 @@
+{
+  "words": [
+    {
+      "text": "ARTICLE",
+      "bbox": [
+        389,
+        106,
+        441,
+        117
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "4",
+      "bbox": [
+        2,
+        133,
+        14,
+        156
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "TA",
+      "bbox": [
+        141,
+        155,
+        157,
+        165
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "SPONSOR'S",
+      "bbox": [
+        140,
+        199,
+        207,
+        209
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "\u2018TEST",
+      "bbox": [
+        138,
+        243,
+        170,
+        253
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "ARTUCLE",
+      "bbox": [
+        176,
+        242,
+        229,
+        253
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "8220000",
+      "bbox": [
+        346,
+        238,
+        706,
+        252
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        3,
+        286,
+        7,
+        290
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        424,
+        282,
+        440,
+        292
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "AED",
+      "bbox": [
+        661,
+        279,
+        706,
+        290
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "Bu",
+      "bbox": [
+        4,
+        376,
+        24,
+        385
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "PHYSICAL",
+      "bbox": [
+        136,
+        373,
+        196,
+        383
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Clear",
+      "bbox": [
+        300,
+        361,
+        338,
+        387
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "brown",
+      "bbox": [
+        346,
+        361,
+        382,
+        387
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "liquie",
+      "bbox": [
+        389,
+        361,
+        434,
+        387
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        165,
+        417,
+        180,
+        426
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "\u201cne",
+      "bbox": [
+        304,
+        414,
+        322,
+        422
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "ie",
+      "bbox": [
+        3,
+        439,
+        21,
+        457
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Pa",
+      "bbox": [
+        1,
+        450,
+        30,
+        492
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "exces",
+      "bbox": [
+        133,
+        461,
+        171,
+        470
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        278,
+        446,
+        285,
+        477
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "rovided",
+      "bbox": [
+        289,
+        457,
+        336,
+        466
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "(if",
+      "bbox": [
+        495,
+        455,
+        515,
+        467
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "provided):",
+      "bbox": [
+        522,
+        455,
+        595,
+        468
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "120",
+      "bbox": [
+        603,
+        452,
+        622,
+        460
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "9",
+      "bbox": [
+        631,
+        454,
+        637,
+        462
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        21,
+        504,
+        29,
+        517
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "EXPIRATION",
+      "bbox": [
+        133,
+        503,
+        208,
+        514
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        215,
+        503,
+        250,
+        512
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "wl",
+      "bbox": [
+        5,
+        533,
+        33,
+        567
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "SPECIAL.",
+      "bbox": [
+        128,
+        527,
+        187,
+        562
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        509,
+        541,
+        522,
+        547
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "cork.",
+      "bbox": [
+        530,
+        538,
+        563,
+        547
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "FS",
+      "bbox": [
+        3,
+        557,
+        22,
+        589
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "d",
+      "bbox": [
+        11,
+        636,
+        28,
+        671
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "RECEIVED",
+      "bbox": [
+        126,
+        622,
+        194,
+        652
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "TATE:",
+      "bbox": [
+        471,
+        614,
+        509,
+        644
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "93/01/90",
+      "bbox": [
+        567,
+        624,
+        623,
+        634
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "j",
+      "bbox": [
+        19,
+        682,
+        28,
+        712
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "\u2018STUDY",
+      "bbox": [
+        129,
+        678,
+        167,
+        688
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "fay",
+      "bbox": [
+        354,
+        673,
+        374,
+        681
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "David",
+      "bbox": [
+        382,
+        672,
+        417,
+        681
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "L",
+      "bbox": [
+        414,
+        702,
+        422,
+        714
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        202,
+        720,
+        218,
+        730
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "OEPARIMENT",
+      "bbox": [
+        225,
+        719,
+        300,
+        730
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "CONSIGNEE:,",
+      "bbox": [
+        307,
+        718,
+        377,
+        728
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        675,
+        846,
+        689,
+        867
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        673,
+        878,
+        686,
+        888
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "\\",
+      "bbox": [
+        31,
+        948,
+        32,
+        956
+      ],
+      "confidence": 33.0
+    }
+  ]
+}

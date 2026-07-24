@@ -1,0 +1,44 @@
+{
+  "words": [
+    {
+      "text": "APPROVED",
+      "bbox": [
+        197,
+        355,
+        258,
+        363
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        274,
+        346,
+        306,
+        381
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "NOT",
+      "bbox": [
+        406,
+        356,
+        428,
+        364
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "APPROVED",
+      "bbox": [
+        436,
+        356,
+        498,
+        365
+      ],
+      "confidence": 91.0
+    }
+  ]
+}

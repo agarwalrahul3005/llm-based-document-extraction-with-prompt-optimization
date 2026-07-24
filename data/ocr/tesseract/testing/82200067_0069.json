@@ -1,0 +1,844 @@
+{
+  "words": [
+    {
+      "text": ".",
+      "bbox": [
+        37,
+        81,
+        39,
+        83
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "841",
+      "bbox": [
+        252,
+        80,
+        270,
+        88
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "1898",
+      "bbox": [
+        277,
+        80,
+        301,
+        88
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "\u2018LORILLARD",
+      "bbox": [
+        371,
+        81,
+        426,
+        89
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "PTLD",
+      "bbox": [
+        433,
+        81,
+        458,
+        89
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Boor",
+      "bbox": [
+        646,
+        81,
+        675,
+        92
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        76,
+        142,
+        93,
+        151
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "KA.",
+      "bbox": [
+        226,
+        143,
+        235,
+        151
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        72,
+        164,
+        108,
+        187
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "may",
+      "bbox": [
+        447,
+        165,
+        472,
+        190
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "wee",
+      "bbox": [
+        454,
+        197,
+        536,
+        212
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        571,
+        200,
+        602,
+        208
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "oe]",
+      "bbox": [
+        617,
+        185,
+        674,
+        219
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "\u2018SUBJECT:",
+      "bbox": [
+        72,
+        220,
+        124,
+        242
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "MENTHOL",
+      "bbox": [
+        282,
+        221,
+        327,
+        244
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "UGMIS",
+      "bbox": [
+        332,
+        221,
+        365,
+        244
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        370,
+        221,
+        375,
+        244
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "ULTAA",
+      "bbox": [
+        380,
+        221,
+        409,
+        244
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "LGHTS",
+      "bbox": [
+        416,
+        221,
+        450,
+        244
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "PROGRESS",
+      "bbox": [
+        495,
+        221,
+        543,
+        244
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "APFORT",
+      "bbox": [
+        550,
+        221,
+        591,
+        244
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "(ONLY",
+      "bbox": [
+        77,
+        322,
+        107,
+        332
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "PARTIAL",
+      "bbox": [
+        122,
+        322,
+        164,
+        331
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "REGION",
+      "bbox": [
+        168,
+        323,
+        205,
+        331
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "CONTINUE",
+      "bbox": [
+        211,
+        308,
+        260,
+        342
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "WITH",
+      "bbox": [
+        265,
+        308,
+        289,
+        342
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "SCOPE",
+      "bbox": [
+        352,
+        322,
+        387,
+        332
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "DIVISION:",
+      "bbox": [
+        94,
+        378,
+        141,
+        386
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "REPS:",
+      "bbox": [
+        236,
+        378,
+        263,
+        387
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "6",
+      "bbox": [
+        277,
+        378,
+        283,
+        386
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "PREPS:",
+      "bbox": [
+        538,
+        378,
+        575,
+        387
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "7",
+      "bbox": [
+        586,
+        378,
+        592,
+        387
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "DIVISION:",
+      "bbox": [
+        93,
+        406,
+        141,
+        414
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "Bake",
+      "bbox": [
+        155,
+        406,
+        180,
+        414
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "REPS:",
+      "bbox": [
+        226,
+        405,
+        263,
+        415
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "2.5",
+      "bbox": [
+        270,
+        406,
+        285,
+        414
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "CAVISION:",
+      "bbox": [
+        387,
+        406,
+        433,
+        414
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Seattle",
+      "bbox": [
+        442,
+        401,
+        476,
+        422
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "North",
+      "bbox": [
+        481,
+        401,
+        505,
+        422
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "\u2018PREPS;",
+      "bbox": [
+        537,
+        406,
+        575,
+        415
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "REPS",
+      "bbox": [
+        226,
+        433,
+        263,
+        442
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        270,
+        434,
+        276,
+        442
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        585,
+        434,
+        592,
+        441
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "DIRECT",
+      "bbox": [
+        106,
+        502,
+        148,
+        512
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "ACCOUNTS",
+      "bbox": [
+        152,
+        502,
+        220,
+        512
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        224,
+        502,
+        250,
+        512
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "CHAINS",
+      "bbox": [
+        255,
+        502,
+        299,
+        512
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "HEADQUARTERED",
+      "bbox": [
+        304,
+        502,
+        406,
+        512
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "WITHIN",
+      "bbox": [
+        410,
+        502,
+        452,
+        512
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        456,
+        502,
+        479,
+        512
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "REGION",
+      "bbox": [
+        483,
+        502,
+        528,
+        512
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "(18",
+      "bbox": [
+        78,
+        516,
+        96,
+        526
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        102,
+        518,
+        110,
+        525
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "STORES)",
+      "bbox": [
+        117,
+        516,
+        167,
+        526
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "STOCKING",
+      "bbox": [
+        172,
+        516,
+        233,
+        525
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "NO",
+      "bbox": [
+        238,
+        516,
+        255,
+        525
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OLD",
+      "bbox": [
+        260,
+        516,
+        283,
+        525
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "GOLD",
+      "bbox": [
+        288,
+        516,
+        320,
+        525
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "MENTHOL",
+      "bbox": [
+        324,
+        516,
+        381,
+        525
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "LIGHTS",
+      "bbox": [
+        385,
+        516,
+        426,
+        525
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        430,
+        516,
+        446,
+        525
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "ULTRA",
+      "bbox": [
+        451,
+        516,
+        490,
+        525
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "LIGHTS",
+      "bbox": [
+        494,
+        516,
+        536,
+        525
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "100\u00b08",
+      "bbox": [
+        541,
+        516,
+        575,
+        525
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "ah",
+      "bbox": [
+        146,
+        557,
+        197,
+        566
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "EE",
+      "bbox": [
+        227,
+        557,
+        372,
+        568
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Ns",
+      "bbox": [
+        247,
+        588,
+        272,
+        597
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        300,
+        588,
+        301,
+        597
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "as",
+      "bbox": [
+        328,
+        577,
+        359,
+        610
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "eta",
+      "bbox": [
+        209,
+        593,
+        284,
+        626
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "ae",
+      "bbox": [
+        190,
+        644,
+        290,
+        673
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        318,
+        648,
+        350,
+        663
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "et",
+      "bbox": [
+        386,
+        648,
+        670,
+        663
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Gea",
+      "bbox": [
+        107,
+        688,
+        182,
+        721
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "008",
+      "bbox": [
+        245,
+        688,
+        265,
+        721
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "\u00a9",
+      "bbox": [
+        679,
+        779,
+        694,
+        787
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Ss",
+      "bbox": [
+        677,
+        804,
+        693,
+        813
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "\u00b0",
+      "bbox": [
+        677,
+        818,
+        693,
+        826
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "\u00b0",
+      "bbox": [
+        676,
+        831,
+        692,
+        840
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        676,
+        857,
+        692,
+        866
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Paget",
+      "bbox": [
+        555,
+        911,
+        588,
+        923
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        598,
+        911,
+        610,
+        921
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        614,
+        912,
+        621,
+        921
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Pages",
+      "bbox": [
+        626,
+        912,
+        657,
+        924
+      ],
+      "confidence": 77.0
+    }
+  ]
+}

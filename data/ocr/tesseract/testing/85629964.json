@@ -1,0 +1,694 @@
+{
+  "words": [
+    {
+      "text": "c",
+      "bbox": [
+        265,
+        32,
+        277,
+        56
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "CIGARETTE",
+      "bbox": [
+        314,
+        104,
+        395,
+        115
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "REPORT",
+      "bbox": [
+        406,
+        105,
+        459,
+        115
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        469,
+        106,
+        504,
+        116
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "YEAR:",
+      "bbox": [
+        115,
+        148,
+        156,
+        158
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "NO.",
+      "bbox": [
+        515,
+        152,
+        538,
+        162
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "PER",
+      "bbox": [
+        551,
+        152,
+        578,
+        162
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "PACK:",
+      "bbox": [
+        588,
+        152,
+        629,
+        163
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "BRAND",
+      "bbox": [
+        114,
+        179,
+        159,
+        189
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        169,
+        180,
+        211,
+        190
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "VAR.",
+      "bbox": [
+        114,
+        209,
+        147,
+        219
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "DESC:",
+      "bbox": [
+        160,
+        210,
+        202,
+        220
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "(SEE",
+      "bbox": [
+        554,
+        213,
+        586,
+        225
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "EXPLANATION)",
+      "bbox": [
+        596,
+        214,
+        700,
+        227
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "VARIETY",
+      "bbox": [
+        113,
+        240,
+        176,
+        250
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "UNIT",
+      "bbox": [
+        187,
+        241,
+        222,
+        250
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "SALES:",
+      "bbox": [
+        232,
+        241,
+        283,
+        251
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "VARIETY",
+      "bbox": [
+        422,
+        243,
+        485,
+        253
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "DOLLAR",
+      "bbox": [
+        496,
+        244,
+        550,
+        254
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SALES:",
+      "bbox": [
+        560,
+        244,
+        611,
+        255
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "LENGTH:",
+      "bbox": [
+        159,
+        270,
+        219,
+        280
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "FILTER",
+      "bbox": [
+        378,
+        272,
+        432,
+        282
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "LENGTH:",
+      "bbox": [
+        441,
+        273,
+        501,
+        283
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "PILTER",
+      "bbox": [
+        114,
+        299,
+        168,
+        309
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "TYPE:",
+      "bbox": [
+        177,
+        300,
+        219,
+        310
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "FLAVORING:",
+      "bbox": [
+        286,
+        294,
+        374,
+        312
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "OVERHRAP:",
+      "bbox": [
+        423,
+        292,
+        501,
+        322
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        560,
+        304,
+        595,
+        314
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "TYPE:",
+      "bbox": [
+        605,
+        305,
+        647,
+        315
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "1ST",
+      "bbox": [
+        114,
+        329,
+        139,
+        339
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "MANOFACT.",
+      "bbox": [
+        149,
+        330,
+        227,
+        340
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        241,
+        331,
+        283,
+        341
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "As",
+      "bbox": [
+        333,
+        331,
+        358,
+        341
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "SALES",
+      "bbox": [
+        368,
+        331,
+        412,
+        342
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        423,
+        332,
+        465,
+        343
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "LAST",
+      "bbox": [
+        532,
+        334,
+        567,
+        344
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "SOLD",
+      "bbox": [
+        578,
+        334,
+        613,
+        344
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        623,
+        335,
+        665,
+        345
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "YEARLY",
+      "bbox": [
+        113,
+        359,
+        166,
+        369
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "SUMMARY:",
+      "bbox": [
+        177,
+        359,
+        246,
+        370
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "TAR:",
+      "bbox": [
+        112,
+        389,
+        145,
+        399
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "NICOTINE:",
+      "bbox": [
+        286,
+        391,
+        364,
+        401
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "CARBON",
+      "bbox": [
+        559,
+        394,
+        613,
+        404
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "MONO:",
+      "bbox": [
+        623,
+        394,
+        665,
+        405
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "ADVERTISING",
+      "bbox": [
+        217,
+        496,
+        316,
+        506
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "EXPENDITURES",
+      "bbox": [
+        327,
+        497,
+        434,
+        507
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "(SEE",
+      "bbox": [
+        448,
+        497,
+        480,
+        509
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "EXPLANATION)",
+      "bbox": [
+        491,
+        498,
+        596,
+        511
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\u00a2",
+      "bbox": [
+        443,
+        531,
+        446,
+        539
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "CAT-C-EXPENSES:",
+      "bbox": [
+        522,
+        530,
+        655,
+        541
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "CAT-E-EXPENSES",
+      "bbox": [
+        312,
+        558,
+        438,
+        568
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        443,
+        562,
+        446,
+        569
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "CAT-P-EXPENSES:",
+      "bbox": [
+        522,
+        560,
+        655,
+        571
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "CAT-H-EXPENSES",
+      "bbox": [
+        312,
+        588,
+        438,
+        598
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        443,
+        592,
+        446,
+        599
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "CAT-1-EXPENSES",
+      "bbox": [
+        522,
+        590,
+        648,
+        601
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "s",
+      "bbox": [
+        652,
+        594,
+        656,
+        601
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "CAT-J-EXPENSES:",
+      "bbox": [
+        108,
+        606,
+        245,
+        638
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "CAT-R-EXPENSES:",
+      "bbox": [
+        312,
+        619,
+        445,
+        629
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "CAT-L-EXPENSES:",
+      "bbox": [
+        522,
+        620,
+        655,
+        632
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "CAT-N-EXPENSES",
+      "bbox": [
+        312,
+        649,
+        446,
+        660
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "TOTAL",
+      "bbox": [
+        112,
+        678,
+        156,
+        688
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "ADVERTISING",
+      "bbox": [
+        166,
+        678,
+        266,
+        689
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "EXPENDITURES:",
+      "bbox": [
+        276,
+        679,
+        391,
+        690
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        692,
+        849,
+        705,
+        859
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "%",
+      "bbox": [
+        692,
+        872,
+        706,
+        882
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Py",
+      "bbox": [
+        692,
+        895,
+        705,
+        905
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Ed",
+      "bbox": [
+        691,
+        906,
+        704,
+        917
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "1",
+      "bbox": [
+        761,
+        967,
+        764,
+        975
+      ],
+      "confidence": 50.0
+    }
+  ]
+}

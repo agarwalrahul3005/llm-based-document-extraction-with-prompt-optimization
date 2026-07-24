@@ -1,0 +1,644 @@
+{
+  "words": [
+    {
+      "text": "SPoRTS",
+      "bbox": [
+        227,
+        63,
+        307,
+        83
+      ],
+      "confidence": 0.3071234565205579
+    },
+    {
+      "text": "MARKETiNG",
+      "bbox": [
+        315,
+        63,
+        439,
+        83
+      ],
+      "confidence": 0.7372175493720269
+    },
+    {
+      "text": "ENTERPRISES",
+      "bbox": [
+        447,
+        63,
+        585,
+        83
+      ],
+      "confidence": 0.8697814488953503
+    },
+    {
+      "text": "CLEARANCE",
+      "bbox": [
+        371,
+        83,
+        499,
+        101
+      ],
+      "confidence": 0.9891799730776449
+    },
+    {
+      "text": "SHEET",
+      "bbox": [
+        507,
+        85,
+        571,
+        101
+      ],
+      "confidence": 0.5839233565922003
+    },
+    {
+      "text": "Date Routed:",
+      "bbox": [
+        85,
+        137,
+        165,
+        151
+      ],
+      "confidence": 0.9468792479615065
+    },
+    {
+      "text": "Contract No_",
+      "bbox": [
+        415,
+        137,
+        487,
+        153
+      ],
+      "confidence": 0.9977552675594414
+    },
+    {
+      "text": "4011 00 O0",
+      "bbox": [
+        555,
+        137,
+        625,
+        153
+      ],
+      "confidence": 0.46700949088065763
+    },
+    {
+      "text": "Contract Subject:",
+      "bbox": [
+        85,
+        183,
+        189,
+        199
+      ],
+      "confidence": 0.7898936029179986
+    },
+    {
+      "text": "Joe's Place Exhibits",
+      "bbox": [
+        225,
+        185,
+        355,
+        201
+      ],
+      "confidence": 0.8405606913804673
+    },
+    {
+      "text": "Company",
+      "bbox": [
+        84,
+        214,
+        145,
+        232
+      ],
+      "confidence": 0.9999478687553782
+    },
+    {
+      "text": "SPEVCO, INC .",
+      "bbox": [
+        175,
+        217,
+        269,
+        231
+      ],
+      "confidence": 0.8075579044787653
+    },
+    {
+      "text": "Brand(s)",
+      "bbox": [
+        453,
+        219,
+        505,
+        235
+      ],
+      "confidence": 0.6452324625808074
+    },
+    {
+      "text": "CamelNinston",
+      "bbox": [
+        521,
+        217,
+        619,
+        233
+      ],
+      "confidence": 0.5152355507835514
+    },
+    {
+      "text": "Contract Cost",
+      "bbox": [
+        117,
+        253,
+        201,
+        269
+      ],
+      "confidence": 0.9891951436387617
+    },
+    {
+      "text": "S1,340,000.00",
+      "bbox": [
+        249,
+        251,
+        337,
+        267
+      ],
+      "confidence": 0.4166658800190924
+    },
+    {
+      "text": "Current",
+      "bbox": [
+        419,
+        251,
+        465,
+        265
+      ],
+      "confidence": 0.6354315369832533
+    },
+    {
+      "text": "Cost",
+      "bbox": [
+        497,
+        251,
+        529,
+        267
+      ],
+      "confidence": 0.9999240040779114
+    },
+    {
+      "text": "1994-1995",
+      "bbox": [
+        583,
+        251,
+        649,
+        267
+      ],
+      "confidence": 0.6461308663895988
+    },
+    {
+      "text": "Brief Description",
+      "bbox": [
+        85,
+        287,
+        185,
+        305
+      ],
+      "confidence": 0.6743622719288996
+    },
+    {
+      "text": "Joe'$ Place Exhibits for use at Winston Cup, Winston Drag",
+      "bbox": [
+        259,
+        285,
+        631,
+        303
+      ],
+      "confidence": 0.5627009462032033
+    },
+    {
+      "text": "Camel",
+      "bbox": [
+        659,
+        287,
+        703,
+        303
+      ],
+      "confidence": 0.8077060740363615
+    },
+    {
+      "text": "Super Bike Events.",
+      "bbox": [
+        249,
+        301,
+        369,
+        317
+      ],
+      "confidence": 0.9572752860714772
+    },
+    {
+      "text": "GIL Code:",
+      "bbox": [
+        85,
+        357,
+        149,
+        373
+      ],
+      "confidence": 0.9984661298413766
+    },
+    {
+      "text": "Program Budget Code",
+      "bbox": [
+        404,
+        354,
+        539,
+        372
+      ],
+      "confidence": 0.9819043448909864
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        225,
+        397,
+        267,
+        413
+      ],
+      "confidence": 0.9993554353713989
+    },
+    {
+      "text": "SIGNATURE",
+      "bbox": [
+        413,
+        397,
+        493,
+        413
+      ],
+      "confidence": 0.8626562047939927
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        601,
+        397,
+        641,
+        413
+      ],
+      "confidence": 0.9162203073501587
+    },
+    {
+      "text": "Originator",
+      "bbox": [
+        85,
+        429,
+        147,
+        447
+      ],
+      "confidence": 0.969136850523442
+    },
+    {
+      "text": "Michael Wiiqht",
+      "bbox": [
+        225,
+        431,
+        323,
+        445
+      ],
+      "confidence": 0.3889612625344137
+    },
+    {
+      "text": "Manager",
+      "bbox": [
+        83,
+        467,
+        141,
+        483
+      ],
+      "confidence": 0.999914390751833
+    },
+    {
+      "text": "John Powell",
+      "bbox": [
+        225,
+        467,
+        307,
+        483
+      ],
+      "confidence": 0.980614487761733
+    },
+    {
+      "text": "REVIEW RQUIING",
+      "bbox": [
+        83,
+        505,
+        205,
+        521
+      ],
+      "confidence": 0.6757092158239637
+    },
+    {
+      "text": "SIGNATURE",
+      "bbox": [
+        411,
+        521,
+        493,
+        541
+      ],
+      "confidence": 0.9990584222999115
+    },
+    {
+      "text": "PATE",
+      "bbox": [
+        601,
+        525,
+        641,
+        541
+      ],
+      "confidence": 0.6683832406997681
+    },
+    {
+      "text": "Insurance",
+      "bbox": [
+        83,
+        557,
+        145,
+        571
+      ],
+      "confidence": 0.9771250873829029
+    },
+    {
+      "text": "Law",
+      "bbox": [
+        83,
+        593,
+        111,
+        605
+      ],
+      "confidence": 0.9998997907222652
+    },
+    {
+      "text": "FS",
+      "bbox": [
+        83,
+        627,
+        105,
+        641
+      ],
+      "confidence": 0.9998948873779264
+    },
+    {
+      "text": "Marketing",
+      "bbox": [
+        111,
+        627,
+        173,
+        643
+      ],
+      "confidence": 0.9084416409237994
+    },
+    {
+      "text": "REVISIONS TQ SHELL",
+      "bbox": [
+        83,
+        661,
+        225,
+        679
+      ],
+      "confidence": 0.9103832878627223
+    },
+    {
+      "text": "PAGES)",
+      "bbox": [
+        413,
+        663,
+        471,
+        679
+      ],
+      "confidence": 0.8679722915248276
+    },
+    {
+      "text": "SECTIONS)",
+      "bbox": [
+        601,
+        663,
+        681,
+        679
+      ],
+      "confidence": 0.5959060504275927
+    },
+    {
+      "text": "(Other than Term;",
+      "bbox": [
+        83,
+        681,
+        165,
+        695
+      ],
+      "confidence": 0.8379380506437254
+    },
+    {
+      "text": "Compensalion",
+      "bbox": [
+        83,
+        699,
+        153,
+        713
+      ],
+      "confidence": 0.7876386880784001
+    },
+    {
+      "text": "Job",
+      "bbox": [
+        161,
+        699,
+        183,
+        711
+      ],
+      "confidence": 0.4747853788828894
+    },
+    {
+      "text": "APPROVAL RQUIING",
+      "bbox": [
+        83,
+        735,
+        223,
+        751
+      ],
+      "confidence": 0.4569583057740529
+    },
+    {
+      "text": "Sr. Manager (B. J, Powell)",
+      "bbox": [
+        97,
+        752,
+        269,
+        771
+      ],
+      "confidence": 0.6601733778024423
+    },
+    {
+      "text": "Director",
+      "bbox": [
+        101,
+        771,
+        157,
+        785
+      ],
+      "confidence": 0.9999586535875535
+    },
+    {
+      "text": "L. Littell)",
+      "bbox": [
+        189,
+        771,
+        247,
+        787
+      ],
+      "confidence": 0.6253905463220082
+    },
+    {
+      "text": "Sr; VP",
+      "bbox": [
+        103,
+        805,
+        147,
+        821
+      ],
+      "confidence": 0.537804205608644
+    },
+    {
+      "text": "T,W. Robertson",
+      "bbox": [
+        173,
+        803,
+        283,
+        821
+      ],
+      "confidence": 0.8422327348633644
+    },
+    {
+      "text": "8",
+      "bbox": [
+        739,
+        793,
+        753,
+        823
+      ],
+      "confidence": 0.8305604736760621
+    },
+    {
+      "text": "Relum To:",
+      "bbox": [
+        83,
+        841,
+        149,
+        857
+      ],
+      "confidence": 0.7485459275541896
+    },
+    {
+      "text": "MARY SEAGRAVES",
+      "bbox": [
+        223,
+        841,
+        351,
+        857
+      ],
+      "confidence": 0.9997331731689414
+    },
+    {
+      "text": "SME",
+      "bbox": [
+        413,
+        843,
+        445,
+        859
+      ],
+      "confidence": 0.9995366810125589
+    },
+    {
+      "text": "13 Plaza",
+      "bbox": [
+        601,
+        843,
+        655,
+        859
+      ],
+      "confidence": 0.9986790823977384
+    },
+    {
+      "text": "8",
+      "bbox": [
+        737,
+        829,
+        753,
+        869
+      ],
+      "confidence": 0.9499846160410108
+    },
+    {
+      "text": "Ext1485",
+      "bbox": [
+        223,
+        857,
+        293,
+        875
+      ],
+      "confidence": 0.9997615498310012
+    },
+    {
+      "text": "UP TO AND INCLUDING 525,000",
+      "bbox": [
+        91,
+        889,
+        295,
+        905
+      ],
+      "confidence": 0.7898298975377561
+    },
+    {
+      "text": "#OVER $25,000",
+      "bbox": [
+        83,
+        902,
+        185,
+        922
+      ],
+      "confidence": 0.7141429245244193
+    },
+    {
+      "text": "Revised 10/26/92",
+      "bbox": [
+        601,
+        905,
+        707,
+        921
+      ],
+      "confidence": 0.977223222466455
+    },
+    {
+      "text": "Year",
+      "bbox": [
+        463,
+        250,
+        496,
+        267
+      ],
+      "confidence": 0.9984040260314941
+    },
+    {
+      "text": "Total",
+      "bbox": [
+        83,
+        252,
+        116,
+        268
+      ],
+      "confidence": 0.9772624155022923
+    },
+    {
+      "text": "and",
+      "bbox": [
+        629,
+        286,
+        659,
+        302
+      ],
+      "confidence": 0.9980036389745919
+    }
+  ]
+}

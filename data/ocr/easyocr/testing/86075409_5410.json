@@ -1,0 +1,404 @@
+{
+  "words": [
+    {
+      "text": "From:",
+      "bbox": [
+        55,
+        123,
+        87,
+        137
+      ],
+      "confidence": 0.9995650161015471
+    },
+    {
+      "text": "Lynn: c Stevcns",
+      "bbox": [
+        101,
+        123,
+        179,
+        135
+      ],
+      "confidence": 0.36328670538631064
+    },
+    {
+      "text": "Kelli",
+      "bbox": [
+        101,
+        149,
+        127,
+        163
+      ],
+      "confidence": 0.9996286736772031
+    },
+    {
+      "text": "Vincenf Losilo",
+      "bbox": [
+        100,
+        176,
+        169,
+        190
+      ],
+      "confidence": 0.6668101019237758
+    },
+    {
+      "text": "Don Kisling",
+      "bbox": [
+        237,
+        179,
+        293,
+        193
+      ],
+      "confidence": 0.997679365629748
+    },
+    {
+      "text": "Gcorge Baroody",
+      "bbox": [
+        100,
+        190,
+        175,
+        203
+      ],
+      "confidence": 0.8018630852654791
+    },
+    {
+      "text": "Iesh",
+      "bbox": [
+        263,
+        193,
+        299,
+        207
+      ],
+      "confidence": 0.7459198832511902
+    },
+    {
+      "text": "C.Hiul",
+      "bbox": [
+        313,
+        187,
+        363,
+        207
+      ],
+      "confidence": 0.34892784758409956
+    },
+    {
+      "text": "Brand(s} Applicable",
+      "bbox": [
+        147,
+        231,
+        239,
+        245
+      ],
+      "confidence": 0.538225694390566
+    },
+    {
+      "text": "Newpont Purent Lights",
+      "bbox": [
+        342,
+        230,
+        451,
+        245
+      ],
+      "confidence": 0.40861296816620174
+    },
+    {
+      "text": "420'$",
+      "bbox": [
+        463,
+        231,
+        489,
+        245
+      ],
+      "confidence": 0.6177736150145806
+    },
+    {
+      "text": "Mediz Typc",
+      "bbox": [
+        145,
+        259,
+        203,
+        273
+      ],
+      "confidence": 0.44533709721835535
+    },
+    {
+      "text": "Direct Mjil",
+      "bbox": [
+        343,
+        259,
+        399,
+        273
+      ],
+      "confidence": 0.6098022815978754
+    },
+    {
+      "text": "Media Name",
+      "bbox": [
+        145,
+        287,
+        205,
+        299
+      ],
+      "confidence": 0.5719148857613945
+    },
+    {
+      "text": "Hycars",
+      "bbox": [
+        419,
+        287,
+        459,
+        299
+      ],
+      "confidence": 0.3615642995575797
+    },
+    {
+      "text": "Frcqucncy",
+      "bbox": [
+        180,
+        314,
+        229,
+        328
+      ],
+      "confidence": 0.9830702401227273
+    },
+    {
+      "text": "Space",
+      "bbox": [
+        157,
+        343,
+        187,
+        357
+      ],
+      "confidence": 0.9875635946717913
+    },
+    {
+      "text": "Color",
+      "bbox": [
+        191,
+        343,
+        221,
+        355
+      ],
+      "confidence": 0.9897201459416718
+    },
+    {
+      "text": "Coupon Issue Date",
+      "bbox": [
+        146,
+        370,
+        233,
+        384
+      ],
+      "confidence": 0.6151483064519552
+    },
+    {
+      "text": "Coupon Expiration Dale",
+      "bbox": [
+        147,
+        399,
+        255,
+        411
+      ],
+      "confidence": 0.9842023700175884
+    },
+    {
+      "text": "90/00",
+      "bbox": [
+        499,
+        399,
+        537,
+        411
+      ],
+      "confidence": 0.6024769816808961
+    },
+    {
+      "text": "Circulation (#)",
+      "bbox": [
+        147,
+        427,
+        215,
+        439
+      ],
+      "confidence": 0.7834530096417082
+    },
+    {
+      "text": "AFROX",
+      "bbox": [
+        345,
+        427,
+        391,
+        441
+      ],
+      "confidence": 0.370966391250943
+    },
+    {
+      "text": "Geographical Area(s)",
+      "bbox": [
+        147,
+        455,
+        245,
+        469
+      ],
+      "confidence": 0.5612328119462697
+    },
+    {
+      "text": "Tiers",
+      "bbox": [
+        281,
+        455,
+        307,
+        467
+      ],
+      "confidence": 0.9748207835651582
+    },
+    {
+      "text": "Coupon Valie",
+      "bbox": [
+        146,
+        482,
+        213,
+        496
+      ],
+      "confidence": 0.807647237107262
+    },
+    {
+      "text": "OLf",
+      "bbox": [
+        537,
+        483,
+        561,
+        497
+      ],
+      "confidence": 0.41807945903800364
+    },
+    {
+      "text": "Circn?",
+      "bbox": [
+        205,
+        509,
+        245,
+        523
+      ],
+      "confidence": 0.6189220575246247
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        491,
+        509,
+        525,
+        523
+      ],
+      "confidence": 0.9967214465141296
+    },
+    {
+      "text": "Advertising Creative Tille",
+      "bbox": [
+        157,
+        537,
+        275,
+        553
+      ],
+      "confidence": 0.888176376971326
+    },
+    {
+      "text": "Signature of Iritiator",
+      "bbox": [
+        145,
+        577,
+        243,
+        593
+      ],
+      "confidence": 0.6829681165857708
+    },
+    {
+      "text": "Date Initiated",
+      "bbox": [
+        147,
+        609,
+        209,
+        621
+      ],
+      "confidence": 0.4049997288455638
+    },
+    {
+      "text": "21-Jan-",
+      "bbox": [
+        443,
+        607,
+        479,
+        619
+      ],
+      "confidence": 0.7906879599300767
+    },
+    {
+      "text": "Analyticai Requirenents:",
+      "bbox": [
+        57,
+        637,
+        169,
+        651
+      ],
+      "confidence": 0.7557322398698705
+    },
+    {
+      "text": "FoR CONTROL USE ONLY",
+      "bbox": [
+        281,
+        707,
+        401,
+        719
+      ],
+      "confidence": 0.7217173717790278
+    },
+    {
+      "text": "Code Ass gned",
+      "bbox": [
+        235,
+        735,
+        297,
+        747
+      ],
+      "confidence": 0.598684592776198
+    },
+    {
+      "text": "05787",
+      "bbox": [
+        399,
+        731,
+        463,
+        749
+      ],
+      "confidence": 0.999819536907131
+    },
+    {
+      "text": "Job Number",
+      "bbox": [
+        235,
+        759,
+        289,
+        771
+      ],
+      "confidence": 0.9320638413932987
+    },
+    {
+      "text": "Whcre Applicable",
+      "bbox": [
+        69,
+        843,
+        151,
+        857
+      ],
+      "confidence": 0.8045465579485993
+    },
+    {
+      "text": "1",
+      "bbox": [
+        685,
+        822,
+        717,
+        924
+      ],
+      "confidence": 0.8267116464053323
+    }
+  ]
+}

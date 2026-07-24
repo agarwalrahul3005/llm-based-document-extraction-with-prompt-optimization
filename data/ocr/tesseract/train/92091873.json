@@ -1,0 +1,1624 @@
+{
+  "words": [
+    {
+      "text": "|",
+      "bbox": [
+        40,
+        114,
+        66,
+        122
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "NEWPORT",
+      "bbox": [
+        247,
+        106,
+        325,
+        116
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "RACING",
+      "bbox": [
+        332,
+        105,
+        390,
+        115
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        398,
+        105,
+        448,
+        115
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SURVEY",
+      "bbox": [
+        455,
+        105,
+        515,
+        115
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Location",
+      "bbox": [
+        105,
+        136,
+        158,
+        147
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Leguna",
+      "bbox": [
+        178,
+        137,
+        224,
+        149
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Seca,",
+      "bbox": [
+        235,
+        136,
+        266,
+        146
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Monterey,",
+      "bbox": [
+        283,
+        136,
+        347,
+        148
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Ca",
+      "bbox": [
+        365,
+        135,
+        379,
+        145
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Division",
+      "bbox": [
+        426,
+        133,
+        474,
+        144
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "1",
+      "bbox": [
+        51,
+        151,
+        53,
+        160
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        106,
+        166,
+        133,
+        176
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "(s)",
+      "bbox": [
+        139,
+        165,
+        153,
+        178
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "September",
+      "bbox": [
+        178,
+        165,
+        286,
+        178
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "10,",
+      "bbox": [
+        257,
+        161,
+        283,
+        182
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        293,
+        165,
+        323,
+        174
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "DivisionMgr",
+      "bbox": [
+        426,
+        162,
+        502,
+        175
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Roberts",
+      "bbox": [
+        559,
+        163,
+        614,
+        172
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        286,
+        193,
+        315,
+        203
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Submitted",
+      "bbox": [
+        320,
+        192,
+        383,
+        203
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "26,",
+      "bbox": [
+        471,
+        184,
+        491,
+        196
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        504,
+        184,
+        532,
+        194
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        113,
+        210,
+        119,
+        213
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        358,
+        209,
+        369,
+        220
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "3-day",
+      "bbox": [
+        376,
+        195,
+        408,
+        226
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "event)",
+      "bbox": [
+        382,
+        204,
+        520,
+        220
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "CoRR",
+      "bbox": [
+        179,
+        209,
+        219,
+        248
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "Mugs",
+      "bbox": [
+        105,
+        257,
+        138,
+        269
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "720",
+      "bbox": [
+        179,
+        254,
+        201,
+        263
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        434,
+        254,
+        443,
+        265
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Requested",
+      "bbox": [
+        448,
+        254,
+        514,
+        267
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "__50",
+      "bbox": [
+        552,
+        252,
+        566,
+        262
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Displays",
+      "bbox": [
+        105,
+        271,
+        158,
+        284
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "(8)",
+      "bbox": [
+        163,
+        270,
+        175,
+        284
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        434,
+        269,
+        462,
+        280
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Notified",
+      "bbox": [
+        467,
+        268,
+        514,
+        280
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "975795",
+      "bbox": [
+        536,
+        269,
+        581,
+        279
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Floor",
+      "bbox": [
+        102,
+        281,
+        137,
+        304
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "(40)",
+      "bbox": [
+        142,
+        285,
+        166,
+        299
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        430,
+        277,
+        460,
+        301
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "!",
+      "bbox": [
+        11,
+        312,
+        13,
+        315
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Posters",
+      "bbox": [
+        105,
+        300,
+        152,
+        311
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        520,
+        295,
+        591,
+        297
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        11,
+        323,
+        13,
+        347
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        106,
+        330,
+        132,
+        340
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Rec'd_6/12/55",
+      "bbox": [
+        139,
+        325,
+        250,
+        337
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        430,
+        316,
+        462,
+        346
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Rec'd",
+      "bbox": [
+        467,
+        327,
+        501,
+        337
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "9/6/95",
+      "bbox": [
+        519,
+        324,
+        566,
+        341
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        107,
+        367,
+        114,
+        377
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Displays",
+      "bbox": [
+        120,
+        367,
+        173,
+        380
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Placed:",
+      "bbox": [
+        178,
+        366,
+        224,
+        377
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Attendees:",
+      "bbox": [
+        385,
+        366,
+        451,
+        376
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Counter",
+      "bbox": [
+        106,
+        392,
+        155,
+        402
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        386,
+        390,
+        394,
+        401
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Customers",
+      "bbox": [
+        400,
+        390,
+        467,
+        401
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Invited",
+      "bbox": [
+        472,
+        390,
+        512,
+        400
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        522,
+        382,
+        532,
+        410
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "40",
+      "bbox": [
+        536,
+        386,
+        550,
+        396
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Floor",
+      "bbox": [
+        106,
+        407,
+        137,
+        417
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        386,
+        406,
+        393,
+        416
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Customers",
+      "bbox": [
+        400,
+        398,
+        466,
+        423
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Posters",
+      "bbox": [
+        106,
+        421,
+        152,
+        431
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        383,
+        413,
+        391,
+        437
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Lorillard",
+      "bbox": [
+        401,
+        420,
+        451,
+        430
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "TO\"",
+      "bbox": [
+        521,
+        417,
+        592,
+        433
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "You",
+      "bbox": [
+        171,
+        470,
+        186,
+        476
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "very",
+      "bbox": [
+        195,
+        469,
+        227,
+        478
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        279,
+        467,
+        300,
+        476
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        312,
+        467,
+        332,
+        476
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "tickets,",
+      "bbox": [
+        344,
+        467,
+        404,
+        477
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "we",
+      "bbox": [
+        416,
+        469,
+        430,
+        475
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "had",
+      "bbox": [
+        440,
+        466,
+        462,
+        475
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        472,
+        468,
+        478,
+        475
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "great",
+      "bbox": [
+        488,
+        467,
+        526,
+        478
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "time\u201d",
+      "bbox": [
+        538,
+        466,
+        574,
+        475
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Rogers",
+      "bbox": [
+        585,
+        466,
+        631,
+        477
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Liquor,",
+      "bbox": [
+        642,
+        465,
+        693,
+        477
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "appreciate",
+      "bbox": [
+        196,
+        502,
+        276,
+        513
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Lorillard",
+      "bbox": [
+        286,
+        501,
+        357,
+        510
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "thinking",
+      "bbox": [
+        368,
+        501,
+        430,
+        512
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        440,
+        500,
+        455,
+        509
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "us.\u201d",
+      "bbox": [
+        465,
+        500,
+        494,
+        509
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Shiffert's",
+      "bbox": [
+        513,
+        500,
+        591,
+        511
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Wholesale,",
+      "bbox": [
+        601,
+        500,
+        678,
+        511
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Gatifornia.",
+      "bbox": [
+        220,
+        516,
+        307,
+        527
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "7",
+      "bbox": [
+        496,
+        525,
+        502,
+        526
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "\u201cThank",
+      "bbox": [
+        100,
+        523,
+        154,
+        550
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "you.ao",
+      "bbox": [
+        163,
+        523,
+        211,
+        550
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "much",
+      "bbox": [
+        219,
+        523,
+        253,
+        550
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        259,
+        523,
+        285,
+        550
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "phe",
+      "bbox": [
+        293,
+        523,
+        319,
+        550
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "had",
+      "bbox": [
+        464,
+        523,
+        490,
+        550
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        496,
+        523,
+        505,
+        550
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "great",
+      "bbox": [
+        511,
+        523,
+        550,
+        550
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "time.\u201d",
+      "bbox": [
+        562,
+        523,
+        611,
+        550
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Mission",
+      "bbox": [
+        617,
+        523,
+        672,
+        550
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Qi?",
+      "bbox": [
+        195,
+        538,
+        219,
+        563
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Company",
+      "bbox": [
+        227,
+        538,
+        286,
+        563
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "(Rotten",
+      "bbox": [
+        293,
+        538,
+        350,
+        563
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Robbie",
+      "bbox": [
+        358,
+        538,
+        407,
+        563
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Stores)",
+      "bbox": [
+        414,
+        538,
+        473,
+        563
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "San",
+      "bbox": [
+        483,
+        538,
+        513,
+        563
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "lose,",
+      "bbox": [
+        520,
+        538,
+        561,
+        563
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "The",
+      "bbox": [
+        100,
+        554,
+        138,
+        578
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "races",
+      "bbox": [
+        146,
+        554,
+        188,
+        578
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "were",
+      "bbox": [
+        196,
+        554,
+        228,
+        578
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "great,",
+      "bbox": [
+        236,
+        554,
+        284,
+        578
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        294,
+        554,
+        317,
+        578
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Newport",
+      "bbox": [
+        328,
+        554,
+        382,
+        578
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Hospitality",
+      "bbox": [
+        392,
+        554,
+        480,
+        578
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "area",
+      "bbox": [
+        488,
+        554,
+        520,
+        578
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "was",
+      "bbox": [
+        528,
+        554,
+        552,
+        578
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "terrific\".",
+      "bbox": [
+        560,
+        554,
+        640,
+        578
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Corenark,",
+      "bbox": [
+        147,
+        574,
+        217,
+        586
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Sacramento,",
+      "bbox": [
+        229,
+        574,
+        316,
+        588
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "California,",
+      "bbox": [
+        327,
+        574,
+        413,
+        583
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "\u2018Wate",
+      "bbox": [
+        100,
+        592,
+        137,
+        623
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Day",
+      "bbox": [
+        143,
+        592,
+        165,
+        623
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "inte:",
+      "bbox": [
+        173,
+        600,
+        204,
+        613
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "100,",
+      "bbox": [
+        350,
+        592,
+        382,
+        623
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "000+",
+      "bbox": [
+        386,
+        592,
+        413,
+        623
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Tent",
+      "bbox": [
+        490,
+        604,
+        511,
+        612
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Atendance",
+      "bbox": [
+        523,
+        592,
+        591,
+        623
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "35-20",
+      "bbox": [
+        601,
+        597,
+        643,
+        614
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        650,
+        592,
+        666,
+        623
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "\u2018Quulity",
+      "bbox": [
+        107,
+        633,
+        150,
+        646
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        155,
+        633,
+        167,
+        643
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Hospitality",
+      "bbox": [
+        172,
+        633,
+        238,
+        646
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Tent:",
+      "bbox": [
+        242,
+        633,
+        275,
+        643
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Food",
+      "bbox": [
+        177,
+        647,
+        208,
+        658
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "x",
+      "bbox": [
+        481,
+        645,
+        488,
+        654
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        604,
+        657,
+        662,
+        659
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Cleanliness",
+      "bbox": [
+        177,
+        659,
+        250,
+        681
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Service",
+      "bbox": [
+        177,
+        673,
+        223,
+        695
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        451,
+        672,
+        475,
+        694
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "Fair",
+      "bbox": [
+        339,
+        690,
+        363,
+        702
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Average",
+      "bbox": [
+        464,
+        687,
+        514,
+        709
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Excelient",
+      "bbox": [
+        600,
+        689,
+        656,
+        700
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        105,
+        750,
+        128,
+        752
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        214,
+        739,
+        236,
+        748
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "tickets",
+      "bbox": [
+        247,
+        739,
+        302,
+        748
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "could",
+      "bbox": [
+        312,
+        738,
+        351,
+        748
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        360,
+        738,
+        375,
+        748
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "seat",
+      "bbox": [
+        385,
+        740,
+        415,
+        748
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "out",
+      "bbox": [
+        426,
+        740,
+        448,
+        748
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        458,
+        741,
+        464,
+        748
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "little",
+      "bbox": [
+        474,
+        738,
+        520,
+        748
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "sooner,",
+      "bbox": [
+        530,
+        740,
+        583,
+        747
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "T",
+      "bbox": [
+        603,
+        738,
+        610,
+        747
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "5",
+      "bbox": [
+        668,
+        740,
+        673,
+        747
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "tne",
+      "bbox": [
+        443,
+        753,
+        464,
+        761
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Th",
+      "bbox": [
+        190,
+        767,
+        203,
+        776
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        297,
+        769,
+        310,
+        777
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "gor",
+      "bbox": [
+        321,
+        769,
+        342,
+        781
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        353,
+        767,
+        374,
+        777
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "te",
+      "bbox": [
+        451,
+        768,
+        464,
+        776
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        555,
+        769,
+        569,
+        776
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Lins",
+      "bbox": [
+        580,
+        766,
+        616,
+        776
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "ce:",
+      "bbox": [
+        155,
+        892,
+        176,
+        899
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "!",
+      "bbox": [
+        11,
+        965,
+        13,
+        978
+      ],
+      "confidence": 33.0
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "words": [
+    {
+      "text": "QUALITY IMPROVEMENT SUGGESTION",
+      "bbox": [
+        142,
+        44,
+        544,
+        68
+      ],
+      "confidence": 0.955058238484911
+    },
+    {
+      "text": "QUR MISSION IS SUPERIOR CONSUMER SATISFACTION",
+      "bbox": [
+        120,
+        74,
+        568,
+        98
+      ],
+      "confidence": 0.8203742767221275
+    },
+    {
+      "text": "Highest Quality _",
+      "bbox": [
+        125,
+        93,
+        231,
+        111
+      ],
+      "confidence": 0.7610983136807947
+    },
+    {
+      "text": "Teamwork. Do Right Things Right The Flrst Time",
+      "bbox": [
+        237,
+        92,
+        563,
+        111
+      ],
+      "confidence": 0.7651503261218622
+    },
+    {
+      "text": "RESEARCH & DEVELOPMENT",
+      "bbox": [
+        227,
+        117,
+        459,
+        137
+      ],
+      "confidence": 0.8498895706265526
+    },
+    {
+      "text": "Qualfty",
+      "bbox": [
+        497,
+        149,
+        551,
+        165
+      ],
+      "confidence": 0.6108444590032379
+    },
+    {
+      "text": "coord",
+      "bbox": [
+        555,
+        151,
+        593,
+        163
+      ],
+      "confidence": 0.8071953545365413
+    },
+    {
+      "text": "Oply",
+      "bbox": [
+        597,
+        151,
+        629,
+        165
+      ],
+      "confidence": 0.5579220652580261
+    },
+    {
+      "text": "DATE [",
+      "bbox": [
+        11,
+        167,
+        49,
+        179
+      ],
+      "confidence": 0.35033462086727596
+    },
+    {
+      "text": "June",
+      "bbox": [
+        53,
+        167,
+        87,
+        181
+      ],
+      "confidence": 0.9985049962997437
+    },
+    {
+      "text": "199 DEPARTHEXT :",
+      "bbox": [
+        117,
+        165,
+        225,
+        179
+      ],
+      "confidence": 0.4631057471178162
+    },
+    {
+      "text": "RED",
+      "bbox": [
+        251,
+        167,
+        277,
+        179
+      ],
+      "confidence": 0.5659761968520522
+    },
+    {
+      "text": "Library",
+      "bbox": [
+        278,
+        164,
+        333,
+        181
+      ],
+      "confidence": 0.6375531445678306
+    },
+    {
+      "text": "Date Rac~",
+      "bbox": [
+        455,
+        179,
+        517,
+        193
+      ],
+      "confidence": 0.3757136267884832
+    },
+    {
+      "text": "EUBHITTED",
+      "bbox": [
+        11,
+        195,
+        77,
+        207
+      ],
+      "confidence": 0.3375407691921063
+    },
+    {
+      "text": "Carel",
+      "bbox": [
+        145,
+        195,
+        183,
+        209
+      ],
+      "confidence": 0.5985361368902954
+    },
+    {
+      "text": "Linool",
+      "bbox": [
+        207,
+        195,
+        263,
+        209
+      ],
+      "confidence": 0.5666135235810227
+    },
+    {
+      "text": "QIP",
+      "bbox": [
+        455,
+        193,
+        479,
+        207
+      ],
+      "confidence": 0.9946836806928296
+    },
+    {
+      "text": "Log",
+      "bbox": [
+        483,
+        193,
+        509,
+        207
+      ],
+      "confidence": 0.9400361542602943
+    },
+    {
+      "text": "Type",
+      "bbox": [
+        455,
+        209,
+        487,
+        223
+      ],
+      "confidence": 0.681854248046875
+    },
+    {
+      "text": "EUBHIITER' &",
+      "bbox": [
+        11,
+        223,
+        91,
+        237
+      ],
+      "confidence": 0.622374452785372
+    },
+    {
+      "text": "401-64-3484",
+      "bbox": [
+        147,
+        221,
+        227,
+        237
+      ],
+      "confidence": 0.6990169685706684
+    },
+    {
+      "text": "statue (1993)",
+      "bbox": [
+        455,
+        221,
+        549,
+        237
+      ],
+      "confidence": 0.4463688903251015
+    },
+    {
+      "text": "Keyuord: (1993)",
+      "bbox": [
+        455,
+        235,
+        565,
+        251
+      ],
+      "confidence": 0.50342483589824
+    },
+    {
+      "text": "mequrent_systen of_managing",
+      "bbox": [
+        55,
+        305,
+        269,
+        323
+      ],
+      "confidence": 0.3311986380518273
+    },
+    {
+      "text": "recordais",
+      "bbox": [
+        273,
+        309,
+        345,
+        323
+      ],
+      "confidence": 0.690380942099695
+    },
+    {
+      "text": "specific, when ke_should",
+      "bbox": [
+        32,
+        331,
+        205,
+        350
+      ],
+      "confidence": 0.30955561253025765
+    },
+    {
+      "text": "eeople",
+      "bbox": [
+        467,
+        335,
+        513,
+        349
+      ],
+      "confidence": 0.5787075520305469
+    },
+    {
+      "text": "srito_understand",
+      "bbox": [
+        551,
+        335,
+        681,
+        349
+      ],
+      "confidence": 0.5355565567797911
+    },
+    {
+      "text": "che_system_",
+      "bbox": [
+        35,
+        361,
+        109,
+        377
+      ],
+      "confidence": 0.5784367045806341
+    },
+    {
+      "text": "Wemust",
+      "bbox": [
+        123,
+        363,
+        177,
+        375
+      ],
+      "confidence": 0.5585818358466403
+    },
+    {
+      "text": "spend",
+      "bbox": [
+        181,
+        363,
+        219,
+        377
+      ],
+      "confidence": 0.9451907418886191
+    },
+    {
+      "text": "Jabeljng",
+      "bbox": [
+        501,
+        363,
+        567,
+        377
+      ],
+      "confidence": 0.4708142673994367
+    },
+    {
+      "text": "andcleaning",
+      "bbox": [
+        571,
+        363,
+        661,
+        377
+      ],
+      "confidence": 0.8006050461789852
+    },
+    {
+      "text": "cur files",
+      "bbox": [
+        33,
+        389,
+        99,
+        403
+      ],
+      "confidence": 0.7323096909989992
+    },
+    {
+      "text": "Calying",
+      "bbox": [
+        117,
+        391,
+        183,
+        405
+      ],
+      "confidence": 0.6853178201236704
+    },
+    {
+      "text": "real",
+      "bbox": [
+        223,
+        391,
+        253,
+        405
+      ],
+      "confidence": 0.9843893347465306
+    },
+    {
+      "text": "both",
+      "bbox": [
+        313,
+        391,
+        345,
+        405
+      ],
+      "confidence": 0.9746628403663635
+    },
+    {
+      "text": "for",
+      "bbox": [
+        349,
+        391,
+        373,
+        405
+      ],
+      "confidence": 0.5898648386485201
+    },
+    {
+      "text": "the_individual",
+      "bbox": [
+        377,
+        391,
+        477,
+        405
+      ],
+      "confidence": 0.6719519174539149
+    },
+    {
+      "text": "and_",
+      "bbox": [
+        481,
+        391,
+        505,
+        405
+      ],
+      "confidence": 0.3889726931131314
+    },
+    {
+      "text": "for_the_records",
+      "bbox": [
+        509,
+        391,
+        617,
+        405
+      ],
+      "confidence": 0.49174259429074696
+    },
+    {
+      "text": "cpordinators",
+      "bbox": [
+        32,
+        415,
+        121,
+        433
+      ],
+      "confidence": 0.6519065543866445
+    },
+    {
+      "text": "the",
+      "bbox": [
+        89,
+        503,
+        113,
+        517
+      ],
+      "confidence": 0.9496847060229568
+    },
+    {
+      "text": "catcgory_specifications_altogether_",
+      "bbox": [
+        117,
+        501,
+        359,
+        520
+      ],
+      "confidence": 0.30365785084164176
+    },
+    {
+      "text": "Catedories",
+      "bbox": [
+        180,
+        534,
+        252,
+        542
+      ],
+      "confidence": 0.3417412849816008
+    },
+    {
+      "text": "PROFIT IHPROVEMENT:",
+      "bbox": [
+        11,
+        590,
+        148,
+        605
+      ],
+      "confidence": 0.7501478232997436
+    },
+    {
+      "text": "Iepledent:",
+      "bbox": [
+        217,
+        649,
+        291,
+        663
+      ],
+      "confidence": 0.5387706205372866
+    },
+    {
+      "text": "Dyes",
+      "bbox": [
+        307,
+        647,
+        349,
+        665
+      ],
+      "confidence": 0.3122265934944153
+    },
+    {
+      "text": "LJNo",
+      "bbox": [
+        363,
+        649,
+        399,
+        663
+      ],
+      "confidence": 0.555951714515686
+    },
+    {
+      "text": "Oeending",
+      "bbox": [
+        413,
+        645,
+        483,
+        663
+      ],
+      "confidence": 0.6541249555905624
+    },
+    {
+      "text": "Date_",
+      "bbox": [
+        493,
+        649,
+        527,
+        661
+      ],
+      "confidence": 0.7730294534782416
+    },
+    {
+      "text": "Approval",
+      "bbox": [
+        55,
+        877,
+        115,
+        891
+      ],
+      "confidence": 0.9300519795486788
+    },
+    {
+      "text": "siguature",
+      "bbox": [
+        119,
+        877,
+        185,
+        889
+      ],
+      "confidence": 0.6450574798270111
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        191,
+        877,
+        223,
+        889
+      ],
+      "confidence": 0.5714017152786255
+    },
+    {
+      "text": "(sign",
+      "bbox": [
+        263,
+        877,
+        293,
+        891
+      ],
+      "confidence": 0.8977901486574118
+    },
+    {
+      "text": "Retponder / Date",
+      "bbox": [
+        421,
+        877,
+        525,
+        889
+      ],
+      "confidence": 0.3449557317120735
+    },
+    {
+      "text": "1",
+      "bbox": [
+        630,
+        769,
+        658,
+        892
+      ],
+      "confidence": 0.34906955726970423
+    },
+    {
+      "text": "Beck }",
+      "bbox": [
+        387,
+        891,
+        417,
+        903
+      ],
+      "confidence": 0.6180636726056411
+    },
+    {
+      "text": "21",
+      "bbox": [
+        89,
+        163,
+        115,
+        181
+      ],
+      "confidence": 0.46807191647074076
+    }
+  ]
+}

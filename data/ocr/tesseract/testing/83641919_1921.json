@@ -1,0 +1,574 @@
+{
+  "words": [
+    {
+      "text": "To:",
+      "bbox": [
+        77,
+        120,
+        96,
+        129
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "aa",
+      "bbox": [
+        570,
+        106,
+        630,
+        145
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        78,
+        150,
+        113,
+        158
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "RW.",
+      "bbox": [
+        145,
+        140,
+        172,
+        168
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "RICHARDSON.",
+      "bbox": [
+        174,
+        140,
+        247,
+        168
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "ocros",
+      "bbox": [
+        361,
+        149,
+        398,
+        157
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        78,
+        207,
+        130,
+        215
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "OLD",
+      "bbox": [
+        144,
+        203,
+        168,
+        223
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "GOLD-LIGHT",
+      "bbox": [
+        144,
+        207,
+        412,
+        217
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "BOX",
+      "bbox": [
+        252,
+        203,
+        271,
+        223
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "190'S",
+      "bbox": [
+        277,
+        203,
+        305,
+        223
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "PROGRESS",
+      "bbox": [
+        310,
+        203,
+        364,
+        223
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "REPORT",
+      "bbox": [
+        370,
+        203,
+        416,
+        223
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "REGION:",
+      "bbox": [
+        73,
+        243,
+        124,
+        282
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "__x",
+      "bbox": [
+        584,
+        264,
+        591,
+        272
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "{ONLY",
+      "bbox": [
+        77,
+        285,
+        111,
+        295
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "IF",
+      "bbox": [
+        114,
+        285,
+        124,
+        293
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PARTIAL",
+      "bbox": [
+        127,
+        285,
+        173,
+        294
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "REGION,",
+      "bbox": [
+        176,
+        285,
+        219,
+        295
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "CONTINUE",
+      "bbox": [
+        223,
+        285,
+        278,
+        294
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "WITH",
+      "bbox": [
+        281,
+        285,
+        309,
+        293
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "DIVISION(3)",
+      "bbox": [
+        313,
+        285,
+        374,
+        295
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "SCOPE)",
+      "bbox": [
+        377,
+        285,
+        413,
+        295
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "fut",
+      "bbox": [
+        295,
+        309,
+        322,
+        318
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "DIVISION",
+      "bbox": [
+        100,
+        375,
+        250,
+        386
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "NAB:",
+      "bbox": [
+        154,
+        355,
+        187,
+        394
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "ie",
+      "bbox": [
+        387,
+        376,
+        407,
+        385
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "fuss",
+      "bbox": [
+        483,
+        375,
+        578,
+        384
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        312,
+        413,
+        314,
+        415
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "tana",
+      "bbox": [
+        213,
+        415,
+        266,
+        454
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "aie",
+      "bbox": [
+        298,
+        415,
+        331,
+        454
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Ren",
+      "bbox": [
+        337,
+        415,
+        373,
+        454
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        114,
+        472,
+        127,
+        478
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        206,
+        477,
+        242,
+        486
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Tt",
+      "bbox": [
+        255,
+        480,
+        314,
+        519
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "[ues",
+      "bbox": [
+        170,
+        515,
+        242,
+        554
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "[ef",
+      "bbox": [
+        255,
+        526,
+        623,
+        544
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "ine",
+      "bbox": [
+        74,
+        654,
+        104,
+        693
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        158,
+        654,
+        175,
+        693
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Caz",
+      "bbox": [
+        181,
+        654,
+        204,
+        693
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Ban",
+      "bbox": [
+        343,
+        654,
+        380,
+        693
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        156,
+        685,
+        172,
+        693
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "he",
+      "bbox": [
+        173,
+        684,
+        214,
+        695
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "pai]",
+      "bbox": [
+        101,
+        703,
+        244,
+        718
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        461,
+        683,
+        471,
+        722
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "EE",
+      "bbox": [
+        479,
+        703,
+        516,
+        712
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        548,
+        703,
+        607,
+        716
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Baers",
+      "bbox": [
+        364,
+        709,
+        412,
+        718
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "|,",
+      "bbox": [
+        523,
+        697,
+        534,
+        736
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        699,
+        791,
+        716,
+        800
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "cee",
+      "bbox": [
+        74,
+        790,
+        146,
+        829
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        197,
+        802,
+        261,
+        819
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "os",
+      "bbox": [
+        699,
+        805,
+        716,
+        814
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        92,
+        825,
+        94,
+        827
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "EN",
+      "bbox": [
+        699,
+        818,
+        715,
+        827
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        698,
+        887,
+        714,
+        896
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "ts",
+      "bbox": [
+        668,
+        952,
+        701,
+        959
+      ],
+      "confidence": 51.0
+    }
+  ]
+}

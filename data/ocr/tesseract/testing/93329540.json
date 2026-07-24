@@ -1,0 +1,974 @@
+{
+  "words": [
+    {
+      "text": "COMPETITIVE",
+      "bbox": [
+        351,
+        91,
+        442,
+        103
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "PRODUCTS!",
+      "bbox": [
+        448,
+        90,
+        541,
+        101
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "REPORYED",
+      "bbox": [
+        80,
+        155,
+        153,
+        166
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        160,
+        155,
+        180,
+        164
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "\u2018A.",
+      "bbox": [
+        258,
+        153,
+        271,
+        162
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "DIVISION",
+      "bbox": [
+        324,
+        152,
+        383,
+        161
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "MANAGER,",
+      "bbox": [
+        390,
+        151,
+        448,
+        161
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "SAN",
+      "bbox": [
+        458,
+        151,
+        479,
+        160
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "FRANCISCO,",
+      "bbox": [
+        487,
+        149,
+        559,
+        160
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "CA",
+      "bbox": [
+        568,
+        149,
+        583,
+        158
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "TIME:",
+      "bbox": [
+        261,
+        205,
+        295,
+        215
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "MANUFACTURER:",
+      "bbox": [
+        81,
+        249,
+        198,
+        279
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "AMBRIGAN",
+      "bbox": [
+        261,
+        260,
+        317,
+        271
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "TOBACCO",
+      "bbox": [
+        325,
+        260,
+        377,
+        270
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "COMPANY",
+      "bbox": [
+        385,
+        258,
+        436,
+        269
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        133,
+        312,
+        176,
+        322
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "10'S",
+      "bbox": [
+        320,
+        308,
+        347,
+        319
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "YPE",
+      "bbox": [
+        90,
+        366,
+        115,
+        376
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        121,
+        366,
+        138,
+        375
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PRODUCT:",
+      "bbox": [
+        82,
+        382,
+        152,
+        393
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "J",
+      "bbox": [
+        720,
+        388,
+        726,
+        389
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "|siZE",
+      "bbox": [
+        82,
+        435,
+        111,
+        445
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        117,
+        434,
+        136,
+        444
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SIZES:",
+      "bbox": [
+        142,
+        434,
+        184,
+        444
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "lust",
+      "bbox": [
+        82,
+        488,
+        110,
+        498
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "PRICE:",
+      "bbox": [
+        115,
+        487,
+        160,
+        497
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "EXTENT",
+      "bbox": [
+        83,
+        540,
+        134,
+        550
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        140,
+        540,
+        157,
+        549
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "DISTRIBUTION:",
+      "bbox": [
+        83,
+        557,
+        183,
+        568
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        84,
+        645,
+        129,
+        655
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "INFORMATION:",
+      "bbox": [
+        84,
+        662,
+        183,
+        673
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "SEE",
+      "bbox": [
+        264,
+        659,
+        285,
+        669
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "ATTACHED",
+      "bbox": [
+        292,
+        659,
+        351,
+        668
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "COPY",
+      "bbox": [
+        359,
+        658,
+        388,
+        667
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        396,
+        658,
+        410,
+        667
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "CIRCULAR",
+      "bbox": [
+        418,
+        657,
+        477,
+        667
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "NO.",
+      "bbox": [
+        484,
+        656,
+        504,
+        665
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "4848",
+      "bbox": [
+        514,
+        655,
+        542,
+        665
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "po",
+      "bbox": [
+        85,
+        743,
+        362,
+        747
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Joo:",
+      "bbox": [
+        85,
+        788,
+        103,
+        795
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Tisch",
+      "bbox": [
+        120,
+        802,
+        154,
+        812
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "v.",
+      "bbox": [
+        242,
+        801,
+        253,
+        810
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Norman",
+      "bbox": [
+        260,
+        801,
+        309,
+        810
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Je",
+      "bbox": [
+        373,
+        799,
+        395,
+        809
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        388,
+        789,
+        401,
+        818
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Tatulli",
+      "bbox": [
+        404,
+        799,
+        443,
+        808
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "K.P.",
+      "bbox": [
+        550,
+        797,
+        578,
+        806
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Augustyn",
+      "bbox": [
+        584,
+        797,
+        645,
+        809
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "ip.",
+      "bbox": [
+        86,
+        821,
+        97,
+        830
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "H.",
+      "bbox": [
+        103,
+        820,
+        116,
+        830
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Orcutt",
+      "bbox": [
+        122,
+        820,
+        162,
+        830
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "A.W.",
+      "bbox": [
+        242,
+        818,
+        275,
+        828
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Spears",
+      "bbox": [
+        281,
+        818,
+        326,
+        830
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "LH.",
+      "bbox": [
+        374,
+        817,
+        402,
+        827
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Kersh",
+      "bbox": [
+        409,
+        816,
+        444,
+        826
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "V.D.",
+      "bbox": [
+        549,
+        815,
+        579,
+        824
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Lindsley",
+      "bbox": [
+        585,
+        814,
+        639,
+        826
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        740,
+        811,
+        751,
+        827
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        107,
+        838,
+        117,
+        847
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Peterson",
+      "bbox": [
+        123,
+        838,
+        179,
+        847
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        243,
+        836,
+        251,
+        845
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        260,
+        836,
+        270,
+        845
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "J.B,",
+      "bbox": [
+        374,
+        834,
+        402,
+        844
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Siater",
+      "bbox": [
+        408,
+        834,
+        445,
+        843
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Bondy",
+      "bbox": [
+        587,
+        832,
+        628,
+        843
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        738,
+        829,
+        750,
+        845
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "IM.",
+      "bbox": [
+        87,
+        855,
+        100,
+        865
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "L.",
+      "bbox": [
+        106,
+        855,
+        116,
+        865
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Orlowsky",
+      "bbox": [
+        122,
+        854,
+        180,
+        866
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "NP.",
+      "bbox": [
+        243,
+        853,
+        273,
+        863
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "Ruffalo",
+      "bbox": [
+        279,
+        853,
+        323,
+        862
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        374,
+        852,
+        386,
+        861
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Pasheluk",
+      "bbox": [
+        392,
+        851,
+        449,
+        861
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        551,
+        850,
+        562,
+        859
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "9;",
+      "bbox": [
+        568,
+        849,
+        581,
+        859
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Hammer",
+      "bbox": [
+        587,
+        849,
+        641,
+        858
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "@",
+      "bbox": [
+        737,
+        845,
+        748,
+        862
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "L.",
+      "bbox": [
+        87,
+        873,
+        96,
+        882
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Gordon",
+      "bbox": [
+        102,
+        873,
+        149,
+        882
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "7.",
+      "bbox": [
+        243,
+        871,
+        254,
+        880
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "L.",
+      "bbox": [
+        260,
+        871,
+        270,
+        880
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "Achey",
+      "bbox": [
+        276,
+        871,
+        315,
+        882
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        375,
+        869,
+        400,
+        879
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Goldbrenner",
+      "bbox": [
+        410,
+        869,
+        491,
+        878
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "G.",
+      "bbox": [
+        87,
+        890,
+        99,
+        900
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Telford",
+      "bbox": [
+        104,
+        889,
+        149,
+        899
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        244,
+        888,
+        252,
+        898
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "B.",
+      "bbox": [
+        262,
+        888,
+        273,
+        897
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Spell",
+      "bbox": [
+        279,
+        887,
+        310,
+        900
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "N.",
+      "bbox": [
+        375,
+        887,
+        387,
+        896
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Simeonidis",
+      "bbox": [
+        393,
+        886,
+        464,
+        896
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "P.",
+      "bbox": [
+        244,
+        906,
+        255,
+        915
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        261,
+        906,
+        271,
+        915
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "McCann",
+      "bbox": [
+        277,
+        905,
+        329,
+        915
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "8.",
+      "bbox": [
+        376,
+        904,
+        387,
+        914
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "F.",
+      "bbox": [
+        393,
+        904,
+        403,
+        914
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Smith",
+      "bbox": [
+        409,
+        904,
+        445,
+        913
+      ],
+      "confidence": 96.0
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "words": [
+    {
+      "text": "PROJECT",
+      "bbox": [
+        39,
+        75,
+        115,
+        95
+      ],
+      "confidence": 0.9867798380726116
+    },
+    {
+      "text": "SHEET",
+      "bbox": [
+        121,
+        77,
+        175,
+        95
+      ],
+      "confidence": 0.9934629661860264
+    },
+    {
+      "text": "HAZLETON",
+      "bbox": [
+        303,
+        67,
+        527,
+        107
+      ],
+      "confidence": 0.8878526765475554
+    },
+    {
+      "text": "22180",
+      "bbox": [
+        701,
+        87,
+        745,
+        99
+      ],
+      "confidence": 0.6923164607085238
+    },
+    {
+      "text": "U5",
+      "bbox": [
+        653,
+        99,
+        677,
+        111
+      ],
+      "confidence": 0.8076178410101337
+    },
+    {
+      "text": "LABQRATQRIES AMERICAINC",
+      "bbox": [
+        307,
+        105,
+        557,
+        121
+      ],
+      "confidence": 0.5414982616628801
+    },
+    {
+      "text": "DATE}ISSUED",
+      "bbox": [
+        45,
+        133,
+        113,
+        145
+      ],
+      "confidence": 0.34878266231437666
+    },
+    {
+      "text": "December 13, 1983",
+      "bbox": [
+        125,
+        125,
+        255,
+        141
+      ],
+      "confidence": 0.9949156935116602
+    },
+    {
+      "text": "PROJECT No_",
+      "bbox": [
+        483,
+        135,
+        571,
+        149
+      ],
+      "confidence": 0.7301594546077579
+    },
+    {
+      "text": "642-149",
+      "bbox": [
+        591,
+        125,
+        647,
+        141
+      ],
+      "confidence": 0.8110117509576565
+    },
+    {
+      "text": "STUDY  TITLE",
+      "bbox": [
+        45,
+        151,
+        111,
+        163
+      ],
+      "confidence": 0.38647114421347933
+    },
+    {
+      "text": "PROPOSAL NUBER",
+      "bbox": [
+        123,
+        151,
+        213,
+        165
+      ],
+      "confidence": 0.5849806283938679
+    },
+    {
+      "text": "3212",
+      "bbox": [
+        375,
+        151,
+        409,
+        169
+      ],
+      "confidence": 0.5673698281876903
+    },
+    {
+      "text": "PROJECT COORDIMATOR",
+      "bbox": [
+        425,
+        153,
+        537,
+        167
+      ],
+      "confidence": 0.5880400321973096
+    },
+    {
+      "text": "Serta",
+      "bbox": [
+        569,
+        155,
+        617,
+        169
+      ],
+      "confidence": 0.9623417469145845
+    },
+    {
+      "text": "14-Day Single Dose Subacute Toxicity Study",
+      "bbox": [
+        50,
+        165,
+        365,
+        183
+      ],
+      "confidence": 0.5273520278061697
+    },
+    {
+      "text": "SIGHATURE :",
+      "bbox": [
+        475,
+        175,
+        535,
+        187
+      ],
+      "confidence": 0.9314055470000449
+    },
+    {
+      "text": "TEST MATERIAL(s)",
+      "bbox": [
+        45,
+        191,
+        137,
+        205
+      ],
+      "confidence": 0.6800247608021074
+    },
+    {
+      "text": "LOT NO. (s)",
+      "bbox": [
+        423,
+        193,
+        483,
+        207
+      ],
+      "confidence": 0.6631644159312847
+    },
+    {
+      "text": "RECEIPT DATE($)",
+      "bbox": [
+        531,
+        195,
+        617,
+        209
+      ],
+      "confidence": 0.6180824358472736
+    },
+    {
+      "text": "B121",
+      "bbox": [
+        177,
+        223,
+        209,
+        239
+      ],
+      "confidence": 0.9949100613594055
+    },
+    {
+      "text": "11/18/83",
+      "bbox": [
+        531,
+        223,
+        595,
+        239
+      ],
+      "confidence": 0.9994699451856227
+    },
+    {
+      "text": "21,017",
+      "bbox": [
+        663,
+        221,
+        713,
+        241
+      ],
+      "confidence": 0.999750282673296
+    },
+    {
+      "text": "ORIGINAL SIGNED PRQJECT SHEETS TO PSQ",
+      "bbox": [
+        425,
+        277,
+        637,
+        293
+      ],
+      "confidence": 0.45134295448469725
+    },
+    {
+      "text": "Acute",
+      "bbox": [
+        57,
+        285,
+        99,
+        299
+      ],
+      "confidence": 0.9999920565060415
+    },
+    {
+      "text": "Derma",
+      "bbox": [
+        103,
+        285,
+        141,
+        299
+      ],
+      "confidence": 0.8431515807228317
+    },
+    {
+      "text": "Toxic",
+      "bbox": [
+        155,
+        285,
+        187,
+        299
+      ],
+      "confidence": 0.4345116612207043
+    },
+    {
+      "text": "cology",
+      "bbox": [
+        182,
+        283,
+        231,
+        304
+      ],
+      "confidence": 0.7136809557724498
+    },
+    {
+      "text": "0f Life sciemces",
+      "bbox": [
+        459,
+        315,
+        547,
+        329
+      ],
+      "confidence": 0.36146731656838
+    },
+    {
+      "text": "LAB ANIHAL FDICINE",
+      "bbox": [
+        623,
+        317,
+        733,
+        329
+      ],
+      "confidence": 0.3223430159361087
+    },
+    {
+      "text": "PROTECTINE PRECAUTIONS REQUIRED:",
+      "bbox": [
+        45,
+        333,
+        227,
+        347
+      ],
+      "confidence": 0.7135104126742778
+    },
+    {
+      "text": "HEALTX SERVICES",
+      "bbox": [
+        435,
+        327,
+        523,
+        341
+      ],
+      "confidence": 0.6357547832409952
+    },
+    {
+      "text": "QUALITT Assurance",
+      "bbox": [
+        623,
+        329,
+        723,
+        343
+      ],
+      "confidence": 0.6787912490452862
+    },
+    {
+      "text": "comtracts",
+      "bbox": [
+        623,
+        343,
+        677,
+        357
+      ],
+      "confidence": 0.5010252950546235
+    },
+    {
+      "text": "ponsor",
+      "bbox": [
+        629,
+        357,
+        677,
+        369
+      ],
+      "confidence": 0.9996697335567355
+    },
+    {
+      "text": "EXPLOSIVE",
+      "bbox": [
+        45,
+        365,
+        99,
+        379
+      ],
+      "confidence": 0.9692905744281805
+    },
+    {
+      "text": "CARCIMOGEN (OSHA)",
+      "bbox": [
+        215,
+        367,
+        313,
+        381
+      ],
+      "confidence": 0.7713025159619726
+    },
+    {
+      "text": "AND COHPANY",
+      "bbox": [
+        527,
+        379,
+        593,
+        391
+      ],
+      "confidence": 0.4742672006663512
+    },
+    {
+      "text": "CARCIMOGEM (OTHER)",
+      "bbox": [
+        215,
+        387,
+        319,
+        401
+      ],
+      "confidence": 0.7216453490377894
+    },
+    {
+      "text": "SAFETY",
+      "bbox": [
+        427,
+        387,
+        463,
+        401
+      ],
+      "confidence": 0.9891713265786672
+    },
+    {
+      "text": "RADICACTIVE",
+      "bbox": [
+        45,
+        403,
+        111,
+        417
+      ],
+      "confidence": 0.7972514627591284
+    },
+    {
+      "text": "PHVSICAL_DESCRIPILON:",
+      "bbox": [
+        45,
+        423,
+        165,
+        437
+      ],
+      "confidence": 0.3134249407762498
+    },
+    {
+      "text": "SOLID",
+      "bbox": [
+        77,
+        441,
+        111,
+        453
+      ],
+      "confidence": 0.9949901193023637
+    },
+    {
+      "text": "Wre FRIGERATOR",
+      "bbox": [
+        429,
+        441,
+        513,
+        457
+      ],
+      "confidence": 0.5520016816579821
+    },
+    {
+      "text": "LIQUID",
+      "bbox": [
+        71,
+        455,
+        111,
+        469
+      ],
+      "confidence": 0.9213082702503012
+    },
+    {
+      "text": "Brown",
+      "bbox": [
+        219,
+        449,
+        261,
+        465
+      ],
+      "confidence": 0.9997057125656019
+    },
+    {
+      "text": "CCLOR",
+      "bbox": [
+        293,
+        455,
+        327,
+        467
+      ],
+      "confidence": 0.7467255185083901
+    },
+    {
+      "text": "Droom Temperatuae",
+      "bbox": [
+        431,
+        457,
+        539,
+        471
+      ],
+      "confidence": 0.358747768052766
+    },
+    {
+      "text": "OTHER _",
+      "bbox": [
+        637,
+        459,
+        669,
+        473
+      ],
+      "confidence": 0.689059241198882
+    },
+    {
+      "text": "PRE SSURIZE D",
+      "bbox": [
+        43,
+        469,
+        109,
+        483
+      ],
+      "confidence": 0.8131038658848243
+    },
+    {
+      "text": "be performed",
+      "bbox": [
+        213,
+        489,
+        305,
+        507
+      ],
+      "confidence": 0.8548662135185001
+    },
+    {
+      "text": "in Acute/ Derma ]",
+      "bbox": [
+        309,
+        491,
+        421,
+        507
+      ],
+      "confidence": 0.9830997109072142
+    },
+    {
+      "text": "Toxico",
+      "bbox": [
+        427,
+        491,
+        475,
+        507
+      ],
+      "confidence": 0.987114605965693
+    },
+    {
+      "text": "bui",
+      "bbox": [
+        517,
+        493,
+        541,
+        507
+      ],
+      "confidence": 0.6228328051032178
+    },
+    {
+      "text": "Iding 18_",
+      "bbox": [
+        538,
+        489,
+        603,
+        509
+      ],
+      "confidence": 0.6138749811660533
+    },
+    {
+      "text": "This",
+      "bbox": [
+        101,
+        543,
+        133,
+        559
+      ],
+      "confidence": 0.9990901947021484
+    },
+    {
+      "text": "project sheet is Issued",
+      "bbox": [
+        139,
+        545,
+        313,
+        561
+      ],
+      "confidence": 0.7717484198139697
+    },
+    {
+      "text": "correct Project Sheet which was issued",
+      "bbox": [
+        339,
+        545,
+        623,
+        561
+      ],
+      "confidence": 0.9012723825805935
+    },
+    {
+      "text": "December 6,",
+      "bbox": [
+        101,
+        559,
+        185,
+        575
+      ],
+      "confidence": 0.9866608823906929
+    },
+    {
+      "text": "1983",
+      "bbox": [
+        191,
+        559,
+        223,
+        573
+      ],
+      "confidence": 0.9978160048714695
+    },
+    {
+      "text": "to Project Sheet No.",
+      "bbox": [
+        229,
+        559,
+        377,
+        575
+      ],
+      "confidence": 0.8837876964177203
+    },
+    {
+      "text": "3 instead of 2.",
+      "bbox": [
+        383,
+        559,
+        497,
+        575
+      ],
+      "confidence": 0.922544750705467
+    },
+    {
+      "text": "Material Safety",
+      "bbox": [
+        91,
+        721,
+        207,
+        737
+      ],
+      "confidence": 0.9519311478717817
+    },
+    {
+      "text": "Data Sheet is attached",
+      "bbox": [
+        213,
+        721,
+        379,
+        737
+      ],
+      "confidence": 0.8687969633513638
+    },
+    {
+      "text": "to Project Sheet",
+      "bbox": [
+        383,
+        721,
+        505,
+        737
+      ],
+      "confidence": 0.8365797730191181
+    },
+    {
+      "text": "1",
+      "bbox": [
+        688,
+        763,
+        715,
+        856
+      ],
+      "confidence": 0.4239557111756689
+    },
+    {
+      "text": "logy",
+      "bbox": [
+        470,
+        489,
+        505,
+        510
+      ],
+      "confidence": 0.8368111252784729
+    }
+  ]
+}

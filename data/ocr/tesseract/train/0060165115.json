@@ -1,0 +1,584 @@
+{
+  "words": [
+    {
+      "text": "Research,",
+      "bbox": [
+        543,
+        140,
+        599,
+        149
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "TELEFAX",
+      "bbox": [
+        99,
+        163,
+        157,
+        173
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "MESSAGE",
+      "bbox": [
+        161,
+        163,
+        226,
+        172
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "NO.",
+      "bbox": [
+        231,
+        163,
+        253,
+        172
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "2.09304",
+      "bbox": [
+        552,
+        174,
+        586,
+        182
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "RFS",
+      "bbox": [
+        99,
+        197,
+        126,
+        203
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        133,
+        197,
+        135,
+        203
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "TR",
+      "bbox": [
+        257,
+        180,
+        271,
+        213
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "DLEY.FAK",
+      "bbox": [
+        496,
+        228,
+        553,
+        237
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        100,
+        252,
+        141,
+        285
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "28.",
+      "bbox": [
+        268,
+        264,
+        283,
+        275
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Apr:98",
+      "bbox": [
+        291,
+        264,
+        337,
+        277
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        100,
+        313,
+        145,
+        323
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Dr.",
+      "bbox": [
+        269,
+        312,
+        283,
+        323
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Wolf",
+      "bbox": [
+        291,
+        312,
+        320,
+        323
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Reininghaus",
+      "bbox": [
+        325,
+        312,
+        403,
+        325
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "98-04-29",
+      "bbox": [
+        489,
+        331,
+        551,
+        347
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "12:05",
+      "bbox": [
+        563,
+        341,
+        600,
+        354
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "guy",
+      "bbox": [
+        610,
+        347,
+        632,
+        358
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        100,
+        362,
+        123,
+        372
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Dr.",
+      "bbox": [
+        269,
+        361,
+        288,
+        371
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Don",
+      "bbox": [
+        293,
+        361,
+        319,
+        371
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Leyden,",
+      "bbox": [
+        325,
+        360,
+        378,
+        373
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Dept.",
+      "bbox": [
+        269,
+        377,
+        303,
+        389
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Scientific",
+      "bbox": [
+        308,
+        376,
+        371,
+        387
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "Affairs",
+      "bbox": [
+        376,
+        376,
+        421,
+        386
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Telefax-",
+      "bbox": [
+        516,
+        402,
+        608,
+        424
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "ADDRESS:",
+      "bbox": [
+        99,
+        413,
+        173,
+        446
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Philip",
+      "bbox": [
+        269,
+        425,
+        303,
+        438
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Morris",
+      "bbox": [
+        308,
+        425,
+        347,
+        435
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Europe",
+      "bbox": [
+        352,
+        425,
+        397,
+        437
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Original",
+      "bbox": [
+        516,
+        432,
+        613,
+        459
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "CH-2003",
+      "bbox": [
+        269,
+        472,
+        326,
+        483
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Neuchatel",
+      "bbox": [
+        331,
+        472,
+        394,
+        482
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "A",
+      "bbox": [
+        516,
+        463,
+        544,
+        493
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "age",
+      "bbox": [
+        580,
+        475,
+        644,
+        500
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        270,
+        520,
+        293,
+        530
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "no:",
+      "bbox": [
+        298,
+        522,
+        316,
+        529
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "5776",
+      "bbox": [
+        423,
+        519,
+        454,
+        529
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "NUMBER",
+      "bbox": [
+        102,
+        566,
+        163,
+        576
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        167,
+        566,
+        187,
+        576
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "FOLLOWING",
+      "bbox": [
+        192,
+        566,
+        277,
+        576
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PAGES:",
+      "bbox": [
+        283,
+        565,
+        334,
+        576
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "21",
+      "bbox": [
+        371,
+        566,
+        384,
+        576
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "(",
+      "bbox": [
+        408,
+        555,
+        424,
+        588
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "bs",
+      "bbox": [
+        492,
+        554,
+        510,
+        579
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "we)",
+      "bbox": [
+        512,
+        549,
+        562,
+        596
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Re.:",
+      "bbox": [
+        102,
+        630,
+        130,
+        641
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "TPM/Nicotine",
+      "bbox": [
+        137,
+        629,
+        238,
+        641
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "ratio",
+      "bbox": [
+        244,
+        629,
+        275,
+        641
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Ne",
+      "bbox": [
+        45,
+        645,
+        64,
+        657
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "For",
+      "bbox": [
+        102,
+        674,
+        127,
+        685
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "your",
+      "bbox": [
+        132,
+        676,
+        165,
+        688
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "information!",
+      "bbox": [
+        170,
+        673,
+        256,
+        685
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "\u201cade",
+      "bbox": [
+        493,
+        939,
+        515,
+        945
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        587,
+        939,
+        598,
+        945
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "387",
+      "bbox": [
+        606,
+        924,
+        620,
+        956
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "meee",
+      "bbox": [
+        526,
+        948,
+        706,
+        961
+      ],
+      "confidence": 36.0
+    }
+  ]
+}

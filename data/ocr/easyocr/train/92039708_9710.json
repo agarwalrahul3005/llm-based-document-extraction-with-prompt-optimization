@@ -1,0 +1,304 @@
+{
+  "words": [
+    {
+      "text": "To:",
+      "bbox": [
+        97,
+        115,
+        123,
+        131
+      ],
+      "confidence": 0.6088506054939398
+    },
+    {
+      "text": "R: B. SPELL",
+      "bbox": [
+        185,
+        115,
+        261,
+        133
+      ],
+      "confidence": 0.5925340312050639
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        97,
+        145,
+        143,
+        161
+      ],
+      "confidence": 0.7449506635256726
+    },
+    {
+      "text": "MAY 27",
+      "bbox": [
+        449,
+        145,
+        505,
+        163
+      ],
+      "confidence": 0.9956588786132181
+    },
+    {
+      "text": "AUG 26",
+      "bbox": [
+        579,
+        147,
+        635,
+        165
+      ],
+      "confidence": 0.9988803723526543
+    },
+    {
+      "text": "JUN 24",
+      "bbox": [
+        451,
+        169,
+        503,
+        183
+      ],
+      "confidence": 0.745516930708721
+    },
+    {
+      "text": "OCT 07",
+      "bbox": [
+        577,
+        167,
+        633,
+        185
+      ],
+      "confidence": 0.991929811416276
+    },
+    {
+      "text": "SUBJECT:",
+      "bbox": [
+        95,
+        197,
+        163,
+        213
+      ],
+      "confidence": 0.9991912350743782
+    },
+    {
+      "text": "MAVERICK SPECIALS",
+      "bbox": [
+        184,
+        196,
+        337,
+        215
+      ],
+      "confidence": 0.964366453981349
+    },
+    {
+      "text": "PROGRESS REPORT",
+      "bbox": [
+        345,
+        197,
+        493,
+        217
+      ],
+      "confidence": 0.7621212920639083
+    },
+    {
+      "text": "EFFECTIVENESS OR:",
+      "bbox": [
+        94,
+        270,
+        245,
+        291
+      ],
+      "confidence": 0.7393980215583298
+    },
+    {
+      "text": "Pre-Sell",
+      "bbox": [
+        255,
+        273,
+        311,
+        289
+      ],
+      "confidence": 0.9943235749306025
+    },
+    {
+      "text": "Booklet/Coupon",
+      "bbox": [
+        331,
+        275,
+        443,
+        291
+      ],
+      "confidence": 0.9986966381573681
+    },
+    {
+      "text": "Maverick/Harley B1GIF",
+      "bbox": [
+        462,
+        273,
+        623,
+        293
+      ],
+      "confidence": 0.5495706990476098
+    },
+    {
+      "text": "(Report on",
+      "bbox": [
+        99,
+        293,
+        175,
+        309
+      ],
+      "confidence": 0.997506783198918
+    },
+    {
+      "text": "27 only)",
+      "bbox": [
+        207,
+        291,
+        265,
+        311
+      ],
+      "confidence": 0.997093869811733
+    },
+    {
+      "text": "PRE-SELL",
+      "bbox": [
+        93,
+        311,
+        167,
+        329
+      ],
+      "confidence": 0.8665543754218612
+    },
+    {
+      "text": "BOOKLETICOUPON",
+      "bbox": [
+        94,
+        459,
+        232,
+        477
+      ],
+      "confidence": 0.9968457625090711
+    },
+    {
+      "text": "MAVERICKIHARLEY BIGIF",
+      "bbox": [
+        94,
+        603,
+        283,
+        623
+      ],
+      "confidence": 0.9047030064482232
+    },
+    {
+      "text": "COMPETIIE PROMQTIONAL ACTIITY",
+      "bbox": [
+        100,
+        742,
+        382,
+        766
+      ],
+      "confidence": 0.6072526448760381
+    },
+    {
+      "text": "(Report on",
+      "bbox": [
+        98,
+        764,
+        173,
+        784
+      ],
+      "confidence": 0.9992828858513302
+    },
+    {
+      "text": "27 only)",
+      "bbox": [
+        207,
+        767,
+        265,
+        783
+      ],
+      "confidence": 0.9795111337449555
+    },
+    {
+      "text": "Average Coupon/Buydown Value On Targeted Brands (Doral/Basic/Monarch/Cambridge/GPC)",
+      "bbox": [
+        92,
+        788,
+        665,
+        809
+      ],
+      "confidence": 0.6843157812664159
+    },
+    {
+      "text": "8",
+      "bbox": [
+        687,
+        767,
+        701,
+        803
+      ],
+      "confidence": 0.8352378642576355
+    },
+    {
+      "text": "PACKS",
+      "bbox": [
+        215,
+        819,
+        265,
+        837
+      ],
+      "confidence": 0.6004185817810649
+    },
+    {
+      "text": "8",
+      "bbox": [
+        689,
+        801,
+        703,
+        835
+      ],
+      "confidence": 0.4083807213484114
+    },
+    {
+      "text": "CARTONS",
+      "bbox": [
+        217,
+        853,
+        285,
+        869
+      ],
+      "confidence": 0.9999352976497768
+    },
+    {
+      "text": "of 3",
+      "bbox": [
+        665,
+        909,
+        693,
+        925
+      ],
+      "confidence": 0.9925420880317688
+    },
+    {
+      "text": "May",
+      "bbox": [
+        174,
+        290,
+        208,
+        311
+      ],
+      "confidence": 0.9999640043422353
+    },
+    {
+      "text": "May",
+      "bbox": [
+        173,
+        762,
+        208,
+        784
+      ],
+      "confidence": 0.9999635225659663
+    }
+  ]
+}

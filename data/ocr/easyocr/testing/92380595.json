@@ -1,0 +1,1034 @@
+{
+  "words": [
+    {
+      "text": "Executive Otiices",
+      "bbox": [
+        299,
+        37,
+        397,
+        53
+      ],
+      "confidence": 0.7746405375643599
+    },
+    {
+      "text": "GULF + WESTI",
+      "bbox": [
+        163,
+        61,
+        249,
+        77
+      ],
+      "confidence": 0.5418366406342285
+    },
+    {
+      "text": "NEW YOAK; NEW YOAK",
+      "bbox": [
+        333,
+        57,
+        477,
+        73
+      ],
+      "confidence": 0.6526457301161517
+    },
+    {
+      "text": "23-7773",
+      "bbox": [
+        497,
+        57,
+        545,
+        71
+      ],
+      "confidence": 0.9937609770800049
+    },
+    {
+      "text": "(212) 373-7500",
+      "bbox": [
+        305,
+        73,
+        391,
+        89
+      ],
+      "confidence": 0.6564320732408463
+    },
+    {
+      "text": "PRENTICE HALL CORPORATE SERVICES",
+      "bbox": [
+        130,
+        87,
+        566,
+        118
+      ],
+      "confidence": 0.8291104209680533
+    },
+    {
+      "text": "United States Carporation Company",
+      "bbox": [
+        27,
+        130,
+        225,
+        148
+      ],
+      "confidence": 0.6858656975410357
+    },
+    {
+      "text": "The Prentice-Hall Corparaticn System, Inc_",
+      "bbox": [
+        437,
+        125,
+        667,
+        141
+      ],
+      "confidence": 0.8886766514114395
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        27,
+        159,
+        65,
+        173
+      ],
+      "confidence": 0.965399011369354
+    },
+    {
+      "text": "12-13-89",
+      "bbox": [
+        87,
+        153,
+        149,
+        169
+      ],
+      "confidence": 0.9796748880775379
+    },
+    {
+      "text": "Received",
+      "bbox": [
+        291,
+        148,
+        400,
+        179
+      ],
+      "confidence": 0.6173576271591101
+    },
+    {
+      "text": "TX",
+      "bbox": [
+        445,
+        163,
+        479,
+        179
+      ],
+      "confidence": 0.9480019098840644
+    },
+    {
+      "text": "13751",
+      "bbox": [
+        495,
+        161,
+        579,
+        179
+      ],
+      "confidence": 0.9131767386777905
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        29,
+        183,
+        53,
+        199
+      ],
+      "confidence": 0.3931243419647217
+    },
+    {
+      "text": "LORILLARD",
+      "bbox": [
+        87,
+        183,
+        157,
+        199
+      ],
+      "confidence": 0.9957309495891479
+    },
+    {
+      "text": "INC .",
+      "bbox": [
+        167,
+        181,
+        193,
+        195
+      ],
+      "confidence": 0.8836676180616748
+    },
+    {
+      "text": "ONE",
+      "bbox": [
+        87,
+        199,
+        113,
+        213
+      ],
+      "confidence": 0.947065770038342
+    },
+    {
+      "text": "PARK AVENUE",
+      "bbox": [
+        117,
+        194,
+        199,
+        212
+      ],
+      "confidence": 0.7910391523145099
+    },
+    {
+      "text": "18TH",
+      "bbox": [
+        203,
+        195,
+        235,
+        209
+      ],
+      "confidence": 0.857135534286499
+    },
+    {
+      "text": "DEC",
+      "bbox": [
+        304,
+        186,
+        330,
+        210
+      ],
+      "confidence": 0.7946270668372234
+    },
+    {
+      "text": "4 89",
+      "bbox": [
+        351,
+        187,
+        393,
+        207
+      ],
+      "confidence": 0.6351074170405914
+    },
+    {
+      "text": "NEW YORK ,",
+      "bbox": [
+        89,
+        211,
+        155,
+        227
+      ],
+      "confidence": 0.9439105134748043
+    },
+    {
+      "text": "10016",
+      "bbox": [
+        197,
+        209,
+        235,
+        225
+      ],
+      "confidence": 0.9941139165574255
+    },
+    {
+      "text": "ESQ.A: J:",
+      "bbox": [
+        273,
+        219,
+        333,
+        237
+      ],
+      "confidence": 0.3151736786898029
+    },
+    {
+      "text": "STEVENS",
+      "bbox": [
+        331,
+        211,
+        402,
+        237
+      ],
+      "confidence": 0.9973354059624912
+    },
+    {
+      "text": "ATTN:",
+      "bbox": [
+        89,
+        227,
+        127,
+        241
+      ],
+      "confidence": 0.8351565784355652
+    },
+    {
+      "text": "MR .",
+      "bbox": [
+        131,
+        227,
+        157,
+        241
+      ],
+      "confidence": 0.603710381951444
+    },
+    {
+      "text": "ARTHUR  STEVENS",
+      "bbox": [
+        161,
+        223,
+        263,
+        239
+      ],
+      "confidence": 0.6799565835432496
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        483,
+        233,
+        505,
+        247
+      ],
+      "confidence": 0.9786352905655068
+    },
+    {
+      "text": "STATUTORY",
+      "bbox": [
+        447,
+        247,
+        523,
+        263
+      ],
+      "confidence": 0.7209637311326987
+    },
+    {
+      "text": "033052",
+      "bbox": [
+        547,
+        265,
+        593,
+        281
+      ],
+      "confidence": 0.9999210127762904
+    },
+    {
+      "text": "LORILLARD ,",
+      "bbox": [
+        89,
+        277,
+        165,
+        291
+      ],
+      "confidence": 0.6183193701605854
+    },
+    {
+      "text": "INC .",
+      "bbox": [
+        169,
+        275,
+        195,
+        289
+      ],
+      "confidence": 0.7941205462255985
+    },
+    {
+      "text": "Account",
+      "bbox": [
+        449,
+        279,
+        495,
+        293
+      ],
+      "confidence": 0.9873926296495151
+    },
+    {
+      "text": "(Represented Company)",
+      "bbox": [
+        163,
+        297,
+        297,
+        313
+      ],
+      "confidence": 0.7863156354636066
+    },
+    {
+      "text": "We enclose the following documents which were served upon:",
+      "bbox": [
+        53,
+        335,
+        395,
+        353
+      ],
+      "confidence": 0.6780871440490677
+    },
+    {
+      "text": "UNITED",
+      "bbox": [
+        139,
+        353,
+        193,
+        369
+      ],
+      "confidence": 0.9992157110092923
+    },
+    {
+      "text": "STATES CORPORATION COMPANY",
+      "bbox": [
+        199,
+        349,
+        423,
+        369
+      ],
+      "confidence": 0.9527048198261258
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        429,
+        349,
+        451,
+        363
+      ],
+      "confidence": 0.9997758704169389
+    },
+    {
+      "text": "TEXAS",
+      "bbox": [
+        455,
+        349,
+        501,
+        363
+      ],
+      "confidence": 0.9977196446470662
+    },
+    {
+      "text": "as registered agent for the above-captioned corporation on_12-13-89",
+      "bbox": [
+        38,
+        376,
+        426,
+        400
+      ],
+      "confidence": 0.6979281111116652
+    },
+    {
+      "text": "via:",
+      "bbox": [
+        431,
+        379,
+        455,
+        391
+      ],
+      "confidence": 0.9452682137489319
+    },
+    {
+      "text": "Personal Service",
+      "bbox": [
+        139,
+        403,
+        233,
+        417
+      ],
+      "confidence": 0.9431539080658754
+    },
+    {
+      "text": "Mail: Regular",
+      "bbox": [
+        279,
+        400,
+        355,
+        418
+      ],
+      "confidence": 0.9966965225095139
+    },
+    {
+      "text": "Certitied",
+      "bbox": [
+        423,
+        399,
+        471,
+        415
+      ],
+      "confidence": 0.7963402339617934
+    },
+    {
+      "text": "Certified",
+      "bbox": [
+        523,
+        399,
+        569,
+        413
+      ],
+      "confidence": 0.5767492814891949
+    },
+    {
+      "text": "Summons",
+      "bbox": [
+        69,
+        433,
+        127,
+        449
+      ],
+      "confidence": 0.720640253751679
+    },
+    {
+      "text": "selt-addressed stampec",
+      "bbox": [
+        327,
+        428,
+        459,
+        446
+      ],
+      "confidence": 0.8074082260305416
+    },
+    {
+      "text": "Notice of Mechanic 5 Lien",
+      "bbox": [
+        523,
+        427,
+        667,
+        443
+      ],
+      "confidence": 0.6887196138006294
+    },
+    {
+      "text": "Complaint",
+      "bbox": [
+        69,
+        453,
+        127,
+        467
+      ],
+      "confidence": 0.9996327892379961
+    },
+    {
+      "text": "envelope enclosed",
+      "bbox": [
+        317,
+        449,
+        421,
+        465
+      ],
+      "confidence": 0.9787334120237006
+    },
+    {
+      "text": "Noiice of Delault Jucgment",
+      "bbox": [
+        525,
+        447,
+        675,
+        461
+      ],
+      "confidence": 0.6437208365608923
+    },
+    {
+      "text": "Duplicate copies of the Notice and",
+      "bbox": [
+        69,
+        471,
+        251,
+        487
+      ],
+      "confidence": 0.8489070751282604
+    },
+    {
+      "text": "Garnishment",
+      "bbox": [
+        319,
+        469,
+        391,
+        483
+      ],
+      "confidence": 0.9987829512474702
+    },
+    {
+      "text": "Subpoena",
+      "bbox": [
+        525,
+        465,
+        581,
+        481
+      ],
+      "confidence": 0.9996661738783343
+    },
+    {
+      "text": "Acknowledgement enclosed",
+      "bbox": [
+        69,
+        491,
+        221,
+        505
+      ],
+      "confidence": 0.9800914617583775
+    },
+    {
+      "text": "Nctice ol Artomey $ Lien",
+      "bbox": [
+        317,
+        487,
+        455,
+        501
+      ],
+      "confidence": 0.36551013651590725
+    },
+    {
+      "text": "Other:",
+      "bbox": [
+        69,
+        509,
+        107,
+        523
+      ],
+      "confidence": 0.9658328201505405
+    },
+    {
+      "text": "CITATION",
+      "bbox": [
+        129,
+        505,
+        191,
+        521
+      ],
+      "confidence": 0.8245329161525301
+    },
+    {
+      "text": "A EIRST",
+      "bbox": [
+        195,
+        502,
+        261,
+        519
+      ],
+      "confidence": 0.38879687055362827
+    },
+    {
+      "text": "ORIGINAL",
+      "bbox": [
+        265,
+        503,
+        325,
+        517
+      ],
+      "confidence": 0.7925240431903736
+    },
+    {
+      "text": "PETITION",
+      "bbox": [
+        329,
+        501,
+        391,
+        515
+      ],
+      "confidence": 0.8646995061233118
+    },
+    {
+      "text": "TITLE OF ACTION:",
+      "bbox": [
+        33,
+        559,
+        143,
+        575
+      ],
+      "confidence": 0.9900273444689408
+    },
+    {
+      "text": "CRECC",
+      "bbox": [
+        231,
+        561,
+        271,
+        575
+      ],
+      "confidence": 0.8212404878921755
+    },
+    {
+      "text": "55,592",
+      "bbox": [
+        561,
+        567,
+        615,
+        581
+      ],
+      "confidence": 0.9050043438267703
+    },
+    {
+      "text": "Case No.",
+      "bbox": [
+        495,
+        569,
+        549,
+        583
+      ],
+      "confidence": 0.7381640367901009
+    },
+    {
+      "text": "RENOLDS TOBACCO",
+      "bbox": [
+        139,
+        597,
+        257,
+        613
+      ],
+      "confidence": 0.7651788437759327
+    },
+    {
+      "text": "COMPANY ,",
+      "bbox": [
+        261,
+        595,
+        315,
+        609
+      ],
+      "confidence": 0.36004143566227426
+    },
+    {
+      "text": "COUAT OR JURISDICTION",
+      "bbox": [
+        33,
+        633,
+        189,
+        651
+      ],
+      "confidence": 0.7114664570760316
+    },
+    {
+      "text": "345th_Judiclal",
+      "bbox": [
+        203,
+        630,
+        305,
+        648
+      ],
+      "confidence": 0.44056203562173524
+    },
+    {
+      "text": "District_Court",
+      "bbox": [
+        311,
+        629,
+        415,
+        645
+      ],
+      "confidence": 0.427922436871743
+    },
+    {
+      "text": "Travis",
+      "bbox": [
+        419,
+        627,
+        465,
+        641
+      ],
+      "confidence": 0.9987153953354982
+    },
+    {
+      "text": "CounEY ,",
+      "bbox": [
+        469,
+        627,
+        523,
+        641
+      ],
+      "confidence": 0.38842060786777105
+    },
+    {
+      "text": "Honday",
+      "bbox": [
+        147,
+        649,
+        193,
+        663
+      ],
+      "confidence": 0.9792446452706818
+    },
+    {
+      "text": "20 days",
+      "bbox": [
+        233,
+        647,
+        285,
+        661
+      ],
+      "confidence": 0.9977712703339076
+    },
+    {
+      "text": "from date",
+      "bbox": [
+        289,
+        645,
+        357,
+        659
+      ],
+      "confidence": 0.6889822045101898
+    },
+    {
+      "text": "gervice",
+      "bbox": [
+        383,
+        643,
+        437,
+        657
+      ],
+      "confidence": 0.5698057921661672
+    },
+    {
+      "text": "RETURN DATE",
+      "bbox": [
+        33,
+        655,
+        121,
+        671
+      ],
+      "confidence": 0.6651177984435171
+    },
+    {
+      "text": "Call Placed",
+      "bbox": [
+        53,
+        679,
+        119,
+        693
+      ],
+      "confidence": 0.7329719501225791
+    },
+    {
+      "text": "Direct",
+      "bbox": [
+        127,
+        679,
+        161,
+        693
+      ],
+      "confidence": 0.9741623615067911
+    },
+    {
+      "text": "Collect",
+      "bbox": [
+        195,
+        677,
+        235,
+        691
+      ],
+      "confidence": 0.9890457001676775
+    },
+    {
+      "text": "Spoke",
+      "bbox": [
+        273,
+        677,
+        311,
+        691
+      ],
+      "confidence": 0.74978779553893
+    },
+    {
+      "text": "Agent called New York Otfice",
+      "bbox": [
+        467,
+        673,
+        637,
+        691
+      ],
+      "confidence": 0.9494386136850831
+    },
+    {
+      "text": "COMMENTS:",
+      "bbox": [
+        33,
+        699,
+        111,
+        713
+      ],
+      "confidence": 0.8176634926650376
+    },
+    {
+      "text": "ATTORNEYS FOR CLAIMANT",
+      "bbox": [
+        33,
+        745,
+        203,
+        761
+      ],
+      "confidence": 0.9562447593054946
+    },
+    {
+      "text": "Hary",
+      "bbox": [
+        213,
+        741,
+        245,
+        755
+      ],
+      "confidence": 0.9923232793807983
+    },
+    {
+      "text": "Eflen Felps",
+      "bbox": [
+        249,
+        739,
+        331,
+        753
+      ],
+      "confidence": 0.5355405169295152
+    },
+    {
+      "text": "IUUu",
+      "bbox": [
+        215,
+        755,
+        245,
+        767
+      ],
+      "confidence": 0.40278753638267517
+    },
+    {
+      "text": "7870r",
+      "bbox": [
+        299,
+        765,
+        339,
+        779
+      ],
+      "confidence": 0.8747485907833998
+    },
+    {
+      "text": "PAPERS TRANSMITTED TO CLIENT",
+      "bbox": [
+        33,
+        823,
+        241,
+        839
+      ],
+      "confidence": 0.7793230626220383
+    },
+    {
+      "text": "Fed-X",
+      "bbox": [
+        35,
+        839,
+        71,
+        853
+      ],
+      "confidence": 0.9156135932669643
+    },
+    {
+      "text": "Aleg: Mail",
+      "bbox": [
+        149,
+        839,
+        203,
+        855
+      ],
+      "confidence": 0.5115655280458051
+    },
+    {
+      "text": "PAT",
+      "bbox": [
+        495,
+        845,
+        521,
+        857
+      ],
+      "confidence": 0.994070633347828
+    },
+    {
+      "text": "HIGGINS",
+      "bbox": [
+        525,
+        843,
+        579,
+        857
+      ],
+      "confidence": 0.9136553036146718
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        35,
+        853,
+        69,
+        867
+      ],
+      "confidence": 0.9944982766929529
+    },
+    {
+      "text": "Form PREPARED BY",
+      "bbox": [
+        355,
+        847,
+        485,
+        863
+      ],
+      "confidence": 0.5701322674052802
+    },
+    {
+      "text": "JUPLICATE COPY",
+      "bbox": [
+        33,
+        895,
+        143,
+        913
+      ],
+      "confidence": 0.9327615484423813
+    },
+    {
+      "text": "BUSINESS REPLY ENVELOPE IS ENCLOSED For Your CONVENIENCE",
+      "bbox": [
+        157,
+        891,
+        579,
+        911
+      ],
+      "confidence": 0.6763660346548835
+    },
+    {
+      "text": "Jale Received:",
+      "bbox": [
+        31,
+        927,
+        117,
+        941
+      ],
+      "confidence": 0.9827913770954427
+    },
+    {
+      "text": "Signed:",
+      "bbox": [
+        444,
+        920,
+        489,
+        940
+      ],
+      "confidence": 0.976074292828365
+    },
+    {
+      "text": "ORIGINAL",
+      "bbox": [
+        343,
+        945,
+        403,
+        961
+      ],
+      "confidence": 0.9993181784325796
+    },
+    {
+      "text": "PLAZA",
+      "bbox": [
+        268,
+        57,
+        308,
+        75
+      ],
+      "confidence": 0.9990588840254949
+    },
+    {
+      "text": "next",
+      "bbox": [
+        196,
+        647,
+        228,
+        662
+      ],
+      "confidence": 0.6619415283203125
+    }
+  ]
+}

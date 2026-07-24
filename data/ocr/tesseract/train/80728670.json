@@ -1,0 +1,954 @@
+{
+  "words": [
+    {
+      "text": "FIELD",
+      "bbox": [
+        367,
+        87,
+        404,
+        96
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "mo:",
+      "bbox": [
+        89,
+        139,
+        113,
+        170
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "3.",
+      "bbox": [
+        182,
+        150,
+        195,
+        160
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Re",
+      "bbox": [
+        205,
+        151,
+        218,
+        159
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Mueller",
+      "bbox": [
+        227,
+        150,
+        279,
+        159
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "pate:__2/28/84",
+      "bbox": [
+        472,
+        138,
+        597,
+        155
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Mary",
+      "bbox": [
+        162,
+        187,
+        197,
+        200
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Anne",
+      "bbox": [
+        206,
+        187,
+        242,
+        197
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Please",
+      "bbox": [
+        93,
+        254,
+        137,
+        263
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "make",
+      "bbox": [
+        145,
+        254,
+        175,
+        263
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        183,
+        254,
+        205,
+        263
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "necessary",
+      "bbox": [
+        213,
+        255,
+        279,
+        264
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Field",
+      "bbox": [
+        287,
+        252,
+        324,
+        262
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Trip",
+      "bbox": [
+        332,
+        251,
+        361,
+        263
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "arrangements",
+      "bbox": [
+        369,
+        252,
+        458,
+        262
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "for_Ted",
+      "bbox": [
+        467,
+        244,
+        527,
+        260
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "van",
+      "bbox": [
+        536,
+        247,
+        563,
+        255
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "de",
+      "bbox": [
+        573,
+        244,
+        589,
+        254
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Kamp",
+      "bbox": [
+        599,
+        244,
+        634,
+        257
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "purpose",
+      "bbox": [
+        93,
+        299,
+        145,
+        310
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        153,
+        298,
+        167,
+        307
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "trip__7O",
+      "bbox": [
+        176,
+        290,
+        250,
+        309
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "evaluate",
+      "bbox": [
+        261,
+        289,
+        331,
+        301
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Satin's",
+      "bbox": [
+        341,
+        288,
+        401,
+        300
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "overall",
+      "bbox": [
+        412,
+        288,
+        473,
+        299
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "performance",
+      "bbox": [
+        483,
+        288,
+        580,
+        302
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        591,
+        287,
+        616,
+        299
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "results",
+      "bbox": [
+        626,
+        287,
+        687,
+        298
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        698,
+        286,
+        715,
+        298
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Special",
+      "bbox": [
+        109,
+        334,
+        169,
+        348
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Cities.",
+      "bbox": [
+        180,
+        334,
+        239,
+        345
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Division(s)",
+      "bbox": [
+        93,
+        386,
+        173,
+        397
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        205,
+        387,
+        219,
+        395
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "contacted__Boston",
+      "bbox": [
+        228,
+        385,
+        375,
+        398
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "bates",
+      "bbox": [
+        93,
+        432,
+        130,
+        441
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        138,
+        431,
+        153,
+        440
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "3/13",
+      "bbox": [
+        315,
+        429,
+        348,
+        442
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        360,
+        429,
+        383,
+        442
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Wednesday.",
+      "bbox": [
+        393,
+        429,
+        474,
+        442
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "3/14",
+      "bbox": [
+        494,
+        428,
+        526,
+        441
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Method",
+      "bbox": [
+        93,
+        475,
+        138,
+        485
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        146,
+        475,
+        160,
+        484
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "travel:",
+      "bbox": [
+        168,
+        475,
+        218,
+        484
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "air",
+      "bbox": [
+        235,
+        474,
+        257,
+        483
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "X",
+      "bbox": [
+        268,
+        474,
+        277,
+        484
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Auto",
+      "bbox": [
+        295,
+        474,
+        324,
+        483
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Train",
+      "bbox": [
+        362,
+        473,
+        399,
+        482
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "__",
+      "bbox": [
+        409,
+        463,
+        431,
+        494
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "other",
+      "bbox": [
+        437,
+        472,
+        473,
+        481
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Arrival",
+      "bbox": [
+        93,
+        520,
+        144,
+        529
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "date",
+      "bbox": [
+        153,
+        520,
+        182,
+        529
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        190,
+        519,
+        212,
+        528
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "time",
+      "bbox": [
+        220,
+        519,
+        249,
+        528
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "(include",
+      "bbox": [
+        260,
+        518,
+        316,
+        528
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "airline",
+      "bbox": [
+        325,
+        518,
+        376,
+        527
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        385,
+        518,
+        406,
+        527
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "flight",
+      "bbox": [
+        415,
+        517,
+        459,
+        528
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "no.)__Monday,",
+      "bbox": [
+        467,
+        516,
+        572,
+        530
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "3/12",
+      "bbox": [
+        592,
+        515,
+        624,
+        528
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Evening",
+      "bbox": [
+        107,
+        555,
+        169,
+        568
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Shuttle",
+      "bbox": [
+        179,
+        554,
+        240,
+        565
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Rotel",
+      "bbox": [
+        93,
+        608,
+        130,
+        617
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "/Motel",
+      "bbox": [
+        132,
+        595,
+        175,
+        626
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "reservations",
+      "bbox": [
+        183,
+        606,
+        272,
+        616
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "needed__XX",
+      "bbox": [
+        280,
+        604,
+        366,
+        615
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "Reservations",
+      "bbox": [
+        93,
+        651,
+        182,
+        661
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "nade",
+      "bbox": [
+        190,
+        651,
+        219,
+        660
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "at,",
+      "bbox": [
+        228,
+        651,
+        242,
+        660
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Dates",
+      "bbox": [
+        542,
+        648,
+        578,
+        656
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Sales",
+      "bbox": [
+        93,
+        696,
+        130,
+        705
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Personnel",
+      "bbox": [
+        138,
+        695,
+        204,
+        705
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        213,
+        696,
+        227,
+        704
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        235,
+        695,
+        249,
+        704
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "contacted",
+      "bbox": [
+        257,
+        694,
+        324,
+        704
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Sales",
+      "bbox": [
+        93,
+        740,
+        129,
+        749
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Personnel",
+      "bbox": [
+        138,
+        739,
+        204,
+        749
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        213,
+        740,
+        227,
+        748
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        235,
+        739,
+        249,
+        748
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "workad",
+      "bbox": [
+        257,
+        738,
+        302,
+        747
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "with:",
+      "bbox": [
+        310,
+        737,
+        345,
+        747
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Sales",
+      "bbox": [
+        512,
+        736,
+        548,
+        745
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Representative_X.",
+      "bbox": [
+        557,
+        733,
+        688,
+        747
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        139,
+        935,
+        154,
+        943
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "3,",
+      "bbox": [
+        161,
+        934,
+        174,
+        944
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        183,
+        935,
+        196,
+        943
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Mueller",
+      "bbox": [
+        205,
+        934,
+        257,
+        943
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "no",
+      "bbox": [
+        266,
+        936,
+        280,
+        943
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "later",
+      "bbox": [
+        289,
+        934,
+        325,
+        943
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "than",
+      "bbox": [
+        333,
+        933,
+        362,
+        942
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "two",
+      "bbox": [
+        370,
+        934,
+        392,
+        942
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "weeks",
+      "bbox": [
+        400,
+        933,
+        437,
+        942
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "prior",
+      "bbox": [
+        445,
+        935,
+        482,
+        944
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        490,
+        934,
+        505,
+        941
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "anticipated",
+      "bbox": [
+        512,
+        932,
+        594,
+        943
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "trip.",
+      "bbox": [
+        602,
+        932,
+        637,
+        943
+      ],
+      "confidence": 77.0
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "words": [
+    {
+      "text": "LORILLARD",
+      "bbox": [
+        239,
+        186,
+        318,
+        197
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "TOBAGCO",
+      "bbox": [
+        322,
+        186,
+        394,
+        197
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "COMPANY",
+      "bbox": [
+        400,
+        185,
+        472,
+        196
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Market",
+      "bbox": [
+        200,
+        208,
+        246,
+        219
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Planning",
+      "bbox": [
+        251,
+        208,
+        310,
+        222
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        315,
+        208,
+        340,
+        219
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "tnformation",
+      "bbox": [
+        345,
+        208,
+        421,
+        219
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Department",
+      "bbox": [
+        427,
+        208,
+        506,
+        221
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        169,
+        264,
+        190,
+        275
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Mozina",
+      "bbox": [
+        308,
+        263,
+        384,
+        279
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Firm:",
+      "bbox": [
+        170,
+        285,
+        203,
+        296
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "\u201cMSA",
+      "bbox": [
+        260,
+        285,
+        532,
+        300
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "FAX",
+      "bbox": [
+        170,
+        308,
+        196,
+        318
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "#:",
+      "bbox": [
+        201,
+        308,
+        215,
+        318
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "__Autodial_",
+      "bbox": [
+        247,
+        303,
+        333,
+        327
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        170,
+        345,
+        208,
+        357
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "SusanSmith",
+      "bbox": [
+        271,
+        345,
+        368,
+        361
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "FAX",
+      "bbox": [
+        170,
+        368,
+        196,
+        378
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "#:",
+      "bbox": [
+        201,
+        368,
+        216,
+        378
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "335-7733",
+      "bbox": [
+        272,
+        368,
+        334,
+        378
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "935-7150",
+      "bbox": [
+        272,
+        390,
+        546,
+        406
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        166,
+        419,
+        204,
+        449
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        169,
+        450,
+        179,
+        460
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Pages:",
+      "bbox": [
+        185,
+        450,
+        227,
+        463
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "__",
+      "bbox": [
+        247,
+        440,
+        265,
+        470
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        271,
+        450,
+        278,
+        460
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "(including",
+      "bbox": [
+        284,
+        449,
+        351,
+        463
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "this",
+      "bbox": [
+        351,
+        449,
+        381,
+        465
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "cover",
+      "bbox": [
+        384,
+        452,
+        422,
+        465
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "page)",
+      "bbox": [
+        427,
+        448,
+        465,
+        464
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Mike,",
+      "bbox": [
+        119,
+        562,
+        151,
+        574
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "As",
+      "bbox": [
+        118,
+        606,
+        134,
+        617
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "promised,",
+      "bbox": [
+        138,
+        606,
+        200,
+        620
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "here",
+      "bbox": [
+        205,
+        606,
+        233,
+        617
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "are:",
+      "bbox": [
+        237,
+        608,
+        260,
+        617
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        119,
+        657,
+        126,
+        659
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Approval",
+      "bbox": [
+        131,
+        651,
+        186,
+        664
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        190,
+        651,
+        206,
+        662
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "AWS",
+      "bbox": [
+        210,
+        650,
+        241,
+        662
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Quarterly",
+      "bbox": [
+        245,
+        650,
+        302,
+        664
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Store",
+      "bbox": [
+        307,
+        650,
+        339,
+        661
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Count",
+      "bbox": [
+        344,
+        650,
+        382,
+        661
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Database",
+      "bbox": [
+        386,
+        650,
+        445,
+        661
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        449,
+        650,
+        461,
+        660
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "begin",
+      "bbox": [
+        465,
+        650,
+        500,
+        663
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "3rd",
+      "bbox": [
+        504,
+        649,
+        525,
+        660
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Quarter",
+      "bbox": [
+        529,
+        649,
+        576,
+        660
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "1998",
+      "bbox": [
+        581,
+        649,
+        611,
+        659
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        118,
+        702,
+        127,
+        704
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Talole",
+      "bbox": [
+        131,
+        696,
+        165,
+        707
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "showing",
+      "bbox": [
+        169,
+        696,
+        221,
+        710
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "significant",
+      "bbox": [
+        226,
+        696,
+        289,
+        709
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "jurnp",
+      "bbox": [
+        293,
+        698,
+        324,
+        709
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        329,
+        696,
+        339,
+        706
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Convenience",
+      "bbox": [
+        344,
+        695,
+        426,
+        706
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Store",
+      "bbox": [
+        431,
+        695,
+        463,
+        706
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "market",
+      "bbox": [
+        468,
+        695,
+        511,
+        705
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "importance",
+      "bbox": [
+        515,
+        695,
+        585,
+        708
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "o",
+      "bbox": [
+        665,
+        713,
+        680,
+        721
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        134,
+        721,
+        144,
+        729
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "2nd",
+      "bbox": [
+        148,
+        718,
+        172,
+        729
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Quarter",
+      "bbox": [
+        177,
+        718,
+        224,
+        729
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "4998",
+      "bbox": [
+        229,
+        718,
+        258,
+        729
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Talk",
+      "bbox": [
+        118,
+        764,
+        144,
+        774
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        148,
+        765,
+        160,
+        774
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "you",
+      "bbox": [
+        164,
+        766,
+        186,
+        777
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "soon!",
+      "bbox": [
+        191,
+        763,
+        225,
+        774
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "us",
+      "bbox": [
+        259,
+        763,
+        299,
+        782
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Ss",
+      "bbox": [
+        665,
+        766,
+        681,
+        775
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        665,
+        779,
+        681,
+        788
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        664,
+        804,
+        680,
+        813
+      ],
+      "confidence": 86.0
+    }
+  ]
+}

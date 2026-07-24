@@ -1,0 +1,474 @@
+{
+  "words": [
+    {
+      "text": "THE",
+      "bbox": [
+        101,
+        39,
+        137,
+        55
+      ],
+      "confidence": 0.9937000274658203
+    },
+    {
+      "text": "AMERICAN",
+      "bbox": [
+        101,
+        53,
+        185,
+        69
+      ],
+      "confidence": 0.9997964642884316
+    },
+    {
+      "text": "PURCHASE REQUISITION",
+      "bbox": [
+        490,
+        54,
+        704,
+        81
+      ],
+      "confidence": 0.9992329029476538
+    },
+    {
+      "text": "TOBACCO",
+      "bbox": [
+        101,
+        67,
+        179,
+        83
+      ],
+      "confidence": 0.9479529632932588
+    },
+    {
+      "text": "COMPANY",
+      "bbox": [
+        100,
+        80,
+        179,
+        99
+      ],
+      "confidence": 0.9952267320609933
+    },
+    {
+      "text": "STAMFORD_",
+      "bbox": [
+        325,
+        87,
+        395,
+        103
+      ],
+      "confidence": 0.9741166710100362
+    },
+    {
+      "text": "BUCGET NC",
+      "bbox": [
+        482,
+        112,
+        526,
+        120
+      ],
+      "confidence": 0.3057509228888493
+    },
+    {
+      "text": "January",
+      "bbox": [
+        67,
+        125,
+        121,
+        139
+      ],
+      "confidence": 0.8057857068027315
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        135,
+        123,
+        169,
+        139
+      ],
+      "confidence": 0.9943040609359741
+    },
+    {
+      "text": "Schumacher",
+      "bbox": [
+        307,
+        123,
+        387,
+        137
+      ],
+      "confidence": 0.9952063403672513
+    },
+    {
+      "text": "WEBCRAFT TECHNOLOGUES, INC ~",
+      "bbox": [
+        65,
+        153,
+        287,
+        169
+      ],
+      "confidence": 0.6654554455342406
+    },
+    {
+      "text": "NQ SHIPPING REQUIRED:",
+      "bbox": [
+        389,
+        153,
+        553,
+        171
+      ],
+      "confidence": 0.5398336380609714
+    },
+    {
+      "text": "Attn: Mr. Steven Katz",
+      "bbox": [
+        65,
+        169,
+        201,
+        183
+      ],
+      "confidence": 0.737212191881974
+    },
+    {
+      "text": "Roule",
+      "bbox": [
+        65,
+        183,
+        107,
+        199
+      ],
+      "confidence": 0.5834750305226132
+    },
+    {
+      "text": "and-Adams-Station",
+      "bbox": [
+        113,
+        183,
+        241,
+        199
+      ],
+      "confidence": 0.5231353580631584
+    },
+    {
+      "text": "North Brunswick,",
+      "bbox": [
+        65,
+        199,
+        175,
+        213
+      ],
+      "confidence": 0.8954234913155018
+    },
+    {
+      "text": "NJ 0890-",
+      "bbox": [
+        179,
+        199,
+        231,
+        213
+      ],
+      "confidence": 0.9760403933467688
+    },
+    {
+      "text": "-0623",
+      "bbox": [
+        235,
+        199,
+        273,
+        213
+      ],
+      "confidence": 0.38656634398806666
+    },
+    {
+      "text": "NO SHIPPING REQUIRED_",
+      "bbox": [
+        65,
+        259,
+        227,
+        275
+      ],
+      "confidence": 0.41393093418353355
+    },
+    {
+      "text": "QUANTITY",
+      "bbox": [
+        75,
+        303,
+        141,
+        317
+      ],
+      "confidence": 0.9827555658087184
+    },
+    {
+      "text": "DESCRIPTION",
+      "bbox": [
+        327,
+        305,
+        413,
+        321
+      ],
+      "confidence": 0.9950767826181105
+    },
+    {
+      "text": "CARLTON",
+      "bbox": [
+        179,
+        323,
+        245,
+        337
+      ],
+      "confidence": 0.9989616704216046
+    },
+    {
+      "text": "Free Carton\" Direct Mail Piece",
+      "bbox": [
+        251,
+        323,
+        443,
+        337
+      ],
+      "confidence": 0.6586059989508649
+    },
+    {
+      "text": "This Purchase Order is to cover all costs incurred to-datc",
+      "bbox": [
+        179,
+        352,
+        539,
+        370
+      ],
+      "confidence": 0.6954319420039806
+    },
+    {
+      "text": "lsted belowr:",
+      "bbox": [
+        177,
+        369,
+        261,
+        383
+      ],
+      "confidence": 0.48274060666658786
+    },
+    {
+      "text": "42,000 Ibs: of 80 Ib_",
+      "bbox": [
+        181,
+        399,
+        299,
+        415
+      ],
+      "confidence": 0.6154506225939607
+    },
+    {
+      "text": "Steriing Cris",
+      "bbox": [
+        305,
+        399,
+        393,
+        415
+      ],
+      "confidence": 0.36694359318581865
+    },
+    {
+      "text": "320,580.00-",
+      "bbox": [
+        575,
+        399,
+        649,
+        415
+      ],
+      "confidence": 0.43155052042678177
+    },
+    {
+      "text": "31,000 Ibs_",
+      "bbox": [
+        179,
+        415,
+        245,
+        429
+      ],
+      "confidence": 0.957203419250498
+    },
+    {
+      "text": "of 80 Ib_",
+      "bbox": [
+        249,
+        415,
+        299,
+        429
+      ],
+      "confidence": 0.9609153496112286
+    },
+    {
+      "text": "Steriing C/2I5",
+      "bbox": [
+        305,
+        415,
+        391,
+        431
+      ],
+      "confidence": 0.44250889450528935
+    },
+    {
+      "text": "26-1/2\" roll",
+      "bbox": [
+        401,
+        415,
+        471,
+        429
+      ],
+      "confidence": 0.8187901248689531
+    },
+    {
+      "text": "515,190.00",
+      "bbox": [
+        575,
+        415,
+        645,
+        431
+      ],
+      "confidence": 0.6811043346331105
+    },
+    {
+      "text": "PreP : (Ilne negatlve?",
+      "bbox": [
+        179,
+        445,
+        309,
+        463
+      ],
+      "confidence": 0.6210384222001455
+    },
+    {
+      "text": "Paper Prlnt?: camerletripping)",
+      "bbox": [
+        313,
+        445,
+        509,
+        463
+      ],
+      "confidence": 0.32033459955772525
+    },
+    {
+      "text": "5431.25",
+      "bbox": [
+        593,
+        445,
+        645,
+        459
+      ],
+      "confidence": 0.5617832708279601
+    },
+    {
+      "text": "Federal Express Charges",
+      "bbox": [
+        179,
+        475,
+        339,
+        491
+      ],
+      "confidence": 0.7437394711636143
+    },
+    {
+      "text": "548.75",
+      "bbox": [
+        599,
+        475,
+        645,
+        493
+      ],
+      "confidence": 0.6824919128092248
+    },
+    {
+      "text": "ALL MATERIALS HAVE BEEN CANCELLED:",
+      "bbox": [
+        179,
+        505,
+        449,
+        519
+      ],
+      "confidence": 0.8018254688199351
+    },
+    {
+      "text": "Brand Operations",
+      "bbox": [
+        63,
+        777,
+        177,
+        793
+      ],
+      "confidence": 0.9776004511195339
+    },
+    {
+      "text": "Adv.Expense",
+      "bbox": [
+        261,
+        777,
+        349,
+        793
+      ],
+      "confidence": 0.7815685025167884
+    },
+    {
+      "text": "D. Barcia",
+      "bbox": [
+        385,
+        777,
+        445,
+        793
+      ],
+      "confidence": 0.7126780692371478
+    },
+    {
+      "text": "Xnortoe",
+      "bbox": [
+        225,
+        801,
+        269,
+        817
+      ],
+      "confidence": 0.43482812416737415
+    },
+    {
+      "text": "M14789",
+      "bbox": [
+        469,
+        833,
+        519,
+        849
+      ],
+      "confidence": 0.5996520731131894
+    },
+    {
+      "text": "January 3,",
+      "bbox": [
+        469,
+        857,
+        535,
+        873
+      ],
+      "confidence": 0.8598751560073741
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        539,
+        857,
+        571,
+        871
+      ],
+      "confidence": 0.97999447018872
+    },
+    {
+      "text": "PRICE",
+      "bbox": [
+        610,
+        305,
+        650,
+        323
+      ],
+      "confidence": 0.9769865196245695
+    }
+  ]
+}

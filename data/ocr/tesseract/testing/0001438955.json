@@ -1,0 +1,1084 @@
+{
+  "words": [
+    {
+      "text": ".",
+      "bbox": [
+        152,
+        98,
+        155,
+        101
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "REWSPAPER",
+      "bbox": [
+        282,
+        87,
+        359,
+        99
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "SCORES",
+      "bbox": [
+        368,
+        86,
+        418,
+        95
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "AUDIENCE",
+      "bbox": [
+        283,
+        116,
+        350,
+        125
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "STUDIES",
+      "bbox": [
+        360,
+        115,
+        419,
+        127
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Brand",
+      "bbox": [
+        47,
+        183,
+        90,
+        194
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "witle",
+      "bbox": [
+        47,
+        212,
+        91,
+        222
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "\u201cKALEIDOSCOPE--GONE",
+      "bbox": [
+        149,
+        210,
+        309,
+        220
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "WITH",
+      "bbox": [
+        317,
+        209,
+        350,
+        219
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        359,
+        209,
+        384,
+        218
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "WIND\"s",
+      "bbox": [
+        392,
+        207,
+        442,
+        218
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Total",
+      "bbox": [
+        484,
+        208,
+        527,
+        219
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "Sample",
+      "bbox": [
+        537,
+        208,
+        587,
+        220
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "__285",
+      "bbox": [
+        613,
+        206,
+        636,
+        216
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "code",
+      "bbox": [
+        47,
+        241,
+        83,
+        251
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        92,
+        241,
+        100,
+        251
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Type",
+      "bbox": [
+        48,
+        270,
+        83,
+        282
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Of",
+      "bbox": [
+        92,
+        269,
+        109,
+        279
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Ad",
+      "bbox": [
+        117,
+        269,
+        134,
+        278
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PARADE,",
+      "bbox": [
+        150,
+        267,
+        206,
+        280
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        219,
+        267,
+        225,
+        276
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Page,",
+      "bbox": [
+        234,
+        267,
+        267,
+        279
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Newspaper",
+      "bbox": [
+        48,
+        299,
+        126,
+        310
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "(Date)",
+      "bbox": [
+        139,
+        296,
+        185,
+        309
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "__Pittsburgh",
+      "bbox": [
+        218,
+        296,
+        301,
+        309
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "PITTSBURGH",
+      "bbox": [
+        360,
+        297,
+        443,
+        308
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "PRESS.",
+      "bbox": [
+        451,
+        297,
+        492,
+        307
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "4/23/72)",
+      "bbox": [
+        552,
+        294,
+        615,
+        308
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "\u2014San_Dieqo",
+      "bbox": [
+        191,
+        318,
+        297,
+        345
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "DIEGO",
+      "bbox": [
+        393,
+        318,
+        434,
+        345
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "UNION",
+      "bbox": [
+        443,
+        318,
+        486,
+        345
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Dayton",
+      "bbox": [
+        219,
+        354,
+        268,
+        365
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "DAYTON",
+      "bbox": [
+        361,
+        354,
+        410,
+        364
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "NEWS",
+      "bbox": [
+        418,
+        354,
+        450,
+        364
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "4/23/72)",
+      "bbox": [
+        552,
+        345,
+        615,
+        363
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Birmingham",
+      "bbox": [
+        218,
+        369,
+        302,
+        399
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "BERNINGHAM",
+      "bbox": [
+        360,
+        380,
+        443,
+        389
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "NEWS",
+      "bbox": [
+        451,
+        380,
+        483,
+        391
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "4/23/72)",
+      "bbox": [
+        552,
+        376,
+        615,
+        391
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "H",
+      "bbox": [
+        699,
+        368,
+        702,
+        372
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "PNG.",
+      "bbox": [
+        241,
+        431,
+        266,
+        441
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "PROVED",
+      "bbox": [
+        343,
+        431,
+        393,
+        440
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "RECALL",
+      "bbox": [
+        403,
+        430,
+        453,
+        442
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "SCORR",
+      "bbox": [
+        198,
+        446,
+        240,
+        455
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "BASE",
+      "bbox": [
+        266,
+        446,
+        301,
+        457
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "SCORG",
+      "bbox": [
+        352,
+        445,
+        394,
+        457
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "BABE",
+      "bbox": [
+        417,
+        444,
+        452,
+        456
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "*",
+      "bbox": [
+        214,
+        460,
+        224,
+        471
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "%",
+      "bbox": [
+        367,
+        458,
+        377,
+        470
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "QUBRALL:",
+      "bbox": [
+        43,
+        496,
+        116,
+        526
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "wat",
+      "bbox": [
+        196,
+        503,
+        241,
+        515
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "(224)",
+      "bbox": [
+        263,
+        502,
+        301,
+        514
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "was",
+      "bbox": [
+        533,
+        506,
+        558,
+        513
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        568,
+        506,
+        575,
+        513
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "combination",
+      "bbox": [
+        585,
+        502,
+        676,
+        513
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "ad",
+      "bbox": [
+        492,
+        517,
+        508,
+        526
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        517,
+        517,
+        550,
+        526
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "SEX:",
+      "bbox": [
+        49,
+        561,
+        81,
+        570
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Hale",
+      "bbox": [
+        48,
+        575,
+        84,
+        585
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "1.9",
+      "bbox": [
+        211,
+        573,
+        234,
+        583
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "{204",
+      "bbox": [
+        271,
+        573,
+        293,
+        582
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "7.",
+      "bbox": [
+        370,
+        573,
+        377,
+        582
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "gon",
+      "bbox": [
+        415,
+        571,
+        450,
+        584
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Femal\u00e9",
+      "bbox": [
+        49,
+        579,
+        101,
+        608
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "5.0",
+      "bbox": [
+        211,
+        587,
+        234,
+        597
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "7",
+      "bbox": [
+        371,
+        587,
+        377,
+        596
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "123)",
+      "bbox": [
+        421,
+        585,
+        450,
+        598
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "AGE:",
+      "bbox": [
+        48,
+        646,
+        81,
+        658
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Under",
+      "bbox": [
+        48,
+        660,
+        93,
+        670
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "25",
+      "bbox": [
+        102,
+        660,
+        118,
+        669
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "3.2",
+      "bbox": [
+        211,
+        658,
+        234,
+        667
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "63)",
+      "bbox": [
+        279,
+        656,
+        302,
+        670
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "25-34",
+      "bbox": [
+        49,
+        674,
+        92,
+        684
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "3.0",
+      "bbox": [
+        211,
+        672,
+        234,
+        681
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "35-44",
+      "bbox": [
+        50,
+        688,
+        92,
+        699
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "a4",
+      "bbox": [
+        211,
+        686,
+        234,
+        696
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "46:",
+      "bbox": [
+        279,
+        686,
+        294,
+        695
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "45",
+      "bbox": [
+        49,
+        703,
+        66,
+        713
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        75,
+        704,
+        84,
+        713
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Over",
+      "bbox": [
+        93,
+        703,
+        127,
+        712
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Tae",
+      "bbox": [
+        196,
+        698,
+        241,
+        714
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "497",
+      "bbox": [
+        280,
+        700,
+        302,
+        713
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "under",
+      "bbox": [
+        48,
+        745,
+        92,
+        755
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "35",
+      "bbox": [
+        102,
+        745,
+        118,
+        755
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "21",
+      "bbox": [
+        211,
+        743,
+        235,
+        756
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "4129)",
+      "bbox": [
+        271,
+        736,
+        299,
+        760
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "\"5",
+      "bbox": [
+        333,
+        739,
+        394,
+        756
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "giz",
+      "bbox": [
+        421,
+        742,
+        445,
+        754
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        512,
+        739,
+        514,
+        741
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "35",
+      "bbox": [
+        49,
+        760,
+        66,
+        770
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        75,
+        761,
+        84,
+        770
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Over",
+      "bbox": [
+        93,
+        760,
+        127,
+        769
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "4.2",
+      "bbox": [
+        211,
+        757,
+        234,
+        766
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        371,
+        756,
+        377,
+        765
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        464,
+        768,
+        466,
+        770
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "~",
+      "bbox": [
+        572,
+        761,
+        581,
+        765
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "Test",
+      "bbox": [
+        49,
+        831,
+        83,
+        840
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Brand",
+      "bbox": [
+        93,
+        830,
+        135,
+        840
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Smokers",
+      "bbox": [
+        146,
+        829,
+        205,
+        839
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "6",
+      "bbox": [
+        372,
+        828,
+        378,
+        838
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Cin",
+      "bbox": [
+        416,
+        827,
+        453,
+        840
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "All",
+      "bbox": [
+        48,
+        844,
+        74,
+        854
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        84,
+        844,
+        127,
+        854
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Smokers",
+      "bbox": [
+        137,
+        844,
+        196,
+        854
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "7,",
+      "bbox": [
+        372,
+        842,
+        378,
+        851
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "(205)",
+      "bbox": [
+        416,
+        841,
+        453,
+        854
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        457,
+        893,
+        458,
+        903
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "4965508326",
+      "bbox": [
+        491,
+        886,
+        601,
+        905
+      ],
+      "confidence": 71.0
+    }
+  ]
+}

@@ -1,0 +1,1784 @@
+{
+  "words": [
+    {
+      "text": "~",
+      "bbox": [
+        43,
+        15,
+        55,
+        20
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "oe",
+      "bbox": [
+        101,
+        10,
+        120,
+        21
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        369,
+        17,
+        370,
+        20
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        515,
+        18,
+        516,
+        27
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "27,",
+      "bbox": [
+        623,
+        14,
+        636,
+        23
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "1982",
+      "bbox": [
+        653,
+        14,
+        679,
+        23
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "MARKSTING",
+      "bbox": [
+        309,
+        27,
+        373,
+        35
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "RESEARCH",
+      "bbox": [
+        380,
+        27,
+        436,
+        36
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        444,
+        28,
+        493,
+        36
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "APPROVAL",
+      "bbox": [
+        500,
+        28,
+        558,
+        37
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        59,
+        40,
+        64,
+        43
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "(Po",
+      "bbox": [
+        234,
+        39,
+        252,
+        49
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        259,
+        39,
+        273,
+        48
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "out",
+      "bbox": [
+        330,
+        41,
+        351,
+        49
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        358,
+        40,
+        372,
+        51
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Research",
+      "bbox": [
+        451,
+        27,
+        507,
+        59
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "PROSECT",
+      "bbox": [
+        373,
+        59,
+        425,
+        91
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        539,
+        80,
+        541,
+        84
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        608,
+        79,
+        609,
+        82
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Producta",
+      "bbox": [
+        231,
+        86,
+        288,
+        96
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "gris",
+      "bbox": [
+        372,
+        85,
+        407,
+        93
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "|.",
+      "bbox": [
+        34,
+        114,
+        55,
+        128
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "Research",
+      "bbox": [
+        137,
+        112,
+        194,
+        121
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Design",
+      "bbox": [
+        201,
+        112,
+        244,
+        123
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "(N,",
+      "bbox": [
+        248,
+        112,
+        271,
+        130
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Cells;",
+      "bbox": [
+        279,
+        113,
+        325,
+        123
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Blegibility,",
+      "bbox": [
+        329,
+        113,
+        412,
+        125
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Design,",
+      "bbox": [
+        422,
+        114,
+        469,
+        125
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Key",
+      "bbox": [
+        478,
+        115,
+        499,
+        125
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "\u2018Banner",
+      "bbox": [
+        502,
+        106,
+        548,
+        135
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Breaks,",
+      "bbox": [
+        557,
+        106,
+        606,
+        135
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Methodology,",
+      "bbox": [
+        613,
+        106,
+        701,
+        135
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Cities)",
+      "bbox": [
+        707,
+        106,
+        756,
+        135
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "av",
+      "bbox": [
+        517,
+        146,
+        542,
+        152
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Three",
+      "bbox": [
+        124,
+        163,
+        159,
+        172
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Groupa",
+      "bbox": [
+        167,
+        163,
+        209,
+        175
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "(I",
+      "bbox": [
+        219,
+        162,
+        230,
+        174
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "nale/}",
+      "bbox": [
+        238,
+        160,
+        281,
+        173
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "fenale)",
+      "bbox": [
+        289,
+        162,
+        336,
+        173
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "wiil",
+      "bbox": [
+        344,
+        162,
+        372,
+        172
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        380,
+        162,
+        394,
+        172
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "conducted",
+      "bbox": [
+        402,
+        162,
+        465,
+        172
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        474,
+        162,
+        487,
+        171
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Ridgewood,",
+      "bbox": [
+        494,
+        162,
+        563,
+        174
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "WJ.",
+      "bbox": [
+        573,
+        162,
+        599,
+        171
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        608,
+        165,
+        622,
+        171
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Nay",
+      "bbox": [
+        629,
+        162,
+        650,
+        174
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "7th",
+      "bbox": [
+        659,
+        162,
+        679,
+        171
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        124,
+        179,
+        137,
+        186
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "explore",
+      "bbox": [
+        146,
+        177,
+        195,
+        188
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        204,
+        177,
+        224,
+        186
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "NSS",
+      "bbox": [
+        232,
+        177,
+        252,
+        186
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "concept/produet.",
+      "bbox": [
+        261,
+        176,
+        371,
+        188
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "\u2018The",
+      "bbox": [
+        124,
+        207,
+        145,
+        215
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "groups",
+      "bbox": [
+        153,
+        209,
+        195,
+        218
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "will",
+      "bbox": [
+        202,
+        206,
+        231,
+        215
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        238,
+        206,
+        252,
+        215
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "conprised",
+      "bbox": [
+        260,
+        206,
+        323,
+        217
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        331,
+        206,
+        344,
+        214
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "random",
+      "bbox": [
+        353,
+        206,
+        394,
+        215
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "Reduced",
+      "bbox": [
+        402,
+        206,
+        451,
+        215
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "Tar",
+      "bbox": [
+        458,
+        206,
+        479,
+        214
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "smokdrs.,",
+      "bbox": [
+        487,
+        199,
+        544,
+        218
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "No",
+      "bbox": [
+        558,
+        206,
+        572,
+        214
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "group",
+      "bbox": [
+        580,
+        208,
+        614,
+        217
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "will",
+      "bbox": [
+        622,
+        206,
+        650,
+        214
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        124,
+        221,
+        138,
+        231
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "over",
+      "bbox": [
+        146,
+        223,
+        174,
+        230
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "rejeasented",
+      "bbox": [
+        181,
+        221,
+        259,
+        233
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        267,
+        221,
+        281,
+        233
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "brand,",
+      "bbox": [
+        288,
+        220,
+        328,
+        232
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "type",
+      "bbox": [
+        339,
+        222,
+        366,
+        232
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "or",
+      "bbox": [
+        373,
+        218,
+        387,
+        230
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "size",
+      "bbox": [
+        395,
+        221,
+        422,
+        230
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        430,
+        220,
+        443,
+        230
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "cigarettes.",
+      "bbox": [
+        451,
+        220,
+        527,
+        239
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": ";",
+      "bbox": [
+        611,
+        218,
+        612,
+        222
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "ANL",
+      "bbox": [
+        124,
+        250,
+        145,
+        259
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "smokers",
+      "bbox": [
+        153,
+        250,
+        202,
+        259
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "will",
+      "bbox": [
+        209,
+        250,
+        238,
+        259
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        246,
+        250,
+        260,
+        259
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "1@",
+      "bbox": [
+        268,
+        248,
+        283,
+        259
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "years",
+      "bbox": [
+        288,
+        252,
+        323,
+        261
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        331,
+        250,
+        351,
+        259
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "over",
+      "bbox": [
+        359,
+        252,
+        387,
+        259
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        394,
+        250,
+        415,
+        259
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "smoke",
+      "bbox": [
+        423,
+        249,
+        457,
+        259
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "10+",
+      "bbox": [
+        467,
+        249,
+        487,
+        258
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "cigarettes",
+      "bbox": [
+        494,
+        243,
+        565,
+        261
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "per",
+      "bbox": [
+        572,
+        251,
+        593,
+        260
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "day.",
+      "bbox": [
+        601,
+        244,
+        627,
+        261
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        379,
+        263,
+        380,
+        276
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": ";",
+      "bbox": [
+        377,
+        282,
+        379,
+        286
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "FP",
+      "bbox": [
+        457,
+        280,
+        613,
+        299
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "vou",
+      "bbox": [
+        514,
+        301,
+        550,
+        314
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "5",
+      "bbox": [
+        167,
+        354,
+        169,
+        360
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "us",
+      "bbox": [
+        254,
+        347,
+        275,
+        362
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "rod",
+      "bbox": [
+        487,
+        347,
+        521,
+        354
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Kay",
+      "bbox": [
+        134,
+        374,
+        155,
+        384
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "Criteria",
+      "bbox": [
+        162,
+        373,
+        220,
+        389
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "For",
+      "bbox": [
+        226,
+        374,
+        248,
+        383
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "T",
+      "bbox": [
+        546,
+        376,
+        549,
+        387
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "To",
+      "bbox": [
+        124,
+        408,
+        137,
+        416
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "if",
+      "bbox": [
+        217,
+        407,
+        230,
+        416
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        239,
+        407,
+        259,
+        416
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "NSS,",
+      "bbox": [
+        267,
+        407,
+        287,
+        416
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "concept/product",
+      "bbox": [
+        295,
+        405,
+        400,
+        418
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "is",
+      "bbox": [
+        409,
+        407,
+        422,
+        415
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "viable",
+      "bbox": [
+        429,
+        406,
+        471,
+        415
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "based",
+      "bbox": [
+        479,
+        406,
+        514,
+        415
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "smokers",
+      "bbox": [
+        558,
+        397,
+        607,
+        425
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "reactions.",
+      "bbox": [
+        615,
+        406,
+        684,
+        415
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        35,
+        423,
+        36,
+        435
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "\u201cee",
+      "bbox": [
+        173,
+        422,
+        203,
+        435
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        35,
+        456,
+        37,
+        484
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "Information",
+      "bbox": [
+        124,
+        509,
+        202,
+        518
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "from",
+      "bbox": [
+        210,
+        509,
+        238,
+        518
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "exploratory",
+      "bbox": [
+        281,
+        508,
+        358,
+        524
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "is",
+      "bbox": [
+        429,
+        508,
+        443,
+        517
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "directional",
+      "bbox": [
+        451,
+        508,
+        528,
+        524
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "only.",
+      "bbox": [
+        536,
+        508,
+        570,
+        526
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "u",
+      "bbox": [
+        272,
+        561,
+        282,
+        571
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Cost",
+      "bbox": [
+        130,
+        592,
+        159,
+        600
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "estimate",
+      "bbox": [
+        166,
+        592,
+        223,
+        608
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Research",
+      "bbox": [
+        473,
+        595,
+        530,
+        604
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Hanko",
+      "bbox": [
+        621,
+        595,
+        656,
+        605
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Assoc.",
+      "bbox": [
+        663,
+        596,
+        704,
+        605
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Yecktity:",
+      "bbox": [
+        479,
+        608,
+        540,
+        622
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "Scburban",
+      "bbox": [
+        600,
+        613,
+        614,
+        619
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "Associates",
+      "bbox": [
+        577,
+        606,
+        752,
+        619
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "~~",
+      "bbox": [
+        717,
+        596,
+        756,
+        629
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "+",
+      "bbox": [
+        131,
+        622,
+        138,
+        629
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        146,
+        625,
+        152,
+        627
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "208",
+      "bbox": [
+        161,
+        621,
+        182,
+        630
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "consingeney,",
+      "bbox": [
+        189,
+        622,
+        273,
+        636
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "ives",
+      "bbox": [
+        283,
+        624,
+        309,
+        633
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "a0,",
+      "bbox": [
+        366,
+        625,
+        380,
+        632
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Agency:",
+      "bbox": [
+        478,
+        625,
+        527,
+        636
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Final",
+      "bbox": [
+        130,
+        635,
+        166,
+        644
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Report",
+      "bbox": [
+        174,
+        636,
+        216,
+        651
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "dnc.\u201d",
+      "bbox": [
+        224,
+        636,
+        250,
+        645
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "he",
+      "bbox": [
+        363,
+        639,
+        380,
+        654
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "by:",
+      "bbox": [
+        194,
+        664,
+        213,
+        675
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "Lens",
+      "bbox": [
+        472,
+        666,
+        514,
+        677
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        503,
+        680,
+        504,
+        683
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "7",
+      "bbox": [
+        562,
+        688,
+        563,
+        691
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Approved",
+      "bbox": [
+        128,
+        693,
+        186,
+        704
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "by:",
+      "bbox": [
+        194,
+        693,
+        213,
+        704
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "fe",
+      "bbox": [
+        229,
+        680,
+        278,
+        708
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "Open",
+      "bbox": [
+        486,
+        696,
+        514,
+        706
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Divector",
+      "bbox": [
+        265,
+        752,
+        322,
+        761
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "w/o",
+      "bbox": [
+        656,
+        751,
+        678,
+        763
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "5/18",
+      "bbox": [
+        686,
+        751,
+        713,
+        762
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        350,
+        793,
+        405,
+        795
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "presentation",
+      "bbox": [
+        585,
+        795,
+        671,
+        808
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "w/o",
+      "bbox": [
+        678,
+        795,
+        699,
+        806
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "5/25",
+      "bbox": [
+        707,
+        794,
+        734,
+        806
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        342,
+        822,
+        345,
+        824
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "fee!",
+      "bbox": [
+        574,
+        797,
+        602,
+        830
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "$4,500.00",
+      "bbox": [
+        615,
+        809,
+        690,
+        822
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "\u2014\u2014\u2014\u2014",
+      "bbox": [
+        698,
+        818,
+        744,
+        820
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "Facilicy:",
+      "bbox": [
+        493,
+        825,
+        555,
+        837
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "\u2014;",
+      "bbox": [
+        596,
+        836,
+        598,
+        839
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "1,500.00",
+      "bbox": [
+        630,
+        825,
+        685,
+        836
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "@",
+      "bbox": [
+        706,
+        825,
+        718,
+        835
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        356,
+        840,
+        371,
+        847
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Row",
+      "bbox": [
+        493,
+        841,
+        540,
+        852
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Meo",
+      "bbox": [
+        643,
+        839,
+        685,
+        849
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "B",
+      "bbox": [
+        706,
+        835,
+        719,
+        856
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Group",
+      "bbox": [
+        127,
+        855,
+        164,
+        866
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Produc\u00a7",
+      "bbox": [
+        171,
+        855,
+        207,
+        864
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "Manager",
+      "bbox": [
+        228,
+        855,
+        278,
+        866
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        210,
+        864,
+        290,
+        887
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        371,
+        887,
+        373,
+        889
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "U",
+      "bbox": [
+        210,
+        888,
+        221,
+        903
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        509,
+        895,
+        510,
+        902
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        595,
+        914,
+        596,
+        917
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        707,
+        901,
+        720,
+        911
+      ],
+      "confidence": 66.0
+    }
+  ]
+}

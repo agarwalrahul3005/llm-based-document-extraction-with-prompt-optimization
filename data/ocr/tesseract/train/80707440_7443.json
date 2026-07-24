@@ -1,0 +1,1714 @@
+{
+  "words": [
+    {
+      "text": ":",
+      "bbox": [
+        89,
+        170,
+        92,
+        172
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        362,
+        196,
+        364,
+        198
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        631,
+        188,
+        633,
+        191
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "CORPORATION",
+      "bbox": [
+        180,
+        230,
+        254,
+        239
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "PUBLICATION.",
+      "bbox": [
+        376,
+        229,
+        435,
+        238
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "Newspapere",
+      "bbox": [
+        499,
+        227,
+        567,
+        237
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "PRODIC!:",
+      "bbox": [
+        50,
+        259,
+        90,
+        269
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Kent,",
+      "bbox": [
+        112,
+        259,
+        144,
+        269
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Newport,",
+      "bbox": [
+        153,
+        259,
+        205,
+        269
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "True",
+      "bbox": [
+        214,
+        258,
+        240,
+        266
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        248,
+        257,
+        267,
+        265
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Old",
+      "bbox": [
+        275,
+        256,
+        294,
+        265
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Gold",
+      "bbox": [
+        302,
+        256,
+        328,
+        265
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "185i:",
+      "bbox": [
+        372,
+        244,
+        401,
+        275
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "19,",
+      "bbox": [
+        508,
+        254,
+        525,
+        264
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "1968",
+      "bbox": [
+        535,
+        253,
+        560,
+        262
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "108",
+      "bbox": [
+        51,
+        284,
+        67,
+        293
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "SPACE:",
+      "bbox": [
+        375,
+        280,
+        402,
+        290
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "1000",
+      "bbox": [
+        419,
+        282,
+        445,
+        291
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "new",
+      "bbox": [
+        494,
+        282,
+        514,
+        290
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "UATE:",
+      "bbox": [
+        550,
+        278,
+        571,
+        288
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "8/8/69",
+      "bbox": [
+        589,
+        279,
+        629,
+        290
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "1750",
+      "bbox": [
+        419,
+        283,
+        448,
+        313
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "LEAD-IN:",
+      "bbox": [
+        107,
+        368,
+        159,
+        379
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "New",
+      "bbox": [
+        174,
+        368,
+        195,
+        375
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "York",
+      "bbox": [
+        202,
+        366,
+        228,
+        375
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Football",
+      "bbox": [
+        236,
+        366,
+        289,
+        375
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Fans",
+      "bbox": [
+        297,
+        366,
+        323,
+        374
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ALTERNATIVES:",
+      "bbox": [
+        106,
+        395,
+        193,
+        407
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Los",
+      "bbox": [
+        209,
+        394,
+        228,
+        403
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Angeles",
+      "bbox": [
+        235,
+        393,
+        282,
+        404
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Vootball",
+      "bbox": [
+        290,
+        392,
+        344,
+        402
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Fans",
+      "bbox": [
+        351,
+        393,
+        377,
+        401
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Football",
+      "bbox": [
+        263,
+        406,
+        316,
+        416
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Fans",
+      "bbox": [
+        324,
+        407,
+        350,
+        415
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "HEADLINE:",
+      "bbox": [
+        107,
+        436,
+        166,
+        445
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Pick",
+      "bbox": [
+        182,
+        435,
+        208,
+        444
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "The",
+      "bbox": [
+        216,
+        435,
+        235,
+        444
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Winners",
+      "bbox": [
+        243,
+        435,
+        289,
+        443
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "And",
+      "bbox": [
+        297,
+        434,
+        316,
+        443
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Win",
+      "bbox": [
+        324,
+        435,
+        344,
+        443
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Up",
+      "bbox": [
+        351,
+        434,
+        364,
+        445
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "To",
+      "bbox": [
+        372,
+        434,
+        385,
+        442
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "$5,000",
+      "bbox": [
+        393,
+        433,
+        433,
+        443
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Line",
+      "bbox": [
+        209,
+        463,
+        235,
+        471
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Drawings",
+      "bbox": [
+        242,
+        462,
+        296,
+        473
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        304,
+        461,
+        316,
+        470
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Footbal]",
+      "bbox": [
+        325,
+        461,
+        376,
+        470
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Scenes",
+      "bbox": [
+        386,
+        461,
+        426,
+        469
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "\u2018SOLD,",
+      "bbox": [
+        102,
+        479,
+        137,
+        509
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "let",
+      "bbox": [
+        217,
+        503,
+        235,
+        512
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "Prize",
+      "bbox": [
+        243,
+        503,
+        276,
+        511
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "$5,000",
+      "bbox": [
+        299,
+        502,
+        338,
+        512
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "2nd",
+      "bbox": [
+        217,
+        517,
+        235,
+        525
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Prize",
+      "bbox": [
+        243,
+        517,
+        276,
+        525
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "$2,000",
+      "bbox": [
+        299,
+        515,
+        338,
+        526
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Srd",
+      "bbox": [
+        217,
+        530,
+        235,
+        539
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Prize",
+      "bbox": [
+        244,
+        530,
+        276,
+        539
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "th",
+      "bbox": [
+        217,
+        544,
+        236,
+        552
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "Prizes",
+      "bbox": [
+        243,
+        544,
+        283,
+        552
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "\u00a300",
+      "bbox": [
+        298,
+        543,
+        317,
+        551
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "fans",
+      "bbox": [
+        325,
+        543,
+        351,
+        551
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "wit!",
+      "bbox": [
+        359,
+        542,
+        384,
+        551
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "receive",
+      "bbox": [
+        394,
+        542,
+        440,
+        550
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "copies",
+      "bbox": [
+        448,
+        541,
+        487,
+        552
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        495,
+        541,
+        508,
+        549
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        173,
+        568,
+        176,
+        570
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "\u2018ite",
+      "bbox": [
+        298,
+        555,
+        324,
+        565
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Golden",
+      "bbox": [
+        331,
+        556,
+        372,
+        565
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Anniversary",
+      "bbox": [
+        379,
+        556,
+        453,
+        566
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        462,
+        555,
+        474,
+        564
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Pro-Footbel:\u201d",
+      "bbox": [
+        482,
+        553,
+        570,
+        563
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "TEXT:",
+      "bbox": [
+        108,
+        585,
+        139,
+        594
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Qver",
+      "bbox": [
+        155,
+        585,
+        182,
+        593
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "500",
+      "bbox": [
+        190,
+        584,
+        209,
+        593
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Prizes",
+      "bbox": [
+        217,
+        584,
+        256,
+        592
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "To",
+      "bbox": [
+        262,
+        584,
+        277,
+        596
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Be",
+      "bbox": [
+        285,
+        584,
+        297,
+        591
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Avarded",
+      "bbox": [
+        305,
+        583,
+        353,
+        595
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        590,
+        579,
+        593,
+        582
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Hor",
+      "bbox": [
+        155,
+        599,
+        175,
+        607
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "you",
+      "bbox": [
+        183,
+        600,
+        202,
+        608
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Gan",
+      "bbox": [
+        210,
+        600,
+        229,
+        606
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "vin",
+      "bbox": [
+        236,
+        598,
+        256,
+        606
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "up",
+      "bbox": [
+        264,
+        600,
+        277,
+        608
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        286,
+        598,
+        297,
+        605
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "$5,000",
+      "bbox": [
+        306,
+        596,
+        345,
+        607
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        353,
+        596,
+        372,
+        605
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "simply",
+      "bbox": [
+        380,
+        595,
+        419,
+        606
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "picking",
+      "bbox": [
+        428,
+        595,
+        474,
+        606
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "che",
+      "bbox": [
+        483,
+        595,
+        501,
+        603
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "winners",
+      "bbox": [
+        509,
+        597,
+        556,
+        603
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Of",
+      "bbox": [
+        156,
+        612,
+        168,
+        620
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        177,
+        611,
+        195,
+        620
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "listed",
+      "bbox": [
+        244,
+        611,
+        283,
+        619
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "below.",
+      "bbox": [
+        291,
+        610,
+        330,
+        619
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Juet",
+      "bbox": [
+        346,
+        610,
+        372,
+        618
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "check",
+      "bbox": [
+        380,
+        609,
+        413,
+        618
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        421,
+        609,
+        440,
+        617
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "box",
+      "bbox": [
+        448,
+        609,
+        467,
+        617
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "next",
+      "bbox": [
+        475,
+        610,
+        501,
+        617
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        510,
+        609,
+        522,
+        616
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        531,
+        608,
+        549,
+        616
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "team",
+      "bbox": [
+        156,
+        626,
+        182,
+        634
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "you",
+      "bbox": [
+        189,
+        627,
+        209,
+        635
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "think",
+      "bbox": [
+        217,
+        624,
+        250,
+        633
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "will",
+      "bbox": [
+        257,
+        624,
+        284,
+        632
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "win,",
+      "bbox": [
+        291,
+        624,
+        316,
+        632
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Alloy",
+      "bbox": [
+        332,
+        623,
+        366,
+        632
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        374,
+        623,
+        392,
+        631
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "tite",
+      "bbox": [
+        401,
+        622,
+        420,
+        631
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "point",
+      "bbox": [
+        427,
+        622,
+        460,
+        633
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "spread",
+      "bbox": [
+        469,
+        622,
+        508,
+        633
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        517,
+        622,
+        529,
+        630
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "your",
+      "bbox": [
+        536,
+        623,
+        562,
+        632
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "selections.",
+      "bbox": [
+        156,
+        639,
+        228,
+        647
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "(Vor",
+      "bbox": [
+        239,
+        637,
+        263,
+        648
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "example,",
+      "bbox": [
+        271,
+        637,
+        323,
+        648
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Lf",
+      "bbox": [
+        333,
+        637,
+        344,
+        646
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        352,
+        639,
+        359,
+        645
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "tear.",
+      "bbox": [
+        367,
+        638,
+        393,
+        645
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "is",
+      "bbox": [
+        401,
+        637,
+        413,
+        645
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "quoted",
+      "bbox": [
+        421,
+        636,
+        460,
+        647
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "as",
+      "bbox": [
+        468,
+        638,
+        481,
+        644
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "+7",
+      "bbox": [
+        488,
+        635,
+        501,
+        644
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "pts.",
+      "bbox": [
+        510,
+        636,
+        534,
+        646
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "thie",
+      "bbox": [
+        544,
+        635,
+        570,
+        643
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "means",
+      "bbox": [
+        155,
+        655,
+        188,
+        661
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "they",
+      "bbox": [
+        197,
+        652,
+        223,
+        663
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "aust",
+      "bbox": [
+        230,
+        653,
+        255,
+        660
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "win",
+      "bbox": [
+        264,
+        651,
+        284,
+        660
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        292,
+        651,
+        311,
+        660
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "game",
+      "bbox": [
+        319,
+        653,
+        345,
+        662
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        353,
+        650,
+        365,
+        661
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        373,
+        652,
+        385,
+        659
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "least",
+      "bbox": [
+        394,
+        650,
+        426,
+        659
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "7",
+      "bbox": [
+        435,
+        650,
+        440,
+        658
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "points.)",
+      "bbox": [
+        448,
+        648,
+        500,
+        660
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Prizes",
+      "bbox": [
+        516,
+        649,
+        556,
+        657
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Fill",
+      "bbox": [
+        155,
+        666,
+        181,
+        674
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        189,
+        666,
+        202,
+        674
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "awarded",
+      "bbox": [
+        210,
+        665,
+        256,
+        674
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        264,
+        665,
+        277,
+        676
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "random",
+      "bbox": [
+        285,
+        664,
+        325,
+        673
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        395,
+        665,
+        406,
+        672
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "those",
+      "bbox": [
+        415,
+        663,
+        447,
+        672
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "who",
+      "bbox": [
+        455,
+        663,
+        474,
+        671
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "have",
+      "bbox": [
+        482,
+        663,
+        508,
+        671
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        517,
+        662,
+        535,
+        670
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "grearest",
+      "bbox": [
+        543,
+        663,
+        597,
+        673
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        691,
+        669,
+        693,
+        671
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "number",
+      "bbox": [
+        156,
+        679,
+        195,
+        688
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        203,
+        679,
+        215,
+        687
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "winning",
+      "bbox": [
+        223,
+        678,
+        270,
+        689
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "selections,",
+      "bbox": [
+        278,
+        678,
+        350,
+        687
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Tull",
+      "bbox": [
+        366,
+        677,
+        392,
+        686
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "decaiis",
+      "bbox": [
+        400,
+        677,
+        447,
+        685
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "are",
+      "bbox": [
+        455,
+        678,
+        474,
+        685
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "tn",
+      "bbox": [
+        483,
+        676,
+        495,
+        684
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        503,
+        676,
+        522,
+        684
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Offseial",
+      "bbox": [
+        529,
+        675,
+        583,
+        684
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Rules.",
+      "bbox": [
+        155,
+        693,
+        193,
+        702
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        602,
+        835,
+        614,
+        844
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        605,
+        855,
+        616,
+        864
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        14,
+        869,
+        25,
+        881
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        605,
+        865,
+        617,
+        874
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        605,
+        875,
+        618,
+        884
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        607,
+        885,
+        619,
+        894
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        237,
+        901,
+        239,
+        903
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "ES",
+      "bbox": [
+        607,
+        895,
+        620,
+        904
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        608,
+        905,
+        620,
+        915
+      ],
+      "confidence": 76.0
+    }
+  ]
+}

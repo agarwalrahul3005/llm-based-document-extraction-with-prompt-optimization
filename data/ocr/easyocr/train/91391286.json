@@ -1,0 +1,464 @@
+{
+  "words": [
+    {
+      "text": "CQUPQN CQDE REGISTRATQN FQRM",
+      "bbox": [
+        328,
+        83,
+        573,
+        103
+      ],
+      "confidence": 0.40972211363388744
+    },
+    {
+      "text": "FrOM:",
+      "bbox": [
+        109,
+        119,
+        155,
+        135
+      ],
+      "confidence": 0.8867063029723291
+    },
+    {
+      "text": "THOM SMITH",
+      "bbox": [
+        161,
+        119,
+        247,
+        135
+      ],
+      "confidence": 0.6917173300070588
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        109,
+        151,
+        135,
+        167
+      ],
+      "confidence": 0.4579697849379966
+    },
+    {
+      "text": "VINCE LOSITO",
+      "bbox": [
+        147,
+        149,
+        243,
+        167
+      ],
+      "confidence": 0.8503830700908831
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        109,
+        185,
+        135,
+        199
+      ],
+      "confidence": 0.9791656109474985
+    },
+    {
+      "text": "T: BAYUES; L GIORDANO; V: UNDSLEY ,",
+      "bbox": [
+        149,
+        183,
+        401,
+        199
+      ],
+      "confidence": 0.32351575631837864
+    },
+    {
+      "text": "BRANDS(S) APPUCABLE",
+      "bbox": [
+        109,
+        249,
+        265,
+        267
+      ],
+      "confidence": 0.7690786790658165
+    },
+    {
+      "text": "HBLEY_DVTDSOM",
+      "bbox": [
+        336,
+        253,
+        454,
+        267
+      ],
+      "confidence": 0.3807528437650901
+    },
+    {
+      "text": "MEDIA",
+      "bbox": [
+        107,
+        283,
+        151,
+        297
+      ],
+      "confidence": 0.9354598653429852
+    },
+    {
+      "text": "MAGAZINE",
+      "bbox": [
+        337,
+        283,
+        403,
+        297
+      ],
+      "confidence": 0.6170075435620432
+    },
+    {
+      "text": "HOT",
+      "bbox": [
+        421,
+        283,
+        447,
+        295
+      ],
+      "confidence": 0.8491607308387756
+    },
+    {
+      "text": "ROD",
+      "bbox": [
+        451,
+        283,
+        477,
+        295
+      ],
+      "confidence": 0.7410276163832074
+    },
+    {
+      "text": "ISSUE FREQUENCYNEAR",
+      "bbox": [
+        107,
+        315,
+        273,
+        331
+      ],
+      "confidence": 0.7167658406802346
+    },
+    {
+      "text": "FULL",
+      "bbox": [
+        337,
+        341,
+        371,
+        355
+      ],
+      "confidence": 0.648910641670227
+    },
+    {
+      "text": "PAGE",
+      "bbox": [
+        375,
+        341,
+        409,
+        355
+      ],
+      "confidence": 0.9474904572602216
+    },
+    {
+      "text": "SPACEICOLOR",
+      "bbox": [
+        107,
+        346,
+        205,
+        362
+      ],
+      "confidence": 0.9996049715212075
+    },
+    {
+      "text": "COUPON ISSUE DATE",
+      "bbox": [
+        107,
+        379,
+        247,
+        395
+      ],
+      "confidence": 0.8647124679830664
+    },
+    {
+      "text": "5 /19/93",
+      "bbox": [
+        337,
+        383,
+        393,
+        399
+      ],
+      "confidence": 0.38646817520615634
+    },
+    {
+      "text": "COUPON EXFiRATION DATE",
+      "bbox": [
+        107,
+        411,
+        287,
+        427
+      ],
+      "confidence": 0.7722722804212382
+    },
+    {
+      "text": "11/30/93",
+      "bbox": [
+        337,
+        413,
+        401,
+        429
+      ],
+      "confidence": 0.831783907829943
+    },
+    {
+      "text": "CIRCULATION",
+      "bbox": [
+        107,
+        459,
+        199,
+        475
+      ],
+      "confidence": 0.9896346012040407
+    },
+    {
+      "text": "25,461",
+      "bbox": [
+        337,
+        477,
+        385,
+        493
+      ],
+      "confidence": 0.7706401651862167
+    },
+    {
+      "text": "GEOGRAPHICAL AREA(S)",
+      "bbox": [
+        107,
+        505,
+        269,
+        525
+      ],
+      "confidence": 0.8541815179609966
+    },
+    {
+      "text": "TOTAL HCUSTCN ,",
+      "bbox": [
+        337,
+        505,
+        445,
+        521
+      ],
+      "confidence": 0.5802137215324134
+    },
+    {
+      "text": "GALVESTON",
+      "bbox": [
+        451,
+        507,
+        523,
+        519
+      ],
+      "confidence": 0.417710296951427
+    },
+    {
+      "text": "MNNEAPOLIS _",
+      "bbox": [
+        531,
+        505,
+        621,
+        519
+      ],
+      "confidence": 0.555549053067757
+    },
+    {
+      "text": "PAUL _",
+      "bbox": [
+        661,
+        505,
+        697,
+        519
+      ],
+      "confidence": 0.7894861459527214
+    },
+    {
+      "text": "DULUTH",
+      "bbox": [
+        707,
+        505,
+        757,
+        519
+      ],
+      "confidence": 0.9091589577461732
+    },
+    {
+      "text": "COUPON VALUE",
+      "bbox": [
+        107,
+        541,
+        213,
+        557
+      ],
+      "confidence": 0.9992144799328161
+    },
+    {
+      "text": "5,75",
+      "bbox": [
+        337,
+        543,
+        371,
+        559
+      ],
+      "confidence": 0.3979742228984833
+    },
+    {
+      "text": "PACK AND ORICARTCN",
+      "bbox": [
+        107,
+        573,
+        257,
+        589
+      ],
+      "confidence": 0.8492761193830894
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        337,
+        573,
+        371,
+        587
+      ],
+      "confidence": 0.8093732855111471
+    },
+    {
+      "text": "ADVERTISING CREATIVE THEME",
+      "bbox": [
+        107,
+        603,
+        315,
+        623
+      ],
+      "confidence": 0.7924241671792495
+    },
+    {
+      "text": "BLUE SKY",
+      "bbox": [
+        337,
+        609,
+        401,
+        623
+      ],
+      "confidence": 0.538339411028457
+    },
+    {
+      "text": "SIGNATURE OF INITIATOR",
+      "bbox": [
+        107,
+        639,
+        275,
+        655
+      ],
+      "confidence": 0.9707895572375558
+    },
+    {
+      "text": "DATE INITIATED",
+      "bbox": [
+        105,
+        669,
+        211,
+        687
+      ],
+      "confidence": 0.9302833918275752
+    },
+    {
+      "text": "2/la3",
+      "bbox": [
+        365,
+        657,
+        449,
+        693
+      ],
+      "confidence": 0.32388011389047755
+    },
+    {
+      "text": "ANALYTICAL REQUIREMENTS:",
+      "bbox": [
+        109,
+        703,
+        301,
+        719
+      ],
+      "confidence": 0.8599400394423934
+    },
+    {
+      "text": "FOR CONTROL USE ONLY:",
+      "bbox": [
+        329,
+        732,
+        497,
+        752
+      ],
+      "confidence": 0.7573052033128529
+    },
+    {
+      "text": "CODE ASSIGNED:",
+      "bbox": [
+        329,
+        767,
+        443,
+        783
+      ],
+      "confidence": 0.8642611573580224
+    },
+    {
+      "text": "R?",
+      "bbox": [
+        577,
+        761,
+        603,
+        781
+      ],
+      "confidence": 0.5868902553757427
+    },
+    {
+      "text": "JOB NUMBER:",
+      "bbox": [
+        327,
+        785,
+        421,
+        799
+      ],
+      "confidence": 0.9429427665762762
+    },
+    {
+      "text": "59216",
+      "bbox": [
+        569,
+        785,
+        619,
+        799
+      ],
+      "confidence": 0.34873734173169535
+    },
+    {
+      "text": "EST, REDEMPTION:",
+      "bbox": [
+        329,
+        799,
+        452,
+        815
+      ],
+      "confidence": 0.6093596433540635
+    },
+    {
+      "text": "1",
+      "bbox": [
+        742,
+        776,
+        762,
+        849
+      ],
+      "confidence": 0.36959157300594825
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "words": [
+    {
+      "text": "NEW",
+      "bbox": [
+        301,
+        66,
+        332,
+        76
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "COMPETITIVE",
+      "bbox": [
+        337,
+        65,
+        430,
+        81
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PRODUCTS",
+      "bbox": [
+        435,
+        65,
+        510,
+        74
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "IREPORTEO",
+      "bbox": [
+        66,
+        125,
+        139,
+        135
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        145,
+        125,
+        166,
+        135
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "M.",
+      "bbox": [
+        215,
+        126,
+        224,
+        138
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "WIECHMANN,",
+      "bbox": [
+        241,
+        125,
+        322,
+        138
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "D.M,,",
+      "bbox": [
+        340,
+        124,
+        372,
+        135
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "LUBBOCK,",
+      "bbox": [
+        393,
+        123,
+        455,
+        134
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "TX",
+      "bbox": [
+        473,
+        123,
+        490,
+        133
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "DATE:_10/5/92",
+      "bbox": [
+        119,
+        175,
+        232,
+        188
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "MANUFACTURER:",
+      "bbox": [
+        67,
+        221,
+        184,
+        250
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        234,
+        228,
+        249,
+        238
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        261,
+        228,
+        276,
+        238
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "REYNOLDS",
+      "bbox": [
+        287,
+        227,
+        357,
+        238
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        119,
+        279,
+        162,
+        304
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "ARETT",
+      "bbox": [
+        308,
+        287,
+        345,
+        294
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "PACKTN",
+      "bbox": [
+        425,
+        286,
+        471,
+        293
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "PE",
+      "bbox": [
+        84,
+        335,
+        101,
+        345
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        106,
+        335,
+        124,
+        345
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "PRODUCT:",
+      "bbox": [
+        68,
+        343,
+        137,
+        372
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "IsiZE",
+      "bbox": [
+        68,
+        405,
+        97,
+        415
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "OR",
+      "bbox": [
+        103,
+        405,
+        121,
+        415
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "SIZES:",
+      "bbox": [
+        127,
+        404,
+        170,
+        414
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "List",
+      "bbox": [
+        68,
+        457,
+        96,
+        467
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "PRICE:",
+      "bbox": [
+        101,
+        457,
+        145,
+        467
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "EXTENT",
+      "bbox": [
+        68,
+        510,
+        120,
+        519
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        125,
+        509,
+        143,
+        519
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DISTRIBUTION:",
+      "bbox": [
+        68,
+        526,
+        169,
+        536
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "INFORMATION:",
+      "bbox": [
+        69,
+        622,
+        168,
+        651
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "SEE",
+      "bbox": [
+        239,
+        630,
+        264,
+        640
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "ATTACHMENT",
+      "bbox": [
+        273,
+        629,
+        362,
+        640
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "joo:",
+      "bbox": [
+        69,
+        755,
+        87,
+        763
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Tisch",
+      "bbox": [
+        104,
+        770,
+        138,
+        780
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "F.",
+      "bbox": [
+        227,
+        769,
+        237,
+        779
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        243,
+        769,
+        253,
+        779
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        358,
+        769,
+        368,
+        778
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        373,
+        768,
+        384,
+        778
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "K.P.",
+      "bbox": [
+        535,
+        767,
+        564,
+        777
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Augustyn",
+      "bbox": [
+        569,
+        767,
+        631,
+        779
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "IR.",
+      "bbox": [
+        69,
+        788,
+        81,
+        798
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "H.",
+      "bbox": [
+        87,
+        788,
+        99,
+        798
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Orcutt",
+      "bbox": [
+        105,
+        787,
+        145,
+        797
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "A.W.",
+      "bbox": [
+        226,
+        787,
+        259,
+        797
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Spears",
+      "bbox": [
+        265,
+        786,
+        310,
+        799
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "LH.",
+      "bbox": [
+        358,
+        786,
+        387,
+        796
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Kersh",
+      "bbox": [
+        393,
+        786,
+        429,
+        796
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Y.D.",
+      "bbox": [
+        534,
+        785,
+        564,
+        795
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "Lindsley",
+      "bbox": [
+        570,
+        785,
+        624,
+        797
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "IM.",
+      "bbox": [
+        70,
+        805,
+        83,
+        815
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        88,
+        805,
+        100,
+        815
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Peterson",
+      "bbox": [
+        106,
+        805,
+        163,
+        815
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "N.P.",
+      "bbox": [
+        227,
+        804,
+        256,
+        814
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        358,
+        804,
+        368,
+        813
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "FL",
+      "bbox": [
+        374,
+        804,
+        386,
+        813
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Slater",
+      "bbox": [
+        392,
+        803,
+        429,
+        813
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "R.D.",
+      "bbox": [
+        535,
+        803,
+        566,
+        812
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Hammer",
+      "bbox": [
+        572,
+        802,
+        626,
+        812
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "L.",
+      "bbox": [
+        89,
+        823,
+        99,
+        833
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "Orlowsky",
+      "bbox": [
+        105,
+        823,
+        164,
+        835
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "T.L",
+      "bbox": [
+        226,
+        822,
+        254,
+        832
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Achey",
+      "bbox": [
+        259,
+        822,
+        299,
+        834
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "A.",
+      "bbox": [
+        358,
+        822,
+        370,
+        831
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Pasheluk",
+      "bbox": [
+        376,
+        821,
+        434,
+        831
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "IL.",
+      "bbox": [
+        69,
+        841,
+        79,
+        850
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "Gordon",
+      "bbox": [
+        85,
+        840,
+        133,
+        850
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "P.",
+      "bbox": [
+        227,
+        840,
+        238,
+        849
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        244,
+        840,
+        254,
+        850
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "MeCann",
+      "bbox": [
+        260,
+        840,
+        312,
+        849
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "R.",
+      "bbox": [
+        359,
+        839,
+        384,
+        849
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "S.",
+      "bbox": [
+        376,
+        829,
+        392,
+        858
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "Goldbrenner",
+      "bbox": [
+        394,
+        839,
+        476,
+        848
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        739,
+        838,
+        749,
+        853
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "IG.",
+      "bbox": [
+        69,
+        858,
+        82,
+        868
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Telford",
+      "bbox": [
+        87,
+        858,
+        132,
+        868
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "A.J.",
+      "bbox": [
+        227,
+        857,
+        255,
+        867
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Giacoio",
+      "bbox": [
+        260,
+        857,
+        309,
+        867
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "N.",
+      "bbox": [
+        359,
+        857,
+        371,
+        866
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Simeonidis",
+      "bbox": [
+        377,
+        856,
+        449,
+        866
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "\u00a3",
+      "bbox": [
+        738,
+        854,
+        748,
+        869
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "8.",
+      "bbox": [
+        359,
+        874,
+        370,
+        884
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "F,",
+      "bbox": [
+        376,
+        874,
+        387,
+        884
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Smith",
+      "bbox": [
+        393,
+        874,
+        429,
+        884
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        738,
+        872,
+        748,
+        878
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        737,
+        881,
+        747,
+        888
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        736,
+        889,
+        747,
+        896
+      ],
+      "confidence": 94.0
+    }
+  ]
+}

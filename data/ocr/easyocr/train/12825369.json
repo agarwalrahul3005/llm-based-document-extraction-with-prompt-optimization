@@ -1,0 +1,944 @@
+{
+  "words": [
+    {
+      "text": "LAURENCE, CHARLES, FREE & LAWSON, INC_",
+      "bbox": [
+        162,
+        45,
+        582,
+        74
+      ],
+      "confidence": 0.88014692953245
+    },
+    {
+      "text": "BULLETIN ADVERTISING-INSPECTION ReporT",
+      "bbox": [
+        213,
+        73,
+        535,
+        93
+      ],
+      "confidence": 0.692646452763272
+    },
+    {
+      "text": "MARKET",
+      "bbox": [
+        57,
+        135,
+        105,
+        149
+      ],
+      "confidence": 0.9969096428438944
+    },
+    {
+      "text": "Lakeland MetroMarket",
+      "bbox": [
+        119,
+        133,
+        271,
+        149
+      ],
+      "confidence": 0.517843588954934
+    },
+    {
+      "text": "BRAND",
+      "bbox": [
+        367,
+        135,
+        407,
+        149
+      ],
+      "confidence": 0.9441275637788242
+    },
+    {
+      "text": "Nisty",
+      "bbox": [
+        427,
+        131,
+        467,
+        147
+      ],
+      "confidence": 0.35183799785161396
+    },
+    {
+      "text": "POPULATION",
+      "bbox": [
+        57,
+        165,
+        127,
+        179
+      ],
+      "confidence": 0.9993162615380089
+    },
+    {
+      "text": "400",
+      "bbox": [
+        155,
+        161,
+        179,
+        175
+      ],
+      "confidence": 0.9943730930530097
+    },
+    {
+      "text": "400",
+      "bbox": [
+        183,
+        161,
+        207,
+        175
+      ],
+      "confidence": 0.9998370229588981
+    },
+    {
+      "text": "SCHEDULE",
+      "bbox": [
+        367,
+        165,
+        427,
+        179
+      ],
+      "confidence": 0.9992030822794982
+    },
+    {
+      "text": "2120",
+      "bbox": [
+        435,
+        163,
+        467,
+        179
+      ],
+      "confidence": 0.8557659131335793
+    },
+    {
+      "text": "320",
+      "bbox": [
+        485,
+        163,
+        517,
+        179
+      ],
+      "confidence": 0.999657050336399
+    },
+    {
+      "text": "RIDE DATEB[23/9L",
+      "bbox": [
+        537,
+        161,
+        641,
+        179
+      ],
+      "confidence": 0.5309351414107142
+    },
+    {
+      "text": "The",
+      "bbox": [
+        141,
+        187,
+        165,
+        201
+      ],
+      "confidence": 0.9996930445136498
+    },
+    {
+      "text": "Lamar Corp _",
+      "bbox": [
+        169,
+        187,
+        243,
+        203
+      ],
+      "confidence": 0.9015756140981058
+    },
+    {
+      "text": "OPERATOR",
+      "bbox": [
+        57,
+        195,
+        119,
+        209
+      ],
+      "confidence": 0.9824191128552514
+    },
+    {
+      "text": "FULL INSPECTION;",
+      "bbox": [
+        367,
+        195,
+        463,
+        209
+      ],
+      "confidence": 0.7220975469581278
+    },
+    {
+      "text": "SPOT CHECK",
+      "bbox": [
+        537,
+        195,
+        609,
+        209
+      ],
+      "confidence": 0.9846702638618678
+    },
+    {
+      "text": "NuMBER VIEWED",
+      "bbox": [
+        365,
+        227,
+        459,
+        241
+      ],
+      "confidence": 0.4077926174921548
+    },
+    {
+      "text": "TYPE OF DISPLAY",
+      "bbox": [
+        323,
+        253,
+        429,
+        267
+      ],
+      "confidence": 0.9730450812684514
+    },
+    {
+      "text": "PERMANENT",
+      "bbox": [
+        179,
+        287,
+        257,
+        303
+      ],
+      "confidence": 0.9995234239475413
+    },
+    {
+      "text": "BULLEMIN",
+      "bbox": [
+        57,
+        319,
+        109,
+        333
+      ],
+      "confidence": 0.417134787041618
+    },
+    {
+      "text": "WALL",
+      "bbox": [
+        179,
+        319,
+        209,
+        331
+      ],
+      "confidence": 0.9899287819862366
+    },
+    {
+      "text": "LOCATION",
+      "bbox": [
+        57,
+        351,
+        109,
+        365
+      ],
+      "confidence": 0.9852924350923825
+    },
+    {
+      "text": "See attached",
+      "bbox": [
+        139,
+        349,
+        227,
+        363
+      ],
+      "confidence": 0.9894581844103149
+    },
+    {
+      "text": "ist",
+      "bbox": [
+        231,
+        349,
+        263,
+        363
+      ],
+      "confidence": 0.99993282659923
+    },
+    {
+      "text": "DAILY",
+      "bbox": [
+        57,
+        385,
+        89,
+        397
+      ],
+      "confidence": 0.9995652293605559
+    },
+    {
+      "text": "AVERAGE DAILY",
+      "bbox": [
+        385,
+        383,
+        461,
+        397
+      ],
+      "confidence": 0.6668186493619116
+    },
+    {
+      "text": "EFFECTIVE CIACULATION",
+      "bbox": [
+        57,
+        395,
+        179,
+        409
+      ],
+      "confidence": 0.7389558578849666
+    },
+    {
+      "text": "240",
+      "bbox": [
+        217,
+        389,
+        241,
+        405
+      ],
+      "confidence": 0.9999114220872678
+    },
+    {
+      "text": "900",
+      "bbox": [
+        245,
+        391,
+        269,
+        405
+      ],
+      "confidence": 0.9983181628280906
+    },
+    {
+      "text": "EFFECTIVE CIRCULATION",
+      "bbox": [
+        385,
+        395,
+        507,
+        409
+      ],
+      "confidence": 0.8021002024209274
+    },
+    {
+      "text": "218,499",
+      "bbox": [
+        539,
+        393,
+        591,
+        407
+      ],
+      "confidence": 0.9580245965283668
+    },
+    {
+      "text": "DESIGN ON DISPLAY: (Condition And Rendition ol Copy)",
+      "bbox": [
+        59,
+        421,
+        361,
+        437
+      ],
+      "confidence": 0.8293020167977943
+    },
+    {
+      "text": "COMMENTS: (Description of Location or Rotary Plan, Brand Category Competition)",
+      "bbox": [
+        59,
+        492,
+        491,
+        510
+      ],
+      "confidence": 0.6633520267932475
+    },
+    {
+      "text": "This",
+      "bbox": [
+        55,
+        515,
+        85,
+        529
+      ],
+      "confidence": 0.999369204044342
+    },
+    {
+      "text": "comparatively",
+      "bbox": [
+        125,
+        515,
+        219,
+        531
+      ],
+      "confidence": 0.9893183934316264
+    },
+    {
+      "text": "easy market",
+      "bbox": [
+        223,
+        517,
+        305,
+        533
+      ],
+      "confidence": 0.743166221380967
+    },
+    {
+      "text": "cover",
+      "bbox": [
+        329,
+        519,
+        367,
+        531
+      ],
+      "confidence": 0.9984810577807515
+    },
+    {
+      "text": "It is Iess",
+      "bbox": [
+        385,
+        517,
+        457,
+        533
+      ],
+      "confidence": 0.66411075727942
+    },
+    {
+      "text": "than",
+      "bbox": [
+        463,
+        519,
+        493,
+        533
+      ],
+      "confidence": 0.6566213161783943
+    },
+    {
+      "text": "an hour from",
+      "bbox": [
+        497,
+        519,
+        585,
+        533
+      ],
+      "confidence": 0.6321501835949864
+    },
+    {
+      "text": "airport",
+      "bbox": [
+        55,
+        531,
+        107,
+        545
+      ],
+      "confidence": 0.8644329135836039
+    },
+    {
+      "text": "Our bulletins",
+      "bbox": [
+        125,
+        529,
+        219,
+        545
+      ],
+      "confidence": 0.8733953798879498
+    },
+    {
+      "text": "are",
+      "bbox": [
+        223,
+        533,
+        247,
+        545
+      ],
+      "confidence": 0.8641883134841919
+    },
+    {
+      "text": "on every major arteria]",
+      "bbox": [
+        251,
+        531,
+        415,
+        547
+      ],
+      "confidence": 0.5696532053109905
+    },
+    {
+      "text": "and in",
+      "bbox": [
+        419,
+        531,
+        465,
+        547
+      ],
+      "confidence": 0.9126286478724986
+    },
+    {
+      "text": "quadrants",
+      "bbox": [
+        495,
+        533,
+        563,
+        547
+      ],
+      "confidence": 0.9999764758951822
+    },
+    {
+      "text": "the area",
+      "bbox": [
+        589,
+        533,
+        647,
+        547
+      ],
+      "confidence": 0.9998448103157055
+    },
+    {
+      "text": "cnanges",
+      "bbox": [
+        75,
+        545,
+        127,
+        559
+      ],
+      "confidence": 0.7939585802670602
+    },
+    {
+      "text": "were",
+      "bbox": [
+        131,
+        545,
+        163,
+        559
+      ],
+      "confidence": 0.9984970688819885
+    },
+    {
+      "text": "Some minor on-premise blocking and",
+      "bbox": [
+        217,
+        543,
+        459,
+        561
+      ],
+      "confidence": 0.9879193316029085
+    },
+    {
+      "text": "trees",
+      "bbox": [
+        463,
+        547,
+        499,
+        561
+      ],
+      "confidence": 0.9999475408148277
+    },
+    {
+      "text": "Nere",
+      "bbox": [
+        503,
+        549,
+        535,
+        561
+      ],
+      "confidence": 0.3344244360923767
+    },
+    {
+      "text": "noted",
+      "bbox": [
+        539,
+        547,
+        577,
+        561
+      ],
+      "confidence": 0.9995203382207969
+    },
+    {
+      "text": "but not",
+      "bbox": [
+        587,
+        547,
+        641,
+        561
+      ],
+      "confidence": 0.6798251563256004
+    },
+    {
+      "text": "deemed serious encugn",
+      "bbox": [
+        55,
+        557,
+        205,
+        575
+      ],
+      "confidence": 0.8235384320661278
+    },
+    {
+      "text": "for correction",
+      "bbox": [
+        209,
+        559,
+        311,
+        573
+      ],
+      "confidence": 0.701653092126236
+    },
+    {
+      "text": "The only other",
+      "bbox": [
+        55,
+        585,
+        157,
+        601
+      ],
+      "confidence": 0.946948503719497
+    },
+    {
+      "text": "tobacco in",
+      "bbox": [
+        161,
+        587,
+        233,
+        601
+      ],
+      "confidence": 0.9546734865791969
+    },
+    {
+      "text": "the",
+      "bbox": [
+        237,
+        587,
+        261,
+        601
+      ],
+      "confidence": 0.972837636628387
+    },
+    {
+      "text": "market was",
+      "bbox": [
+        265,
+        587,
+        339,
+        601
+      ],
+      "confidence": 0.8297385398800665
+    },
+    {
+      "text": "s tanding",
+      "bbox": [
+        355,
+        587,
+        417,
+        603
+      ],
+      "confidence": 0.9646367292729388
+    },
+    {
+      "text": "Panel RJR",
+      "bbox": [
+        433,
+        587,
+        501,
+        603
+      ],
+      "confidence": 0.814424933311542
+    },
+    {
+      "text": "currently showing",
+      "bbox": [
+        531,
+        589,
+        655,
+        605
+      ],
+      "confidence": 0.8690481021861921
+    },
+    {
+      "text": "Came",
+      "bbox": [
+        55,
+        599,
+        85,
+        613
+      ],
+      "confidence": 0.9997538924217224
+    },
+    {
+      "text": "COMMENTS ON PLANT: (Condition, Structures, Painting Ability; Lighting, Cooperation; elc )",
+      "bbox": [
+        59,
+        688,
+        537,
+        707
+      ],
+      "confidence": 0.3433073690264796
+    },
+    {
+      "text": "The plant is wel",
+      "bbox": [
+        53,
+        709,
+        169,
+        727
+      ],
+      "confidence": 0.9191039212557941
+    },
+    {
+      "text": "mainta",
+      "bbox": [
+        178,
+        709,
+        225,
+        727
+      ],
+      "confidence": 0.9969911673244113
+    },
+    {
+      "text": "covers",
+      "bbox": [
+        285,
+        713,
+        331,
+        727
+      ],
+      "confidence": 0.9988297943312086
+    },
+    {
+      "text": "all parts",
+      "bbox": [
+        335,
+        711,
+        401,
+        729
+      ],
+      "confidence": 0.3638358070702975
+    },
+    {
+      "text": "the market",
+      "bbox": [
+        427,
+        713,
+        499,
+        727
+      ],
+      "confidence": 0.919939084180022
+    },
+    {
+      "text": "Lamar Iooks Tike",
+      "bbox": [
+        517,
+        713,
+        633,
+        729
+      ],
+      "confidence": 0.8557368479003833
+    },
+    {
+      "text": "good",
+      "bbox": [
+        53,
+        727,
+        85,
+        741
+      ],
+      "confidence": 0.9975908994674683
+    },
+    {
+      "text": "citizen",
+      "bbox": [
+        89,
+        725,
+        141,
+        739
+      ],
+      "confidence": 0.9996561068265309
+    },
+    {
+      "text": "nere",
+      "bbox": [
+        145,
+        727,
+        177,
+        741
+      ],
+      "confidence": 0.9982663989067078
+    },
+    {
+      "text": "keeping",
+      "bbox": [
+        187,
+        727,
+        239,
+        743
+      ],
+      "confidence": 0.6290692300340536
+    },
+    {
+      "text": "good-looking operation",
+      "bbox": [
+        257,
+        725,
+        415,
+        743
+      ],
+      "confidence": 0.9766255168878271
+    },
+    {
+      "text": "doing public service,",
+      "bbox": [
+        425,
+        727,
+        571,
+        743
+      ],
+      "confidence": 0.595756289957721
+    },
+    {
+      "text": "and",
+      "bbox": [
+        579,
+        729,
+        605,
+        743
+      ],
+      "confidence": 0.9948757068319645
+    },
+    {
+      "text": "carrying",
+      "bbox": [
+        53,
+        739,
+        113,
+        755
+      ],
+      "confidence": 0.9944295722883618
+    },
+    {
+      "text": "Iot",
+      "bbox": [
+        131,
+        739,
+        155,
+        755
+      ],
+      "confidence": 0.4984914435380379
+    },
+    {
+      "text": "of Iocal advertisers",
+      "bbox": [
+        159,
+        739,
+        303,
+        755
+      ],
+      "confidence": 0.5108722134770551
+    },
+    {
+      "text": "INSPECTION BY",
+      "bbox": [
+        541,
+        887,
+        627,
+        903
+      ],
+      "confidence": 0.8797094621878551
+    },
+    {
+      "text": "970518461",
+      "bbox": [
+        0,
+        953,
+        81,
+        969
+      ],
+      "confidence": 0.9999972184479762
+    },
+    {
+      "text": "PRODUCED",
+      "bbox": [
+        1,
+        969,
+        75,
+        985
+      ],
+      "confidence": 0.9984216023176107
+    },
+    {
+      "text": "FROM",
+      "bbox": [
+        81,
+        969,
+        119,
+        983
+      ],
+      "confidence": 0.6943392157554626
+    },
+    {
+      "text": "BEN",
+      "bbox": [
+        123,
+        969,
+        155,
+        983
+      ],
+      "confidence": 0.6316009188994887
+    },
+    {
+      "text": "WEB",
+      "bbox": [
+        159,
+        969,
+        189,
+        983
+      ],
+      "confidence": 0.509856641292572
+    },
+    {
+      "text": "SITE",
+      "bbox": [
+        195,
+        969,
+        233,
+        985
+      ],
+      "confidence": 0.9978209137916565
+    },
+    {
+      "text": "Tampa",
+      "bbox": [
+        586,
+        515,
+        627,
+        536
+      ],
+      "confidence": 0.9950637331888637
+    },
+    {
+      "text": "buy",
+      "bbox": [
+        501,
+        587,
+        527,
+        605
+      ],
+      "confidence": 0.7958902199783946
+    },
+    {
+      "text": "ined",
+      "bbox": [
+        221,
+        710,
+        254,
+        727
+      ],
+      "confidence": 0.9746934771537781
+    },
+    {
+      "text": "and",
+      "bbox": [
+        256,
+        712,
+        280,
+        725
+      ],
+      "confidence": 0.9986077897296843
+    }
+  ]
+}

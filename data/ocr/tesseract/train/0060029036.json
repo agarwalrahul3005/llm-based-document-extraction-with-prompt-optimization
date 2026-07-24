@@ -1,0 +1,1184 @@
+{
+  "words": [
+    {
+      "text": "SPORTS",
+      "bbox": [
+        230,
+        67,
+        304,
+        79
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "MARKETING",
+      "bbox": [
+        317,
+        67,
+        437,
+        79
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "ENTERPRISES",
+      "bbox": [
+        450,
+        67,
+        581,
+        79
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "DOCUMENT",
+      "bbox": [
+        245,
+        85,
+        360,
+        97
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "CLEARANCE",
+      "bbox": [
+        372,
+        85,
+        496,
+        97
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "SHEET",
+      "bbox": [
+        508,
+        85,
+        568,
+        98
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        86,
+        138,
+        112,
+        148
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Routed:",
+      "bbox": [
+        117,
+        138,
+        162,
+        148
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "January",
+      "bbox": [
+        227,
+        138,
+        277,
+        153
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "11,",
+      "bbox": [
+        281,
+        138,
+        293,
+        148
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "1994",
+      "bbox": [
+        303,
+        139,
+        331,
+        149
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Contract",
+      "bbox": [
+        415,
+        138,
+        464,
+        149
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "No.",
+      "bbox": [
+        468,
+        139,
+        487,
+        149
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "4011",
+      "bbox": [
+        556,
+        139,
+        583,
+        150
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "0900",
+      "bbox": [
+        589,
+        139,
+        621,
+        150
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "\u2018Contract",
+      "bbox": [
+        85,
+        184,
+        134,
+        194
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Subject:",
+      "bbox": [
+        139,
+        184,
+        182,
+        197
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Joe's",
+      "bbox": [
+        227,
+        186,
+        259,
+        196
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Place",
+      "bbox": [
+        264,
+        186,
+        297,
+        196
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Exhibits",
+      "bbox": [
+        302,
+        186,
+        352,
+        196
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Company",
+      "bbox": [
+        85,
+        218,
+        141,
+        229
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "ING.",
+      "bbox": [
+        240,
+        219,
+        265,
+        228
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "_CamelWinston",
+      "bbox": [
+        522,
+        219,
+        616,
+        229
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Total",
+      "bbox": [
+        85,
+        255,
+        114,
+        265
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Contract",
+      "bbox": [
+        119,
+        255,
+        168,
+        265
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Cost",
+      "bbox": [
+        172,
+        255,
+        198,
+        265
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "$4,340,000.00",
+      "bbox": [
+        250,
+        253,
+        333,
+        265
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "\u2018Current",
+      "bbox": [
+        419,
+        252,
+        462,
+        263
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Year",
+      "bbox": [
+        466,
+        252,
+        494,
+        263
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Cost",
+      "bbox": [
+        498,
+        253,
+        524,
+        263
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "1994-1995",
+      "bbox": [
+        585,
+        254,
+        646,
+        264
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Brief",
+      "bbox": [
+        85,
+        289,
+        113,
+        299
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Desoription",
+      "bbox": [
+        117,
+        289,
+        181,
+        302
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        250,
+        287,
+        257,
+        297
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Joe's",
+      "bbox": [
+        261,
+        287,
+        293,
+        297
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Place",
+      "bbox": [
+        298,
+        287,
+        331,
+        298
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Exhibits",
+      "bbox": [
+        336,
+        287,
+        386,
+        298
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        390,
+        288,
+        408,
+        298
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "use",
+      "bbox": [
+        412,
+        290,
+        434,
+        298
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        438,
+        278,
+        450,
+        308
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Winston",
+      "bbox": [
+        453,
+        288,
+        505,
+        298
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Cup,",
+      "bbox": [
+        510,
+        288,
+        538,
+        301
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Winston",
+      "bbox": [
+        542,
+        288,
+        595,
+        298
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Drag",
+      "bbox": [
+        599,
+        288,
+        628,
+        301
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        632,
+        288,
+        656,
+        299
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Camel",
+      "bbox": [
+        660,
+        289,
+        698,
+        299
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Super",
+      "bbox": [
+        250,
+        303,
+        288,
+        315
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Bika",
+      "bbox": [
+        292,
+        303,
+        318,
+        312
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Events,",
+      "bbox": [
+        323,
+        303,
+        368,
+        313
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "\u2018GML",
+      "bbox": [
+        85,
+        360,
+        106,
+        369
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Code:",
+      "bbox": [
+        110,
+        360,
+        144,
+        369
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "Program",
+      "bbox": [
+        405,
+        357,
+        455,
+        369
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Code.",
+      "bbox": [
+        504,
+        357,
+        535,
+        367
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        227,
+        399,
+        264,
+        410
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "SIGNATURE",
+      "bbox": [
+        410,
+        390,
+        496,
+        421
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        602,
+        399,
+        638,
+        412
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Originator",
+      "bbox": [
+        85,
+        423,
+        143,
+        454
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Michael",
+      "bbox": [
+        222,
+        423,
+        277,
+        454
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Weight",
+      "bbox": [
+        284,
+        423,
+        323,
+        454
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "Manager",
+      "bbox": [
+        85,
+        461,
+        136,
+        487
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "John",
+      "bbox": [
+        226,
+        469,
+        257,
+        482
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Powell",
+      "bbox": [
+        262,
+        469,
+        303,
+        479
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "b.",
+      "bbox": [
+        433,
+        460,
+        454,
+        482
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "9.",
+      "bbox": [
+        462,
+        460,
+        478,
+        491
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "hull.",
+      "bbox": [
+        494,
+        450,
+        572,
+        490
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "REVIEW",
+      "bbox": [
+        85,
+        507,
+        137,
+        519
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "ROUTING",
+      "bbox": [
+        141,
+        507,
+        202,
+        519
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "\u2018SIGNATURE",
+      "bbox": [
+        410,
+        521,
+        493,
+        547
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        602,
+        526,
+        638,
+        538
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Insurance:",
+      "bbox": [
+        85,
+        557,
+        141,
+        567
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Law",
+      "bbox": [
+        85,
+        593,
+        108,
+        603
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "FS",
+      "bbox": [
+        85,
+        629,
+        101,
+        638
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        105,
+        634,
+        109,
+        636
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Marketing",
+      "bbox": [
+        114,
+        629,
+        170,
+        641
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "REVISIONS",
+      "bbox": [
+        85,
+        664,
+        156,
+        677
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        160,
+        664,
+        178,
+        674
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SHELL",
+      "bbox": [
+        183,
+        665,
+        224,
+        674
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "PAGE(S)",
+      "bbox": [
+        414,
+        657,
+        471,
+        683
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "man",
+      "bbox": [
+        116,
+        683,
+        135,
+        690
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Teen,",
+      "bbox": [
+        138,
+        682,
+        162,
+        690
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        152,
+        688,
+        160,
+        718
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "Job",
+      "bbox": [
+        165,
+        688,
+        183,
+        718
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "eT",
+      "bbox": [
+        413,
+        696,
+        581,
+        699
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "APPROVAL",
+      "bbox": [
+        84,
+        737,
+        155,
+        746
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "ROUTING",
+      "bbox": [
+        159,
+        737,
+        220,
+        748
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        413,
+        733,
+        725,
+        736
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "*",
+      "bbox": [
+        84,
+        755,
+        89,
+        760
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Sr.",
+      "bbox": [
+        98,
+        755,
+        115,
+        766
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "Manager",
+      "bbox": [
+        121,
+        755,
+        178,
+        769
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "(B.",
+      "bbox": [
+        182,
+        755,
+        199,
+        768
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        204,
+        755,
+        211,
+        766
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Powell)",
+      "bbox": [
+        221,
+        755,
+        267,
+        769
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "*",
+      "bbox": [
+        84,
+        772,
+        89,
+        776
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "(G.",
+      "bbox": [
+        166,
+        771,
+        184,
+        784
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "L.",
+      "bbox": [
+        190,
+        772,
+        197,
+        782
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Littell)",
+      "bbox": [
+        207,
+        772,
+        244,
+        785
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "wo",
+      "bbox": [
+        741,
+        778,
+        751,
+        783
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "W.",
+      "bbox": [
+        191,
+        807,
+        208,
+        818
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Robertson",
+      "bbox": [
+        214,
+        807,
+        280,
+        818
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Retum",
+      "bbox": [
+        84,
+        844,
+        122,
+        854
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        127,
+        844,
+        145,
+        854
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "MARY",
+      "bbox": [
+        226,
+        844,
+        263,
+        854
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "SEAGRAVES",
+      "bbox": [
+        267,
+        844,
+        348,
+        854
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "SME",
+      "bbox": [
+        413,
+        844,
+        441,
+        855
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "13",
+      "bbox": [
+        603,
+        845,
+        616,
+        855
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Plaza",
+      "bbox": [
+        620,
+        845,
+        653,
+        855
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "B",
+      "bbox": [
+        740,
+        841,
+        749,
+        856
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "Ext.",
+      "bbox": [
+        226,
+        860,
+        247,
+        871
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "1485",
+      "bbox": [
+        258,
+        860,
+        291,
+        871
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "\"UP",
+      "bbox": [
+        84,
+        891,
+        110,
+        901
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        114,
+        891,
+        132,
+        901
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        136,
+        891,
+        164,
+        901
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "INCLUDING",
+      "bbox": [
+        169,
+        891,
+        240,
+        901
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "$25,000",
+      "bbox": [
+        245,
+        891,
+        291,
+        903
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\u201cOVER",
+      "bbox": [
+        84,
+        906,
+        130,
+        916
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "$25,000",
+      "bbox": [
+        135,
+        905,
+        182,
+        917
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Revised",
+      "bbox": [
+        602,
+        907,
+        649,
+        917
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "10/26/02,",
+      "bbox": [
+        654,
+        907,
+        704,
+        917
+      ],
+      "confidence": 53.0
+    }
+  ]
+}

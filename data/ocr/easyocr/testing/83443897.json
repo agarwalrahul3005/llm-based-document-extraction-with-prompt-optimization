@@ -1,0 +1,514 @@
+{
+  "words": [
+    {
+      "text": "JAN 11",
+      "bbox": [
+        91,
+        67,
+        133,
+        81
+      ],
+      "confidence": 0.9905340075675392
+    },
+    {
+      "text": "59 16.29 FR 8223",
+      "bbox": [
+        141,
+        65,
+        249,
+        79
+      ],
+      "confidence": 0.5658806527963229
+    },
+    {
+      "text": "FAX TRANSMISSION",
+      "bbox": [
+        90,
+        106,
+        314,
+        132
+      ],
+      "confidence": 0.7246785927999928
+    },
+    {
+      "text": "DICKSTENN",
+      "bbox": [
+        508,
+        126,
+        592,
+        150
+      ],
+      "confidence": 0.9933840957235288
+    },
+    {
+      "text": "SHAPIRO",
+      "bbox": [
+        508,
+        144,
+        592,
+        168
+      ],
+      "confidence": 0.9827384956586168
+    },
+    {
+      "text": "MORIV &",
+      "bbox": [
+        510,
+        162,
+        592,
+        186
+      ],
+      "confidence": 0.7645034311188946
+    },
+    {
+      "text": "OSHNNSKY",
+      "bbox": [
+        509,
+        179,
+        592,
+        212
+      ],
+      "confidence": 0.36351211838905995
+    },
+    {
+      "text": "DAT:",
+      "bbox": [
+        91,
+        225,
+        129,
+        239
+      ],
+      "confidence": 0.9851934537212371
+    },
+    {
+      "text": "January14,1999",
+      "bbox": [
+        178,
+        224,
+        283,
+        241
+      ],
+      "confidence": 0.6774370066525576
+    },
+    {
+      "text": "CLIENT NO::",
+      "bbox": [
+        90,
+        250,
+        163,
+        268
+      ],
+      "confidence": 0.876286710065537
+    },
+    {
+      "text": "L855z.002",
+      "bbox": [
+        177,
+        249,
+        249,
+        267
+      ],
+      "confidence": 0.6888064484114871
+    },
+    {
+      "text": "MESSAGE TO: Dewcy Tcdder",
+      "bbox": [
+        91,
+        286,
+        269,
+        305
+      ],
+      "confidence": 0.5822643788575712
+    },
+    {
+      "text": "COMPANY;",
+      "bbox": [
+        91,
+        315,
+        157,
+        331
+      ],
+      "confidence": 0.9733380939287654
+    },
+    {
+      "text": "Lorillard Tobacco Company",
+      "bbox": [
+        177,
+        314,
+        345,
+        333
+      ],
+      "confidence": 0.9445369717293048
+    },
+    {
+      "text": "FAX NUMBER:",
+      "bbox": [
+        91,
+        343,
+        173,
+        357
+      ],
+      "confidence": 0.7444713102602845
+    },
+    {
+      "text": "336/373-6217",
+      "bbox": [
+        179,
+        341,
+        271,
+        359
+      ],
+      "confidence": 0.6912931646097464
+    },
+    {
+      "text": "PHONE:",
+      "bbox": [
+        89,
+        369,
+        137,
+        385
+      ],
+      "confidence": 0.9988921527138896
+    },
+    {
+      "text": "336/373-6750",
+      "bbox": [
+        177,
+        367,
+        273,
+        385
+      ],
+      "confidence": 0.8334765929030881
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        88,
+        403,
+        131,
+        421
+      ],
+      "confidence": 0.9964518747694863
+    },
+    {
+      "text": "Andy Zausncr and Rob Mang2s",
+      "bbox": [
+        177,
+        403,
+        363,
+        424
+      ],
+      "confidence": 0.3350517953473643
+    },
+    {
+      "text": "PHONE:",
+      "bbox": [
+        89,
+        433,
+        137,
+        447
+      ],
+      "confidence": 0.9754872011100116
+    },
+    {
+      "text": "202",
+      "bbox": [
+        175,
+        431,
+        205,
+        449
+      ],
+      "confidence": 0.7588975429534912
+    },
+    {
+      "text": "828-2259 and 202/828-2241",
+      "bbox": [
+        209,
+        431,
+        385,
+        449
+      ],
+      "confidence": 0.6822185156752713
+    },
+    {
+      "text": "PAGES (Including Cover Shoet):",
+      "bbox": [
+        89,
+        459,
+        267,
+        477
+      ],
+      "confidence": 0.7260244635057421
+    },
+    {
+      "text": "HARD COPY TO FOLLOW:",
+      "bbox": [
+        309,
+        461,
+        451,
+        477
+      ],
+      "confidence": 0.8033731484089159
+    },
+    {
+      "text": "YES",
+      "bbox": [
+        487,
+        463,
+        513,
+        477
+      ],
+      "confidence": 0.9819076846177301
+    },
+    {
+      "text": "NO",
+      "bbox": [
+        571,
+        463,
+        593,
+        475
+      ],
+      "confidence": 0.8612014438268887
+    },
+    {
+      "text": "MESSAGE:",
+      "bbox": [
+        89,
+        483,
+        153,
+        499
+      ],
+      "confidence": 0.9957040660108019
+    },
+    {
+      "text": "following is for your rcview.",
+      "bbox": [
+        180,
+        485,
+        333,
+        503
+      ],
+      "confidence": 0.5512976874234957
+    },
+    {
+      "text": "Ifyour reccipt of chis transmission",
+      "bbox": [
+        155,
+        701,
+        337,
+        717
+      ],
+      "confidence": 0.640070753562684
+    },
+    {
+      "text": "in cITOr,",
+      "bbox": [
+        347,
+        703,
+        393,
+        715
+      ],
+      "confidence": 0.34274931590138585
+    },
+    {
+      "text": "pleasc notify this firm irnmediarely by",
+      "bbox": [
+        393,
+        701,
+        595,
+        719
+      ],
+      "confidence": 0.6312732470296818
+    },
+    {
+      "text": "collect call to our Facsimilc Dcpartmcnt at 202-861-9106,and send thc original",
+      "bbox": [
+        155,
+        716,
+        579,
+        734
+      ],
+      "confidence": 0.5681942010782667
+    },
+    {
+      "text": "tansmission",
+      "bbox": [
+        155,
+        733,
+        223,
+        745
+      ],
+      "confidence": 0.862156178738726
+    },
+    {
+      "text": "This transmision",
+      "bbox": [
+        155,
+        759,
+        233,
+        773
+      ],
+      "confidence": 0.7024778354786437
+    },
+    {
+      "text": "intcuded for thc sola usc ofthc indivjdual and",
+      "bbox": [
+        243,
+        759,
+        443,
+        773
+      ],
+      "confidence": 0.38844271074469333
+    },
+    {
+      "text": "wnom",
+      "bbox": [
+        486,
+        762,
+        514,
+        770
+      ],
+      "confidence": 0.951475977897644
+    },
+    {
+      "text": "inlamction tbit",
+      "bbox": [
+        213,
+        773,
+        289,
+        785
+      ],
+      "confidence": 0.618176886499337
+    },
+    {
+      "text": "\"pplablc",
+      "bbox": [
+        555,
+        773,
+        603,
+        787
+      ],
+      "confidence": 0.5871682460807289
+    },
+    {
+      "text": "disuribution",
+      "bbox": [
+        385,
+        785,
+        439,
+        797
+      ],
+      "confidence": 0.40379260804463185
+    },
+    {
+      "text": "duplicadon",
+      "bbox": [
+        449,
+        785,
+        499,
+        797
+      ],
+      "confidence": 0.9006421015517788
+    },
+    {
+      "text": "ofthis tausmixion b}",
+      "bbox": [
+        501,
+        785,
+        603,
+        797
+      ],
+      "confidence": 0.34706340198386737
+    },
+    {
+      "text": "dcsignatcd agcnr",
+      "bbox": [
+        368,
+        796,
+        443,
+        810
+      ],
+      "confidence": 0.38706540278963164
+    },
+    {
+      "text": "stictly prohibited",
+      "bbox": [
+        451,
+        797,
+        533,
+        811
+      ],
+      "confidence": 0.31032947408755096
+    },
+    {
+      "text": "1",
+      "bbox": [
+        666,
+        797,
+        696,
+        892
+      ],
+      "confidence": 0.9702986526400004
+    },
+    {
+      "text": "2101",
+      "bbox": [
+        145,
+        925,
+        171,
+        937
+      ],
+      "confidence": 0.9999597668647766
+    },
+    {
+      "text": "Street NW",
+      "bbox": [
+        179,
+        925,
+        231,
+        937
+      ],
+      "confidence": 0.4356549976290629
+    },
+    {
+      "text": "Washinglcn; DC 20037-1526",
+      "bbox": [
+        236,
+        923,
+        373,
+        939
+      ],
+      "confidence": 0.7317478397163165
+    },
+    {
+      "text": "Tel 202-785-9700",
+      "bbox": [
+        379,
+        925,
+        463,
+        939
+      ],
+      "confidence": 0.5630785116682667
+    },
+    {
+      "text": "Fax 202-387-0E39",
+      "bbox": [
+        469,
+        925,
+        557,
+        939
+      ],
+      "confidence": 0.45898888768351737
+    },
+    {
+      "text": "IThe",
+      "bbox": [
+        153,
+        484,
+        183,
+        500
+      ],
+      "confidence": 0.4008185565471649
+    }
+  ]
+}

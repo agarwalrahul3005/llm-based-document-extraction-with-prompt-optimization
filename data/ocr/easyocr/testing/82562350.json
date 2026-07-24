@@ -1,0 +1,384 @@
+{
+  "words": [
+    {
+      "text": "0001/004",
+      "bbox": [
+        599,
+        63,
+        661,
+        75
+      ],
+      "confidence": 0.6161032121719936
+    },
+    {
+      "text": "705/01/00",
+      "bbox": [
+        51,
+        75,
+        113,
+        89
+      ],
+      "confidence": 0.7976420902084992
+    },
+    {
+      "text": "10:21",
+      "bbox": [
+        129,
+        75,
+        165,
+        87
+      ],
+      "confidence": 0.8869502869712206
+    },
+    {
+      "text": "3612",
+      "bbox": [
+        189,
+        73,
+        223,
+        87
+      ],
+      "confidence": 0.4951919913291931
+    },
+    {
+      "text": "LORILLARD_RGN#HI",
+      "bbox": [
+        347,
+        67,
+        455,
+        83
+      ],
+      "confidence": 0.3857601814314025
+    },
+    {
+      "text": "Coeiland",
+      "bbox": [
+        274,
+        128,
+        460,
+        185
+      ],
+      "confidence": 0.4420824219754539
+    },
+    {
+      "text": "IOBACCO COMPANY",
+      "bbox": [
+        347,
+        173,
+        451,
+        187
+      ],
+      "confidence": 0.34269846126092957
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        116,
+        248,
+        242,
+        311
+      ],
+      "confidence": 0.9999513405192154
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        121,
+        335,
+        145,
+        349
+      ],
+      "confidence": 0.4050326853975048
+    },
+    {
+      "text": "Mr: Randy Spell",
+      "bbox": [
+        171,
+        333,
+        269,
+        351
+      ],
+      "confidence": 0.9805186308259373
+    },
+    {
+      "text": "From: Rick Redlield",
+      "bbox": [
+        365,
+        333,
+        491,
+        349
+      ],
+      "confidence": 0.9803855971526926
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        121,
+        361,
+        153,
+        377
+      ],
+      "confidence": 0.9939047602721849
+    },
+    {
+      "text": "Date;",
+      "bbox": [
+        365,
+        363,
+        405,
+        377
+      ],
+      "confidence": 0.6058447437472039
+    },
+    {
+      "text": "May",
+      "bbox": [
+        411,
+        361,
+        441,
+        377
+      ],
+      "confidence": 0.9999902267832098
+    },
+    {
+      "text": "2000",
+      "bbox": [
+        453,
+        361,
+        487,
+        377
+      ],
+      "confidence": 0.9022052884101868
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        121,
+        389,
+        147,
+        403
+      ],
+      "confidence": 0.803285222153796
+    },
+    {
+      "text": "Mr; Fred Paternostro",
+      "bbox": [
+        171,
+        387,
+        297,
+        403
+      ],
+      "confidence": 0.880414565784723
+    },
+    {
+      "text": "Fax",
+      "bbox": [
+        365,
+        389,
+        397,
+        403
+      ],
+      "confidence": 0.9992204541065595
+    },
+    {
+      "text": "952 894-9690",
+      "bbox": [
+        411,
+        387,
+        495,
+        403
+      ],
+      "confidence": 0.8879824240648404
+    },
+    {
+      "text": "Rc:",
+      "bbox": [
+        121,
+        417,
+        145,
+        431
+      ],
+      "confidence": 0.6229979780499473
+    },
+    {
+      "text": "Legal",
+      "bbox": [
+        171,
+        417,
+        209,
+        433
+      ],
+      "confidence": 0.9998303061567264
+    },
+    {
+      "text": "Iowa",
+      "bbox": [
+        217,
+        417,
+        249,
+        431
+      ],
+      "confidence": 0.8609510767688082
+    },
+    {
+      "text": "Pages:",
+      "bbox": [
+        365,
+        417,
+        413,
+        433
+      ],
+      "confidence": 0.9991526756978899
+    },
+    {
+      "text": "Durgent",
+      "bbox": [
+        119,
+        451,
+        175,
+        467
+      ],
+      "confidence": 0.7968334143652063
+    },
+    {
+      "text": "Oplease Commont",
+      "bbox": [
+        277,
+        449,
+        391,
+        467
+      ],
+      "confidence": 0.5173473779475672
+    },
+    {
+      "text": "Oetcare Reply",
+      "bbox": [
+        405,
+        451,
+        493,
+        467
+      ],
+      "confidence": 0.4061832220750759
+    },
+    {
+      "text": "Comments:",
+      "bbox": [
+        119,
+        497,
+        199,
+        511
+      ],
+      "confidence": 0.9494382449949049
+    },
+    {
+      "text": "Attached Is the Iowa Department of Revenue and Finance Minimum Legal Prices",
+      "bbox": [
+        119,
+        522,
+        609,
+        542
+      ],
+      "confidence": 0.6972119451588634
+    },
+    {
+      "text": "on Cigarettes as of April 3, 2000,",
+      "bbox": [
+        119,
+        539,
+        319,
+        557
+      ],
+      "confidence": 0.657122609700033
+    },
+    {
+      "text": "am atlempling t0 obtain",
+      "bbox": [
+        333,
+        539,
+        479,
+        555
+      ],
+      "confidence": 0.6145215953720677
+    },
+    {
+      "text": "capy of the actual",
+      "bbox": [
+        489,
+        539,
+        601,
+        557
+      ],
+      "confidence": 0.9776685545964604
+    },
+    {
+      "text": "Fair Trade Law",
+      "bbox": [
+        119,
+        555,
+        215,
+        571
+      ],
+      "confidence": 0.998550079159578
+    },
+    {
+      "text": "will forward as soon &5 oblained,",
+      "bbox": [
+        241,
+        555,
+        439,
+        569
+      ],
+      "confidence": 0.4384282112669493
+    },
+    {
+      "text": "Rick",
+      "bbox": [
+        119,
+        585,
+        151,
+        601
+      ],
+      "confidence": 0.999996542930603
+    },
+    {
+      "text": "CORFDCNTIALIY NOTE",
+      "bbox": [
+        311,
+        743,
+        421,
+        755
+      ],
+      "confidence": 0.6018269477084779
+    },
+    {
+      "text": "PO: Box 1589",
+      "bbox": [
+        333,
+        875,
+        395,
+        887
+      ],
+      "confidence": 0.5363514113854368
+    },
+    {
+      "text": "BumsvilleMN55317",
+      "bbox": [
+        319,
+        885,
+        409,
+        897
+      ],
+      "confidence": 0.34356289886845626
+    },
+    {
+      "text": "end",
+      "bbox": [
+        213,
+        554,
+        241,
+        570
+      ],
+      "confidence": 0.5892060962666347
+    }
+  ]
+}

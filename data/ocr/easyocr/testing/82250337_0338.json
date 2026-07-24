@@ -1,0 +1,634 @@
+{
+  "words": [
+    {
+      "text": "COMPETITIVE PRODUCT INTRODUCTION",
+      "bbox": [
+        218,
+        130,
+        510,
+        156
+      ],
+      "confidence": 0.9957608953503047
+    },
+    {
+      "text": "PROGRESS REPQRI",
+      "bbox": [
+        287,
+        146,
+        440,
+        174
+      ],
+      "confidence": 0.6204354258080207
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        93,
+        201,
+        115,
+        215
+      ],
+      "confidence": 0.7270628987852585
+    },
+    {
+      "text": "Sam Zolot",
+      "bbox": [
+        139,
+        201,
+        197,
+        215
+      ],
+      "confidence": 0.9998701279441211
+    },
+    {
+      "text": "MANUFACTURER:",
+      "bbox": [
+        313,
+        201,
+        411,
+        215
+      ],
+      "confidence": 0.73942434010726
+    },
+    {
+      "text": "BEW",
+      "bbox": [
+        451,
+        199,
+        479,
+        213
+      ],
+      "confidence": 0.837678456132425
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        93,
+        219,
+        133,
+        233
+      ],
+      "confidence": 0.9996986751322153
+    },
+    {
+      "text": "Lamidio",
+      "bbox": [
+        166,
+        222,
+        200,
+        230
+      ],
+      "confidence": 0.6903229183705346
+    },
+    {
+      "text": "BRAND:",
+      "bbox": [
+        313,
+        219,
+        359,
+        233
+      ],
+      "confidence": 0.9847199159413673
+    },
+    {
+      "text": "Kool Watcrfall",
+      "bbox": [
+        405,
+        217,
+        475,
+        231
+      ],
+      "confidence": 0.801558295102968
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        93,
+        237,
+        131,
+        251
+      ],
+      "confidence": 0.5831447076812188
+    },
+    {
+      "text": "2Dez-97",
+      "bbox": [
+        139,
+        237,
+        187,
+        251
+      ],
+      "confidence": 0.6880282792214907
+    },
+    {
+      "text": "TYPE OF PACKINGS",
+      "bbox": [
+        313,
+        235,
+        421,
+        249
+      ],
+      "confidence": 0.8218186996257721
+    },
+    {
+      "text": "AlI Packings",
+      "bbox": [
+        451,
+        235,
+        513,
+        249
+      ],
+      "confidence": 0.569643983464692
+    },
+    {
+      "text": "REPORTING PERIODS:",
+      "bbox": [
+        93,
+        271,
+        217,
+        285
+      ],
+      "confidence": 0.6627536198198095
+    },
+    {
+      "text": "Oct",
+      "bbox": [
+        279,
+        271,
+        303,
+        283
+      ],
+      "confidence": 0.9734740132070667
+    },
+    {
+      "text": "Nov:",
+      "bbox": [
+        369,
+        269,
+        395,
+        283
+      ],
+      "confidence": 0.7236127853393555
+    },
+    {
+      "text": "Jan",
+      "bbox": [
+        554,
+        270,
+        576,
+        278
+      ],
+      "confidence": 0.8377437188700148
+    },
+    {
+      "text": "TEST MARKET GEOGRAPHY:",
+      "bbox": [
+        93,
+        320,
+        249,
+        337
+      ],
+      "confidence": 0.6360389035516059
+    },
+    {
+      "text": "Divisions 621",
+      "bbox": [
+        313,
+        321,
+        381,
+        335
+      ],
+      "confidence": 0.8733802616519689
+    },
+    {
+      "text": "PRICE POINT:",
+      "bbox": [
+        93,
+        357,
+        169,
+        371
+      ],
+      "confidence": 0.977185761173878
+    },
+    {
+      "text": "FULL",
+      "bbox": [
+        181,
+        357,
+        211,
+        371
+      ],
+      "confidence": 0.9961243271827698
+    },
+    {
+      "text": "PN $",
+      "bbox": [
+        255,
+        357,
+        287,
+        369
+      ],
+      "confidence": 0.5993071412815628
+    },
+    {
+      "text": "(Indicate Distributor' s Cost Per Carton)",
+      "bbox": [
+        317,
+        355,
+        519,
+        369
+      ],
+      "confidence": 0.5698588339127627
+    },
+    {
+      "text": "FORCE INVOLVEMENT:",
+      "bbox": [
+        133,
+        395,
+        257,
+        409
+      ],
+      "confidence": 0.9766648024587822
+    },
+    {
+      "text": "have crewv-wcrked",
+      "bbox": [
+        119,
+        417,
+        211,
+        429
+      ],
+      "confidence": 0.40882325620530136
+    },
+    {
+      "text": "Sales force _has been busy",
+      "bbox": [
+        515,
+        415,
+        645,
+        427
+      ],
+      "confidence": 0.3705118174265318
+    },
+    {
+      "text": "promotingold sbe packs",
+      "bbox": [
+        93,
+        439,
+        219,
+        453
+      ],
+      "confidence": 0.4864998216247999
+    },
+    {
+      "text": "clean YP inventor APOS",
+      "bbox": [
+        231,
+        437,
+        367,
+        451
+      ],
+      "confidence": 0.4321984789837977
+    },
+    {
+      "text": "being convertedto \"R\"",
+      "bbox": [
+        377,
+        437,
+        485,
+        451
+      ],
+      "confidence": 0.6102473295892005
+    },
+    {
+      "text": "DISTRIBUTORS_ ACCEPTANCEINTRQ TERMSIINIRQ DEALSIINVOLVEMENT:",
+      "bbox": [
+        93,
+        500,
+        497,
+        517
+      ],
+      "confidence": 0.7447238837947201
+    },
+    {
+      "text": "Allaccounts havo the newl packagng",
+      "bbox": [
+        93,
+        525,
+        275,
+        539
+      ],
+      "confidence": 0.37326173939304685
+    },
+    {
+      "text": "problem oblalning new distrbution",
+      "bbox": [
+        337,
+        523,
+        507,
+        537
+      ],
+      "confidence": 0.43663096326843
+    },
+    {
+      "text": "accounis",
+      "bbox": [
+        526,
+        524,
+        568,
+        532
+      ],
+      "confidence": 0.9156123029021801
+    },
+    {
+      "text": "appear",
+      "bbox": [
+        571,
+        523,
+        609,
+        537
+      ],
+      "confidence": 0.8480901832211206
+    },
+    {
+      "text": "lohave 10030 distribution ol new packings",
+      "bbox": [
+        93,
+        545,
+        299,
+        561
+      ],
+      "confidence": 0.34199822259193163
+    },
+    {
+      "text": "CHAINS - ACCEPTANCEMMERCHANDISING:",
+      "bbox": [
+        93,
+        607,
+        321,
+        626
+      ],
+      "confidence": 0.6167932694497648
+    },
+    {
+      "text": "Thishas not been",
+      "bbox": [
+        93,
+        633,
+        183,
+        647
+      ],
+      "confidence": 0.6049193566146862
+    },
+    {
+      "text": "problem",
+      "bbox": [
+        190,
+        631,
+        235,
+        645
+      ],
+      "confidence": 0.7958595470643917
+    },
+    {
+      "text": "Ner packaging",
+      "bbox": [
+        239,
+        633,
+        315,
+        645
+      ],
+      "confidence": 0.44202479172225984
+    },
+    {
+      "text": "INDEPENDENTS",
+      "bbox": [
+        93,
+        719,
+        181,
+        733
+      ],
+      "confidence": 0.9017892454791604
+    },
+    {
+      "text": "ACCEPIANCEIHERCHANDISING:",
+      "bbox": [
+        187,
+        717,
+        363,
+        731
+      ],
+      "confidence": 0.8413549351203368
+    },
+    {
+      "text": "Ver",
+      "bbox": [
+        93,
+        741,
+        121,
+        755
+      ],
+      "confidence": 0.42317584552555787
+    },
+    {
+      "text": "The oldpacks are bcing consolidated",
+      "bbox": [
+        191,
+        739,
+        373,
+        753
+      ],
+      "confidence": 0.8926629538245222
+    },
+    {
+      "text": "promated",
+      "bbox": [
+        393,
+        739,
+        441,
+        753
+      ],
+      "confidence": 0.6063542222961567
+    },
+    {
+      "text": "select retail Locations",
+      "bbox": [
+        451,
+        737,
+        555,
+        751
+      ],
+      "confidence": 0.42876865186935187
+    },
+    {
+      "text": "404",
+      "bbox": [
+        567,
+        737,
+        589,
+        751
+      ],
+      "confidence": 0.9527539252222946
+    },
+    {
+      "text": "ADVERTISING",
+      "bbox": [
+        93,
+        825,
+        171,
+        841
+      ],
+      "confidence": 0.8828270081447348
+    },
+    {
+      "text": "The theme",
+      "bbox": [
+        93,
+        849,
+        149,
+        861
+      ],
+      "confidence": 0.4998810849821459
+    },
+    {
+      "text": "Kool has replaced allprevious POS",
+      "bbox": [
+        167,
+        845,
+        339,
+        862
+      ],
+      "confidence": 0.8244096055401152
+    },
+    {
+      "text": "Neu",
+      "bbox": [
+        556,
+        846,
+        578,
+        854
+      ],
+      "confidence": 0.31461645660100707
+    },
+    {
+      "text": "dor",
+      "bbox": [
+        94,
+        872,
+        118,
+        880
+      ],
+      "confidence": 0.8648390481679089
+    },
+    {
+      "text": "signage,hcur signs_poster mats",
+      "bbox": [
+        119,
+        869,
+        277,
+        885
+      ],
+      "confidence": 0.49799350912999896
+    },
+    {
+      "text": "and clocks",
+      "bbox": [
+        281,
+        869,
+        333,
+        881
+      ],
+      "confidence": 0.7273491054317581
+    },
+    {
+      "text": "Qave the new desipn,",
+      "bbox": [
+        335,
+        869,
+        439,
+        881
+      ],
+      "confidence": 0.35320129840276715
+    },
+    {
+      "text": "Koolals? appears",
+      "bbox": [
+        459,
+        867,
+        549,
+        881
+      ],
+      "confidence": 0.439107068859014
+    },
+    {
+      "text": "bilboards",
+      "bbox": [
+        563,
+        865,
+        615,
+        879
+      ],
+      "confidence": 0.9296505136618033
+    },
+    {
+      "text": "1",
+      "bbox": [
+        678,
+        810,
+        702,
+        920
+      ],
+      "confidence": 0.3823510087563733
+    },
+    {
+      "text": "Ilinois:",
+      "bbox": [
+        105,
+        891,
+        141,
+        905
+      ],
+      "confidence": 0.32784313403746357
+    },
+    {
+      "text": "PAGE",
+      "bbox": [
+        329,
+        951,
+        365,
+        965
+      ],
+      "confidence": 0.9983963370323181
+    },
+    {
+      "text": "OF 2",
+      "bbox": [
+        371,
+        949,
+        399,
+        963
+      ],
+      "confidence": 0.854786959103563
+    },
+    {
+      "text": "SALES",
+      "bbox": [
+        92,
+        393,
+        132,
+        411
+      ],
+      "confidence": 0.9862967480937463
+    },
+    {
+      "text": "and",
+      "bbox": [
+        370,
+        738,
+        392,
+        751
+      ],
+      "confidence": 0.87623189374062
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "words": [
+    {
+      "text": "8166",
+      "bbox": [
+        682,
+        20,
+        746,
+        50
+      ],
+      "confidence": 0.9407311677932739
+    },
+    {
+      "text": "PROJECT SHEET",
+      "bbox": [
+        41,
+        81,
+        173,
+        101
+      ],
+      "confidence": 0.5059042356256978
+    },
+    {
+      "text": "HAZLETON",
+      "bbox": [
+        301,
+        73,
+        521,
+        113
+      ],
+      "confidence": 0.9194549162476631
+    },
+    {
+      "text": "9200 LeESBUAG TUANPIKE",
+      "bbox": [
+        583,
+        79,
+        747,
+        93
+      ],
+      "confidence": 0.4871647390044027
+    },
+    {
+      "text": "VIENNA",
+      "bbox": [
+        594,
+        94,
+        636,
+        102
+      ],
+      "confidence": 0.9810383536463979
+    },
+    {
+      "text": "VIAGINIA 22180",
+      "bbox": [
+        641,
+        93,
+        737,
+        107
+      ],
+      "confidence": 0.7697307502344215
+    },
+    {
+      "text": "LABORATORIES AMERICA INC",
+      "bbox": [
+        305,
+        111,
+        551,
+        127
+      ],
+      "confidence": 0.7022609758367326
+    },
+    {
+      "text": "DATE  ISSUED_",
+      "bbox": [
+        47,
+        141,
+        111,
+        155
+      ],
+      "confidence": 0.6865798543401739
+    },
+    {
+      "text": "Oct. 11, 1983",
+      "bbox": [
+        125,
+        133,
+        223,
+        149
+      ],
+      "confidence": 0.7009702439929797
+    },
+    {
+      "text": "PROJECT No_",
+      "bbox": [
+        479,
+        143,
+        567,
+        157
+      ],
+      "confidence": 0.8707747288259851
+    },
+    {
+      "text": "642-138",
+      "bbox": [
+        593,
+        135,
+        649,
+        151
+      ],
+      "confidence": 0.6365771131772767
+    },
+    {
+      "text": "STUDY  TITLE",
+      "bbox": [
+        47,
+        161,
+        111,
+        173
+      ],
+      "confidence": 0.47400943890879266
+    },
+    {
+      "text": "3212",
+      "bbox": [
+        351,
+        163,
+        383,
+        179
+      ],
+      "confidence": 0.9999350124044623
+    },
+    {
+      "text": "PROJECT COORDIMATOR",
+      "bbox": [
+        421,
+        163,
+        531,
+        177
+      ],
+      "confidence": 0.35399613486271847
+    },
+    {
+      "text": "Serata",
+      "bbox": [
+        563,
+        165,
+        611,
+        181
+      ],
+      "confidence": 0.7375209229393599
+    },
+    {
+      "text": "Acute Intraper-",
+      "bbox": [
+        51,
+        174,
+        157,
+        193
+      ],
+      "confidence": 0.9386793612218312
+    },
+    {
+      "text": "tonea|",
+      "bbox": [
+        161,
+        177,
+        207,
+        191
+      ],
+      "confidence": 0.6210067282226728
+    },
+    {
+      "text": "Toxicity Study in Rats",
+      "bbox": [
+        213,
+        174,
+        375,
+        194
+      ],
+      "confidence": 0.9214701711669847
+    },
+    {
+      "text": "SIGNA TURE:",
+      "bbox": [
+        471,
+        185,
+        529,
+        199
+      ],
+      "confidence": 0.9275642492883224
+    },
+    {
+      "text": "TeSt HATERIAL(s)",
+      "bbox": [
+        45,
+        203,
+        137,
+        217
+      ],
+      "confidence": 0.40803436733403925
+    },
+    {
+      "text": "LOT MO. (s)",
+      "bbox": [
+        421,
+        205,
+        479,
+        219
+      ],
+      "confidence": 0.4632231784217646
+    },
+    {
+      "text": "RECEIPT DATE ($)",
+      "bbox": [
+        525,
+        207,
+        611,
+        221
+      ],
+      "confidence": 0.5390823210084825
+    },
+    {
+      "text": "B166",
+      "bbox": [
+        181,
+        233,
+        215,
+        251
+      ],
+      "confidence": 0.8572322726249695
+    },
+    {
+      "text": "9/28/83",
+      "bbox": [
+        533,
+        237,
+        589,
+        253
+      ],
+      "confidence": 0.9007926782290162
+    },
+    {
+      "text": "20,845",
+      "bbox": [
+        657,
+        237,
+        705,
+        253
+      ],
+      "confidence": 0.9999888552456381
+    },
+    {
+      "text": "PERFORHING DEPARTHENTS ( 4 COPIES Bach DIRECTCR)",
+      "bbox": [
+        47,
+        291,
+        309,
+        307
+      ],
+      "confidence": 0.3898150047070842
+    },
+    {
+      "text": "Acutet",
+      "bbox": [
+        51,
+        305,
+        91,
+        319
+      ],
+      "confidence": 0.4034594599025475
+    },
+    {
+      "text": "Dera",
+      "bbox": [
+        95,
+        305,
+        133,
+        319
+      ],
+      "confidence": 0.9997325539588928
+    },
+    {
+      "text": "Toxicology",
+      "bbox": [
+        145,
+        305,
+        223,
+        323
+      ],
+      "confidence": 0.9801840768661063
+    },
+    {
+      "text": "(1 copy To EACH)",
+      "bbox": [
+        587,
+        319,
+        677,
+        333
+      ],
+      "confidence": 0.40470146570683185
+    },
+    {
+      "text": "HEALTH SERVICES",
+      "bbox": [
+        431,
+        349,
+        519,
+        363
+      ],
+      "confidence": 0.8467153785865117
+    },
+    {
+      "text": "QUALITY Assurhce",
+      "bbox": [
+        617,
+        351,
+        715,
+        365
+      ],
+      "confidence": 0.463191950967874
+    },
+    {
+      "text": "PROTECTIVE PRECAUTIONS REQUIRED:",
+      "bbox": [
+        45,
+        355,
+        225,
+        371
+      ],
+      "confidence": 0.7917992236339815
+    },
+    {
+      "text": "SSponso",
+      "bbox": [
+        616,
+        366,
+        672,
+        390
+      ],
+      "confidence": 0.5612547197388682
+    },
+    {
+      "text": "ponsor",
+      "bbox": [
+        629,
+        377,
+        677,
+        391
+      ],
+      "confidence": 0.9999429619236915
+    },
+    {
+      "text": "EXPLOSIVE",
+      "bbox": [
+        45,
+        389,
+        99,
+        405
+      ],
+      "confidence": 0.6753995184289225
+    },
+    {
+      "text": "CARCINOGEN (OThER)",
+      "bbox": [
+        213,
+        415,
+        315,
+        429
+      ],
+      "confidence": 0.34885472840163434
+    },
+    {
+      "text": "SAFETY HAMUALS",
+      "bbox": [
+        421,
+        415,
+        503,
+        429
+      ],
+      "confidence": 0.6876206672916462
+    },
+    {
+      "text": "RADIOACTIYE",
+      "bbox": [
+        45,
+        433,
+        109,
+        447
+      ],
+      "confidence": 0.8739883950053683
+    },
+    {
+      "text": "STORAGECORDITIORS",
+      "bbox": [
+        421,
+        441,
+        525,
+        455
+      ],
+      "confidence": 0.6561036231320364
+    },
+    {
+      "text": "Store",
+      "bbox": [
+        437,
+        457,
+        469,
+        471
+      ],
+      "confidence": 0.43530537375390604
+    },
+    {
+      "text": "Ooessic Ator",
+      "bbox": [
+        615,
+        459,
+        689,
+        473
+      ],
+      "confidence": 0.46288899712681125
+    },
+    {
+      "text": "SOLID",
+      "bbox": [
+        77,
+        473,
+        109,
+        487
+      ],
+      "confidence": 0.9960756456231622
+    },
+    {
+      "text": "@aefrigerator",
+      "bbox": [
+        425,
+        473,
+        507,
+        489
+      ],
+      "confidence": 0.571709600862308
+    },
+    {
+      "text": "FREEZER",
+      "bbox": [
+        629,
+        477,
+        671,
+        489
+      ],
+      "confidence": 0.7471204351222184
+    },
+    {
+      "text": "LIQUID",
+      "bbox": [
+        71,
+        489,
+        109,
+        503
+      ],
+      "confidence": 0.44251900185876136
+    },
+    {
+      "text": "Colorless",
+      "bbox": [
+        216,
+        481,
+        287,
+        499
+      ],
+      "confidence": 0.8576644439762049
+    },
+    {
+      "text": "CCLOR",
+      "bbox": [
+        291,
+        487,
+        323,
+        501
+      ],
+      "confidence": 0.7080615974675378
+    },
+    {
+      "text": "0THER_",
+      "bbox": [
+        629,
+        493,
+        661,
+        505
+      ],
+      "confidence": 0.38896893232783897
+    },
+    {
+      "text": "PRESSURIZED",
+      "bbox": [
+        43,
+        503,
+        109,
+        517
+      ],
+      "confidence": 0.7018801657231324
+    },
+    {
+      "text": "EXPERILENTAL PRCCEDUREE",
+      "bbox": [
+        45,
+        523,
+        175,
+        539
+      ],
+      "confidence": 0.43154084311367835
+    },
+    {
+      "text": "to performed in Acute/ Derma ]",
+      "bbox": [
+        189,
+        525,
+        395,
+        541
+      ],
+      "confidence": 0.7819997478177619
+    },
+    {
+      "text": "Toxicology",
+      "bbox": [
+        401,
+        525,
+        477,
+        543
+      ],
+      "confidence": 0.9973538769572776
+    },
+    {
+      "text": "bui",
+      "bbox": [
+        487,
+        527,
+        513,
+        541
+      ],
+      "confidence": 0.9958887406417162
+    },
+    {
+      "text": "Iding",
+      "bbox": [
+        508,
+        523,
+        551,
+        543
+      ],
+      "confidence": 0.9915077672989713
+    },
+    {
+      "text": "The protoco]",
+      "bbox": [
+        93,
+        575,
+        183,
+        593
+      ],
+      "confidence": 0.9650273242331473
+    },
+    {
+      "text": "for this study",
+      "bbox": [
+        189,
+        575,
+        293,
+        593
+      ],
+      "confidence": 0.9935808985563346
+    },
+    {
+      "text": "is attached_",
+      "bbox": [
+        299,
+        575,
+        383,
+        593
+      ],
+      "confidence": 0.9338733841063793
+    },
+    {
+      "text": "The protoco]",
+      "bbox": [
+        93,
+        603,
+        183,
+        621
+      ],
+      "confidence": 0.6351175944969324
+    },
+    {
+      "text": "was approved in sponsor letter of June 6,",
+      "bbox": [
+        187,
+        604,
+        489,
+        623
+      ],
+      "confidence": 0.6341435509115586
+    },
+    {
+      "text": "1983",
+      "bbox": [
+        495,
+        607,
+        527,
+        623
+      ],
+      "confidence": 0.9999111284048622
+    },
+    {
+      "text": "The anticipated initiation date of this study",
+      "bbox": [
+        93,
+        633,
+        425,
+        653
+      ],
+      "confidence": 0.5898467462491097
+    },
+    {
+      "text": "is October",
+      "bbox": [
+        429,
+        635,
+        505,
+        651
+      ],
+      "confidence": 0.9970720678566332
+    },
+    {
+      "text": "983 _",
+      "bbox": [
+        517,
+        637,
+        543,
+        651
+      ],
+      "confidence": 0.34416793983951866
+    },
+    {
+      "text": "The anticipated completio date of this study is November 1983 .",
+      "bbox": [
+        92,
+        660,
+        552,
+        684
+      ],
+      "confidence": 0.6061962083530782
+    },
+    {
+      "text": "1",
+      "bbox": [
+        686,
+        807,
+        716,
+        908
+      ],
+      "confidence": 0.33843449055679287
+    },
+    {
+      "text": "REVISED",
+      "bbox": [
+        51,
+        973,
+        93,
+        985
+      ],
+      "confidence": 0.9800754052359201
+    }
+  ]
+}

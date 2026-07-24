@@ -1,0 +1,844 @@
+{
+  "words": [
+    {
+      "text": "|",
+      "bbox": [
+        11,
+        68,
+        13,
+        99
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "\\",
+      "bbox": [
+        33,
+        76,
+        38,
+        84
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "ie",
+      "bbox": [
+        11,
+        104,
+        41,
+        127
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "j",
+      "bbox": [
+        11,
+        130,
+        13,
+        132
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        94,
+        122,
+        118,
+        149
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "KA",
+      "bbox": [
+        233,
+        130,
+        253,
+        139
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "SPARROW",
+      "bbox": [
+        260,
+        121,
+        316,
+        149
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        505,
+        122,
+        535,
+        149
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "TONYO:",
+      "bbox": [
+        539,
+        122,
+        582,
+        149
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        661,
+        142,
+        664,
+        144
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        98,
+        157,
+        137,
+        166
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DIV.",
+      "bbox": [
+        99,
+        175,
+        123,
+        203
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        132,
+        175,
+        161,
+        203
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "/",
+      "bbox": [
+        166,
+        184,
+        170,
+        193
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "NO:",
+      "bbox": [
+        174,
+        184,
+        194,
+        193
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "SPECIAL",
+      "bbox": [
+        280,
+        229,
+        332,
+        257
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "EVEN?",
+      "bbox": [
+        338,
+        229,
+        375,
+        257
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "REQUEST",
+      "bbox": [
+        385,
+        229,
+        437,
+        257
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        443,
+        229,
+        476,
+        257
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        97,
+        283,
+        129,
+        310
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        137,
+        291,
+        152,
+        300
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "EVENT:",
+      "bbox": [
+        158,
+        283,
+        201,
+        310
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "\u201cDATE",
+      "bbox": [
+        98,
+        309,
+        134,
+        337
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        140,
+        318,
+        157,
+        327
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "EVENT:",
+      "bbox": [
+        161,
+        309,
+        206,
+        337
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "7",
+      "bbox": [
+        317,
+        329,
+        321,
+        330
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "REQUIRED:",
+      "bbox": [
+        204,
+        364,
+        270,
+        391
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "SAMPLE",
+      "bbox": [
+        283,
+        364,
+        329,
+        391
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "10'S",
+      "bbox": [
+        337,
+        364,
+        353,
+        391
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "(400",
+      "bbox": [
+        358,
+        364,
+        378,
+        391
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PACKS",
+      "bbox": [
+        384,
+        364,
+        414,
+        391
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "PER",
+      "bbox": [
+        420,
+        364,
+        439,
+        391
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "CASE)",
+      "bbox": [
+        445,
+        364,
+        475,
+        391
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        315,
+        419,
+        327,
+        446
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "CASES",
+      "bbox": [
+        319,
+        425,
+        369,
+        437
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "NEWPORTKS.",
+      "bbox": [
+        92,
+        444,
+        174,
+        471
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "NEWPORT",
+      "bbox": [
+        96,
+        465,
+        153,
+        474
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "10's",
+      "bbox": [
+        156,
+        465,
+        180,
+        474
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        319,
+        466,
+        350,
+        474
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        353,
+        466,
+        364,
+        474
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        368,
+        466,
+        384,
+        475
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        555,
+        467,
+        570,
+        475
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "NEWPORTLITS.",
+      "bbox": [
+        92,
+        469,
+        179,
+        497
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "KS,",
+      "bbox": [
+        180,
+        469,
+        200,
+        497
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "TRUEKS.",
+      "bbox": [
+        315,
+        469,
+        376,
+        497
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "NEWPORT",
+      "bbox": [
+        96,
+        483,
+        151,
+        510
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "LTS.",
+      "bbox": [
+        155,
+        483,
+        178,
+        510
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        182,
+        483,
+        197,
+        510
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "KENT",
+      "bbox": [
+        315,
+        497,
+        347,
+        524
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        353,
+        497,
+        369,
+        524
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        415,
+        516,
+        434,
+        517
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "ITEMS",
+      "bbox": [
+        316,
+        549,
+        357,
+        577
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "QUANTITY",
+      "bbox": [
+        499,
+        553,
+        565,
+        581
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "REQUIRED",
+      "bbox": [
+        573,
+        553,
+        639,
+        581
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        11,
+        586,
+        13,
+        599
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "WATER",
+      "bbox": [
+        319,
+        576,
+        360,
+        604
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "BOTTLES",
+      "bbox": [
+        366,
+        576,
+        423,
+        604
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "(4X8)",
+      "bbox": [
+        393,
+        613,
+        425,
+        624
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        604,
+        610,
+        606,
+        612
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "GENERAL",
+      "bbox": [
+        315,
+        630,
+        374,
+        657
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "MARKET",
+      "bbox": [
+        380,
+        630,
+        428,
+        657
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\u2018URBAN",
+      "bbox": [
+        315,
+        643,
+        364,
+        671
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "SPANISH",
+      "bbox": [
+        315,
+        657,
+        367,
+        685
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "LANGUAGE",
+      "bbox": [
+        371,
+        657,
+        433,
+        685
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "\u2018CUSTOMER",
+      "bbox": [
+        92,
+        737,
+        155,
+        765
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "SHIPPING",
+      "bbox": [
+        162,
+        737,
+        214,
+        765
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "NUMBER,",
+      "bbox": [
+        220,
+        737,
+        272,
+        765
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "18.",
+      "bbox": [
+        331,
+        746,
+        355,
+        755
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        676,
+        765,
+        686,
+        779
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "NYOONLY:",
+      "bbox": [
+        92,
+        776,
+        164,
+        804
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        678,
+        781,
+        688,
+        796
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        679,
+        798,
+        689,
+        812
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        11,
+        786,
+        13,
+        843
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        11,
+        847,
+        13,
+        866
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        11,
+        867,
+        13,
+        929
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PLEASE",
+      "bbox": [
+        108,
+        858,
+        150,
+        885
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "ALLOW",
+      "bbox": [
+        156,
+        858,
+        195,
+        885
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "6",
+      "bbox": [
+        202,
+        866,
+        208,
+        877
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "WEEKS",
+      "bbox": [
+        214,
+        858,
+        253,
+        885
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "FOR",
+      "bbox": [
+        259,
+        858,
+        280,
+        885
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PROCESSING",
+      "bbox": [
+        286,
+        858,
+        359,
+        885
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        365,
+        858,
+        379,
+        885
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "YOUR",
+      "bbox": [
+        387,
+        858,
+        417,
+        885
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "REQUEST.",
+      "bbox": [
+        423,
+        858,
+        481,
+        885
+      ],
+      "confidence": 96.0
+    }
+  ]
+}

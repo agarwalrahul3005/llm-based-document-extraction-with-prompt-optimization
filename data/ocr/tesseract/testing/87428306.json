@@ -1,0 +1,1254 @@
+{
+  "words": [
+    {
+      "text": "COMPOUND",
+      "bbox": [
+        257,
+        124,
+        356,
+        137
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PHYSICAL",
+      "bbox": [
+        363,
+        123,
+        438,
+        135
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PARAMETERS",
+      "bbox": [
+        444,
+        121,
+        541,
+        134
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "crystalline",
+      "bbox": [
+        144,
+        182,
+        218,
+        202
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "solid",
+      "bbox": [
+        227,
+        190,
+        260,
+        199
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        267,
+        191,
+        280,
+        199
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "room",
+      "bbox": [
+        289,
+        192,
+        316,
+        199
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "temperature",
+      "bbox": [
+        323,
+        190,
+        396,
+        201
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "which",
+      "bbox": [
+        404,
+        189,
+        438,
+        198
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "melts",
+      "bbox": [
+        445,
+        189,
+        478,
+        198
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        486,
+        189,
+        498,
+        198
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "\u2018The",
+      "bbox": [
+        130,
+        224,
+        150,
+        234
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "pi",
+      "bbox": [
+        157,
+        225,
+        170,
+        236
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        178,
+        224,
+        191,
+        234
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        198,
+        227,
+        204,
+        234
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "50%",
+      "bbox": [
+        212,
+        224,
+        232,
+        234
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "concentration",
+      "bbox": [
+        240,
+        223,
+        329,
+        234
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        336,
+        223,
+        349,
+        233
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "A221",
+      "bbox": [
+        356,
+        223,
+        382,
+        233
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        391,
+        223,
+        404,
+        232
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "water",
+      "bbox": [
+        411,
+        224,
+        445,
+        233
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "was",
+      "bbox": [
+        452,
+        225,
+        471,
+        233
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "theoretically",
+      "bbox": [
+        479,
+        222,
+        568,
+        236
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "calculated",
+      "bbox": [
+        130,
+        238,
+        198,
+        248
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        205,
+        239,
+        218,
+        247
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "be",
+      "bbox": [
+        225,
+        238,
+        239,
+        247
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "7.26",
+      "bbox": [
+        247,
+        238,
+        273,
+        247
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        281,
+        239,
+        293,
+        247
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "22\u00b0C",
+      "bbox": [
+        302,
+        238,
+        329,
+        247
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "from",
+      "bbox": [
+        337,
+        237,
+        363,
+        247
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        370,
+        239,
+        376,
+        246
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "0.5%",
+      "bbox": [
+        384,
+        237,
+        410,
+        246
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "solution",
+      "bbox": [
+        418,
+        237,
+        472,
+        247
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        479,
+        237,
+        492,
+        246
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "79.5%",
+      "bbox": [
+        500,
+        237,
+        533,
+        246
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "aqueous",
+      "bbox": [
+        541,
+        240,
+        588,
+        249
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "dioxane",
+      "bbox": [
+        130,
+        252,
+        177,
+        261
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "according",
+      "bbox": [
+        184,
+        252,
+        246,
+        263
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        253,
+        252,
+        266,
+        261
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        274,
+        252,
+        294,
+        260
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "extrapolation",
+      "bbox": [
+        301,
+        250,
+        390,
+        263
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "procedures",
+      "bbox": [
+        397,
+        251,
+        465,
+        262
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        472,
+        251,
+        485,
+        260
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Dr.",
+      "bbox": [
+        492,
+        251,
+        511,
+        260
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "P.",
+      "bbox": [
+        520,
+        251,
+        531,
+        260
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "D.",
+      "bbox": [
+        541,
+        251,
+        552,
+        260
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "Losillard",
+      "bbox": [
+        226,
+        265,
+        287,
+        274
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Accession",
+      "bbox": [
+        294,
+        264,
+        356,
+        274
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Number",
+      "bbox": [
+        363,
+        264,
+        403,
+        273
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "1662.",
+      "bbox": [
+        411,
+        264,
+        442,
+        273
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "4221",
+      "bbox": [
+        129,
+        374,
+        155,
+        383
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "ie",
+      "bbox": [
+        164,
+        374,
+        176,
+        383
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "soluble",
+      "bbox": [
+        184,
+        374,
+        231,
+        383
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        239,
+        376,
+        252,
+        383
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        294,
+        374,
+        306,
+        383
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "0.2",
+      "bbox": [
+        315,
+        373,
+        334,
+        383
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "g/ml,",
+      "bbox": [
+        342,
+        372,
+        373,
+        385
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        382,
+        372,
+        409,
+        382
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "stircing,",
+      "bbox": [
+        417,
+        372,
+        476,
+        385
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        485,
+        373,
+        497,
+        382
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "room",
+      "bbox": [
+        506,
+        375,
+        533,
+        382
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "temperature.",
+      "bbox": [
+        129,
+        388,
+        208,
+        399
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Reference",
+      "bbox": [
+        225,
+        387,
+        286,
+        396
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "BC30-E8.",
+      "bbox": [
+        294,
+        387,
+        346,
+        396
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "forma",
+      "bbox": [
+        164,
+        441,
+        196,
+        450
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        204,
+        443,
+        210,
+        450
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "solution",
+      "bbox": [
+        218,
+        441,
+        272,
+        450
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        280,
+        441,
+        293,
+        450
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "cozn",
+      "bbox": [
+        301,
+        443,
+        327,
+        450
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "oil",
+      "bbox": [
+        335,
+        440,
+        354,
+        450
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        362,
+        441,
+        374,
+        449
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "0.5",
+      "bbox": [
+        383,
+        440,
+        401,
+        449
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "q/0.5",
+      "bbox": [
+        409,
+        439,
+        443,
+        451
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "mL,",
+      "bbox": [
+        450,
+        441,
+        468,
+        450
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        478,
+        439,
+        505,
+        449
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "stirring",
+      "bbox": [
+        513,
+        439,
+        567,
+        451
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        129,
+        456,
+        141,
+        463
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "room",
+      "bbox": [
+        150,
+        457,
+        176,
+        463
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "tempacature.",
+      "bbox": [
+        183,
+        455,
+        263,
+        466
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Reference",
+      "bbox": [
+        280,
+        454,
+        340,
+        463
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "BC30-83.",
+      "bbox": [
+        348,
+        453,
+        400,
+        463
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "221",
+      "bbox": [
+        128,
+        509,
+        154,
+        518
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "forma",
+      "bbox": [
+        163,
+        509,
+        196,
+        518
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        203,
+        511,
+        210,
+        518
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "solution",
+      "bbox": [
+        217,
+        508,
+        272,
+        518
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        280,
+        508,
+        293,
+        518
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "core",
+      "bbox": [
+        300,
+        510,
+        327,
+        518
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "oil",
+      "bbox": [
+        334,
+        507,
+        354,
+        517
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        361,
+        508,
+        374,
+        517
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "0.5",
+      "bbox": [
+        382,
+        507,
+        401,
+        517
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "9/0.5",
+      "bbox": [
+        409,
+        507,
+        442,
+        520
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "mb,",
+      "bbox": [
+        450,
+        508,
+        468,
+        519
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "with",
+      "bbox": [
+        478,
+        507,
+        505,
+        517
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "stirring",
+      "bbox": [
+        512,
+        507,
+        567,
+        519
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        129,
+        523,
+        141,
+        531
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "room",
+      "bbox": [
+        149,
+        525,
+        176,
+        531
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "temperature.",
+      "bbox": [
+        183,
+        523,
+        263,
+        534
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Reference",
+      "bbox": [
+        279,
+        522,
+        340,
+        531
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "6C30-20.",
+      "bbox": [
+        348,
+        521,
+        400,
+        530
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "A221",
+      "bbox": [
+        128,
+        603,
+        154,
+        612
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "is",
+      "bbox": [
+        163,
+        603,
+        174,
+        612
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "insoluble",
+      "bbox": [
+        183,
+        603,
+        243,
+        612
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        252,
+        603,
+        271,
+        612
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "this",
+      "bbox": [
+        279,
+        602,
+        305,
+        612
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "procedure.",
+      "bbox": [
+        313,
+        603,
+        379,
+        614
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Reference",
+      "bbox": [
+        395,
+        602,
+        456,
+        611
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "(v7",
+      "bbox": [
+        648,
+        646,
+        661,
+        656
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        649,
+        657,
+        661,
+        667
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        649,
+        668,
+        662,
+        678
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "Refrigerate",
+      "bbox": [
+        128,
+        684,
+        201,
+        695
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        210,
+        683,
+        222,
+        692
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "an",
+      "bbox": [
+        230,
+        686,
+        243,
+        692
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "amber",
+      "bbox": [
+        251,
+        684,
+        284,
+        692
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "glass",
+      "bbox": [
+        292,
+        683,
+        326,
+        695
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "bottle",
+      "bbox": [
+        334,
+        683,
+        373,
+        692
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "at",
+      "bbox": [
+        381,
+        684,
+        393,
+        692
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "no",
+      "bbox": [
+        402,
+        685,
+        415,
+        692
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "more",
+      "bbox": [
+        422,
+        685,
+        449,
+        692
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "than",
+      "bbox": [
+        457,
+        683,
+        483,
+        692
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "6\u00b0C.",
+      "bbox": [
+        491,
+        682,
+        515,
+        692
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        649,
+        678,
+        662,
+        699
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Jet",
+      "bbox": [
+        138,
+        766,
+        157,
+        773
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "28",
+      "bbox": [
+        603,
+        873,
+        619,
+        918
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "1140",
+      "bbox": [
+        633,
+        873,
+        675,
+        918
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        685,
+        873,
+        701,
+        918
+      ],
+      "confidence": 40.0
+    }
+  ]
+}

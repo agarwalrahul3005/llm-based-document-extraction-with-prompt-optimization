@@ -1,0 +1,464 @@
+{
+  "words": [
+    {
+      "text": "Manuscript Review Form",
+      "bbox": [
+        94,
+        67,
+        255,
+        85
+      ],
+      "confidence": 0.9726105893922001
+    },
+    {
+      "text": "TOBACCO SCIENCE",
+      "bbox": [
+        335,
+        127,
+        461,
+        145
+      ],
+      "confidence": 0.9606056881057324
+    },
+    {
+      "text": "Registration No:",
+      "bbox": [
+        93,
+        171,
+        197,
+        187
+      ],
+      "confidence": 0.6216524824529006
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        507,
+        173,
+        539,
+        189
+      ],
+      "confidence": 0.999993085861206
+    },
+    {
+      "text": "Harch_L8y",
+      "bbox": [
+        543,
+        175,
+        615,
+        193
+      ],
+      "confidence": 0.35428193341025216
+    },
+    {
+      "text": "1968",
+      "bbox": [
+        619,
+        175,
+        653,
+        189
+      ],
+      "confidence": 0.8669716715812683
+    },
+    {
+      "text": "AUTHORS",
+      "bbox": [
+        93,
+        199,
+        165,
+        215
+      ],
+      "confidence": 0.9996305566349644
+    },
+    {
+      "text": "Bchard _",
+      "bbox": [
+        365,
+        201,
+        439,
+        215
+      ],
+      "confidence": 0.6622225368764985
+    },
+    {
+      "text": "Eald",
+      "bbox": [
+        565,
+        203,
+        601,
+        217
+      ],
+      "confidence": 0.5018449668901195
+    },
+    {
+      "text": "TITLE",
+      "bbox": [
+        93,
+        227,
+        139,
+        243
+      ],
+      "confidence": 0.9997262916933184
+    },
+    {
+      "text": "\"Bffact",
+      "bbox": [
+        209,
+        225,
+        265,
+        241
+      ],
+      "confidence": 0.7093809337235597
+    },
+    {
+      "text": "ClearatEa",
+      "bbox": [
+        217,
+        255,
+        287,
+        273
+      ],
+      "confidence": 0.37210869539423547
+    },
+    {
+      "text": "Saka\"",
+      "bbox": [
+        291,
+        257,
+        339,
+        271
+      ],
+      "confidence": 0.7202062177037212
+    },
+    {
+      "text": "REVIEW",
+      "bbox": [
+        93,
+        311,
+        153,
+        327
+      ],
+      "confidence": 0.9995587145286582
+    },
+    {
+      "text": "COMPLETED",
+      "bbox": [
+        157,
+        313,
+        247,
+        327
+      ],
+      "confidence": 0.9987015084347275
+    },
+    {
+      "text": "3/29/68",
+      "bbox": [
+        275,
+        305,
+        341,
+        323
+      ],
+      "confidence": 0.8347853438612478
+    },
+    {
+      "text": "RECOMMENDATION:",
+      "bbox": [
+        391,
+        313,
+        539,
+        329
+      ],
+      "confidence": 0.9618371617926832
+    },
+    {
+      "text": "3 APPROVE IN ITS",
+      "bbox": [
+        549,
+        311,
+        687,
+        331
+      ],
+      "confidence": 0.3517434675513139
+    },
+    {
+      "text": "PRESENT FORM;",
+      "bbox": [
+        93,
+        339,
+        211,
+        355
+      ],
+      "confidence": 0.998433138282208
+    },
+    {
+      "text": "NOT APPROVE (Give reasons below)",
+      "bbox": [
+        241,
+        341,
+        473,
+        359
+      ],
+      "confidence": 0.9348444460349946
+    },
+    {
+      "text": "APPROVE TENTATIVELY,",
+      "bbox": [
+        507,
+        343,
+        685,
+        359
+      ],
+      "confidence": 0.7744477140635468
+    },
+    {
+      "text": "SUBJECT TO THE FOLLOWING SUGGESTED REVISIONS : (itemize below) :",
+      "bbox": [
+        93,
+        367,
+        583,
+        387
+      ],
+      "confidence": 0.8290853064282545
+    },
+    {
+      "text": "Page",
+      "bbox": [
+        90,
+        418,
+        129,
+        438
+      ],
+      "confidence": 0.4945599138736725
+    },
+    {
+      "text": "Labt",
+      "bbox": [
+        171,
+        419,
+        209,
+        435
+      ],
+      "confidence": 0.9569694399833679
+    },
+    {
+      "text": "line ghould be",
+      "bbox": [
+        215,
+        419,
+        343,
+        435
+      ],
+      "confidence": 0.4922489594539749
+    },
+    {
+      "text": "inatead 0f",
+      "bbox": [
+        527,
+        421,
+        619,
+        437
+      ],
+      "confidence": 0.5419983052621395
+    },
+    {
+      "text": "MasB",
+      "bbox": [
+        169,
+        447,
+        209,
+        461
+      ],
+      "confidence": 0.4007198214530945
+    },
+    {
+      "text": "spectrobcopic.",
+      "bbox": [
+        215,
+        445,
+        341,
+        463
+      ],
+      "confidence": 0.4442873507152959
+    },
+    {
+      "text": "NOTE",
+      "bbox": [
+        89,
+        847,
+        133,
+        861
+      ],
+      "confidence": 0.9999446868896484
+    },
+    {
+      "text": "Execute in triplicate using additional gheets if more space is required;",
+      "bbox": [
+        142,
+        846,
+        575,
+        865
+      ],
+      "confidence": 0.7081919438434657
+    },
+    {
+      "text": "Retain  the",
+      "bbox": [
+        579,
+        851,
+        647,
+        865
+      ],
+      "confidence": 0.7932058106303395
+    },
+    {
+      "text": "third",
+      "bbox": [
+        651,
+        851,
+        685,
+        865
+      ],
+      "confidence": 0.9998995062557009
+    },
+    {
+      "text": "copy for your file _",
+      "bbox": [
+        89,
+        861,
+        195,
+        875
+      ],
+      "confidence": 0.594546734118953
+    },
+    {
+      "text": "Return the original (signed) and",
+      "bbox": [
+        199,
+        861,
+        403,
+        879
+      ],
+      "confidence": 0.6277835128267619
+    },
+    {
+      "text": "the",
+      "bbox": [
+        407,
+        863,
+        429,
+        877
+      ],
+      "confidence": 0.9887023440749095
+    },
+    {
+      "text": "first",
+      "bbox": [
+        433,
+        863,
+        461,
+        877
+      ],
+      "confidence": 0.586320425804484
+    },
+    {
+      "text": "carbon",
+      "bbox": [
+        465,
+        865,
+        509,
+        877
+      ],
+      "confidence": 0.9999207694370205
+    },
+    {
+      "text": "(unsigned)",
+      "bbox": [
+        513,
+        865,
+        581,
+        879
+      ],
+      "confidence": 0.9395399234435595
+    },
+    {
+      "text": "along",
+      "bbox": [
+        587,
+        867,
+        623,
+        879
+      ],
+      "confidence": 0.9793932025064404
+    },
+    {
+      "text": "with",
+      "bbox": [
+        627,
+        865,
+        657,
+        879
+      ],
+      "confidence": 0.6649492250310151
+    },
+    {
+      "text": "the",
+      "bbox": [
+        661,
+        865,
+        685,
+        879
+      ],
+      "confidence": 0.9999780446928741
+    },
+    {
+      "text": "manuscript",
+      "bbox": [
+        89,
+        875,
+        159,
+        889
+      ],
+      "confidence": 0.8708399918930518
+    },
+    {
+      "text": "tnis ollice.",
+      "bbox": [
+        179,
+        875,
+        245,
+        889
+      ],
+      "confidence": 0.5164348252398907
+    },
+    {
+      "text": "The unsigned copy and the manuscript will be returned",
+      "bbox": [
+        249,
+        875,
+        595,
+        891
+      ],
+      "confidence": 0.8488819590605736
+    },
+    {
+      "text": "to the author",
+      "bbox": [
+        599,
+        877,
+        685,
+        891
+      ],
+      "confidence": 0.9776758242758179
+    },
+    {
+      "text": "for his consideration",
+      "bbox": [
+        89,
+        885,
+        217,
+        901
+      ],
+      "confidence": 0.7511093801495794
+    }
+  ]
+}

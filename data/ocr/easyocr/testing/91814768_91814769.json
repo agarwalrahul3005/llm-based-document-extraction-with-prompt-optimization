@@ -1,0 +1,1014 @@
+{
+  "words": [
+    {
+      "text": "CORRECTED",
+      "bbox": [
+        331,
+        31,
+        415,
+        49
+      ],
+      "confidence": 0.9954962884074203
+    },
+    {
+      "text": "Offe: Usa",
+      "bbox": [
+        611,
+        53,
+        659,
+        65
+      ],
+      "confidence": 0.5102830169835673
+    },
+    {
+      "text": "Whe Commtonfuealth of Zlassachusetts",
+      "bbox": [
+        204,
+        54,
+        550,
+        82
+      ],
+      "confidence": 0.6379417108267293
+    },
+    {
+      "text": "OFFICE OF CAMPAIGN AND POLITICAL FINANCE",
+      "bbox": [
+        199,
+        92,
+        555,
+        113
+      ],
+      "confidence": 0.7189468442114257
+    },
+    {
+      "text": "REPORT OF",
+      "bbox": [
+        145,
+        131,
+        225,
+        145
+      ],
+      "confidence": 0.9945254419560098
+    },
+    {
+      "text": "CORPORATE TREASURER",
+      "bbox": [
+        99,
+        144,
+        271,
+        161
+      ],
+      "confidence": 0.9366111692428623
+    },
+    {
+      "text": "Form CPF 22",
+      "bbox": [
+        457,
+        141,
+        537,
+        157
+      ],
+      "confidence": 0.9823845012212507
+    },
+    {
+      "text": "(formerl} CPF 10)",
+      "bbox": [
+        445,
+        157,
+        549,
+        173
+      ],
+      "confidence": 0.8661827602990939
+    },
+    {
+      "text": "File with: Director",
+      "bbox": [
+        55,
+        175,
+        159,
+        191
+      ],
+      "confidence": 0.984355145474044
+    },
+    {
+      "text": "(CHECK ONE)",
+      "bbox": [
+        611,
+        183,
+        685,
+        197
+      ],
+      "confidence": 0.8921665266962481
+    },
+    {
+      "text": "Oifice of Campaign & Political Finance",
+      "bbox": [
+        109,
+        189,
+        327,
+        207
+      ],
+      "confidence": 0.8004692863386548
+    },
+    {
+      "text": "Ore Ashburton Place, Boston",
+      "bbox": [
+        109,
+        205,
+        275,
+        221
+      ],
+      "confidence": 0.7056799307844333
+    },
+    {
+      "text": "MA 02108",
+      "bbox": [
+        279,
+        203,
+        339,
+        219
+      ],
+      "confidence": 0.7315654620796499
+    },
+    {
+      "text": "D 6th Day Prior",
+      "bbox": [
+        579,
+        199,
+        663,
+        215
+      ],
+      "confidence": 0.46285275888576227
+    },
+    {
+      "text": "Election",
+      "bbox": [
+        674,
+        198,
+        711,
+        212
+      ],
+      "confidence": 0.955566969953132
+    },
+    {
+      "text": "Please Print or Type",
+      "bbox": [
+        81,
+        237,
+        197,
+        253
+      ],
+      "confidence": 0.8061802428082482
+    },
+    {
+      "text": "except Signatures.",
+      "bbox": [
+        201,
+        237,
+        301,
+        253
+      ],
+      "confidence": 0.8227177254521064
+    },
+    {
+      "text": "Finzl",
+      "bbox": [
+        595,
+        239,
+        621,
+        251
+      ],
+      "confidence": 0.36507856415089884
+    },
+    {
+      "text": "Alfred",
+      "bbox": [
+        205,
+        263,
+        261,
+        279
+      ],
+      "confidence": 0.9957928403300323
+    },
+    {
+      "text": "Petersoni",
+      "bbox": [
+        267,
+        263,
+        351,
+        279
+      ],
+      "confidence": 0.8604358872102443
+    },
+    {
+      "text": "Assi",
+      "bbox": [
+        357,
+        263,
+        397,
+        279
+      ],
+      "confidence": 0.9972851872444153
+    },
+    {
+      "text": "cant",
+      "bbox": [
+        405,
+        263,
+        443,
+        279
+      ],
+      "confidence": 0.724371612071991
+    },
+    {
+      "text": "Peter",
+      "bbox": [
+        557,
+        261,
+        605,
+        277
+      ],
+      "confidence": 0.64672621821197
+    },
+    {
+      "text": "Marzullo",
+      "bbox": [
+        635,
+        259,
+        711,
+        275
+      ],
+      "confidence": 0.9976160925269819
+    },
+    {
+      "text": "Name of Treasurer",
+      "bbox": [
+        73,
+        271,
+        177,
+        287
+      ],
+      "confidence": 0.6076387519582142
+    },
+    {
+      "text": "Nare of Corporation",
+      "bbox": [
+        73,
+        295,
+        193,
+        311
+      ],
+      "confidence": 0.8791802842859973
+    },
+    {
+      "text": "Lorillard",
+      "bbox": [
+        223,
+        288,
+        307,
+        306
+      ],
+      "confidence": 0.9786522199807479
+    },
+    {
+      "text": "Tobacco_Company",
+      "bbox": [
+        313,
+        288,
+        451,
+        306
+      ],
+      "confidence": 0.9562723693225869
+    },
+    {
+      "text": "One",
+      "bbox": [
+        223,
+        313,
+        253,
+        329
+      ],
+      "confidence": 0.9876589179039001
+    },
+    {
+      "text": "Park Avenue",
+      "bbox": [
+        259,
+        313,
+        361,
+        329
+      ],
+      "confidence": 0.9646128745519201
+    },
+    {
+      "text": "Address of Corporation",
+      "bbox": [
+        73,
+        318,
+        205,
+        338
+      ],
+      "confidence": 0.8196269061309827
+    },
+    {
+      "text": "New",
+      "bbox": [
+        223,
+        339,
+        253,
+        355
+      ],
+      "confidence": 0.9881582326220326
+    },
+    {
+      "text": "York",
+      "bbox": [
+        259,
+        339,
+        299,
+        355
+      ],
+      "confidence": 0.9705900591476885
+    },
+    {
+      "text": "NY",
+      "bbox": [
+        311,
+        337,
+        333,
+        355
+      ],
+      "confidence": 0.9843420114937792
+    },
+    {
+      "text": "10016-5895",
+      "bbox": [
+        347,
+        335,
+        441,
+        355
+      ],
+      "confidence": 0.9663736765426213
+    },
+    {
+      "text": "Question No.",
+      "bbox": [
+        71,
+        375,
+        143,
+        391
+      ],
+      "confidence": 0.9968673582040148
+    },
+    {
+      "text": "Tobacco",
+      "bbox": [
+        295,
+        369,
+        361,
+        385
+      ],
+      "confidence": 0.851858797312367
+    },
+    {
+      "text": "Excise",
+      "bbox": [
+        367,
+        369,
+        425,
+        385
+      ],
+      "confidence": 0.9890771073775192
+    },
+    {
+      "text": "Tax_Increase",
+      "bbox": [
+        431,
+        367,
+        541,
+        385
+      ],
+      "confidence": 0.7152930356680558
+    },
+    {
+      "text": "(Describe question brielly)",
+      "bbox": [
+        440,
+        383,
+        587,
+        402
+      ],
+      "confidence": 0.9068772904071004
+    },
+    {
+      "text": "submitted t0 the voters on Novenber",
+      "bbox": [
+        55,
+        408,
+        282,
+        437
+      ],
+      "confidence": 0.5647005686525115
+    },
+    {
+      "text": "1937the",
+      "bbox": [
+        310,
+        406,
+        370,
+        430
+      ],
+      "confidence": 0.4468599775534535
+    },
+    {
+      "text": "ballot:",
+      "bbox": [
+        699,
+        409,
+        735,
+        425
+      ],
+      "confidence": 0.825516685962646
+    },
+    {
+      "text": "(Election Date)",
+      "bbox": [
+        227,
+        431,
+        313,
+        447
+      ],
+      "confidence": 0.9443001775060711
+    },
+    {
+      "text": "(Name of City  Town or State)\"",
+      "bbox": [
+        459,
+        427,
+        629,
+        443
+      ],
+      "confidence": 0.4798193811596494
+    },
+    {
+      "text": "If this expenditure",
+      "bbox": [
+        107,
+        457,
+        211,
+        473
+      ],
+      "confidence": 0.8655089731196602
+    },
+    {
+      "text": "made",
+      "bbox": [
+        225,
+        457,
+        257,
+        471
+      ],
+      "confidence": 0.9594730138778687
+    },
+    {
+      "text": "inlluence",
+      "bbox": [
+        273,
+        455,
+        325,
+        471
+      ],
+      "confidence": 0.5845499824100516
+    },
+    {
+      "text": "local ballo: question_",
+      "bbox": [
+        335,
+        453,
+        451,
+        471
+      ],
+      "confidence": 0.642830665071482
+    },
+    {
+      "text": "copy of this form should be filed with the city o",
+      "bbox": [
+        465,
+        450,
+        735,
+        469
+      ],
+      "confidence": 0.6435070075337086
+    },
+    {
+      "text": "clerk or election commission:",
+      "bbox": [
+        137,
+        471,
+        299,
+        487
+      ],
+      "confidence": 0.7132900003178301
+    },
+    {
+      "text": "Filt in Dates:",
+      "bbox": [
+        85,
+        501,
+        159,
+        517
+      ],
+      "confidence": 0.6424135673630097
+    },
+    {
+      "text": "Reporting Period Beginning _Occober",
+      "bbox": [
+        180,
+        492,
+        408,
+        518
+      ],
+      "confidence": 0.7086147225229915
+    },
+    {
+      "text": "92",
+      "bbox": [
+        473,
+        489,
+        495,
+        509
+      ],
+      "confidence": 0.9936585898956448
+    },
+    {
+      "text": "Ending November",
+      "bbox": [
+        521,
+        491,
+        641,
+        511
+      ],
+      "confidence": 0.8965509088337554
+    },
+    {
+      "text": "[992",
+      "bbox": [
+        679,
+        491,
+        717,
+        507
+      ],
+      "confidence": 0.49287572503089905
+    },
+    {
+      "text": "certify that this report is",
+      "bbox": [
+        67,
+        526,
+        207,
+        544
+      ],
+      "confidence": 0.9091139443530565
+    },
+    {
+      "text": "valu: of every gift,",
+      "bbox": [
+        403,
+        521,
+        507,
+        537
+      ],
+      "confidence": 0.5714804648667755
+    },
+    {
+      "text": "payment, expenditure",
+      "bbox": [
+        511,
+        517,
+        633,
+        537
+      ],
+      "confidence": 0.8153323692290584
+    },
+    {
+      "text": "contribution",
+      "bbox": [
+        649,
+        519,
+        721,
+        533
+      ],
+      "confidence": 0.7558125454790199
+    },
+    {
+      "text": "of Mass. Genera",
+      "bbox": [
+        417,
+        551,
+        505,
+        567
+      ],
+      "confidence": 0.848690721202703
+    },
+    {
+      "text": "Laws, Chapter 55, Section 22,a5 amended",
+      "bbox": [
+        509,
+        549,
+        733,
+        565
+      ],
+      "confidence": 0.3722563075076065
+    },
+    {
+      "text": "i:was mace.",
+      "bbox": [
+        59,
+        559,
+        125,
+        573
+      ],
+      "confidence": 0.39643422336364964
+    },
+    {
+      "text": "make this report in accordance #ith the require enis",
+      "bbox": [
+        133,
+        555,
+        419,
+        571
+      ],
+      "confidence": 0.3387803794772997
+    },
+    {
+      "text": "Signed,under the penalties ol perjury",
+      "bbox": [
+        59,
+        581,
+        263,
+        599
+      ],
+      "confidence": 0.5070636354445557
+    },
+    {
+      "text": "March",
+      "bbox": [
+        385,
+        599,
+        433,
+        615
+      ],
+      "confidence": 0.8329695676243238
+    },
+    {
+      "text": "30 _",
+      "bbox": [
+        439,
+        597,
+        463,
+        615
+      ],
+      "confidence": 0.662687629619427
+    },
+    {
+      "text": "993",
+      "bbox": [
+        485,
+        599,
+        513,
+        613
+      ],
+      "confidence": 0.973942073580642
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        481,
+        617,
+        509,
+        631
+      ],
+      "confidence": 0.9843208193778992
+    },
+    {
+      "text": "Assistanc",
+      "bbox": [
+        61,
+        635,
+        145,
+        651
+      ],
+      "confidence": 0.41841354597041497
+    },
+    {
+      "text": "Treasurer",
+      "bbox": [
+        151,
+        635,
+        235,
+        651
+      ],
+      "confidence": 0.9997608121254512
+    },
+    {
+      "text": "EXPENDITURES OR DISBURSEMENTS",
+      "bbox": [
+        277,
+        639,
+        523,
+        657
+      ],
+      "confidence": 0.6221097926605975
+    },
+    {
+      "text": "Amount",
+      "bbox": [
+        677,
+        665,
+        725,
+        677
+      ],
+      "confidence": 0.9845544086322235
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        85,
+        673,
+        115,
+        687
+      ],
+      "confidence": 0.9963371517247349
+    },
+    {
+      "text": "To Whom",
+      "bbox": [
+        211,
+        671,
+        271,
+        685
+      ],
+      "confidence": 0.9987045690959439
+    },
+    {
+      "text": "Purpose",
+      "bbox": [
+        593,
+        679,
+        639,
+        691
+      ],
+      "confidence": 0.9989936262989508
+    },
+    {
+      "text": "Value\"",
+      "bbox": [
+        683,
+        677,
+        721,
+        689
+      ],
+      "confidence": 0.48113314990978656
+    },
+    {
+      "text": "Paid",
+      "bbox": [
+        87,
+        687,
+        115,
+        703
+      ],
+      "confidence": 0.9594377279281616
+    },
+    {
+      "text": "(Alphabetical Listing Mandatory)",
+      "bbox": [
+        161,
+        683,
+        349,
+        701
+      ],
+      "confidence": 0.5499016796426242
+    },
+    {
+      "text": "Address",
+      "bbox": [
+        445,
+        681,
+        491,
+        695
+      ],
+      "confidence": 0.7606281545877857
+    },
+    {
+      "text": "P.o.",
+      "bbox": [
+        371,
+        705,
+        397,
+        719
+      ],
+      "confidence": 0.7726354002952576
+    },
+    {
+      "text": "Box 3979 .",
+      "bbox": [
+        401,
+        705,
+        455,
+        719
+      ],
+      "confidence": 0.40328224997270273
+    },
+    {
+      "text": "Zax",
+      "bbox": [
+        581,
+        705,
+        603,
+        717
+      ],
+      "confidence": 0.7856717959651395
+    },
+    {
+      "text": "282,00",
+      "bbox": [
+        701,
+        703,
+        741,
+        717
+      ],
+      "confidence": 0.6359038088131945
+    },
+    {
+      "text": "10426/92",
+      "bbox": [
+        75,
+        713,
+        127,
+        727
+      ],
+      "confidence": 0.4960567743534645
+    },
+    {
+      "text": "10/30/92",
+      "bbox": [
+        75,
+        731,
+        129,
+        745
+      ],
+      "confidence": 0.9998203212982378
+    },
+    {
+      "text": "Tiz",
+      "bbox": [
+        581,
+        729,
+        603,
+        741
+      ],
+      "confidence": 0.31038406191647827
+    },
+    {
+      "text": "602.00",
+      "bbox": [
+        701,
+        723,
+        741,
+        737
+      ],
+      "confidence": 0.7059931589316824
+    },
+    {
+      "text": "Toial Expendiltes",
+      "bbox": [
+        399,
+        911,
+        495,
+        925
+      ],
+      "confidence": 0.3387878746476924
+    },
+    {
+      "text": "Disbursemenis on This Report",
+      "bbox": [
+        509,
+        908,
+        661,
+        924
+      ],
+      "confidence": 0.615151455406597
+    },
+    {
+      "text": "Disbursements Previousl; Reported",
+      "bbox": [
+        483,
+        930,
+        661,
+        948
+      ],
+      "confidence": 0.4535406628340652
+    },
+    {
+      "text": "508",
+      "bbox": [
+        671,
+        927,
+        693,
+        941
+      ],
+      "confidence": 0.9988730672937375
+    },
+    {
+      "text": "784.00",
+      "bbox": [
+        701,
+        927,
+        741,
+        941
+      ],
+      "confidence": 0.5115793318978857
+    },
+    {
+      "text": "556 .",
+      "bbox": [
+        671,
+        947,
+        693,
+        959
+      ],
+      "confidence": 0.3401562020411322
+    },
+    {
+      "text": "A5tach adciticria",
+      "bbox": [
+        83,
+        953,
+        167,
+        969
+      ],
+      "confidence": 0.3835076963125384
+    },
+    {
+      "text": "Total Expendilutes",
+      "bbox": [
+        437,
+        955,
+        533,
+        971
+      ],
+      "confidence": 0.4649198059719392
+    },
+    {
+      "text": "Oul;",
+      "bbox": [
+        657,
+        51,
+        683,
+        67
+      ],
+      "confidence": 0.36182141304016113
+    },
+    {
+      "text": "and",
+      "bbox": [
+        493,
+        493,
+        519,
+        511
+      ],
+      "confidence": 0.904128649206933
+    },
+    {
+      "text": "Paid",
+      "bbox": [
+        268,
+        668,
+        299,
+        685
+      ],
+      "confidence": 0.9948373436927795
+    },
+    {
+      "text": "Texe]",
+      "bbox": [
+        304,
+        730,
+        336,
+        742
+      ],
+      "confidence": 0.49113113591890695
+    },
+    {
+      "text": "1",
+      "bbox": [
+        742,
+        774,
+        766,
+        844
+      ],
+      "confidence": 0.6470386906163448
+    }
+  ]
+}

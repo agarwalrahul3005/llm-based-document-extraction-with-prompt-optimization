@@ -1,0 +1,874 @@
+{
+  "words": [
+    {
+      "text": "NE",
+      "bbox": [
+        401,
+        160,
+        432,
+        179
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        626,
+        160,
+        633,
+        163
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        423,
+        212,
+        437,
+        254
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "Client",
+      "bbox": [
+        108,
+        276,
+        149,
+        287
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Name",
+      "bbox": [
+        159,
+        277,
+        186,
+        287
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Borriston",
+      "bbox": [
+        201,
+        277,
+        264,
+        287
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "Laboratories,",
+      "bbox": [
+        273,
+        277,
+        362,
+        288
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Inc.",
+      "bbox": [
+        373,
+        277,
+        397,
+        287
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Client",
+      "bbox": [
+        407,
+        277,
+        448,
+        287
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Study",
+      "bbox": [
+        458,
+        277,
+        492,
+        289
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "No.",
+      "bbox": [
+        501,
+        277,
+        520,
+        287
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "14198,",
+      "bbox": [
+        573,
+        277,
+        607,
+        287
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "Study",
+      "bbox": [
+        108,
+        320,
+        142,
+        332
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Director",
+      "bbox": [
+        151,
+        320,
+        207,
+        330
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Or.",
+      "bbox": [
+        216,
+        320,
+        235,
+        330
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Willtam",
+      "bbox": [
+        244,
+        320,
+        293,
+        330
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "0.",
+      "bbox": [
+        302,
+        320,
+        313,
+        330
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Iverson",
+      "bbox": [
+        324,
+        320,
+        370,
+        330
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "Pathologist",
+      "bbox": [
+        386,
+        320,
+        463,
+        333
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Dr.",
+      "bbox": [
+        479,
+        320,
+        498,
+        330
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Charley",
+      "bbox": [
+        508,
+        320,
+        556,
+        334
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "\u20ac.",
+      "bbox": [
+        565,
+        320,
+        576,
+        330
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Gilmore",
+      "bbox": [
+        586,
+        320,
+        634,
+        330
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Bioassay",
+      "bbox": [
+        216,
+        349,
+        271,
+        361
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        280,
+        349,
+        293,
+        359
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Cigarette",
+      "bbox": [
+        301,
+        349,
+        363,
+        361
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Smoke",
+      "bbox": [
+        372,
+        349,
+        406,
+        359
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Condensates",
+      "bbox": [
+        414,
+        349,
+        491,
+        359
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        501,
+        349,
+        521,
+        359
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Potential",
+      "bbox": [
+        530,
+        349,
+        590,
+        359
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Study",
+      "bbox": [
+        109,
+        363,
+        143,
+        375
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Title",
+      "bbox": [
+        151,
+        363,
+        186,
+        373
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Tumorigenic",
+      "bbox": [
+        216,
+        363,
+        293,
+        373
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "Activity",
+      "bbox": [
+        301,
+        363,
+        349,
+        373
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        365,
+        366,
+        377,
+        374
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Mouse",
+      "bbox": [
+        385,
+        364,
+        420,
+        374
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Skin",
+      "bbox": [
+        429,
+        363,
+        456,
+        373
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "See",
+      "bbox": [
+        430,
+        356,
+        459,
+        398
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Test",
+      "bbox": [
+        109,
+        406,
+        135,
+        416
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Article",
+      "bbox": [
+        144,
+        406,
+        193,
+        416
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Multiple",
+      "bbox": [
+        216,
+        406,
+        271,
+        418
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "Species",
+      "bbox": [
+        444,
+        407,
+        491,
+        419
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "Mice",
+      "bbox": [
+        529,
+        407,
+        556,
+        417
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "All",
+      "bbox": [
+        130,
+        492,
+        148,
+        502
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "parts",
+      "bbox": [
+        159,
+        493,
+        193,
+        505
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        202,
+        492,
+        215,
+        503
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        223,
+        492,
+        243,
+        502
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "pathology",
+      "bbox": [
+        252,
+        492,
+        314,
+        505
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "phase",
+      "bbox": [
+        323,
+        492,
+        356,
+        505
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        365,
+        492,
+        378,
+        503
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "this",
+      "bbox": [
+        386,
+        492,
+        412,
+        503
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "study,",
+      "bbox": [
+        422,
+        493,
+        462,
+        505
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "including",
+      "bbox": [
+        473,
+        492,
+        535,
+        505
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        544,
+        493,
+        564,
+        503
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "final",
+      "bbox": [
+        573,
+        493,
+        604,
+        503
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "report,",
+      "bbox": [
+        616,
+        493,
+        662,
+        505
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "were",
+      "bbox": [
+        129,
+        524,
+        157,
+        532
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        231,
+        522,
+        243,
+        534
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Experimental",
+      "bbox": [
+        252,
+        521,
+        333,
+        534
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Pathology",
+      "bbox": [
+        344,
+        521,
+        406,
+        534
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Laboratories",
+      "bbox": [
+        415,
+        522,
+        499,
+        532
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Quality",
+      "bbox": [
+        508,
+        522,
+        556,
+        534
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Assurance",
+      "bbox": [
+        565,
+        522,
+        627,
+        532
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Unit",
+      "bbox": [
+        636,
+        522,
+        662,
+        532
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        130,
+        553,
+        143,
+        560
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "March",
+      "bbox": [
+        181,
+        551,
+        214,
+        560
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        224,
+        550,
+        230,
+        560
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        239,
+        556,
+        244,
+        558
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "dune",
+      "bbox": [
+        252,
+        551,
+        279,
+        560
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "8,",
+      "bbox": [
+        288,
+        550,
+        299,
+        562
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "1983",
+      "bbox": [
+        310,
+        550,
+        336,
+        561
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Ali",
+      "bbox": [
+        472,
+        550,
+        490,
+        561
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "findings",
+      "bbox": [
+        501,
+        551,
+        557,
+        563
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "were",
+      "bbox": [
+        565,
+        553,
+        592,
+        561
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "reported",
+      "bbox": [
+        601,
+        551,
+        655,
+        563
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "to",
+      "bbox": [
+        130,
+        580,
+        143,
+        589
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        152,
+        580,
+        172,
+        589
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Study",
+      "bbox": [
+        181,
+        579,
+        214,
+        592
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Director",
+      "bbox": [
+        223,
+        579,
+        279,
+        589
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        288,
+        580,
+        307,
+        589
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Management.",
+      "bbox": [
+        315,
+        580,
+        391,
+        592
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        677,
+        847,
+        689,
+        857
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "l",
+      "bbox": [
+        22,
+        854,
+        33,
+        881
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "g",
+      "bbox": [
+        676,
+        858,
+        690,
+        889
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "FS",
+      "bbox": [
+        677,
+        885,
+        689,
+        900
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "L",
+      "bbox": [
+        22,
+        903,
+        33,
+        930
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        677,
+        912,
+        689,
+        921
+      ],
+      "confidence": 64.0
+    }
+  ]
+}

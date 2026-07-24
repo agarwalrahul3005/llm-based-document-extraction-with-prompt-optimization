@@ -1,0 +1,404 @@
+{
+  "words": [
+    {
+      "text": "Ss",
+      "bbox": [
+        38,
+        7,
+        56,
+        33
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "WHAS",
+      "bbox": [
+        659,
+        10,
+        710,
+        26
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        8,
+        22,
+        123,
+        73
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "aos",
+      "bbox": [
+        657,
+        33,
+        709,
+        59
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "\u2018Accouating",
+      "bbox": [
+        52,
+        58,
+        116,
+        90
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Batten,",
+      "bbox": [
+        283,
+        65,
+        351,
+        85
+      ],
+      "confidence": 97.0
+    },
+    {
+      "text": "Barton,",
+      "bbox": [
+        361,
+        65,
+        432,
+        85
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Durstine",
+      "bbox": [
+        443,
+        65,
+        525,
+        81
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        536,
+        64,
+        555,
+        81
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Osborn",
+      "bbox": [
+        564,
+        63,
+        634,
+        81
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "M,",
+      "bbox": [
+        59,
+        98,
+        72,
+        108
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "BOGGIANO",
+      "bbox": [
+        81,
+        98,
+        137,
+        107
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "oe",
+      "bbox": [
+        39,
+        113,
+        167,
+        136
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "CHANGE",
+      "bbox": [
+        211,
+        110,
+        335,
+        126
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "IN",
+      "bbox": [
+        363,
+        111,
+        397,
+        126
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "RADIO",
+      "bbox": [
+        425,
+        111,
+        525,
+        126
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "SCHEDULE",
+      "bbox": [
+        553,
+        110,
+        712,
+        126
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "\u2018TIE",
+      "bbox": [
+        312,
+        141,
+        334,
+        150
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "AMERICAN",
+      "bbox": [
+        340,
+        141,
+        398,
+        151
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "COMPANY",
+      "bbox": [
+        460,
+        141,
+        509,
+        150
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "(LUCKY",
+      "bbox": [
+        531,
+        139,
+        573,
+        152
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "STRIKE)",
+      "bbox": [
+        579,
+        139,
+        628,
+        152
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "GEN'L",
+      "bbox": [
+        37,
+        154,
+        73,
+        165
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "ACCT,",
+      "bbox": [
+        79,
+        155,
+        114,
+        165
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "DEPT,",
+      "bbox": [
+        122,
+        155,
+        156,
+        165
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        182,
+        132,
+        197,
+        188
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "cn",
+      "bbox": [
+        215,
+        132,
+        260,
+        188
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Ma",
+      "bbox": [
+        345,
+        132,
+        374,
+        188
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "a)",
+      "bbox": [
+        588,
+        132,
+        631,
+        188
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Proons",
+      "bbox": [
+        206,
+        165,
+        245,
+        191
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "2/2",
+      "bbox": [
+        313,
+        169,
+        333,
+        178
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "HOUR",
+      "bbox": [
+        340,
+        170,
+        369,
+        179
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PROGRAME:",
+      "bbox": [
+        375,
+        169,
+        431,
+        179
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "set",
+      "bbox": [
+        37,
+        212,
+        129,
+        221
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "SCH",
+      "bbox": [
+        228,
+        245,
+        245,
+        253
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "DADCAST.",
+      "bbox": [
+        416,
+        245,
+        473,
+        256
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "Si",
+      "bbox": [
+        465,
+        241,
+        477,
+        261
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "mannan",
+      "bbox": [
+        461,
+        295,
+        535,
+        350
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "q",
+      "bbox": [
+        15,
+        398,
+        17,
+        400
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "nas",
+      "bbox": [
+        266,
+        412,
+        711,
+        425
+      ],
+      "confidence": 33.0
+    }
+  ]
+}

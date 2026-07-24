@@ -1,0 +1,724 @@
+{
+  "words": [
+    {
+      "text": "CITY",
+      "bbox": [
+        229,
+        56,
+        262,
+        66
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        267,
+        56,
+        285,
+        66
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "REMSVILLE",
+      "bbox": [
+        289,
+        56,
+        368,
+        66
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "CHEMICAL",
+      "bbox": [
+        374,
+        56,
+        445,
+        66
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "MANAGEMENT",
+      "bbox": [
+        450,
+        56,
+        550,
+        67
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PLAN",
+      "bbox": [
+        554,
+        56,
+        591,
+        66
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "}",
+      "bbox": [
+        654,
+        55,
+        659,
+        75
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "1993",
+      "bbox": [
+        354,
+        71,
+        379,
+        81
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "INVENTORY",
+      "bbox": [
+        384,
+        71,
+        463,
+        81
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "CHEMICAL",
+      "bbox": [
+        302,
+        85,
+        374,
+        95
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "USAGE",
+      "bbox": [
+        379,
+        85,
+        423,
+        95
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "FACT",
+      "bbox": [
+        427,
+        85,
+        463,
+        95
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "SHEET",
+      "bbox": [
+        467,
+        85,
+        511,
+        95
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Process",
+      "bbox": [
+        254,
+        115,
+        296,
+        125
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Chemicals",
+      "bbox": [
+        301,
+        115,
+        358,
+        125
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Used",
+      "bbox": [
+        363,
+        115,
+        389,
+        125
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        394,
+        115,
+        405,
+        125
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Excess",
+      "bbox": [
+        409,
+        115,
+        445,
+        125
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        450,
+        115,
+        462,
+        125
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "100",
+      "bbox": [
+        466,
+        115,
+        485,
+        125
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Water",
+      "bbox": [
+        262,
+        129,
+        298,
+        140
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "Treatment",
+      "bbox": [
+        302,
+        130,
+        361,
+        140
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Cleaning",
+      "bbox": [
+        430,
+        130,
+        480,
+        143
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Compounds",
+      "bbox": [
+        485,
+        129,
+        552,
+        143
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "The\u2019",
+      "bbox": [
+        161,
+        169,
+        186,
+        199
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "American",
+      "bbox": [
+        193,
+        169,
+        242,
+        199
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "001",
+      "bbox": [
+        614,
+        179,
+        639,
+        187
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "(CHEMICAL",
+      "bbox": [
+        338,
+        214,
+        396,
+        222
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "DESCRIPTION",
+      "bbox": [
+        399,
+        214,
+        472,
+        222
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "PRODUCT",
+      "bbox": [
+        119,
+        246,
+        172,
+        276
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "(CHEMICAL)",
+      "bbox": [
+        176,
+        246,
+        239,
+        276
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        244,
+        246,
+        275,
+        276
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Putter",
+      "bbox": [
+        298,
+        257,
+        336,
+        266
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "DC",
+      "bbox": [
+        381,
+        258,
+        393,
+        267
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "DESCRIPTION:",
+      "bbox": [
+        122,
+        287,
+        192,
+        295
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Liquid",
+      "bbox": [
+        199,
+        289,
+        237,
+        300
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Adhesive",
+      "bbox": [
+        245,
+        289,
+        296,
+        298
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        629,
+        297,
+        631,
+        299
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "te",
+      "bbox": [
+        274,
+        300,
+        294,
+        346
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "ners",
+      "bbox": [
+        500,
+        324,
+        541,
+        335
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Acetate",
+      "bbox": [
+        308,
+        366,
+        352,
+        375
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "case:",
+      "bbox": [
+        115,
+        383,
+        147,
+        415
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "ACTIES",
+      "bbox": [
+        509,
+        399,
+        554,
+        407
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "PHONE",
+      "bbox": [
+        537,
+        435,
+        573,
+        443
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "Fuller",
+      "bbox": [
+        281,
+        442,
+        319,
+        450
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "Company",
+      "bbox": [
+        326,
+        442,
+        370,
+        453
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "sos",
+      "bbox": [
+        118,
+        471,
+        145,
+        479
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "oi",
+      "bbox": [
+        149,
+        471,
+        227,
+        482
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "ere",
+      "bbox": [
+        202,
+        447,
+        229,
+        493
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "\u2018CHEMICAL",
+      "bbox": [
+        348,
+        522,
+        406,
+        530
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "USAGE",
+      "bbox": [
+        410,
+        522,
+        445,
+        530
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "1999",
+      "bbox": [
+        117,
+        557,
+        137,
+        565
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "ANNUAL",
+      "bbox": [
+        140,
+        557,
+        184,
+        566
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "USAGE",
+      "bbox": [
+        188,
+        558,
+        223,
+        566
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "74880",
+      "bbox": [
+        298,
+        572,
+        328,
+        580
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "1991",
+      "bbox": [
+        116,
+        594,
+        135,
+        602
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "AVG.",
+      "bbox": [
+        139,
+        594,
+        161,
+        602
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "MONTHLY",
+      "bbox": [
+        168,
+        594,
+        220,
+        603
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "USACE",
+      "bbox": [
+        225,
+        595,
+        260,
+        603
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "(LBS)",
+      "bbox": [
+        263,
+        595,
+        292,
+        605
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "249",
+      "bbox": [
+        310,
+        597,
+        335,
+        606
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "APILICATION",
+      "bbox": [
+        114,
+        632,
+        182,
+        640
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "(Cucle",
+      "bbox": [
+        186,
+        632,
+        215,
+        642
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "One",
+      "bbox": [
+        219,
+        632,
+        237,
+        641
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "nod",
+      "bbox": [
+        241,
+        632,
+        255,
+        641
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Briefly",
+      "bbox": [
+        259,
+        632,
+        288,
+        643
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "label",
+      "bbox": [
+        290,
+        652,
+        320,
+        660
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "adhesive",
+      "bbox": [
+        328,
+        652,
+        379,
+        660
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "_\u2014",
+      "bbox": [
+        609,
+        738,
+        640,
+        740
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Ober",
+      "bbox": [
+        136,
+        766,
+        162,
+        774
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "ATXO2",
+      "bbox": [
+        528,
+        877,
+        569,
+        887
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "0132045",
+      "bbox": [
+        579,
+        878,
+        636,
+        888
+      ],
+      "confidence": 90.0
+    }
+  ]
+}

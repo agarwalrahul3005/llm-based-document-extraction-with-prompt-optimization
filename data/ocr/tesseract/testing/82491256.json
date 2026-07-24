@@ -1,0 +1,574 @@
+{
+  "words": [
+    {
+      "text": "CASE",
+      "bbox": [
+        327,
+        143,
+        358,
+        152
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        361,
+        143,
+        397,
+        152
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "CASE",
+      "bbox": [
+        108,
+        170,
+        139,
+        179
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        142,
+        170,
+        182,
+        179
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "\u2018Wanda",
+      "bbox": [
+        236,
+        170,
+        272,
+        178
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "@.",
+      "bbox": [
+        275,
+        170,
+        287,
+        179
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "Robinson",
+      "bbox": [
+        290,
+        170,
+        337,
+        179
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "aud",
+      "bbox": [
+        341,
+        170,
+        359,
+        178
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Carroll",
+      "bbox": [
+        362,
+        170,
+        399,
+        178
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Robinson",
+      "bbox": [
+        402,
+        170,
+        449,
+        178
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "v.",
+      "bbox": [
+        453,
+        172,
+        461,
+        178
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Raybestos-Manbatian,",
+      "bbox": [
+        465,
+        169,
+        579,
+        181
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "etal",
+      "bbox": [
+        582,
+        169,
+        607,
+        178
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "court:",
+      "bbox": [
+        104,
+        186,
+        153,
+        217
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "San",
+      "bbox": [
+        235,
+        197,
+        254,
+        206
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Feanciseo",
+      "bbox": [
+        257,
+        197,
+        306,
+        206
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "Superior",
+      "bbox": [
+        309,
+        197,
+        353,
+        208
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Court",
+      "bbox": [
+        356,
+        197,
+        386,
+        206
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "996378",
+      "bbox": [
+        416,
+        197,
+        451,
+        206
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "LORTLLARD",
+      "bbox": [
+        107,
+        227,
+        179,
+        236
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "ENTITIES:",
+      "bbox": [
+        103,
+        229,
+        166,
+        260
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "Tobacco",
+      "bbox": [
+        285,
+        240,
+        326,
+        249
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "Company",
+      "bbox": [
+        330,
+        240,
+        378,
+        251
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        107,
+        268,
+        140,
+        277
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "FILED:",
+      "bbox": [
+        143,
+        267,
+        182,
+        276
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "July",
+      "bbox": [
+        235,
+        267,
+        257,
+        278
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "23,1998",
+      "bbox": [
+        260,
+        267,
+        301,
+        278
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "DATESERVED:",
+      "bbox": [
+        107,
+        297,
+        194,
+        306
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "Angust",
+      "bbox": [
+        235,
+        297,
+        271,
+        308
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "32,1999",
+      "bbox": [
+        274,
+        297,
+        309,
+        307
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "TYPE:",
+      "bbox": [
+        142,
+        325,
+        177,
+        334
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Asbestos",
+      "bbox": [
+        235,
+        324,
+        279,
+        333
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "PLAINTIFF'S",
+      "bbox": [
+        107,
+        352,
+        181,
+        361
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "COUNSEL:",
+      "bbox": [
+        108,
+        354,
+        168,
+        385
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "Chaber,",
+      "bbox": [
+        290,
+        365,
+        330,
+        375
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "Haromite,",
+      "bbox": [
+        333,
+        365,
+        382,
+        375
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Madelyn",
+      "bbox": [
+        235,
+        379,
+        279,
+        389
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        282,
+        379,
+        291,
+        387
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Chaber",
+      "bbox": [
+        294,
+        379,
+        332,
+        387
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "101",
+      "bbox": [
+        236,
+        392,
+        252,
+        401
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Steet,",
+      "bbox": [
+        310,
+        392,
+        343,
+        402
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "Sutte",
+      "bbox": [
+        346,
+        392,
+        371,
+        400
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "2200",
+      "bbox": [
+        374,
+        392,
+        397,
+        400
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Son",
+      "bbox": [
+        235,
+        406,
+        254,
+        414
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "Francis,",
+      "bbox": [
+        257,
+        406,
+        308,
+        416
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "$4111",
+      "bbox": [
+        369,
+        405,
+        397,
+        414
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "LORILLARD",
+      "bbox": [
+        107,
+        446,
+        179,
+        455
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "COUNSEE:",
+      "bbox": [
+        107,
+        460,
+        167,
+        469
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "\u2018TRIAL",
+      "bbox": [
+        107,
+        514,
+        144,
+        523
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        147,
+        514,
+        183,
+        522
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "m8",
+      "bbox": [
+        594,
+        793,
+        652,
+        803
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        637,
+        814,
+        650,
+        823
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        636,
+        824,
+        650,
+        834
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        636,
+        835,
+        649,
+        844
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        591,
+        859,
+        607,
+        867
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "g",
+      "bbox": [
+        590,
+        871,
+        605,
+        880
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "38",
+      "bbox": [
+        633,
+        865,
+        646,
+        874
+      ],
+      "confidence": 71.0
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "words": [
+    {
+      "text": "To:",
+      "bbox": [
+        59,
+        97,
+        89,
+        117
+      ],
+      "confidence": 0.557422163689864
+    },
+    {
+      "text": "R H. ORCUTT",
+      "bbox": [
+        117,
+        97,
+        215,
+        115
+      ],
+      "confidence": 0.6081735332389214
+    },
+    {
+      "text": "SUBMISSION DATE:",
+      "bbox": [
+        461,
+        89,
+        601,
+        109
+      ],
+      "confidence": 0.9994576767010811
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        61,
+        129,
+        111,
+        147
+      ],
+      "confidence": 0.9872691925015965
+    },
+    {
+      "text": "JJ",
+      "bbox": [
+        117,
+        131,
+        143,
+        147
+      ],
+      "confidence": 0.9893026016035527
+    },
+    {
+      "text": "BUXTON",
+      "bbox": [
+        149,
+        127,
+        213,
+        147
+      ],
+      "confidence": 0.9733090066378217
+    },
+    {
+      "text": "FEB 17",
+      "bbox": [
+        465,
+        125,
+        515,
+        141
+      ],
+      "confidence": 0.9760488628109795
+    },
+    {
+      "text": "MAY",
+      "bbox": [
+        559,
+        121,
+        595,
+        139
+      ],
+      "confidence": 0.9990047117786153
+    },
+    {
+      "text": "MAR 16",
+      "bbox": [
+        465,
+        141,
+        519,
+        157
+      ],
+      "confidence": 0.9408997982501194
+    },
+    {
+      "text": "JULY 6",
+      "bbox": [
+        561,
+        139,
+        611,
+        155
+      ],
+      "confidence": 0.9719937593154964
+    },
+    {
+      "text": "SUBJECT:   STYLE LIGHTS PROGRESS REPQRT",
+      "bbox": [
+        60,
+        157,
+        392,
+        182
+      ],
+      "confidence": 0.5781949507421339
+    },
+    {
+      "text": "DISTRIBUTION: EFFECTIVENESS OF PRE-SELL (REPORT ON FEB",
+      "bbox": [
+        63,
+        210,
+        510,
+        238
+      ],
+      "confidence": 0.7307194179541142
+    },
+    {
+      "text": "17 ONLY):",
+      "bbox": [
+        515,
+        213,
+        587,
+        229
+      ],
+      "confidence": 0.7777136339329731
+    },
+    {
+      "text": "QF DISTRIBUTION ACHIEVED IN RETAIL QUILETS:",
+      "bbox": [
+        82,
+        320,
+        428,
+        345
+      ],
+      "confidence": 0.5781571878815438
+    },
+    {
+      "text": "[6*2 * CLASSIFIED CALLS",
+      "bbox": [
+        283,
+        348,
+        445,
+        369
+      ],
+      "confidence": 0.48000795308617245
+    },
+    {
+      "text": "T9 * ANNUAL CALLS",
+      "bbox": [
+        289,
+        377,
+        425,
+        395
+      ],
+      "confidence": 0.4084374857279314
+    },
+    {
+      "text": "PROMQTIONAL IMPACT:",
+      "bbox": [
+        66,
+        407,
+        235,
+        427
+      ],
+      "confidence": 0.6986727203943071
+    },
+    {
+      "text": "20 CENTS OFF PACK",
+      "bbox": [
+        67,
+        481,
+        195,
+        497
+      ],
+      "confidence": 0.9888474999869082
+    },
+    {
+      "text": "HAS PROVEN TO BE AN EXCELLENT TOOLIN GENERATING",
+      "bbox": [
+        205,
+        475,
+        559,
+        495
+      ],
+      "confidence": 0.5481133700360025
+    },
+    {
+      "text": "ACK TRIAL IN",
+      "bbox": [
+        567,
+        473,
+        649,
+        489
+      ],
+      "confidence": 0.7916855312423039
+    },
+    {
+      "text": "CouponistiCkER:",
+      "bbox": [
+        75,
+        501,
+        191,
+        517
+      ],
+      "confidence": 0.3077189801306558
+    },
+    {
+      "text": "BOTH HIGH",
+      "bbox": [
+        207,
+        499,
+        279,
+        515
+      ],
+      "confidence": 0.704867916114777
+    },
+    {
+      "text": "LoW DEVELOPMENT PRICE VALUE MARKES",
+      "bbox": [
+        309,
+        495,
+        577,
+        513
+      ],
+      "confidence": 0.7109093337361787
+    },
+    {
+      "text": "MANY",
+      "bbox": [
+        581,
+        493,
+        619,
+        507
+      ],
+      "confidence": 0.9962628483772278
+    },
+    {
+      "text": "DISPLAYS SELLING QUT BEFORE RECONTACT",
+      "bbox": [
+        207,
+        515,
+        483,
+        533
+      ],
+      "confidence": 0.6700995709659161
+    },
+    {
+      "text": "SALES FORCE",
+      "bbox": [
+        69,
+        553,
+        155,
+        569
+      ],
+      "confidence": 0.9236730476588366
+    },
+    {
+      "text": "ADDITIONAL SuPPLY WQULD BE HELPFUL",
+      "bbox": [
+        207,
+        549,
+        463,
+        567
+      ],
+      "confidence": 0.3128088236628749
+    },
+    {
+      "text": "INITIAL QUANTINES",
+      "bbox": [
+        467,
+        545,
+        589,
+        563
+      ],
+      "confidence": 0.5161625199024314
+    },
+    {
+      "text": "Were QUICKLY PEPLETED",
+      "bbox": [
+        207,
+        571,
+        369,
+        587
+      ],
+      "confidence": 0.4149244995765105
+    },
+    {
+      "text": "OFF CARTON",
+      "bbox": [
+        107,
+        663,
+        187,
+        679
+      ],
+      "confidence": 0.9850591698247128
+    },
+    {
+      "text": "CARTON MOVEMENT SPQIIY AL THIS POINT",
+      "bbox": [
+        209,
+        659,
+        477,
+        677
+      ],
+      "confidence": 0.3178289963130366
+    },
+    {
+      "text": "SUPPLIES ARE MORE THAN",
+      "bbox": [
+        485,
+        657,
+        653,
+        673
+      ],
+      "confidence": 0.6263556016913305
+    },
+    {
+      "text": "51.50",
+      "bbox": [
+        71,
+        667,
+        105,
+        681
+      ],
+      "confidence": 0.342002460123994
+    },
+    {
+      "text": "COUPON:",
+      "bbox": [
+        127,
+        683,
+        187,
+        699
+      ],
+      "confidence": 0.9981268244734187
+    },
+    {
+      "text": "EFFECTIVENESS OF ADVERTISING;",
+      "bbox": [
+        70,
+        742,
+        316,
+        766
+      ],
+      "confidence": 0.8222309803651634
+    },
+    {
+      "text": "CREATING CONSUMER AWARENESS IN THOSE DIVISIONS WITH ADVERTISING: BILLBOARDS",
+      "bbox": [
+        72,
+        757,
+        620,
+        786
+      ],
+      "confidence": 0.5436010034234433
+    },
+    {
+      "text": "ARE EYE CATCHING AND CONSUMERS ARE MORE AWARE OF THE PRODUCT IN THOSE MARKETS",
+      "bbox": [
+        72,
+        776,
+        652,
+        806
+      ],
+      "confidence": 0.3638582207919207
+    },
+    {
+      "text": "With ADVeRTISING",
+      "bbox": [
+        73,
+        807,
+        191,
+        823
+      ],
+      "confidence": 0.5712462706552321
+    },
+    {
+      "text": "PAGE",
+      "bbox": [
+        71,
+        903,
+        107,
+        917
+      ],
+      "confidence": 0.997709333896637
+    },
+    {
+      "text": "0l 4",
+      "bbox": [
+        115,
+        903,
+        139,
+        917
+      ],
+      "confidence": 0.6143744587898254
+    },
+    {
+      "text": "1",
+      "bbox": [
+        657,
+        849,
+        675,
+        935
+      ],
+      "confidence": 0.37020733521473304
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        277,
+        497,
+        307,
+        514
+      ],
+      "confidence": 0.9981120797397427
+    },
+    {
+      "text": "20'5",
+      "bbox": [
+        153,
+        552,
+        185,
+        569
+      ],
+      "confidence": 0.6942762136459351
+    }
+  ]
+}

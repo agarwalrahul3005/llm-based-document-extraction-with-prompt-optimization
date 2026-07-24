@@ -1,0 +1,534 @@
+{
+  "words": [
+    {
+      "text": "WNSTON & STRAWN",
+      "bbox": [
+        74,
+        98,
+        490,
+        154
+      ],
+      "confidence": 0.8992109615841793
+    },
+    {
+      "text": "FaxCoverSheet",
+      "bbox": [
+        515,
+        139,
+        619,
+        157
+      ],
+      "confidence": 0.5501599696910368
+    },
+    {
+      "text": "JOC0 FIRST UNION FNANCLL CEXTER",
+      "bbox": [
+        177,
+        155,
+        357,
+        169
+      ],
+      "confidence": 0.3725398964014137
+    },
+    {
+      "text": "HOULEVARC",
+      "bbox": [
+        96,
+        170,
+        148,
+        178
+      ],
+      "confidence": 0.40307326304624996
+    },
+    {
+      "text": "DLORIDA",
+      "bbox": [
+        190,
+        170,
+        228,
+        178
+      ],
+      "confidence": 0.35613115895642816
+    },
+    {
+      "text": "3313/",
+      "bbox": [
+        237,
+        169,
+        279,
+        181
+      ],
+      "confidence": 0.34794136820067545
+    },
+    {
+      "text": "Fax;",
+      "bbox": [
+        95,
+        179,
+        119,
+        191
+      ],
+      "confidence": 0.7590201497077942
+    },
+    {
+      "text": "(305} 4008",
+      "bbox": [
+        125,
+        179,
+        201,
+        193
+      ],
+      "confidence": 0.31219040806989207
+    },
+    {
+      "text": "08",
+      "bbox": [
+        205,
+        181,
+        227,
+        193
+      ],
+      "confidence": 0.9001071029993092
+    },
+    {
+      "text": "SIRCCT",
+      "bbox": [
+        256,
+        210,
+        284,
+        216
+      ],
+      "confidence": 0.3068771856415603
+    },
+    {
+      "text": "66403",
+      "bbox": [
+        156,
+        218,
+        196,
+        226
+      ],
+      "confidence": 0.4186103929002255
+    },
+    {
+      "text": "212284873",
+      "bbox": [
+        78,
+        228,
+        146,
+        236
+      ],
+      "confidence": 0.45631451346546176
+    },
+    {
+      "text": "202-37",
+      "bbox": [
+        220,
+        228,
+        254,
+        236
+      ],
+      "confidence": 0.9907022159812223
+    },
+    {
+      "text": "Fax Number: 305 400-6107",
+      "bbox": [
+        267,
+        253,
+        453,
+        273
+      ],
+      "confidence": 0.5907129893749585
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        75,
+        289,
+        119,
+        303
+      ],
+      "confidence": 0.8127828385541471
+    },
+    {
+      "text": "Kevin Narko",
+      "bbox": [
+        159,
+        289,
+        237,
+        303
+      ],
+      "confidence": 0.9968547686061233
+    },
+    {
+      "text": "CHARGEBACK:",
+      "bbox": [
+        457,
+        291,
+        547,
+        305
+      ],
+      "confidence": 0.8835971992963031
+    },
+    {
+      "text": "4162/158",
+      "bbox": [
+        467,
+        309,
+        525,
+        325
+      ],
+      "confidence": 0.9786573614122176
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        75,
+        335,
+        117,
+        351
+      ],
+      "confidence": 0.9973766423932601
+    },
+    {
+      "text": "10/13/99",
+      "bbox": [
+        161,
+        335,
+        215,
+        351
+      ],
+      "confidence": 0.9959006861716196
+    },
+    {
+      "text": "Please Deliver as Soon as Possible To:",
+      "bbox": [
+        245,
+        373,
+        475,
+        389
+      ],
+      "confidence": 0.9526126238127204
+    },
+    {
+      "text": "RECIPIENT",
+      "bbox": [
+        109,
+        405,
+        179,
+        419
+      ],
+      "confidence": 0.9996182951643253
+    },
+    {
+      "text": "COMPANY",
+      "bbox": [
+        237,
+        405,
+        301,
+        419
+      ],
+      "confidence": 0.8296158725843226
+    },
+    {
+      "text": "FAxNo:",
+      "bbox": [
+        399,
+        405,
+        453,
+        421
+      ],
+      "confidence": 0.6345295010552778
+    },
+    {
+      "text": "PHONE No:",
+      "bbox": [
+        515,
+        405,
+        591,
+        421
+      ],
+      "confidence": 0.7209431647940416
+    },
+    {
+      "text": "John",
+      "bbox": [
+        107,
+        433,
+        139,
+        447
+      ],
+      "confidence": 0.9879355430603027
+    },
+    {
+      "text": "Mulderig",
+      "bbox": [
+        137,
+        429,
+        195,
+        449
+      ],
+      "confidence": 0.9830906793507699
+    },
+    {
+      "text": "Philip Morris",
+      "bbox": [
+        235,
+        431,
+        317,
+        449
+      ],
+      "confidence": 0.9225341151613067
+    },
+    {
+      "text": "917-663-5796",
+      "bbox": [
+        399,
+        433,
+        483,
+        449
+      ],
+      "confidence": 0.9989382676247001
+    },
+    {
+      "text": "917-663-3056",
+      "bbox": [
+        513,
+        433,
+        599,
+        449
+      ],
+      "confidence": 0.9999904676328562
+    },
+    {
+      "text": "Little",
+      "bbox": [
+        159,
+        461,
+        195,
+        477
+      ],
+      "confidence": 0.9040504400668651
+    },
+    {
+      "text": "Philip Moris",
+      "bbox": [
+        237,
+        461,
+        317,
+        477
+      ],
+      "confidence": 0.7297866959739131
+    },
+    {
+      "text": "917-663-5979",
+      "bbox": [
+        399,
+        461,
+        483,
+        477
+      ],
+      "confidence": 0.8610672869750751
+    },
+    {
+      "text": "Total number ofpages including this pagc:",
+      "bbox": [
+        238,
+        494,
+        484,
+        519
+      ],
+      "confidence": 0.769917338002443
+    },
+    {
+      "text": "COMMENTS",
+      "bbox": [
+        77,
+        533,
+        149,
+        547
+      ],
+      "confidence": 0.9745889938202545
+    },
+    {
+      "text": "IP YOU DO NOT RECEIVE ALL TIE FAGES, FLEASE CALL OUR FAX OFERATOR AS SOON AS POSSIBLE",
+      "bbox": [
+        87,
+        679,
+        625,
+        695
+      ],
+      "confidence": 0.561904540946215
+    },
+    {
+      "text": "THANK YOU_",
+      "bbox": [
+        321,
+        695,
+        389,
+        709
+      ],
+      "confidence": 0.7262781679643232
+    },
+    {
+      "text": "312-558-5948",
+      "bbox": [
+        317,
+        709,
+        395,
+        725
+      ],
+      "confidence": 0.878747695091976
+    },
+    {
+      "text": "The infonuation conmined",
+      "bbox": [
+        97,
+        823,
+        215,
+        837
+      ],
+      "confidence": 0.44817757723721247
+    },
+    {
+      "text": "thia fcsimile messese",
+      "bbox": [
+        225,
+        823,
+        327,
+        837
+      ],
+      "confidence": 0.3876201606058995
+    },
+    {
+      "text": "the employce",
+      "bbox": [
+        535,
+        837,
+        597,
+        849
+      ],
+      "confidence": 0.47448181110349014
+    },
+    {
+      "text": "responsible",
+      "bbox": [
+        80,
+        846,
+        135,
+        864
+      ],
+      "confidence": 0.635101933674657
+    },
+    {
+      "text": "deliver",
+      "bbox": [
+        145,
+        849,
+        179,
+        861
+      ],
+      "confidence": 0.9163640293605374
+    },
+    {
+      "text": "copying",
+      "bbox": [
+        567,
+        849,
+        605,
+        863
+      ],
+      "confidence": 0.9888995805352293
+    },
+    {
+      "text": "comttinicuhon",
+      "bbox": [
+        84,
+        862,
+        150,
+        870
+      ],
+      "confidence": 0.30807404304262065
+    },
+    {
+      "text": "srictly prohibitcd",
+      "bbox": [
+        161,
+        861,
+        241,
+        875
+      ],
+      "confidence": 0.3853412082283366
+    },
+    {
+      "text": "I you hav",
+      "bbox": [
+        99,
+        883,
+        145,
+        897
+      ],
+      "confidence": 0.6219112785788229
+    },
+    {
+      "text": "received this comuuiclion",
+      "bbox": [
+        149,
+        883,
+        275,
+        895
+      ],
+      "confidence": 0.5602425488924744
+    },
+    {
+      "text": "Operator Initials:_",
+      "bbox": [
+        105,
+        919,
+        207,
+        937
+      ],
+      "confidence": 0.9643953701044665
+    },
+    {
+      "text": "Confirmation: Yes",
+      "bbox": [
+        105,
+        937,
+        223,
+        953
+      ],
+      "confidence": 0.9638325593687961
+    },
+    {
+      "text": "Namc:",
+      "bbox": [
+        259,
+        937,
+        303,
+        953
+      ],
+      "confidence": 0.8286436120707615
+    },
+    {
+      "text": "No:",
+      "bbox": [
+        537,
+        937,
+        563,
+        953
+      ],
+      "confidence": 0.9984737438533744
+    },
+    {
+      "text": "Gregory",
+      "bbox": [
+        106,
+        459,
+        159,
+        481
+      ],
+      "confidence": 0.8880222039101896
+    }
+  ]
+}

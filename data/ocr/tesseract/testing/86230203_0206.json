@@ -1,0 +1,384 @@
+{
+  "words": [
+    {
+      "text": "12/42/98",
+      "bbox": [
+        60,
+        73,
+        112,
+        81
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "08:33,",
+      "bbox": [
+        134,
+        73,
+        166,
+        81
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "LORALLARD",
+      "bbox": [
+        364,
+        70,
+        423,
+        79
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "TOB",
+      "bbox": [
+        430,
+        70,
+        449,
+        78
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "s+",
+      "bbox": [
+        478,
+        73,
+        496,
+        77
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "NYO",
+      "bbox": [
+        504,
+        70,
+        524,
+        77
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "From:",
+      "bbox": [
+        65,
+        172,
+        97,
+        180
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "aan",
+      "bbox": [
+        462,
+        194,
+        482,
+        201
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "28",
+      "bbox": [
+        487,
+        194,
+        499,
+        201
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "[_]",
+      "bbox": [
+        506,
+        187,
+        541,
+        204
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Ince",
+      "bbox": [
+        196,
+        566,
+        229,
+        573
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "ACCOUNES",
+      "bbox": [
+        242,
+        564,
+        304,
+        574
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        309,
+        564,
+        329,
+        574
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "GuAINE",
+      "bbox": [
+        337,
+        563,
+        376,
+        573
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "BESION",
+      "bbox": [
+        557,
+        560,
+        601,
+        569
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "He",
+      "bbox": [
+        403,
+        579,
+        418,
+        586
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "MAVERIGK",
+      "bbox": [
+        423,
+        577,
+        480,
+        587
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "SPECIALS",
+      "bbox": [
+        485,
+        576,
+        540,
+        587
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "wa",
+      "bbox": [
+        332,
+        608,
+        351,
+        616
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "\"Heer",
+      "bbox": [
+        606,
+        597,
+        663,
+        615
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        141,
+        627,
+        174,
+        635
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        178,
+        627,
+        192,
+        634
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "___|",
+      "bbox": [
+        291,
+        635,
+        295,
+        637
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "stones",
+      "bbox": [
+        333,
+        624,
+        376,
+        632
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "ACCOUNT",
+      "bbox": [
+        491,
+        619,
+        547,
+        630
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        702,
+        627,
+        705,
+        629
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "ise",
+      "bbox": [
+        78,
+        765,
+        100,
+        772
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "[6",
+      "bbox": [
+        600,
+        748,
+        685,
+        767
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "fa",
+      "bbox": [
+        674,
+        767,
+        689,
+        774
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "uber",
+      "bbox": [
+        79,
+        784,
+        108,
+        796
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        201,
+        787,
+        203,
+        789
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "[as]",
+      "bbox": [
+        317,
+        768,
+        387,
+        800
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Ps",
+      "bbox": [
+        674,
+        779,
+        690,
+        788
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "Monie",
+      "bbox": [
+        79,
+        804,
+        108,
+        811
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "Gore",
+      "bbox": [
+        112,
+        804,
+        136,
+        812
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "2a",
+      "bbox": [
+        370,
+        800,
+        381,
+        808
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "js",
+      "bbox": [
+        600,
+        787,
+        689,
+        807
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        673,
+        819,
+        689,
+        827
+      ],
+      "confidence": 57.0
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "words": [
+    {
+      "text": "PIWAL",
+      "bbox": [
+        271,
+        113,
+        316,
+        122
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "REPORT",
+      "bbox": [
+        327,
+        112,
+        380,
+        122
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "AMENDMENT",
+      "bbox": [
+        389,
+        111,
+        471,
+        121
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "STODY",
+      "bbox": [
+        80,
+        160,
+        124,
+        170
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "NAME_tnduetion",
+      "bbox": [
+        134,
+        159,
+        244,
+        170
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        252,
+        160,
+        265,
+        169
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Hepatic",
+      "bbox": [
+        273,
+        160,
+        322,
+        168
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Enzymes",
+      "bbox": [
+        331,
+        159,
+        379,
+        171
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "in",
+      "bbox": [
+        388,
+        159,
+        400,
+        167
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Rate",
+      "bbox": [
+        408,
+        159,
+        435,
+        167
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "(D202).",
+      "bbox": [
+        451,
+        158,
+        489,
+        170
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "STUDY",
+      "bbox": [
+        81,
+        190,
+        124,
+        200
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "NUMBER_1-7016.401",
+      "bbox": [
+        135,
+        189,
+        265,
+        199
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        349,
+        181,
+        351,
+        183
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        436,
+        179,
+        443,
+        185
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "INITIATION",
+      "bbox": [
+        82,
+        219,
+        169,
+        230
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "27,",
+      "bbox": [
+        274,
+        217,
+        293,
+        228
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "1986",
+      "bbox": [
+        304,
+        217,
+        330,
+        226
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        362,
+        217,
+        397,
+        227
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        408,
+        216,
+        425,
+        226
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PINAL",
+      "bbox": [
+        435,
+        216,
+        479,
+        226
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "REPORT",
+      "bbox": [
+        490,
+        215,
+        542,
+        225
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "February",
+      "bbox": [
+        548,
+        216,
+        603,
+        226
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "26,",
+      "bbox": [
+        612,
+        215,
+        629,
+        226
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "1987",
+      "bbox": [
+        640,
+        215,
+        665,
+        224
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PART",
+      "bbox": [
+        82,
+        250,
+        115,
+        260
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        126,
+        250,
+        143,
+        259
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "FINAL",
+      "bbox": [
+        153,
+        249,
+        197,
+        259
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "REPORT",
+      "bbox": [
+        208,
+        248,
+        261,
+        258
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        272,
+        248,
+        289,
+        257
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "BE",
+      "bbox": [
+        300,
+        248,
+        316,
+        257
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "AMENDED",
+      "bbox": [
+        327,
+        247,
+        388,
+        257
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "(EXACT",
+      "bbox": [
+        402,
+        246,
+        452,
+        258
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "LOCATION)",
+      "bbox": [
+        463,
+        245,
+        539,
+        257
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": ".",
+      "bbox": [
+        724,
+        246,
+        726,
+        248
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "REASON",
+      "bbox": [
+        81,
+        311,
+        134,
+        321
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "FOR",
+      "bbox": [
+        144,
+        310,
+        170,
+        320
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "THE",
+      "bbox": [
+        181,
+        310,
+        206,
+        320
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "sponsor",
+      "bbox": [
+        416,
+        312,
+        463,
+        318
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "AMENDMENT",
+      "bbox": [
+        82,
+        462,
+        162,
+        472
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "(Attach",
+      "bbox": [
+        176,
+        460,
+        234,
+        472
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "additional",
+      "bbox": [
+        246,
+        459,
+        334,
+        470
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "sheets",
+      "bbox": [
+        346,
+        458,
+        398,
+        469
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "as",
+      "bbox": [
+        409,
+        460,
+        425,
+        468
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "necessary)",
+      "bbox": [
+        436,
+        458,
+        522,
+        470
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "00",
+      "bbox": [
+        541,
+        454,
+        644,
+        476
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "f",
+      "bbox": [
+        456,
+        666,
+        462,
+        678
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "APPROVALS",
+      "bbox": [
+        82,
+        688,
+        163,
+        698
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "1",
+      "bbox": [
+        615,
+        686,
+        617,
+        692
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "2?",
+      "bbox": [
+        165,
+        712,
+        187,
+        732
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "pp\u2019",
+      "bbox": [
+        492,
+        719,
+        521,
+        728
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "an.",
+      "bbox": [
+        588,
+        718,
+        613,
+        727
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "8",
+      "bbox": [
+        683,
+        715,
+        696,
+        725
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Bat",
+      "bbox": [
+        83,
+        735,
+        109,
+        744
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "ka",
+      "bbox": [
+        683,
+        726,
+        696,
+        745
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        683,
+        747,
+        696,
+        756
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        165,
+        796,
+        187,
+        813
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        83,
+        823,
+        118,
+        832
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "QUALITY",
+      "bbox": [
+        455,
+        819,
+        518,
+        830
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "ASSURANCE",
+      "bbox": [
+        528,
+        819,
+        608,
+        828
+      ],
+      "confidence": 40.0
+    }
+  ]
+}

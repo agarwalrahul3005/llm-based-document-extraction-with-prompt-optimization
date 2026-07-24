@@ -1,0 +1,584 @@
+{
+  "words": [
+    {
+      "text": "e",
+      "bbox": [
+        23,
+        93,
+        45,
+        116
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        303,
+        84,
+        353,
+        97
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Initiation",
+      "bbox": [
+        363,
+        84,
+        432,
+        95
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Form",
+      "bbox": [
+        442,
+        84,
+        469,
+        94
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "project",
+      "bbox": [
+        57,
+        146,
+        107,
+        159
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Code",
+      "bbox": [
+        116,
+        145,
+        143,
+        156
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "15,",
+      "bbox": [
+        615,
+        146,
+        627,
+        155
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        57,
+        213,
+        107,
+        225
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Suoking",
+      "bbox": [
+        238,
+        211,
+        287,
+        225
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        58,
+        272,
+        108,
+        284
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        680,
+        279,
+        704,
+        281
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "Work",
+      "bbox": [
+        58,
+        301,
+        85,
+        311
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Requested",
+      "bbox": [
+        94,
+        300,
+        159,
+        313
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "by",
+      "bbox": [
+        167,
+        300,
+        180,
+        313
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Marketing",
+      "bbox": [
+        201,
+        300,
+        266,
+        313
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "Project",
+      "bbox": [
+        59,
+        360,
+        108,
+        372
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Objective__A",
+      "bbox": [
+        117,
+        359,
+        209,
+        372
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "pipe",
+      "bbox": [
+        217,
+        359,
+        245,
+        373
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "tobacco",
+      "bbox": [
+        254,
+        359,
+        304,
+        368
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "containing",
+      "bbox": [
+        312,
+        358,
+        383,
+        371
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "activated",
+      "bbox": [
+        392,
+        357,
+        456,
+        367
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "chazcoal",
+      "bbox": [
+        465,
+        357,
+        521,
+        366
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "-",
+      "bbox": [
+        530,
+        361,
+        535,
+        363
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "aust",
+      "bbox": [
+        543,
+        358,
+        571,
+        366
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "show",
+      "bbox": [
+        580,
+        356,
+        608,
+        365
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "vapor",
+      "bbox": [
+        616,
+        358,
+        652,
+        367
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "nase",
+      "bbox": [
+        210,
+        390,
+        238,
+        399
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "reduction.",
+      "bbox": [
+        247,
+        390,
+        316,
+        399
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "Logan",
+      "bbox": [
+        188,
+        439,
+        242,
+        462
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "fess",
+      "bbox": [
+        247,
+        439,
+        280,
+        461
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "e",
+      "bbox": [
+        28,
+        462,
+        50,
+        485
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "ot",
+      "bbox": [
+        287,
+        467,
+        300,
+        484
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        387,
+        468,
+        436,
+        490
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        61,
+        749,
+        98,
+        760
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "personnel",
+      "bbox": [
+        106,
+        748,
+        168,
+        761
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "assigned",
+      "bbox": [
+        179,
+        747,
+        236,
+        761
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Analytical",
+      "bbox": [
+        256,
+        746,
+        328,
+        758
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "Section",
+      "bbox": [
+        337,
+        746,
+        387,
+        755
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "19",
+      "bbox": [
+        395,
+        745,
+        408,
+        754
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "doing",
+      "bbox": [
+        417,
+        745,
+        452,
+        757
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "most",
+      "bbox": [
+        460,
+        746,
+        488,
+        754
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "of",
+      "bbox": [
+        496,
+        745,
+        510,
+        754
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "the",
+      "bbox": [
+        519,
+        744,
+        539,
+        753
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "work",
+      "bbox": [
+        547,
+        744,
+        576,
+        753
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "on",
+      "bbox": [
+        584,
+        747,
+        598,
+        753
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "vapex",
+      "bbox": [
+        604,
+        746,
+        640,
+        756
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "and",
+      "bbox": [
+        105,
+        777,
+        126,
+        786
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "John",
+      "bbox": [
+        134,
+        776,
+        162,
+        786
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "Brooks",
+      "bbox": [
+        170,
+        776,
+        212,
+        785
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "preparing",
+      "bbox": [
+        221,
+        776,
+        286,
+        787
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "charocal",
+      "bbox": [
+        294,
+        775,
+        350,
+        784
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        606,
+        786,
+        619,
+        788
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "e",
+      "bbox": [
+        30,
+        835,
+        53,
+        858
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "tstfmated",
+      "bbox": [
+        63,
+        852,
+        127,
+        863
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Man",
+      "bbox": [
+        135,
+        852,
+        156,
+        862
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "Hours",
+      "bbox": [
+        164,
+        851,
+        199,
+        862
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "for",
+      "bbox": [
+        209,
+        851,
+        229,
+        861
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "Completion,",
+      "bbox": [
+        238,
+        850,
+        309,
+        864
+      ],
+      "confidence": 46.0
+    }
+  ]
+}

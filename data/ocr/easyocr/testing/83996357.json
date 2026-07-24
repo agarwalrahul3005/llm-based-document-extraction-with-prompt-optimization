@@ -1,0 +1,424 @@
+{
+  "words": [
+    {
+      "text": "COUPON CODE REGISTRATION FORM",
+      "bbox": [
+        73,
+        113,
+        277,
+        131
+      ],
+      "confidence": 0.45265243030430985
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        73,
+        147,
+        97,
+        161
+      ],
+      "confidence": 0.6554440085888296
+    },
+    {
+      "text": "KELLI SCRUGGS",
+      "bbox": [
+        139,
+        145,
+        231,
+        161
+      ],
+      "confidence": 0.9978247061658048
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        73,
+        177,
+        113,
+        193
+      ],
+      "confidence": 0.9971990031356546
+    },
+    {
+      "text": "LEONARD JONES",
+      "bbox": [
+        139,
+        177,
+        235,
+        193
+      ],
+      "confidence": 0.9825927919265363
+    },
+    {
+      "text": "LOSITO",
+      "bbox": [
+        153,
+        209,
+        197,
+        223
+      ],
+      "confidence": 0.9965357993329813
+    },
+    {
+      "text": "M TAHMASEB",
+      "bbox": [
+        271,
+        207,
+        351,
+        223
+      ],
+      "confidence": 0.8419967047777781
+    },
+    {
+      "text": "G. BAROODY",
+      "bbox": [
+        141,
+        223,
+        211,
+        239
+      ],
+      "confidence": 0.7340058889170833
+    },
+    {
+      "text": "STEVENS",
+      "bbox": [
+        283,
+        223,
+        339,
+        239
+      ],
+      "confidence": 0.9995594926476657
+    },
+    {
+      "text": "B, VON DER LIPPE",
+      "bbox": [
+        139,
+        239,
+        239,
+        255
+      ],
+      "confidence": 0.6579255879891139
+    },
+    {
+      "text": "D",
+      "bbox": [
+        269,
+        241,
+        293,
+        257
+      ],
+      "confidence": 0.8699432591726897
+    },
+    {
+      "text": "BRAND(S) APPLICABLE",
+      "bbox": [
+        141,
+        303,
+        265,
+        319
+      ],
+      "confidence": 0.8945311848158685
+    },
+    {
+      "text": "OLD GOLD",
+      "bbox": [
+        379,
+        303,
+        439,
+        319
+      ],
+      "confidence": 0.6406728762680457
+    },
+    {
+      "text": "MEDIA TYPE",
+      "bbox": [
+        141,
+        335,
+        209,
+        351
+      ],
+      "confidence": 0.5836590254137443
+    },
+    {
+      "text": "DIRECT MAIL",
+      "bbox": [
+        379,
+        333,
+        451,
+        349
+      ],
+      "confidence": 0.9786692234229234
+    },
+    {
+      "text": "MEDIA NAME",
+      "bbox": [
+        139,
+        367,
+        213,
+        381
+      ],
+      "confidence": 0.9896569898937319
+    },
+    {
+      "text": "ISSUE FREQUENCYINEAR",
+      "bbox": [
+        141,
+        397,
+        279,
+        413
+      ],
+      "confidence": 0.8898430859815895
+    },
+    {
+      "text": "SPACEICOLOR",
+      "bbox": [
+        141,
+        429,
+        221,
+        445
+      ],
+      "confidence": 0.8135427754042331
+    },
+    {
+      "text": "COUPON ISSUE DATE",
+      "bbox": [
+        141,
+        461,
+        259,
+        477
+      ],
+      "confidence": 0.9265539527377309
+    },
+    {
+      "text": "10/4/99",
+      "bbox": [
+        379,
+        461,
+        419,
+        475
+      ],
+      "confidence": 0.9904733144233598
+    },
+    {
+      "text": "COUPON EXPIRATION DATE",
+      "bbox": [
+        141,
+        493,
+        291,
+        509
+      ],
+      "confidence": 0.9309412665305493
+    },
+    {
+      "text": "331n0",
+      "bbox": [
+        379,
+        493,
+        421,
+        509
+      ],
+      "confidence": 0.3775973133256609
+    },
+    {
+      "text": "CIRCULATION (#)",
+      "bbox": [
+        141,
+        523,
+        233,
+        541
+      ],
+      "confidence": 0.7086089009575708
+    },
+    {
+      "text": "201,500",
+      "bbox": [
+        379,
+        525,
+        423,
+        541
+      ],
+      "confidence": 0.7134986225032746
+    },
+    {
+      "text": "CIRCULATION DATES",
+      "bbox": [
+        141,
+        557,
+        255,
+        573
+      ],
+      "confidence": 0.7611088865996563
+    },
+    {
+      "text": "OCTOBER 1999",
+      "bbox": [
+        381,
+        557,
+        465,
+        571
+      ],
+      "confidence": 0.8224402486465671
+    },
+    {
+      "text": "CEOGRAPHICAL AREA(S)",
+      "bbox": [
+        141,
+        589,
+        277,
+        605
+      ],
+      "confidence": 0.8257699265610254
+    },
+    {
+      "text": "DISCOUNL SHOKERS-CG GROUPS | AND II",
+      "bbox": [
+        381,
+        587,
+        611,
+        603
+      ],
+      "confidence": 0.3437445237519694
+    },
+    {
+      "text": "COUPON VALUE",
+      "bbox": [
+        141,
+        619,
+        229,
+        635
+      ],
+      "confidence": 0.993699666366202
+    },
+    {
+      "text": "SL00 OFF PACK",
+      "bbox": [
+        379,
+        617,
+        469,
+        635
+      ],
+      "confidence": 0.536554553634183
+    },
+    {
+      "text": "PACKICARTON",
+      "bbox": [
+        141,
+        651,
+        223,
+        667
+      ],
+      "confidence": 0.9978673010346497
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        379,
+        651,
+        415,
+        667
+      ],
+      "confidence": 0.9979696273803711
+    },
+    {
+      "text": "ADVERTISING CREATIVE TITLE",
+      "bbox": [
+        141,
+        683,
+        307,
+        699
+      ],
+      "confidence": 0.9962837530084141
+    },
+    {
+      "text": "SICNATURE OF INITIATOR",
+      "bbox": [
+        141,
+        717,
+        281,
+        733
+      ],
+      "confidence": 0.6962668897379685
+    },
+    {
+      "text": "DATE INITIATED",
+      "bbox": [
+        141,
+        749,
+        229,
+        765
+      ],
+      "confidence": 0.9998334555837735
+    },
+    {
+      "text": "4/14/99",
+      "bbox": [
+        379,
+        749,
+        421,
+        763
+      ],
+      "confidence": 0.39904841687257275
+    },
+    {
+      "text": "REQUIREMENTS",
+      "bbox": [
+        141,
+        779,
+        231,
+        795
+      ],
+      "confidence": 0.9803805525805597
+    },
+    {
+      "text": "REDEMPTION RESULTS",
+      "bbox": [
+        273,
+        779,
+        401,
+        795
+      ],
+      "confidence": 0.9987389739164054
+    },
+    {
+      "text": "30lb5",
+      "bbox": [
+        544,
+        824,
+        606,
+        852
+      ],
+      "confidence": 0.866378188023555
+    },
+    {
+      "text": "CODE ASSIGNED",
+      "bbox": [
+        141,
+        842,
+        235,
+        861
+      ],
+      "confidence": 0.9925446957742862
+    },
+    {
+      "text": "JOB",
+      "bbox": [
+        141,
+        861,
+        167,
+        877
+      ],
+      "confidence": 0.9930196164276971
+    },
+    {
+      "text": "EST, REDEMPTION",
+      "bbox": [
+        141,
+        877,
+        243,
+        893
+      ],
+      "confidence": 0.9813136377776865
+    }
+  ]
+}

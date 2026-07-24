@@ -1,0 +1,714 @@
+{
+  "words": [
+    {
+      "text": "on",
+      "bbox": [
+        262,
+        67,
+        337,
+        79
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        389,
+        69,
+        409,
+        76
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "wa",
+      "bbox": [
+        413,
+        66,
+        479,
+        78
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "COMPETITIVE",
+      "bbox": [
+        227,
+        81,
+        527,
+        101
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "ACTIVITIES",
+      "bbox": [
+        325,
+        75,
+        395,
+        105
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        402,
+        75,
+        430,
+        105
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "PROMOTIONS",
+      "bbox": [
+        437,
+        81,
+        525,
+        101
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        72,
+        113,
+        75,
+        116
+      ],
+      "confidence": 32.0
+    },
+    {
+      "text": "REPORTED",
+      "bbox": [
+        69,
+        145,
+        130,
+        155
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "BY:",
+      "bbox": [
+        135,
+        145,
+        153,
+        155
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "VAL",
+      "bbox": [
+        214,
+        145,
+        239,
+        154
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "THURMAN,",
+      "bbox": [
+        248,
+        145,
+        313,
+        155
+      ],
+      "confidence": 79.0
+    },
+    {
+      "text": "DIVISION",
+      "bbox": [
+        325,
+        145,
+        391,
+        154
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "MAKAGER,",
+      "bbox": [
+        401,
+        144,
+        460,
+        153
+      ],
+      "confidence": 47.0
+    },
+    {
+      "text": "LOUISVILLE,",
+      "bbox": [
+        478,
+        143,
+        567,
+        154
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "KY",
+      "bbox": [
+        579,
+        144,
+        595,
+        152
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "4/26/91",
+      "bbox": [
+        216,
+        193,
+        272,
+        204
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        121,
+        246,
+        142,
+        268
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "INFORMATION:",
+      "bbox": [
+        69,
+        252,
+        153,
+        283
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "SHORT",
+      "bbox": [
+        216,
+        265,
+        257,
+        276
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "STOP",
+      "bbox": [
+        267,
+        265,
+        299,
+        276
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "FOOD",
+      "bbox": [
+        309,
+        265,
+        342,
+        276
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "MARTS,",
+      "bbox": [
+        351,
+        265,
+        392,
+        275
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "LOUISVILLE,",
+      "bbox": [
+        410,
+        264,
+        494,
+        275
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "KY",
+      "bbox": [
+        512,
+        264,
+        528,
+        272
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "NUFACTURER:",
+      "bbox": [
+        87,
+        316,
+        169,
+        326
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "__",
+      "bbox": [
+        184,
+        303,
+        206,
+        335
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "PHILIP",
+      "bbox": [
+        208,
+        315,
+        257,
+        324
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "MORRIS.",
+      "bbox": [
+        266,
+        315,
+        316,
+        324
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "BAAND(G)",
+      "bbox": [
+        72,
+        368,
+        124,
+        380
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "PROMOTED:",
+      "bbox": [
+        129,
+        368,
+        200,
+        378
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "MARLBORO",
+      "bbox": [
+        241,
+        364,
+        309,
+        373
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "CIGARETTES",
+      "bbox": [
+        318,
+        363,
+        401,
+        373
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PE",
+      "bbox": [
+        86,
+        421,
+        97,
+        431
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        104,
+        421,
+        118,
+        431
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PROMOTION:",
+      "bbox": [
+        123,
+        420,
+        198,
+        430
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "CARTON",
+      "bbox": [
+        267,
+        420,
+        317,
+        430
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "PROMOTION",
+      "bbox": [
+        327,
+        420,
+        402,
+        429
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "SWEEPSTAKES",
+      "bbox": [
+        412,
+        419,
+        503,
+        429
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "(SEE",
+      "bbox": [
+        296,
+        441,
+        326,
+        452
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "ATTACHMENTS)",
+      "bbox": [
+        335,
+        441,
+        433,
+        451
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "1OW",
+      "bbox": [
+        76,
+        542,
+        98,
+        574
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "WIDESPREAD?",
+      "bbox": [
+        102,
+        554,
+        186,
+        564
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "OTHER",
+      "bbox": [
+        74,
+        603,
+        111,
+        625
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "COMMENTS:",
+      "bbox": [
+        117,
+        603,
+        184,
+        625
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        663,
+        739,
+        673,
+        753
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "cs",
+      "bbox": [
+        81,
+        789,
+        93,
+        798
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "AM.",
+      "bbox": [
+        97,
+        802,
+        123,
+        811
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "TISCH",
+      "bbox": [
+        127,
+        802,
+        163,
+        811
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "TELFORD",
+      "bbox": [
+        285,
+        800,
+        339,
+        810
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "LH.",
+      "bbox": [
+        375,
+        800,
+        400,
+        810
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "KEASK",
+      "bbox": [
+        405,
+        799,
+        445,
+        809
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "R.HLORGUTT",
+      "bbox": [
+        98,
+        814,
+        177,
+        824
+      ],
+      "confidence": 45.0
+    },
+    {
+      "text": "RYAN",
+      "bbox": [
+        286,
+        813,
+        317,
+        823
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "SLATER",
+      "bbox": [
+        404,
+        813,
+        449,
+        822
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "M.A",
+      "bbox": [
+        98,
+        828,
+        122,
+        837
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "PETERSON",
+      "bbox": [
+        129,
+        827,
+        193,
+        837
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "N.PLRUFFALO",
+      "bbox": [
+        254,
+        826,
+        338,
+        836
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "JONES",
+      "bbox": [
+        390,
+        825,
+        444,
+        835
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "ix",
+      "bbox": [
+        98,
+        841,
+        110,
+        850
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "LORLOWSKY",
+      "bbox": [
+        115,
+        841,
+        195,
+        850
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "TL",
+      "bbox": [
+        253,
+        840,
+        277,
+        849
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "ACHEY",
+      "bbox": [
+        281,
+        839,
+        322,
+        849
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "@",
+      "bbox": [
+        375,
+        839,
+        386,
+        849
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "{GORDON",
+      "bbox": [
+        98,
+        854,
+        164,
+        864
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "P,",
+      "bbox": [
+        254,
+        853,
+        264,
+        863
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "J.",
+      "bbox": [
+        268,
+        853,
+        277,
+        862
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "McCANN:",
+      "bbox": [
+        282,
+        852,
+        332,
+        862
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "SMITH",
+      "bbox": [
+        405,
+        852,
+        441,
+        862
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "GIACOIO",
+      "bbox": [
+        282,
+        866,
+        333,
+        875
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "TATULLS",
+      "bbox": [
+        283,
+        875,
+        329,
+        897
+      ],
+      "confidence": 40.0
+    }
+  ]
+}

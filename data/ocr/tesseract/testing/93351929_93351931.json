@@ -1,0 +1,1074 @@
+{
+  "words": [
+    {
+      "text": "V9",
+      "bbox": [
+        59,
+        15,
+        90,
+        33
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "COUPON",
+      "bbox": [
+        308,
+        66,
+        366,
+        99
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        374,
+        66,
+        407,
+        99
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "REGISTRATION",
+      "bbox": [
+        312,
+        78,
+        553,
+        93
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "FORM",
+      "bbox": [
+        519,
+        66,
+        556,
+        99
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "~?",
+      "bbox": [
+        40,
+        110,
+        56,
+        120
+      ],
+      "confidence": 41.0
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        89,
+        115,
+        130,
+        126
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "JESSICA",
+      "bbox": [
+        142,
+        115,
+        197,
+        126
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "ARATO",
+      "bbox": [
+        200,
+        115,
+        245,
+        126
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "To:",
+      "bbox": [
+        88,
+        150,
+        110,
+        161
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "vINCELOSiTO",
+      "bbox": [
+        129,
+        150,
+        220,
+        161
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "\u20acC:",
+      "bbox": [
+        88,
+        184,
+        110,
+        195
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "K",
+      "bbox": [
+        129,
+        185,
+        141,
+        195
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "AUGUSTYN,",
+      "bbox": [
+        146,
+        184,
+        222,
+        197
+      ],
+      "confidence": 61.0
+    },
+    {
+      "text": "L.",
+      "bbox": [
+        227,
+        185,
+        237,
+        195
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "GIOROANO,",
+      "bbox": [
+        242,
+        184,
+        316,
+        196
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "M.",
+      "bbox": [
+        321,
+        184,
+        334,
+        195
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "McGLYNN,",
+      "bbox": [
+        339,
+        184,
+        404,
+        196
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "S.",
+      "bbox": [
+        409,
+        184,
+        420,
+        194
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "RAPISARLOI",
+      "bbox": [
+        425,
+        183,
+        500,
+        194
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        0,
+        258,
+        1,
+        275
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "GRANDS(S)",
+      "bbox": [
+        88,
+        256,
+        158,
+        269
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "APPLICABLE",
+      "bbox": [
+        162,
+        256,
+        242,
+        267
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "All",
+      "bbox": [
+        311,
+        256,
+        325,
+        266
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "Kent",
+      "bbox": [
+        330,
+        256,
+        356,
+        266
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Family",
+      "bbox": [
+        360,
+        256,
+        399,
+        268
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Packings",
+      "bbox": [
+        403,
+        256,
+        455,
+        270
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        0,
+        276,
+        1,
+        306
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "MEDIA",
+      "bbox": [
+        88,
+        279,
+        128,
+        311
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "People,",
+      "bbox": [
+        386,
+        290,
+        429,
+        303
+      ],
+      "confidence": 88.0
+    },
+    {
+      "text": "Rolling",
+      "bbox": [
+        434,
+        290,
+        473,
+        302
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "Stone,",
+      "bbox": [
+        477,
+        289,
+        515,
+        301
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "Cosmopolitan,",
+      "bbox": [
+        520,
+        289,
+        604,
+        302
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Mademoiselle,",
+      "bbox": [
+        311,
+        308,
+        395,
+        319
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "New",
+      "bbox": [
+        400,
+        307,
+        425,
+        318
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "York",
+      "bbox": [
+        429,
+        307,
+        456,
+        317
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Magazine",
+      "bbox": [
+        460,
+        307,
+        517,
+        319
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Vilage",
+      "bbox": [
+        384,
+        324,
+        423,
+        336
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "Voice",
+      "bbox": [
+        428,
+        324,
+        459,
+        334
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "ISSUE",
+      "bbox": [
+        88,
+        359,
+        126,
+        370
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "FREQUENCY/VEAR",
+      "bbox": [
+        130,
+        359,
+        251,
+        370
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "September",
+      "bbox": [
+        311,
+        358,
+        374,
+        371
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "|",
+      "bbox": [
+        0,
+        379,
+        1,
+        385
+      ],
+      "confidence": 42.0
+    },
+    {
+      "text": "SPACEICOLOR",
+      "bbox": [
+        87,
+        382,
+        181,
+        414
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Magazines:",
+      "bbox": [
+        311,
+        393,
+        376,
+        408
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "P",
+      "bbox": [
+        382,
+        393,
+        389,
+        403
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Newspapers:",
+      "bbox": [
+        422,
+        393,
+        496,
+        405
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "2",
+      "bbox": [
+        502,
+        392,
+        520,
+        402
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "BW",
+      "bbox": [
+        525,
+        392,
+        549,
+        402
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "COUPON",
+      "bbox": [
+        87,
+        428,
+        143,
+        438
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "ISSUE",
+      "bbox": [
+        148,
+        428,
+        186,
+        438
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        191,
+        428,
+        225,
+        438
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "September",
+      "bbox": [
+        310,
+        428,
+        374,
+        440
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "1,",
+      "bbox": [
+        379,
+        428,
+        388,
+        438
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "1992",
+      "bbox": [
+        394,
+        427,
+        422,
+        437
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "COUPON",
+      "bbox": [
+        86,
+        462,
+        142,
+        473
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "EXPIRATION",
+      "bbox": [
+        148,
+        462,
+        225,
+        473
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        230,
+        462,
+        264,
+        473
+      ],
+      "confidence": 80.0
+    },
+    {
+      "text": "December",
+      "bbox": [
+        310,
+        462,
+        370,
+        473
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "31,",
+      "bbox": [
+        374,
+        462,
+        392,
+        473
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "1992",
+      "bbox": [
+        397,
+        462,
+        425,
+        472
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "\u00a9",
+      "bbox": [
+        44,
+        504,
+        48,
+        505
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "1,221,000",
+      "bbox": [
+        311,
+        513,
+        368,
+        525
+      ],
+      "confidence": 76.0
+    },
+    {
+      "text": "GEOGRAPHICAL",
+      "bbox": [
+        86,
+        548,
+        190,
+        559
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "AREA(S)",
+      "bbox": [
+        194,
+        548,
+        246,
+        561
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "Ter!",
+      "bbox": [
+        307,
+        548,
+        338,
+        563
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "COUPON",
+      "bbox": [
+        86,
+        583,
+        142,
+        593
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "VALUE",
+      "bbox": [
+        147,
+        583,
+        189,
+        593
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "Free",
+      "bbox": [
+        310,
+        583,
+        336,
+        593
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "Pack",
+      "bbox": [
+        341,
+        583,
+        368,
+        593
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        87,
+        617,
+        121,
+        628
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "AND",
+      "bbox": [
+        125,
+        617,
+        151,
+        627
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "ORICARTON",
+      "bbox": [
+        156,
+        617,
+        234,
+        628
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "=,",
+      "bbox": [
+        265,
+        627,
+        266,
+        630
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "Pack",
+      "bbox": [
+        310,
+        617,
+        338,
+        627
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "ADVERTISING",
+      "bbox": [
+        86,
+        652,
+        173,
+        662
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "CREATIVE",
+      "bbox": [
+        178,
+        651,
+        243,
+        662
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "THEME",
+      "bbox": [
+        247,
+        651,
+        292,
+        661
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "Rebecca",
+      "bbox": [
+        310,
+        651,
+        361,
+        661
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "SIGNATURE",
+      "bbox": [
+        86,
+        685,
+        161,
+        695
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        166,
+        685,
+        183,
+        695
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "INITIATOR",
+      "bbox": [
+        188,
+        685,
+        251,
+        695
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        86,
+        719,
+        120,
+        729
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "INITIATED",
+      "bbox": [
+        125,
+        719,
+        186,
+        729
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "May",
+      "bbox": [
+        310,
+        719,
+        334,
+        731
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "14,",
+      "bbox": [
+        339,
+        719,
+        355,
+        730
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "1992",
+      "bbox": [
+        361,
+        718,
+        388,
+        729
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ANALYTICAL",
+      "bbox": [
+        86,
+        753,
+        166,
+        763
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "REQUIREMENTS:",
+      "bbox": [
+        170,
+        752,
+        278,
+        763
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "FOR",
+      "bbox": [
+        310,
+        787,
+        336,
+        797
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "CONTROL",
+      "bbox": [
+        341,
+        786,
+        404,
+        797
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "USE",
+      "bbox": [
+        408,
+        786,
+        433,
+        797
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ONLY:",
+      "bbox": [
+        438,
+        786,
+        475,
+        797
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "CODE",
+      "bbox": [
+        310,
+        821,
+        346,
+        832
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "ASSIGNED:",
+      "bbox": [
+        350,
+        821,
+        420,
+        831
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "22177",
+      "bbox": [
+        531,
+        812,
+        582,
+        831
+      ],
+      "confidence": 74.0
+    },
+    {
+      "text": "82",
+      "bbox": [
+        591,
+        809,
+        613,
+        829
+      ],
+      "confidence": 81.0
+    },
+    {
+      "text": "JOB",
+      "bbox": [
+        309,
+        838,
+        334,
+        849
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "NUMBER:",
+      "bbox": [
+        339,
+        838,
+        398,
+        849
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "_",
+      "bbox": [
+        507,
+        828,
+        530,
+        858
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        722,
+        831,
+        733,
+        848
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "EST.",
+      "bbox": [
+        310,
+        856,
+        337,
+        867
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "REDEMPTION:",
+      "bbox": [
+        343,
+        855,
+        431,
+        866
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "ee",
+      "bbox": [
+        511,
+        832,
+        654,
+        874
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "a",
+      "bbox": [
+        723,
+        849,
+        734,
+        874
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "i",
+      "bbox": [
+        724,
+        877,
+        735,
+        892
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        725,
+        894,
+        736,
+        902
+      ],
+      "confidence": 53.0
+    }
+  ]
+}

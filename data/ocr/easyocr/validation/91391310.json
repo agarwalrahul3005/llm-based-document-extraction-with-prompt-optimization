@@ -1,0 +1,444 @@
+{
+  "words": [
+    {
+      "text": "CQUPON CODE REGISTRATIQN FQRM",
+      "bbox": [
+        315,
+        101,
+        555,
+        119
+      ],
+      "confidence": 0.40587060268309344
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        99,
+        139,
+        145,
+        155
+      ],
+      "confidence": 0.9918872422831411
+    },
+    {
+      "text": "M.BORSINI",
+      "bbox": [
+        151,
+        139,
+        225,
+        153
+      ],
+      "confidence": 0.7883544424367663
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        99,
+        171,
+        125,
+        185
+      ],
+      "confidence": 0.8289382853524769
+    },
+    {
+      "text": "VINCE LOSITO",
+      "bbox": [
+        139,
+        169,
+        231,
+        185
+      ],
+      "confidence": 0.8312336083497186
+    },
+    {
+      "text": "CC:",
+      "bbox": [
+        101,
+        203,
+        127,
+        219
+      ],
+      "confidence": 0.9971068613446536
+    },
+    {
+      "text": "T, BAYLIES_",
+      "bbox": [
+        139,
+        200,
+        211,
+        219
+      ],
+      "confidence": 0.6535592671069054
+    },
+    {
+      "text": "L: GIORDANO",
+      "bbox": [
+        215,
+        201,
+        303,
+        217
+      ],
+      "confidence": 0.6307275647779947
+    },
+    {
+      "text": "V. LINDSLEY, J. SCHNEFF",
+      "bbox": [
+        307,
+        197,
+        469,
+        215
+      ],
+      "confidence": 0.7955558744879119
+    },
+    {
+      "text": "S. RAPISARLDI;",
+      "bbox": [
+        473,
+        197,
+        571,
+        213
+      ],
+      "confidence": 0.6251306397279568
+    },
+    {
+      "text": "N",
+      "bbox": [
+        575,
+        193,
+        595,
+        215
+      ],
+      "confidence": 0.9959202976608736
+    },
+    {
+      "text": "Lunpeeed",
+      "bbox": [
+        667,
+        202,
+        778,
+        232
+      ],
+      "confidence": 0.33077646538857813
+    },
+    {
+      "text": "~HARLEY-DAVIDSON DTS CPNS",
+      "bbox": [
+        311,
+        227,
+        512,
+        253
+      ],
+      "confidence": 0.864783053628444
+    },
+    {
+      "text": "BRANDS(S) APPLICABLE",
+      "bbox": [
+        101,
+        269,
+        253,
+        287
+      ],
+      "confidence": 0.8668629555749746
+    },
+    {
+      "text": "HARLEY-DAVIDSON",
+      "bbox": [
+        316,
+        264,
+        445,
+        283
+      ],
+      "confidence": 0.9719166216816986
+    },
+    {
+      "text": "MEDIA",
+      "bbox": [
+        101,
+        303,
+        143,
+        319
+      ],
+      "confidence": 0.9998840988865902
+    },
+    {
+      "text": "COUPON",
+      "bbox": [
+        317,
+        299,
+        377,
+        315
+      ],
+      "confidence": 0.9622415038656205
+    },
+    {
+      "text": "ISSUE FREQUENCYIYEAR",
+      "bbox": [
+        101,
+        333,
+        263,
+        351
+      ],
+      "confidence": 0.9968425639769523
+    },
+    {
+      "text": "OCT",
+      "bbox": [
+        317,
+        331,
+        349,
+        347
+      ],
+      "confidence": 0.9759785039171041
+    },
+    {
+      "text": "DEC",
+      "bbox": [
+        359,
+        331,
+        389,
+        345
+      ],
+      "confidence": 0.9999672391265605
+    },
+    {
+      "text": "SPACEICOLOR",
+      "bbox": [
+        101,
+        367,
+        197,
+        383
+      ],
+      "confidence": 0.9993790871411228
+    },
+    {
+      "text": "COUPON ISSUE DATE",
+      "bbox": [
+        103,
+        397,
+        239,
+        415
+      ],
+      "confidence": 0.9298051170643311
+    },
+    {
+      "text": "10/11/93",
+      "bbox": [
+        319,
+        397,
+        373,
+        411
+      ],
+      "confidence": 0.9972754803843913
+    },
+    {
+      "text": "COUPON EXPIRATION DATE",
+      "bbox": [
+        103,
+        429,
+        279,
+        447
+      ],
+      "confidence": 0.8751023441748123
+    },
+    {
+      "text": "6/30/94",
+      "bbox": [
+        319,
+        429,
+        365,
+        443
+      ],
+      "confidence": 0.9848159100300129
+    },
+    {
+      "text": "CIRCULATION",
+      "bbox": [
+        103,
+        479,
+        193,
+        495
+      ],
+      "confidence": 0.678681037840644
+    },
+    {
+      "text": "2,852,100",
+      "bbox": [
+        329,
+        477,
+        381,
+        491
+      ],
+      "confidence": 0.8046352427197728
+    },
+    {
+      "text": "JC",
+      "bbox": [
+        444,
+        472,
+        490,
+        496
+      ],
+      "confidence": 0.8596412670615814
+    },
+    {
+      "text": "GEOGRAPHICAL AREA(S)",
+      "bbox": [
+        105,
+        527,
+        263,
+        543
+      ],
+      "confidence": 0.9428697538284317
+    },
+    {
+      "text": "NATIONAL",
+      "bbox": [
+        319,
+        525,
+        387,
+        541
+      ],
+      "confidence": 0.8966426253192422
+    },
+    {
+      "text": "COUPON VALUE",
+      "bbox": [
+        105,
+        559,
+        209,
+        575
+      ],
+      "confidence": 0.9959947569501333
+    },
+    {
+      "text": "PACK AND ORICARTON",
+      "bbox": [
+        105,
+        591,
+        253,
+        609
+      ],
+      "confidence": 0.975944374436923
+    },
+    {
+      "text": "PACK",
+      "bbox": [
+        321,
+        589,
+        359,
+        605
+      ],
+      "confidence": 0.998842179775238
+    },
+    {
+      "text": "ADVERTISING CREATIVE THEME",
+      "bbox": [
+        105,
+        623,
+        309,
+        641
+      ],
+      "confidence": 0.8478890204124305
+    },
+    {
+      "text": "SIGNATURE OF INITIATOR",
+      "bbox": [
+        105,
+        655,
+        269,
+        673
+      ],
+      "confidence": 0.6557203867069356
+    },
+    {
+      "text": "DATE INITIATED",
+      "bbox": [
+        104,
+        688,
+        207,
+        708
+      ],
+      "confidence": 0.7776308852440612
+    },
+    {
+      "text": "3/06/93",
+      "bbox": [
+        323,
+        687,
+        369,
+        701
+      ],
+      "confidence": 0.7886480067015345
+    },
+    {
+      "text": "ANALYTICAL REQUIREMENTS:",
+      "bbox": [
+        106,
+        721,
+        297,
+        739
+      ],
+      "confidence": 0.914063810109252
+    },
+    {
+      "text": "FOR CONTROL USE ONLY:",
+      "bbox": [
+        325,
+        749,
+        491,
+        767
+      ],
+      "confidence": 0.9981605643304312
+    },
+    {
+      "text": "CODE ASSIGNED:",
+      "bbox": [
+        325,
+        783,
+        437,
+        799
+      ],
+      "confidence": 0.9949561275378996
+    },
+    {
+      "text": "47O",
+      "bbox": [
+        575,
+        769,
+        623,
+        797
+      ],
+      "confidence": 0.49034848537062453
+    },
+    {
+      "text": "JOB NUMBER:",
+      "bbox": [
+        323,
+        799,
+        417,
+        815
+      ],
+      "confidence": 0.9982556045621472
+    },
+    {
+      "text": "EST , REDEMPTION:",
+      "bbox": [
+        325,
+        815,
+        449,
+        833
+      ],
+      "confidence": 0.40125494004417617
+    },
+    {
+      "text": "1",
+      "bbox": [
+        735,
+        784,
+        754,
+        857
+      ],
+      "confidence": 0.3341660100390733
+    }
+  ]
+}

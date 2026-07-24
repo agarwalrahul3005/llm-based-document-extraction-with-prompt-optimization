@@ -1,0 +1,384 @@
+{
+  "words": [
+    {
+      "text": "KOOL",
+      "bbox": [
+        61,
+        46,
+        94,
+        55
+      ],
+      "confidence": 86.0
+    },
+    {
+      "text": "PROJECT",
+      "bbox": [
+        439,
+        42,
+        494,
+        51
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "NO,",
+      "bbox": [
+        504,
+        41,
+        527,
+        51
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "DESCRIPTION:",
+      "bbox": [
+        57,
+        114,
+        156,
+        123
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "UTELIZING",
+      "bbox": [
+        321,
+        111,
+        396,
+        120
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "BLACK",
+      "bbox": [
+        405,
+        110,
+        446,
+        119
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SWITCHING",
+      "bbox": [
+        455,
+        109,
+        529,
+        119
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "STUDY",
+      "bbox": [
+        538,
+        108,
+        580,
+        117
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "DATA,",
+      "bbox": [
+        588,
+        108,
+        626,
+        118
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "MR",
+      "bbox": [
+        59,
+        184,
+        75,
+        193
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "PERSONNEL:",
+      "bbox": [
+        84,
+        183,
+        164,
+        195
+      ],
+      "confidence": 67.0
+    },
+    {
+      "text": "\u00a9",
+      "bbox": [
+        185,
+        174,
+        195,
+        202
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "SUPPLIER:",
+      "bbox": [
+        59,
+        226,
+        132,
+        238
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "Market",
+      "bbox": [
+        206,
+        224,
+        255,
+        234
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "Facts.",
+      "bbox": [
+        265,
+        224,
+        305,
+        233
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "cost:",
+      "bbox": [
+        151,
+        267,
+        191,
+        279
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "12,500",
+      "bbox": [
+        208,
+        266,
+        256,
+        276
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "CARRYOVER",
+      "bbox": [
+        469,
+        282,
+        517,
+        291
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        537,
+        281,
+        569,
+        290
+      ],
+      "confidence": 69.0
+    },
+    {
+      "text": "1998",
+      "bbox": [
+        579,
+        281,
+        610,
+        290
+      ],
+      "confidence": 68.0
+    },
+    {
+      "text": "0",
+      "bbox": [
+        647,
+        280,
+        654,
+        289
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "RELEASED",
+      "bbox": [
+        78,
+        511,
+        148,
+        539
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "PAID",
+      "bbox": [
+        297,
+        519,
+        329,
+        527
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "OUT",
+      "bbox": [
+        337,
+        519,
+        362,
+        527
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        370,
+        519,
+        388,
+        527
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "Bo",
+      "bbox": [
+        81,
+        536,
+        98,
+        547
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "_acerg",
+      "bbox": [
+        108,
+        535,
+        149,
+        544
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "287",
+      "bbox": [
+        306,
+        532,
+        329,
+        544
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "BUDGET",
+      "bbox": [
+        338,
+        532,
+        387,
+        544
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "CUMULATIVE",
+      "bbox": [
+        554,
+        531,
+        637,
+        540
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "aan",
+      "bbox": [
+        199,
+        574,
+        223,
+        583
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "we",
+      "bbox": [
+        32,
+        832,
+        53,
+        845
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "PRODUCED",
+      "bbox": [
+        12,
+        957,
+        83,
+        966
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "FROM",
+      "bbox": [
+        88,
+        957,
+        124,
+        966
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "B&W",
+      "bbox": [
+        130,
+        957,
+        158,
+        966
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "WEB",
+      "bbox": [
+        162,
+        957,
+        191,
+        966
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "SITE",
+      "bbox": [
+        196,
+        957,
+        223,
+        966
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "466024372",
+      "bbox": [
+        682,
+        957,
+        744,
+        966
+      ],
+      "confidence": 67.0
+    }
+  ]
+}

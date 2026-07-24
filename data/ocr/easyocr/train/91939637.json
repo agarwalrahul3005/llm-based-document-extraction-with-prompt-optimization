@@ -1,0 +1,484 @@
+{
+  "words": [
+    {
+      "text": "TO:",
+      "bbox": [
+        59,
+        111,
+        85,
+        127
+      ],
+      "confidence": 0.7444902996717365
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        533,
+        111,
+        571,
+        127
+      ],
+      "confidence": 0.9998297691345215
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        59,
+        149,
+        105,
+        165
+      ],
+      "confidence": 0.9995672020061321
+    },
+    {
+      "text": "true",
+      "bbox": [
+        336,
+        186,
+        394,
+        210
+      ],
+      "confidence": 0.5602433085441589
+    },
+    {
+      "text": "S3.00 CARTON COUPON PROMOTION",
+      "bbox": [
+        182,
+        206,
+        546,
+        232
+      ],
+      "confidence": 0.9388093556031548
+    },
+    {
+      "text": "PROMOTIONAL PERIOD:",
+      "bbox": [
+        107,
+        253,
+        253,
+        269
+      ],
+      "confidence": 0.8313244172253825
+    },
+    {
+      "text": "May-June 1992",
+      "bbox": [
+        263,
+        255,
+        355,
+        269
+      ],
+      "confidence": 0.8486272648435526
+    },
+    {
+      "text": "CONSUMER OFFER;",
+      "bbox": [
+        131,
+        267,
+        253,
+        283
+      ],
+      "confidence": 0.7126394587108722
+    },
+    {
+      "text": "33 Off Store Redeemabla Carton Coupon",
+      "bbox": [
+        263,
+        267,
+        493,
+        283
+      ],
+      "confidence": 0.3412829963633474
+    },
+    {
+      "text": "DISPLAY BRANDS:",
+      "bbox": [
+        141,
+        281,
+        253,
+        295
+      ],
+      "confidence": 0.9915208416404931
+    },
+    {
+      "text": "TRUE (AII Packings)",
+      "bbox": [
+        263,
+        280,
+        377,
+        297
+      ],
+      "confidence": 0.7618573133659952
+    },
+    {
+      "text": "DISPLAY AGREEMENT:",
+      "bbox": [
+        115,
+        293,
+        253,
+        309
+      ],
+      "confidence": 0.9988158146142002
+    },
+    {
+      "text": "Lorillard Sales Representative wll supply all display materals and",
+      "bbox": [
+        263,
+        295,
+        625,
+        311
+      ],
+      "confidence": 0.7946631994581479
+    },
+    {
+      "text": "assemble display: Display containing deals wll be placed on",
+      "bbox": [
+        263,
+        307,
+        597,
+        325
+      ],
+      "confidence": 0.7754862310595488
+    },
+    {
+      "text": "sell-servica basis Ior",
+      "bbox": [
+        273,
+        323,
+        387,
+        337
+      ],
+      "confidence": 0.5053048833446481
+    },
+    {
+      "text": "two-week percd_",
+      "bbox": [
+        399,
+        323,
+        491,
+        337
+      ],
+      "confidence": 0.44505107110157094
+    },
+    {
+      "text": "AUTHORIZATION FOR PLACEMENT",
+      "bbox": [
+        148,
+        352,
+        359,
+        369
+      ],
+      "confidence": 0.6832640184024836
+    },
+    {
+      "text": "TYPE DISPLAY",
+      "bbox": [
+        253,
+        381,
+        343,
+        397
+      ],
+      "confidence": 0.658931191743147
+    },
+    {
+      "text": "NO",
+      "bbox": [
+        391,
+        381,
+        415,
+        395
+      ],
+      "confidence": 0.606391936706083
+    },
+    {
+      "text": "CARIONS",
+      "bbox": [
+        418,
+        377,
+        481,
+        397
+      ],
+      "confidence": 0.9631964121273658
+    },
+    {
+      "text": "COUNTER",
+      "bbox": [
+        279,
+        411,
+        343,
+        425
+      ],
+      "confidence": 0.9686744876566581
+    },
+    {
+      "text": "FLOOR",
+      "bbox": [
+        297,
+        437,
+        343,
+        451
+      ],
+      "confidence": 0.9998490190281614
+    },
+    {
+      "text": "POSTER",
+      "bbox": [
+        291,
+        463,
+        343,
+        479
+      ],
+      "confidence": 0.9995783292274953
+    },
+    {
+      "text": "approved)",
+      "bbox": [
+        517,
+        463,
+        575,
+        479
+      ],
+      "confidence": 0.9973262549586406
+    },
+    {
+      "text": "DATE: FROM",
+      "bbox": [
+        161,
+        497,
+        241,
+        513
+      ],
+      "confidence": 0.6847639028932037
+    },
+    {
+      "text": "TO",
+      "bbox": [
+        355,
+        497,
+        377,
+        511
+      ],
+      "confidence": 0.30505725051085764
+    },
+    {
+      "text": "STORES PARTICIPATING:",
+      "bbox": [
+        61,
+        545,
+        213,
+        559
+      ],
+      "confidence": 0.5526101059346578
+    },
+    {
+      "text": "THE FOLLOWING QUANTITY OF TRUE CARTONS MUST BE AVAILABLE FOR THE LORILLARD SALES",
+      "bbox": [
+        69,
+        629,
+        663,
+        645
+      ],
+      "confidence": 0.956439821853664
+    },
+    {
+      "text": "REPRESENTATIVE TO ASSEMBLE THE DISPLAY ON THE DATE INDICATED ABOVE,",
+      "bbox": [
+        61,
+        641,
+        549,
+        657
+      ],
+      "confidence": 0.6611494556823518
+    },
+    {
+      "text": "TRUE",
+      "bbox": [
+        347,
+        667,
+        385,
+        685
+      ],
+      "confidence": 0.6499707069479452
+    },
+    {
+      "text": "NUMBER",
+      "bbox": [
+        269,
+        699,
+        327,
+        713
+      ],
+      "confidence": 0.9564075562739105
+    },
+    {
+      "text": "NUMBER",
+      "bbox": [
+        523,
+        699,
+        579,
+        713
+      ],
+      "confidence": 0.99972643444637
+    },
+    {
+      "text": "PACKING",
+      "bbox": [
+        151,
+        713,
+        209,
+        729
+      ],
+      "confidence": 0.9405209922844281
+    },
+    {
+      "text": "OF CARIONS",
+      "bbox": [
+        257,
+        711,
+        341,
+        727
+      ],
+      "confidence": 0.8411213267085484
+    },
+    {
+      "text": "PACKING",
+      "bbox": [
+        394,
+        709,
+        453,
+        729
+      ],
+      "confidence": 0.987156639158528
+    },
+    {
+      "text": "OF_ CARTONS",
+      "bbox": [
+        509,
+        711,
+        593,
+        727
+      ],
+      "confidence": 0.4683901461546107
+    },
+    {
+      "text": "FILTER KS;",
+      "bbox": [
+        143,
+        737,
+        213,
+        755
+      ],
+      "confidence": 0.5066754397361023
+    },
+    {
+      "text": "MENTHOL KS:",
+      "bbox": [
+        379,
+        739,
+        467,
+        755
+      ],
+      "confidence": 0.9720033312457544
+    },
+    {
+      "text": "FILTER 100's",
+      "bbox": [
+        141,
+        767,
+        219,
+        783
+      ],
+      "confidence": 0.6722537025893741
+    },
+    {
+      "text": "MENTKOL 100's",
+      "bbox": [
+        377,
+        767,
+        473,
+        781
+      ],
+      "confidence": 0.5874848014725793
+    },
+    {
+      "text": "BOX 80's",
+      "bbox": [
+        151,
+        793,
+        209,
+        809
+      ],
+      "confidence": 0.7838824000202104
+    },
+    {
+      "text": "BOX 100s",
+      "bbox": [
+        393,
+        793,
+        457,
+        809
+      ],
+      "confidence": 0.801382636728864
+    },
+    {
+      "text": "MERCHANDISE:",
+      "bbox": [
+        61,
+        833,
+        157,
+        849
+      ],
+      "confidence": 0.9699743098750181
+    },
+    {
+      "text": "WILL BE ARBITRARILY SHIPPED TO STORE",
+      "bbox": [
+        105,
+        853,
+        367,
+        869
+      ],
+      "confidence": 0.9359181296109984
+    },
+    {
+      "text": "ORDER, THROUGH YOUR SUPPLER:",
+      "bbox": [
+        105,
+        873,
+        325,
+        889
+      ],
+      "confidence": 0.5966476795189081
+    },
+    {
+      "text": "Authorized by:",
+      "bbox": [
+        61,
+        899,
+        143,
+        913
+      ],
+      "confidence": 0.9685425788019238
+    },
+    {
+      "text": "Date:",
+      "bbox": [
+        569,
+        897,
+        601,
+        911
+      ],
+      "confidence": 0.993970074039158
+    },
+    {
+      "text": "1",
+      "bbox": [
+        640,
+        781,
+        672,
+        854
+      ],
+      "confidence": 0.35206279980954847
+    }
+  ]
+}

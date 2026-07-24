@@ -1,0 +1,294 @@
+{
+  "words": [
+    {
+      "text": "RJR Mailfile Table Update Sheet",
+      "bbox": [
+        76,
+        90,
+        324,
+        114
+      ],
+      "confidence": 0.9599518426938567
+    },
+    {
+      "text": "Alert Number 970220",
+      "bbox": [
+        431,
+        113,
+        545,
+        129
+      ],
+      "confidence": 0.9536963647185228
+    },
+    {
+      "text": "To: RJR IR",
+      "bbox": [
+        155,
+        131,
+        221,
+        149
+      ],
+      "confidence": 0.6465496208941923
+    },
+    {
+      "text": "SuzVAn",
+      "bbox": [
+        227,
+        131,
+        275,
+        147
+      ],
+      "confidence": 0.9306222626121193
+    },
+    {
+      "text": "From: Drew Huyett",
+      "bbox": [
+        139,
+        149,
+        247,
+        165
+      ],
+      "confidence": 0.62076281287618
+    },
+    {
+      "text": "Date: 37487",
+      "bbox": [
+        143,
+        165,
+        213,
+        181
+      ],
+      "confidence": 0.33278326412391207
+    },
+    {
+      "text": "Program Group 102-Ecllpse",
+      "bbox": [
+        84,
+        199,
+        243,
+        218
+      ],
+      "confidence": 0.8341980982629329
+    },
+    {
+      "text": "System Cor Multibrand",
+      "bbox": [
+        133,
+        217,
+        267,
+        233
+      ],
+      "confidence": 0.5710390565751144
+    },
+    {
+      "text": "Mailfile ID:",
+      "bbox": [
+        109,
+        251,
+        175,
+        265
+      ],
+      "confidence": 0.9997360630622308
+    },
+    {
+      "text": "3,984",
+      "bbox": [
+        201,
+        251,
+        237,
+        265
+      ],
+      "confidence": 0.9951939961868246
+    },
+    {
+      "text": "Maillile Deecription Mail Order _",
+      "bbox": [
+        267,
+        249,
+        441,
+        267
+      ],
+      "confidence": 0.8279579908808645
+    },
+    {
+      "text": "Indy Responders",
+      "bbox": [
+        445,
+        249,
+        543,
+        265
+      ],
+      "confidence": 0.8872884189223531
+    },
+    {
+      "text": "Dataeet Name",
+      "bbox": [
+        299,
+        267,
+        379,
+        283
+      ],
+      "confidence": 0.8218147481928477
+    },
+    {
+      "text": "Quantity:",
+      "bbox": [
+        121,
+        301,
+        175,
+        317
+      ],
+      "confidence": 0.9517462582480372
+    },
+    {
+      "text": "273",
+      "bbox": [
+        211,
+        301,
+        237,
+        317
+      ],
+      "confidence": 0.9982201092288021
+    },
+    {
+      "text": "Maildale: 3/17/97",
+      "bbox": [
+        119,
+        319,
+        219,
+        333
+      ],
+      "confidence": 0.9842635146820596
+    },
+    {
+      "text": "Program",
+      "bbox": [
+        110,
+        336,
+        161,
+        354
+      ],
+      "confidence": 0.999883931311706
+    },
+    {
+      "text": "700418",
+      "bbox": [
+        177,
+        335,
+        221,
+        351
+      ],
+      "confidence": 0.9709910251910713
+    },
+    {
+      "text": "BRC Codes WB1-carton order fom",
+      "bbox": [
+        109,
+        369,
+        299,
+        385
+      ],
+      "confidence": 0.6715524369367453
+    },
+    {
+      "text": "T Codes NA",
+      "bbox": [
+        127,
+        419,
+        195,
+        435
+      ],
+      "confidence": 0.660858114716659
+    },
+    {
+      "text": "Seeds",
+      "bbox": [
+        141,
+        471,
+        175,
+        485
+      ],
+      "confidence": 0.9347249719443678
+    },
+    {
+      "text": "Suppression",
+      "bbox": [
+        104,
+        488,
+        175,
+        506
+      ],
+      "confidence": 0.997257088275527
+    },
+    {
+      "text": "Mailfile Cells",
+      "bbox": [
+        98,
+        519,
+        175,
+        538
+      ],
+      "confidence": 0.998489699693101
+    },
+    {
+      "text": "home deliver",
+      "bbox": [
+        241,
+        537,
+        321,
+        555
+      ],
+      "confidence": 0.7501464128798144
+    },
+    {
+      "text": "sneak prevlew",
+      "bbox": [
+        239,
+        555,
+        321,
+        571
+      ],
+      "confidence": 0.9619766156557552
+    },
+    {
+      "text": "Notes",
+      "bbox": [
+        77,
+        729,
+        113,
+        743
+      ],
+      "confidence": 0.9999396505840766
+    },
+    {
+      "text": "This Is for notes",
+      "bbox": [
+        89,
+        749,
+        179,
+        765
+      ],
+      "confidence": 0.571693565683813
+    },
+    {
+      "text": "8",
+      "bbox": [
+        679,
+        839,
+        693,
+        877
+      ],
+      "confidence": 0.9379612281755989
+    },
+    {
+      "text": "970220.ALS Mailfie",
+      "bbox": [
+        61,
+        941,
+        147,
+        955
+      ],
+      "confidence": 0.3220250806188343
+    }
+  ]
+}

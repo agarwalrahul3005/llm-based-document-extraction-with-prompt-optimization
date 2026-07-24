@@ -1,0 +1,664 @@
+{
+  "words": [
+    {
+      "text": "NS",
+      "bbox": [
+        57,
+        28,
+        97,
+        57
+      ],
+      "confidence": 72.0
+    },
+    {
+      "text": "BROWN",
+      "bbox": [
+        147,
+        38,
+        297,
+        50
+      ],
+      "confidence": 70.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        200,
+        28,
+        206,
+        64
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "WILLIAMSON",
+      "bbox": [
+        215,
+        38,
+        297,
+        50
+      ],
+      "confidence": 85.0
+    },
+    {
+      "text": "TOBACCO",
+      "bbox": [
+        147,
+        56,
+        210,
+        66
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "ConroraTion",
+      "bbox": [
+        215,
+        54,
+        307,
+        65
+      ],
+      "confidence": 51.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        556,
+        47,
+        569,
+        69
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "B&W",
+      "bbox": [
+        53,
+        64,
+        131,
+        121
+      ],
+      "confidence": 48.0
+    },
+    {
+      "text": "\u2018",
+      "bbox": [
+        559,
+        74,
+        566,
+        82
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        571,
+        56,
+        600,
+        114
+      ],
+      "confidence": 33.0
+    },
+    {
+      "text": "_7848",
+      "bbox": [
+        122,
+        124,
+        148,
+        134
+      ],
+      "confidence": 66.0
+    },
+    {
+      "text": "BRAND",
+      "bbox": [
+        56,
+        165,
+        100,
+        175
+      ],
+      "confidence": 83.0
+    },
+    {
+      "text": "__KOOL",
+      "bbox": [
+        122,
+        163,
+        156,
+        174
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "Naturat",
+      "bbox": [
+        160,
+        163,
+        200,
+        173
+      ],
+      "confidence": 64.0
+    },
+    {
+      "text": "DESCRIPTION",
+      "bbox": [
+        56,
+        202,
+        139,
+        213
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Winter",
+      "bbox": [
+        207,
+        183,
+        241,
+        221
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "aa",
+      "bbox": [
+        294,
+        200,
+        309,
+        210
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "\u2014",
+      "bbox": [
+        315,
+        203,
+        328,
+        206
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "IR.",
+      "bbox": [
+        334,
+        187,
+        394,
+        209
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "O",
+      "bbox": [
+        399,
+        187,
+        412,
+        203
+      ],
+      "confidence": 77.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        57,
+        242,
+        90,
+        252
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "__",
+      "bbox": [
+        95,
+        232,
+        111,
+        262
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "1022/08",
+      "bbox": [
+        116,
+        241,
+        163,
+        251
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "4",
+      "bbox": [
+        466,
+        234,
+        486,
+        269
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "SQ.",
+      "bbox": [
+        57,
+        280,
+        75,
+        291
+      ],
+      "confidence": 53.0
+    },
+    {
+      "text": "INCHESFEET",
+      "bbox": [
+        83,
+        280,
+        164,
+        290
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "7.96875",
+      "bbox": [
+        176,
+        279,
+        239,
+        292
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "54,",
+      "bbox": [
+        229,
+        267,
+        243,
+        300
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "inches",
+      "bbox": [
+        247,
+        278,
+        282,
+        288
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        414,
+        282,
+        416,
+        284
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "TRIM",
+      "bbox": [
+        53,
+        327,
+        87,
+        358
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Size.",
+      "bbox": [
+        94,
+        327,
+        119,
+        358
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "2.9/6\"",
+      "bbox": [
+        177,
+        325,
+        217,
+        356
+      ],
+      "confidence": 31.0
+    },
+    {
+      "text": "WX2",
+      "bbox": [
+        227,
+        336,
+        255,
+        346
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "U2\"H",
+      "bbox": [
+        260,
+        335,
+        292,
+        345
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "\u2018west",
+      "bbox": [
+        542,
+        350,
+        572,
+        359
+      ],
+      "confidence": 38.0
+    },
+    {
+      "text": "WARNING",
+      "bbox": [
+        58,
+        395,
+        119,
+        406
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "4(a)",
+      "bbox": [
+        218,
+        394,
+        235,
+        408
+      ],
+      "confidence": 49.0
+    },
+    {
+      "text": "Staternent",
+      "bbox": [
+        243,
+        393,
+        311,
+        404
+      ],
+      "confidence": 52.0
+    },
+    {
+      "text": "A",
+      "bbox": [
+        306,
+        381,
+        315,
+        414
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "TaN",
+      "bbox": [
+        58,
+        441,
+        83,
+        474
+      ],
+      "confidence": 34.0
+    },
+    {
+      "text": "OTT",
+      "bbox": [
+        60,
+        511,
+        85,
+        522
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "APPROVALS",
+      "bbox": [
+        89,
+        511,
+        164,
+        521
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "Sign",
+      "bbox": [
+        91,
+        518,
+        116,
+        551
+      ],
+      "confidence": 75.0
+    },
+    {
+      "text": "Department",
+      "bbox": [
+        321,
+        515,
+        391,
+        548
+      ],
+      "confidence": 62.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        520,
+        525,
+        547,
+        535
+      ],
+      "confidence": 63.0
+    },
+    {
+      "text": "Sedation",
+      "bbox": [
+        322,
+        539,
+        497,
+        567
+      ],
+      "confidence": 39.0
+    },
+    {
+      "text": "ete",
+      "bbox": [
+        517,
+        560,
+        671,
+        579
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "BBW",
+      "bbox": [
+        62,
+        666,
+        92,
+        676
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "APPROVALS",
+      "bbox": [
+        96,
+        665,
+        170,
+        676
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "yy",
+      "bbox": [
+        307,
+        637,
+        328,
+        679
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "\u2018Signature",
+      "bbox": [
+        90,
+        678,
+        146,
+        706
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": ":",
+      "bbox": [
+        240,
+        690,
+        254,
+        758
+      ],
+      "confidence": 78.0
+    },
+    {
+      "text": "wt",
+      "bbox": [
+        271,
+        674,
+        312,
+        756
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "Department",
+      "bbox": [
+        323,
+        675,
+        392,
+        703
+      ],
+      "confidence": 65.0
+    },
+    {
+      "text": "Date",
+      "bbox": [
+        522,
+        680,
+        549,
+        690
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "REVISIONS",
+      "bbox": [
+        65,
+        809,
+        132,
+        842
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "DATE",
+      "bbox": [
+        329,
+        818,
+        362,
+        829
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "COMPLETE",
+      "bbox": [
+        366,
+        817,
+        435,
+        828
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "REVISIONS",
+      "bbox": [
+        523,
+        814,
+        593,
+        826
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "APPROVED",
+      "bbox": [
+        597,
+        813,
+        668,
+        824
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "176103236",
+      "bbox": [
+        2,
+        955,
+        79,
+        964
+      ],
+      "confidence": 84.0
+    },
+    {
+      "text": "PRODUCED",
+      "bbox": [
+        2,
+        971,
+        71,
+        980
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "FROY",
+      "bbox": [
+        82,
+        971,
+        115,
+        980
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "WES",
+      "bbox": [
+        161,
+        971,
+        186,
+        980
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "SITE",
+      "bbox": [
+        197,
+        971,
+        230,
+        980
+      ],
+      "confidence": 93.0
+    }
+  ]
+}

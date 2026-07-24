@@ -1,0 +1,284 @@
+{
+  "words": [
+    {
+      "text": "CASE FORM",
+      "bbox": [
+        333,
+        143,
+        407,
+        157
+      ],
+      "confidence": 0.9050857489595389
+    },
+    {
+      "text": "CASE NAME:",
+      "bbox": [
+        115,
+        171,
+        193,
+        185
+      ],
+      "confidence": 0.9135501035040651
+    },
+    {
+      "text": "Donald",
+      "bbox": [
+        241,
+        171,
+        283,
+        185
+      ],
+      "confidence": 0.9960898367662963
+    },
+    {
+      "text": "Sellers and Robin ]",
+      "bbox": [
+        295,
+        171,
+        397,
+        185
+      ],
+      "confidence": 0.8326417588855528
+    },
+    {
+      "text": "Sellers",
+      "bbox": [
+        401,
+        171,
+        439,
+        185
+      ],
+      "confidence": 0.9680366697261331
+    },
+    {
+      "text": "Raybestos-Manhattan, et al",
+      "bbox": [
+        449,
+        171,
+        595,
+        185
+      ],
+      "confidence": 0.6896775061892105
+    },
+    {
+      "text": "COURT:",
+      "bbox": [
+        115,
+        199,
+        165,
+        213
+      ],
+      "confidence": 0.9995956562840375
+    },
+    {
+      "text": "San Francisco Superior Court",
+      "bbox": [
+        241,
+        199,
+        397,
+        213
+      ],
+      "confidence": 0.6578240093391672
+    },
+    {
+      "text": "No. 996382",
+      "bbox": [
+        401,
+        197,
+        461,
+        211
+      ],
+      "confidence": 0.5862235709421715
+    },
+    {
+      "text": "LORILLARD",
+      "bbox": [
+        113,
+        229,
+        189,
+        243
+      ],
+      "confidence": 0.5967875439829339
+    },
+    {
+      "text": "ENTTTTES:",
+      "bbox": [
+        113,
+        243,
+        179,
+        255
+      ],
+      "confidence": 0.856058922315697
+    },
+    {
+      "text": "Lorillurd Tobacco Comnpauy",
+      "bbox": [
+        241,
+        243,
+        387,
+        255
+      ],
+      "confidence": 0.774679734175461
+    },
+    {
+      "text": "DATE FILED:",
+      "bbox": [
+        113,
+        269,
+        193,
+        283
+      ],
+      "confidence": 0.8997386977329083
+    },
+    {
+      "text": "DATE SERVED:",
+      "bbox": [
+        113,
+        299,
+        205,
+        313
+      ],
+      "confidence": 0.9306592150232379
+    },
+    {
+      "text": "August $, 1998",
+      "bbox": [
+        241,
+        299,
+        321,
+        315
+      ],
+      "confidence": 0.47235433535713833
+    },
+    {
+      "text": "CASE TYPE:",
+      "bbox": [
+        113,
+        325,
+        187,
+        339
+      ],
+      "confidence": 0.9742658685355652
+    },
+    {
+      "text": "Ashestos",
+      "bbox": [
+        241,
+        327,
+        289,
+        339
+      ],
+      "confidence": 0.9499772731935593
+    },
+    {
+      "text": "PLAINTIFF'S",
+      "bbox": [
+        112,
+        350,
+        191,
+        367
+      ],
+      "confidence": 0.6503057338011867
+    },
+    {
+      "text": "COUNSEL:",
+      "bbox": [
+        113,
+        365,
+        179,
+        379
+      ],
+      "confidence": 0.9748843540195145
+    },
+    {
+      "text": "Wartnick Chaber; Harowitz Smitb& Tigernian",
+      "bbox": [
+        241,
+        365,
+        487,
+        381
+      ],
+      "confidence": 0.5114367449736513
+    },
+    {
+      "text": "Stephen MTigerman",
+      "bbox": [
+        240,
+        377,
+        349,
+        396
+      ],
+      "confidence": 0.6451848813016752
+    },
+    {
+      "text": "101 California Street; Suite 2200",
+      "bbox": [
+        241,
+        393,
+        407,
+        407
+      ],
+      "confidence": 0.5217755536174298
+    },
+    {
+      "text": "San Francisco, California 94111",
+      "bbox": [
+        241,
+        407,
+        407,
+        419
+      ],
+      "confidence": 0.7598339789822731
+    },
+    {
+      "text": "415/986-5566",
+      "bbox": [
+        241,
+        419,
+        311,
+        433
+      ],
+      "confidence": 0.9856342598015678
+    },
+    {
+      "text": "LORILLARD",
+      "bbox": [
+        113,
+        447,
+        189,
+        459
+      ],
+      "confidence": 0.8157733881165267
+    },
+    {
+      "text": "COUNSEL:",
+      "bbox": [
+        113,
+        461,
+        179,
+        473
+      ],
+      "confidence": 0.9950878825138044
+    },
+    {
+      "text": "JUDGE:",
+      "bbox": [
+        113,
+        487,
+        161,
+        501
+      ],
+      "confidence": 0.9970406949062547
+    },
+    {
+      "text": "TRIAL DATE:",
+      "bbox": [
+        113,
+        513,
+        195,
+        527
+      ],
+      "confidence": 0.8686270462073666
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "words": [
+    {
+      "text": "P.176",
+      "bbox": [
+        579,
+        79,
+        615,
+        91
+      ],
+      "confidence": 0.5011758271159942
+    },
+    {
+      "text": "4QEwS",
+      "bbox": [
+        308,
+        170,
+        382,
+        202
+      ],
+      "confidence": 0.45550769234555544
+    },
+    {
+      "text": "BARAY HIASCH",
+      "bbox": [
+        69,
+        265,
+        139,
+        279
+      ],
+      "confidence": 0.5655298241902423
+    },
+    {
+      "text": "BAX",
+      "bbox": [
+        331,
+        285,
+        365,
+        305
+      ],
+      "confidence": 0.506162636099796
+    },
+    {
+      "text": "CQNEIDENTLAL",
+      "bbox": [
+        296,
+        317,
+        403,
+        337
+      ],
+      "confidence": 0.40828138519287926
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        85,
+        367,
+        133,
+        383
+      ],
+      "confidence": 0.9989681364047757
+    },
+    {
+      "text": "Junc",
+      "bbox": [
+        167,
+        369,
+        197,
+        383
+      ],
+      "confidence": 0.7731176586148752
+    },
+    {
+      "text": "1997",
+      "bbox": [
+        209,
+        367,
+        239,
+        383
+      ],
+      "confidence": 0.9998611807823181
+    },
+    {
+      "text": "TO:",
+      "bbox": [
+        89,
+        399,
+        117,
+        415
+      ],
+      "confidence": 0.5451261822871721
+    },
+    {
+      "text": "Dr: SpearA J. Steven:R Milstein",
+      "bbox": [
+        167,
+        401,
+        361,
+        417
+      ],
+      "confidence": 0.47403602435351344
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        85,
+        433,
+        135,
+        447
+      ],
+      "confidence": 0.9990861827668602
+    },
+    {
+      "text": "Barry Hirsch",
+      "bbox": [
+        167,
+        433,
+        241,
+        449
+      ],
+      "confidence": 0.7730565144235221
+    },
+    {
+      "text": "TOTAL NUMBER OF PAGES INCLUDING THIS COVER SHEET",
+      "bbox": [
+        87,
+        463,
+        485,
+        479
+      ],
+      "confidence": 0.9596332727657835
+    },
+    {
+      "text": "MFYOU DO NOT RECEIVE ALL THE PACES, PLEASE CALL",
+      "bbox": [
+        103,
+        479,
+        481,
+        497
+      ],
+      "confidence": 0.6034672603453932
+    },
+    {
+      "text": "CAROL DOKTORSKI AT (212) 545-2934.",
+      "bbox": [
+        103,
+        495,
+        353,
+        513
+      ],
+      "confidence": 0.8079646049640231
+    },
+    {
+      "text": "OUR FAX NUMBER IS (212) 935-6801.",
+      "bbox": [
+        103,
+        525,
+        337,
+        545
+      ],
+      "confidence": 0.8288582950584877
+    },
+    {
+      "text": "ROSIAL",
+      "bbox": [
+        86,
+        836,
+        118,
+        844
+      ],
+      "confidence": 0.4066285416736041
+    },
+    {
+      "text": "5",
+      "bbox": [
+        650,
+        832,
+        674,
+        862
+      ],
+      "confidence": 0.3116567828398651
+    },
+    {
+      "text": "1",
+      "bbox": [
+        651,
+        859,
+        673,
+        875
+      ],
+      "confidence": 0.4827760565206063
+    }
+  ]
+}

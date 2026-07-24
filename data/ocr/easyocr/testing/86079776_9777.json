@@ -1,0 +1,404 @@
+{
+  "words": [
+    {
+      "text": "CREATIVE INPUT DOCUMENT",
+      "bbox": [
+        66,
+        99,
+        393,
+        135
+      ],
+      "confidence": 0.7683973596835091
+    },
+    {
+      "text": "SPECIFICS",
+      "bbox": [
+        93,
+        153,
+        185,
+        173
+      ],
+      "confidence": 0.9804139208646044
+    },
+    {
+      "text": "Date/Time:",
+      "bbox": [
+        68,
+        178,
+        158,
+        202
+      ],
+      "confidence": 0.9912594091926693
+    },
+    {
+      "text": "LQ302146 PM",
+      "bbox": [
+        179,
+        183,
+        285,
+        199
+      ],
+      "confidence": 0.30360993975805395
+    },
+    {
+      "text": "Client Name:",
+      "bbox": [
+        389,
+        177,
+        487,
+        197
+      ],
+      "confidence": 0.881855389458722
+    },
+    {
+      "text": "Prepared By:",
+      "bbox": [
+        69,
+        201,
+        169,
+        221
+      ],
+      "confidence": 0.8680917834157742
+    },
+    {
+      "text": "Matter Number:",
+      "bbox": [
+        388,
+        196,
+        508,
+        220
+      ],
+      "confidence": 0.9449197540320949
+    },
+    {
+      "text": "Milestone Presentation Date:",
+      "bbox": [
+        69,
+        221,
+        289,
+        241
+      ],
+      "confidence": 0.9882220195922539
+    },
+    {
+      "text": "Project Title:",
+      "bbox": [
+        387,
+        219,
+        489,
+        239
+      ],
+      "confidence": 0.998628913706535
+    },
+    {
+      "text": "Estlmated Creative Budget:",
+      "bbox": [
+        69,
+        241,
+        273,
+        261
+      ],
+      "confidence": 0.6984972620033861
+    },
+    {
+      "text": "Est_ Production Budget:",
+      "bbox": [
+        386,
+        236,
+        564,
+        260
+      ],
+      "confidence": 0.8429663162812133
+    },
+    {
+      "text": "Concept:",
+      "bbox": [
+        71,
+        265,
+        131,
+        283
+      ],
+      "confidence": 0.9923016394785797
+    },
+    {
+      "text": "Execution:",
+      "bbox": [
+        223,
+        265,
+        295,
+        281
+      ],
+      "confidence": 0.9948952217063196
+    },
+    {
+      "text": "Media:",
+      "bbox": [
+        387,
+        259,
+        443,
+        279
+      ],
+      "confidence": 0.995269094574006
+    },
+    {
+      "text": "OBJECTIVE",
+      "bbox": [
+        89,
+        297,
+        187,
+        317
+      ],
+      "confidence": 0.876246967498574
+    },
+    {
+      "text": "Why are we advertising?",
+      "bbox": [
+        68,
+        322,
+        258,
+        346
+      ],
+      "confidence": 0.7753243249151913
+    },
+    {
+      "text": "achiovo?",
+      "bbox": [
+        152,
+        342,
+        193,
+        356
+      ],
+      "confidence": 0.4472516887617645
+    },
+    {
+      "text": "Relationship-Building",
+      "bbox": [
+        121,
+        361,
+        215,
+        377
+      ],
+      "confidence": 0.7889586692168487
+    },
+    {
+      "text": "Rulenton",
+      "bbox": [
+        304,
+        364,
+        346,
+        372
+      ],
+      "confidence": 0.463013355749895
+    },
+    {
+      "text": "Loyalty",
+      "bbox": [
+        569,
+        361,
+        605,
+        373
+      ],
+      "confidence": 0.8085204939364745
+    },
+    {
+      "text": "Comaelibve Blocring",
+      "bbox": [
+        121,
+        377,
+        215,
+        391
+      ],
+      "confidence": 0.40406640790851
+    },
+    {
+      "text": "Up-Sell",
+      "bbox": [
+        441,
+        375,
+        477,
+        389
+      ],
+      "confidence": 0.6178805930317264
+    },
+    {
+      "text": "Lead Generalicn",
+      "bbox": [
+        577,
+        375,
+        653,
+        387
+      ],
+      "confidence": 0.42627480218887326
+    },
+    {
+      "text": "Direct Sale",
+      "bbox": [
+        303,
+        391,
+        353,
+        403
+      ],
+      "confidence": 0.8433032085640744
+    },
+    {
+      "text": "Charge Image Perceplimn",
+      "bbox": [
+        121,
+        403,
+        235,
+        419
+      ],
+      "confidence": 0.7418043373085954
+    },
+    {
+      "text": "Other",
+      "bbox": [
+        303,
+        405,
+        331,
+        417
+      ],
+      "confidence": 0.7452064238828215
+    },
+    {
+      "text": "TARGTT",
+      "bbox": [
+        103,
+        435,
+        173,
+        455
+      ],
+      "confidence": 0.9510241646600234
+    },
+    {
+      "text": "To whom are We talking?",
+      "bbox": [
+        75,
+        463,
+        263,
+        483
+      ],
+      "confidence": 0.6651430832205857
+    },
+    {
+      "text": "'targol?",
+      "bbox": [
+        154,
+        482,
+        189,
+        496
+      ],
+      "confidence": 0.6407910916318601
+    },
+    {
+      "text": "secondary (argol? Wial Is (nek relationship",
+      "bbox": [
+        229,
+        481,
+        415,
+        495
+      ],
+      "confidence": 0.33622211325265244
+    },
+    {
+      "text": "COMMUNICATIONPLATFORM",
+      "bbox": [
+        94,
+        544,
+        282,
+        568
+      ],
+      "confidence": 0.8909517565258747
+    },
+    {
+      "text": "What Is the single MOSt important message/idea we are Irying to communicate?",
+      "bbox": [
+        74,
+        568,
+        674,
+        596
+      ],
+      "confidence": 0.48282167131077935
+    },
+    {
+      "text": "9oal?",
+      "bbox": [
+        387,
+        591,
+        415,
+        605
+      ],
+      "confidence": 0.3723015411617273
+    },
+    {
+      "text": "What Is the key benefit t0 the target?",
+      "bbox": [
+        74,
+        635,
+        354,
+        661
+      ],
+      "confidence": 0.6001505115565625
+    },
+    {
+      "text": "Is there an offer /call to action?",
+      "bbox": [
+        72,
+        702,
+        314,
+        726
+      ],
+      "confidence": 0.7615118626775891
+    },
+    {
+      "text": "offering the target t0 persuade",
+      "bbox": [
+        129,
+        723,
+        253,
+        737
+      ],
+      "confidence": 0.3934007210657953
+    },
+    {
+      "text": "What would we IIke Our target t0 think?",
+      "bbox": [
+        74,
+        763,
+        370,
+        791
+      ],
+      "confidence": 0.4878098402093159
+    },
+    {
+      "text": "clmy documents wplsampl cid doc",
+      "bbox": [
+        67,
+        933,
+        247,
+        949
+      ],
+      "confidence": 0.6570023186892481
+    },
+    {
+      "text": "of2",
+      "bbox": [
+        371,
+        933,
+        395,
+        947
+      ],
+      "confidence": 0.9756874328158666
+    },
+    {
+      "text": "10/30/98 01:46 PM",
+      "bbox": [
+        599,
+        931,
+        699,
+        945
+      ],
+      "confidence": 0.6473660182401393
+    }
+  ]
+}

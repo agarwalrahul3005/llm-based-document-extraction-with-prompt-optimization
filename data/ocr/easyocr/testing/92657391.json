@@ -1,0 +1,454 @@
+{
+  "words": [
+    {
+      "text": "12/29/94",
+      "bbox": [
+        75,
+        27,
+        135,
+        41
+      ],
+      "confidence": 0.9893159290262676
+    },
+    {
+      "text": "10:14",
+      "bbox": [
+        151,
+        27,
+        189,
+        41
+      ],
+      "confidence": 0.537873638191216
+    },
+    {
+      "text": "3713",
+      "bbox": [
+        215,
+        27,
+        251,
+        43
+      ],
+      "confidence": 0.8548190593719482
+    },
+    {
+      "text": "591 0204",
+      "bbox": [
+        255,
+        29,
+        313,
+        43
+      ],
+      "confidence": 0.6607761052542401
+    },
+    {
+      "text": "LORILLARD HOUS _",
+      "bbox": [
+        383,
+        29,
+        483,
+        43
+      ],
+      "confidence": 0.8334484085305385
+    },
+    {
+      "text": "YORK   SALES",
+      "bbox": [
+        555,
+        29,
+        627,
+        43
+      ],
+      "confidence": 0.5270379554939473
+    },
+    {
+      "text": "2001/003",
+      "bbox": [
+        655,
+        29,
+        717,
+        45
+      ],
+      "confidence": 0.9756533349116693
+    },
+    {
+      "text": "TOBACCO COMPANY",
+      "bbox": [
+        141,
+        95,
+        261,
+        111
+      ],
+      "confidence": 0.993220287745223
+    },
+    {
+      "text": "FACSIMILE COVER PAGE",
+      "bbox": [
+        254,
+        150,
+        496,
+        176
+      ],
+      "confidence": 0.7573302943986493
+    },
+    {
+      "text": "DATE:",
+      "bbox": [
+        79,
+        203,
+        129,
+        221
+      ],
+      "confidence": 0.7726200683982699
+    },
+    {
+      "text": "12428194",
+      "bbox": [
+        227,
+        209,
+        289,
+        225
+      ],
+      "confidence": 0.3688919304593627
+    },
+    {
+      "text": "TIME:",
+      "bbox": [
+        391,
+        203,
+        439,
+        223
+      ],
+      "confidence": 0.9925703181099117
+    },
+    {
+      "text": "10il5",
+      "bbox": [
+        509,
+        211,
+        547,
+        225
+      ],
+      "confidence": 0.3190420308415405
+    },
+    {
+      "text": "The following document; including cover page is_",
+      "bbox": [
+        78,
+        254,
+        478,
+        284
+      ],
+      "confidence": 0.7520198831759245
+    },
+    {
+      "text": "pages",
+      "bbox": [
+        573,
+        261,
+        630,
+        287
+      ],
+      "confidence": 0.9480034661918535
+    },
+    {
+      "text": "PLEASE TRANSMIT THIS DOCUMENT TO:",
+      "bbox": [
+        218,
+        308,
+        536,
+        332
+      ],
+      "confidence": 0.8388522782316054
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        77,
+        343,
+        133,
+        363
+      ],
+      "confidence": 0.9929092474097806
+    },
+    {
+      "text": "Orcutt",
+      "bbox": [
+        321,
+        349,
+        367,
+        363
+      ],
+      "confidence": 0.5358510916255487
+    },
+    {
+      "text": "OFFICE:",
+      "bbox": [
+        77,
+        375,
+        145,
+        395
+      ],
+      "confidence": 0.9988846414282694
+    },
+    {
+      "text": "Lorillard",
+      "bbox": [
+        277,
+        385,
+        347,
+        399
+      ],
+      "confidence": 0.8980934697307483
+    },
+    {
+      "text": "Ne",
+      "bbox": [
+        363,
+        385,
+        389,
+        399
+      ],
+      "confidence": 0.977806315290195
+    },
+    {
+      "text": "York",
+      "bbox": [
+        393,
+        385,
+        425,
+        399
+      ],
+      "confidence": 0.7903709411621094
+    },
+    {
+      "text": "FAX PHONE NUMBER:",
+      "bbox": [
+        75,
+        409,
+        249,
+        429
+      ],
+      "confidence": 0.9266732513109545
+    },
+    {
+      "text": "(212)",
+      "bbox": [
+        279,
+        417,
+        315,
+        431
+      ],
+      "confidence": 0.9997309833009284
+    },
+    {
+      "text": "545-3299",
+      "bbox": [
+        321,
+        417,
+        381,
+        431
+      ],
+      "confidence": 0.9278611533820945
+    },
+    {
+      "text": "ThiS DOCUMENT IS FROM:",
+      "bbox": [
+        270,
+        482,
+        480,
+        506
+      ],
+      "confidence": 0.4720154867768149
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        75,
+        515,
+        131,
+        535
+      ],
+      "confidence": 0.9246559722121022
+    },
+    {
+      "text": "McGiunie",
+      "bbox": [
+        319,
+        523,
+        381,
+        539
+      ],
+      "confidence": 0.4025493430208568
+    },
+    {
+      "text": "Region_",
+      "bbox": [
+        399,
+        525,
+        449,
+        541
+      ],
+      "confidence": 0.4975001245308437
+    },
+    {
+      "text": "OFFICE:",
+      "bbox": [
+        75,
+        553,
+        143,
+        573
+      ],
+      "confidence": 0.9957713248348071
+    },
+    {
+      "text": "Lorillard Tobacco Company _ Houston N_Teras",
+      "bbox": [
+        260,
+        554,
+        664,
+        581
+      ],
+      "confidence": 0.3987610347215307
+    },
+    {
+      "text": "FAX PHONE NUMBER:",
+      "bbox": [
+        75,
+        587,
+        249,
+        607
+      ],
+      "confidence": 0.7679104053745168
+    },
+    {
+      "text": "1713)-591-0204",
+      "bbox": [
+        256,
+        588,
+        374,
+        612
+      ],
+      "confidence": 0.350790770499933
+    },
+    {
+      "text": "COMMENTS:",
+      "bbox": [
+        75,
+        655,
+        177,
+        675
+      ],
+      "confidence": 0.9998416837973062
+    },
+    {
+      "text": "Harley-Davidson",
+      "bbox": [
+        275,
+        661,
+        387,
+        677
+      ],
+      "confidence": 0.9507128444535509
+    },
+    {
+      "text": "100",
+      "bbox": [
+        391,
+        661,
+        415,
+        675
+      ],
+      "confidence": 0.9991501909278214
+    },
+    {
+      "text": "Progress Report _",
+      "bbox": [
+        432,
+        660,
+        547,
+        678
+      ],
+      "confidence": 0.7961564359320239
+    },
+    {
+      "text": "c9",
+      "bbox": [
+        275,
+        733,
+        299,
+        745
+      ],
+      "confidence": 0.7456480420342939
+    },
+    {
+      "text": "Giacoio",
+      "bbox": [
+        353,
+        749,
+        407,
+        763
+      ],
+      "confidence": 0.8691522718738821
+    },
+    {
+      "text": "McCann",
+      "bbox": [
+        353,
+        763,
+        399,
+        777
+      ],
+      "confidence": 0.9806188236757133
+    },
+    {
+      "text": "Enloe",
+      "bbox": [
+        353,
+        781,
+        393,
+        795
+      ],
+      "confidence": 0.9942544252053418
+    },
+    {
+      "text": "Acney",
+      "bbox": [
+        353,
+        797,
+        393,
+        811
+      ],
+      "confidence": 0.9634995045927672
+    },
+    {
+      "text": "In the event that any of these pages are not legible, or you donotreceive all",
+      "bbox": [
+        67,
+        861,
+        672,
+        893
+      ],
+      "confidence": 0.6925014840366447
+    },
+    {
+      "text": "pages, please call this office as soon as possible at (713) 591-6733.",
+      "bbox": [
+        68,
+        884,
+        612,
+        912
+      ],
+      "confidence": 0.6613660760678745
+    },
+    {
+      "text": "long:",
+      "bbox": [
+        624,
+        258,
+        674,
+        287
+      ],
+      "confidence": 0.8483312423130256
+    }
+  ]
+}

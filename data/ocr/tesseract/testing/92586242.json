@@ -1,0 +1,574 @@
+{
+  "words": [
+    {
+      "text": "Newport",
+      "bbox": [
+        79,
+        88,
+        330,
+        152
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "pleasure!",
+      "bbox": [
+        410,
+        93,
+        678,
+        149
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "VE",
+      "bbox": [
+        480,
+        149,
+        510,
+        157
+      ],
+      "confidence": 30.0
+    },
+    {
+      "text": "OPE",
+      "bbox": [
+        560,
+        151,
+        582,
+        157
+      ],
+      "confidence": 36.0
+    },
+    {
+      "text": "We:",
+      "bbox": [
+        616,
+        138,
+        667,
+        157
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "SPECIAL",
+      "bbox": [
+        135,
+        245,
+        236,
+        263
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        246,
+        244,
+        333,
+        262
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "INFORMATION",
+      "bbox": [
+        342,
+        243,
+        527,
+        262
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "SHEET",
+      "bbox": [
+        538,
+        243,
+        620,
+        261
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "GENERAL",
+      "bbox": [
+        134,
+        342,
+        220,
+        356
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "INFORMATION:",
+      "bbox": [
+        227,
+        342,
+        364,
+        355
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        134,
+        378,
+        172,
+        388
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "NAME:",
+      "bbox": [
+        177,
+        378,
+        212,
+        388
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "Upper",
+      "bbox": [
+        261,
+        377,
+        294,
+        387
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "avende",
+      "bbox": [
+        357,
+        377,
+        396,
+        387
+      ],
+      "confidence": 54.0
+    },
+    {
+      "text": "Testival",
+      "bbox": [
+        404,
+        376,
+        457,
+        386
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        134,
+        407,
+        172,
+        418
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "LOCATION:",
+      "bbox": [
+        177,
+        407,
+        238,
+        417
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "Street,",
+      "bbox": [
+        338,
+        394,
+        384,
+        426
+      ],
+      "confidence": 82.0
+    },
+    {
+      "text": "See",
+      "bbox": [
+        394,
+        394,
+        410,
+        426
+      ],
+      "confidence": 56.0
+    },
+    {
+      "text": "York,",
+      "bbox": [
+        418,
+        394,
+        453,
+        426
+      ],
+      "confidence": 58.0
+    },
+    {
+      "text": "sy",
+      "bbox": [
+        459,
+        408,
+        619,
+        418
+      ],
+      "confidence": 55.0
+    },
+    {
+      "text": "EVENT",
+      "bbox": [
+        134,
+        437,
+        172,
+        447
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "DATES:",
+      "bbox": [
+        177,
+        437,
+        212,
+        447
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "___June",
+      "bbox": [
+        228,
+        432,
+        288,
+        453
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "4,",
+      "bbox": [
+        294,
+        432,
+        309,
+        453
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "1995",
+      "bbox": [
+        315,
+        432,
+        344,
+        453
+      ],
+      "confidence": 71.0
+    },
+    {
+      "text": "000",
+      "bbox": [
+        219,
+        436,
+        619,
+        446
+      ],
+      "confidence": 35.0
+    },
+    {
+      "text": "HOURS:",
+      "bbox": [
+        134,
+        505,
+        204,
+        518
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "MONDAY-FRIDAY,",
+      "bbox": [
+        134,
+        540,
+        619,
+        550
+      ],
+      "confidence": 40.0
+    },
+    {
+      "text": "=",
+      "bbox": [
+        311,
+        575,
+        315,
+        576
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "SPECIFICS:",
+      "bbox": [
+        134,
+        637,
+        225,
+        651
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "crac",
+      "bbox": [
+        134,
+        647,
+        160,
+        679
+      ],
+      "confidence": 37.0
+    },
+    {
+      "text": "bones",
+      "bbox": [
+        217,
+        661,
+        250,
+        671
+      ],
+      "confidence": 43.0
+    },
+    {
+      "text": "Hi",
+      "bbox": [
+        211,
+        688,
+        222,
+        699
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "#",
+      "bbox": [
+        227,
+        689,
+        233,
+        698
+      ],
+      "confidence": 44.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        238,
+        689,
+        254,
+        699
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "BOOTHS)",
+      "bbox": [
+        260,
+        688,
+        316,
+        701
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "&",
+      "bbox": [
+        292,
+        718,
+        300,
+        729
+      ],
+      "confidence": 92.0
+    },
+    {
+      "text": "PREMIUMS.",
+      "bbox": [
+        304,
+        718,
+        365,
+        728
+      ],
+      "confidence": 59.0
+    },
+    {
+      "text": "VAN",
+      "bbox": [
+        510,
+        718,
+        535,
+        728
+      ],
+      "confidence": 94.0
+    },
+    {
+      "text": "ONLY",
+      "bbox": [
+        293,
+        749,
+        325,
+        758
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "CAR",
+      "bbox": [
+        519,
+        748,
+        542,
+        758
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "SUPERVISOR",
+      "bbox": [
+        135,
+        816,
+        246,
+        829
+      ],
+      "confidence": 96.0
+    },
+    {
+      "text": "INFORMATION:",
+      "bbox": [
+        253,
+        816,
+        390,
+        829
+      ],
+      "confidence": 89.0
+    },
+    {
+      "text": "NAME",
+      "bbox": [
+        135,
+        852,
+        170,
+        862
+      ],
+      "confidence": 95.0
+    },
+    {
+      "text": "OF",
+      "bbox": [
+        174,
+        852,
+        191,
+        862
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "ALLWAYS",
+      "bbox": [
+        195,
+        852,
+        246,
+        862
+      ],
+      "confidence": 93.0
+    },
+    {
+      "text": "SUPERVISOR:",
+      "bbox": [
+        251,
+        851,
+        323,
+        861
+      ],
+      "confidence": 90.0
+    },
+    {
+      "text": "Curry",
+      "bbox": [
+        407,
+        855,
+        433,
+        864
+      ],
+      "confidence": 46.0
+    },
+    {
+      "text": "3",
+      "bbox": [
+        665,
+        845,
+        675,
+        869
+      ],
+      "confidence": 60.0
+    },
+    {
+      "text": "PHONE",
+      "bbox": [
+        135,
+        882,
+        178,
+        892
+      ],
+      "confidence": 91.0
+    },
+    {
+      "text": "NUMBER:",
+      "bbox": [
+        183,
+        882,
+        235,
+        891
+      ],
+      "confidence": 73.0
+    },
+    {
+      "text": "(2",
+      "bbox": [
+        258,
+        882,
+        262,
+        891
+      ],
+      "confidence": 50.0
+    },
+    {
+      "text": "923-3208",
+      "bbox": [
+        291,
+        882,
+        344,
+        891
+      ],
+      "confidence": 57.0
+    },
+    {
+      "text": "BEEPE?",
+      "bbox": [
+        374,
+        881,
+        416,
+        891
+      ],
+      "confidence": 87.0
+    },
+    {
+      "text": "NUMBER:",
+      "bbox": [
+        421,
+        881,
+        473,
+        891
+      ],
+      "confidence": 39.0
+    }
+  ]
+}

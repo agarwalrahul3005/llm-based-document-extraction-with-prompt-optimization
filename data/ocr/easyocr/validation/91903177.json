@@ -1,0 +1,384 @@
+{
+  "words": [
+    {
+      "text": "TO:",
+      "bbox": [
+        97,
+        129,
+        121,
+        143
+      ],
+      "confidence": 0.9734897861793784
+    },
+    {
+      "text": "SPARROW",
+      "bbox": [
+        259,
+        129,
+        319,
+        141
+      ],
+      "confidence": 0.9993713477088162
+    },
+    {
+      "text": "DATE TO NYO:",
+      "bbox": [
+        505,
+        128,
+        589,
+        142
+      ],
+      "confidence": 0.5802412533157423
+    },
+    {
+      "text": "FROM:",
+      "bbox": [
+        97,
+        155,
+        141,
+        169
+      ],
+      "confidence": 0.9997587063837564
+    },
+    {
+      "text": "DIV. NAME / NO:",
+      "bbox": [
+        97,
+        181,
+        199,
+        197
+      ],
+      "confidence": 0.8299740864254274
+    },
+    {
+      "text": "SPECIAL EVEN REQUEST FORM",
+      "bbox": [
+        283,
+        237,
+        479,
+        251
+      ],
+      "confidence": 0.7203887558903317
+    },
+    {
+      "text": "NAME OF EVENT:",
+      "bbox": [
+        95,
+        289,
+        205,
+        305
+      ],
+      "confidence": 0.987686541947346
+    },
+    {
+      "text": "'DATE OF EVENT:",
+      "bbox": [
+        97,
+        317,
+        207,
+        331
+      ],
+      "confidence": 0.9881771970148379
+    },
+    {
+      "text": "SAMPLES",
+      "bbox": [
+        95,
+        371,
+        155,
+        385
+      ],
+      "confidence": 0.6905099102838008
+    },
+    {
+      "text": "ITEMS REQUIRED;",
+      "bbox": [
+        159,
+        371,
+        273,
+        385
+      ],
+      "confidence": 0.8024584917379117
+    },
+    {
+      "text": "SAMPLE 10S (4M PACKS PER CASE)",
+      "bbox": [
+        287,
+        369,
+        479,
+        385
+      ],
+      "confidence": 0.6799774111811064
+    },
+    {
+      "text": "#CASES",
+      "bbox": [
+        319,
+        423,
+        373,
+        439
+      ],
+      "confidence": 0.6740136529727725
+    },
+    {
+      "text": "NEWPORTKS",
+      "bbox": [
+        93,
+        451,
+        177,
+        465
+      ],
+      "confidence": 0.990138896346304
+    },
+    {
+      "text": "KENT GL LTSKS",
+      "bbox": [
+        501,
+        451,
+        597,
+        467
+      ],
+      "confidence": 0.961761478531443
+    },
+    {
+      "text": "NEWPORT 100'S",
+      "bbox": [
+        93,
+        463,
+        183,
+        477
+      ],
+      "confidence": 0.462881244549102
+    },
+    {
+      "text": "KENT HOJ",
+      "bbox": [
+        317,
+        463,
+        387,
+        477
+      ],
+      "confidence": 0.3424434709297076
+    },
+    {
+      "text": "KENT GL 10",
+      "bbox": [
+        501,
+        465,
+        575,
+        479
+      ],
+      "confidence": 0.8066216436609226
+    },
+    {
+      "text": "NEWPORTLTS KS",
+      "bbox": [
+        93,
+        477,
+        201,
+        491
+      ],
+      "confidence": 0.6856963460377857
+    },
+    {
+      "text": "TRUEKS",
+      "bbox": [
+        317,
+        477,
+        373,
+        491
+      ],
+      "confidence": 0.9975555553674549
+    },
+    {
+      "text": "NEWPORT LTS 10",
+      "bbox": [
+        93,
+        489,
+        201,
+        503
+      ],
+      "confidence": 0.6228187645703818
+    },
+    {
+      "text": "KENTKS",
+      "bbox": [
+        319,
+        491,
+        373,
+        503
+      ],
+      "confidence": 0.9961930492847467
+    },
+    {
+      "text": "KENT I0",
+      "bbox": [
+        317,
+        503,
+        373,
+        517
+      ],
+      "confidence": 0.7074541009804016
+    },
+    {
+      "text": "[TEMS",
+      "bbox": [
+        317,
+        557,
+        359,
+        571
+      ],
+      "confidence": 0.5640326103498469
+    },
+    {
+      "text": "QUANTITY REQUIRED",
+      "bbox": [
+        501,
+        557,
+        639,
+        571
+      ],
+      "confidence": 0.698901630091701
+    },
+    {
+      "text": "WATER BOTTLES",
+      "bbox": [
+        319,
+        583,
+        423,
+        597
+      ],
+      "confidence": 0.9915395841693966
+    },
+    {
+      "text": "BANNER(S) (4X 8)",
+      "bbox": [
+        319,
+        611,
+        427,
+        627
+      ],
+      "confidence": 0.8916631296327229
+    },
+    {
+      "text": "GENERAL MARKET",
+      "bbox": [
+        317,
+        637,
+        427,
+        651
+      ],
+      "confidence": 0.8865579724499688
+    },
+    {
+      "text": "URBAN",
+      "bbox": [
+        317,
+        651,
+        363,
+        665
+      ],
+      "confidence": 0.9905897201982061
+    },
+    {
+      "text": "SPANISH",
+      "bbox": [
+        317,
+        663,
+        369,
+        677
+      ],
+      "confidence": 0.9987563053963925
+    },
+    {
+      "text": "ANGUAGE",
+      "bbox": [
+        375,
+        663,
+        437,
+        679
+      ],
+      "confidence": 0.6906392623228205
+    },
+    {
+      "text": "CUSTOMER SHIPPING NUMBER",
+      "bbox": [
+        95,
+        743,
+        271,
+        757
+      ],
+      "confidence": 0.7288138194620575
+    },
+    {
+      "text": "NYOONXi",
+      "bbox": [
+        95,
+        783,
+        167,
+        797
+      ],
+      "confidence": 0.3340771247790128
+    },
+    {
+      "text": "DATE FORWARDED TO PROMOTION SERVICES:",
+      "bbox": [
+        95,
+        809,
+        359,
+        825
+      ],
+      "confidence": 0.9109496863029729
+    },
+    {
+      "text": "1",
+      "bbox": [
+        673,
+        762,
+        694,
+        831
+      ],
+      "confidence": 0.635649907531505
+    },
+    {
+      "text": "PLEASE ALLOW",
+      "bbox": [
+        103,
+        863,
+        201,
+        879
+      ],
+      "confidence": 0.8024660186230802
+    },
+    {
+      "text": "WEEKS FOR PROCESSING OF YOUR REQUEST.",
+      "bbox": [
+        211,
+        863,
+        483,
+        879
+      ],
+      "confidence": 0.7464233943667838
+    },
+    {
+      "text": "REQFORM",
+      "bbox": [
+        77,
+        917,
+        133,
+        933
+      ],
+      "confidence": 0.7645631818350871
+    },
+    {
+      "text": "Apr-96",
+      "bbox": [
+        647,
+        919,
+        689,
+        933
+      ],
+      "confidence": 0.5264013100736127
+    }
+  ]
+}
