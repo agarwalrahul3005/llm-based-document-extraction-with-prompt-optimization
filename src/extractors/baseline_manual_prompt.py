@@ -7,9 +7,8 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[2]
 
-INPUT_DIR = ROOT / "data" / "ocr" / "tesseract" / "train"
-OUTPUT_DIR = ROOT / "data" / "predictions" / "mistral"
-
+INPUT_DIR = ROOT / "data" / "ocr" / "easyocr" / "testing"
+OUTPUT_DIR = ROOT / "experiments" / "predictions" / "qwen25_without_layout_aware"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 BASELINE_PROMPT = """ 
@@ -17,13 +16,9 @@ You are a document understanding system.
 You are given OCR text lines from a form. 
 
 Your job: Identify KEY-VALUE pairs. 
-
 A key-value pair means: 
 - A short label (question) 
 - Followed by its corresponding value (answer) 
-Example: 
-"COMPOUND" → "3-Hydroxy-3-methylbutanoic acid" 
-"SOURCE" → "Lorillard - Organic Chemistry" 
 
 Return STRICT JSON: 
 [ 
@@ -36,7 +31,6 @@ Return STRICT JSON:
 Rules: 
 - Pair nearby related text
 - Questions are usually short labels 
-- Answers are usually longer values 
 - Do NOT hallucinate fields 
 - Output ONLY JSON OCR 
 
@@ -49,7 +43,7 @@ def call_ollama(prompt):
     response = requests.post(
         "http://localhost:11434/api/generate",
         json={
-            "model": "mistral",
+            "model": "qwen2.5:7b",
             "prompt": prompt,
             "stream": False
         }
@@ -142,9 +136,12 @@ def main():
     files = list(INPUT_DIR.glob("*.json"))
 
     print(f"Processing {len(files)} files...")
+    print(f"\nFound {len(files)} OCR files.\n")
 
-    for file in files:
-        print(f"\n→ {file.name}")
+    for index, file in enumerate(files):
+        print("\n" + "=" * 100)
+        print(f"[{index+1}/{len(files)}] {file.name}")
+        print("=" * 100)
 
         result = process_file(file)
 
