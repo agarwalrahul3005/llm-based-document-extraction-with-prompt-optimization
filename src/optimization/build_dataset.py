@@ -5,7 +5,7 @@ from layout.raw_document_builder import RawDocumentBuilder
 
 ROOT = Path(__file__).resolve().parents[2]
 
-OCR_DIR = ROOT / "data" / "ocr" / "tesseract" 
+OCR_DIR = ROOT / "data" / "ocr" / "easyocr" 
 GT_DIR = ROOT / "data" / "ground_truth"
 
 

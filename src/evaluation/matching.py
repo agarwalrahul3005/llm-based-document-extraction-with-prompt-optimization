@@ -1,7 +1,8 @@
 import re
 from difflib import SequenceMatcher
 
-MATCH_THRESHOLD = 0.60
+KEY_MATCH_THRESHOLD = 0.5
+VALUE_MATCH_THRESHOLD = 0.7
 
 
 # ----------------------------------------------------
@@ -28,9 +29,9 @@ def similarity(a, b):
 # ----------------------------------------------------
 def is_match(gt, pred):
     return (
-        similarity(gt["question"], pred["question"]) >= MATCH_THRESHOLD
+        similarity(gt["question"], pred["question"]) >= KEY_MATCH_THRESHOLD
         and
-        similarity(gt["answer"], pred["answer"]) >= MATCH_THRESHOLD
+        similarity(gt["answer"], pred["answer"]) >= VALUE_MATCH_THRESHOLD
     )
 
 

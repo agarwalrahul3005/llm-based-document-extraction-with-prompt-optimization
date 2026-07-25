@@ -8,7 +8,8 @@ class FormExtractionModule(dspy.Module):
 
     def __init__(self):
         super().__init__()
-        self.extract = dspy.Predict(ExtractForm)
+        # self.extract = dspy.Predict(ExtractForm)
+        self.extract = dspy.ChainOfThought(ExtractForm)
 
     # def parse_response(self, response):
     #     try:

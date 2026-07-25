@@ -66,9 +66,6 @@ class DSPyExtractor:
         # -------------------------------------------------
         # Debug output
         # -------------------------------------------------
-        print("\n" + "=" * 100)
-        print(f"FILE : {filename}")
-        print("=" * 100)
         print(prediction.response)
         print()
     

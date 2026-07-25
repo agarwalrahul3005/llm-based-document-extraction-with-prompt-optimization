@@ -35,28 +35,6 @@ class Line:
 class Document:
     lines: list
 
-    # def to_prompt(self):
-
-    #     sections = []
-
-    #     for index, line in enumerate(self.lines):
-
-    #         section = []
-    #         section.append(f"========== Line {index+1} ==========")
-    #         section.append(f"Line {index+1}")
-    #         section.append(f"Text: {line.text}")
-    #         section.append(f"Line BBox: {line.bbox}")
-    #         section.append("Words:")
-
-    #         for word in line.words:
-    #             section.append(
-    #                 f'  - "{word.text}" {word.bbox}'
-    #             )
-
-    #         sections.append("\n".join(section))
-
-    #     return "\n\n".join(sections)
-
     def to_prompt(self, include_words=False):
         output = []
         for index, line in enumerate(self.lines):

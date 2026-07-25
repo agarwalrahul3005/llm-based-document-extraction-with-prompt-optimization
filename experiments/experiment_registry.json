@@ -3,7 +3,7 @@
     "experiment": "mistral",
     "ollama_model": "mistral",
     "framework": "DSPy",
-    "ocr": "Tesseract",
+    "ocr": "easyocr",
     "representation": "Line + Bounding Box",
     "prompt": "BaselinePrompt"
   },
@@ -11,7 +11,7 @@
     "experiment": "gemma3",
     "ollama_model": "gemma3:4b",
     "framework": "DSPy",
-    "ocr": "Tesseract",
+    "ocr": "easyocr",
     "representation": "Line + Bounding Box",
     "prompt": "BaselinePrompt"
   },

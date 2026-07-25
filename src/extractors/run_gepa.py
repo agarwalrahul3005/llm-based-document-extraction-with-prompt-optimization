@@ -36,7 +36,7 @@ dspy.configure(lm=lm)
 
 ROOT = Path(__file__).resolve().parents[2]
 
-OCR_DIR = ROOT / "data"/ "ocr" / "tesseract"/ "testing"
+OCR_DIR = ROOT / "data"/ "ocr" / "easyocr"/ "testing"
 OUTPUT_DIR = ROOT / "experiments" / "predictions" / f"{model_name}_gepa"
 PROGRAM_FILE = ROOT / "experiments" / "gepa"  / model_name / f"{model_name}_optimized_program.json"
 

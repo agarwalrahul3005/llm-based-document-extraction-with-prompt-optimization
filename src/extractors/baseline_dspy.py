@@ -14,7 +14,7 @@ from extractors.dspy_extractor import DSPyExtractor
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model",required=True)
-parser.add_argument("--dataset",default="train")
+parser.add_argument("--dataset",default="testing")
 args = parser.parse_args()
 
 model_name = args.model
@@ -44,11 +44,11 @@ ROOT = Path(__file__).resolve().parents[2]
 
 INPUT_DIR = ROOT / "data" / "ocr" / "tesseract"/ args.dataset
 OUTPUT_DIR = ROOT / "experiments" / "predictions" / model_name
-RAW_OUTPUT_DIR = ROOT / "experiments" / "raw_outputs" / model_name
+# RAW_OUTPUT_DIR = ROOT / "experiments" / "raw_outputs" / model_name
 REGISTRY = ROOT / "experiments" / "experiment_registry.json"
 
 OUTPUT_DIR.mkdir(parents=True,exist_ok=True)
-RAW_OUTPUT_DIR.mkdir(parents=True,exist_ok=True)
+# RAW_OUTPUT_DIR.mkdir(parents=True,exist_ok=True)
 
 registry = {}
 
@@ -62,22 +62,18 @@ with open(REGISTRY, "w") as f:
     json.dump(registry, f, indent=2)
 
 
-
-# ---------------------------------
-# Main
-# ---------------------------------
-
 def main():
 
-    extractor = DSPyExtractor(prompt_name="baseline")
+    extractor = DSPyExtractor()
 
     files = sorted(INPUT_DIR.glob("*.json"))
 
     print(f"\nFound {len(files)} OCR files.\n")
 
     for index, file in enumerate(files):
+        print("\n" + "=" * 100)
         print(f"[{index+1}/{len(files)}] {file.name}")
-
+        print("=" * 100)
         with open(file, encoding="utf-8") as f:
             ocr = json.load(f)
 
@@ -96,25 +92,24 @@ def main():
             raw_output = str(e)
 
         output_file = OUTPUT_DIR / file.name
-        raw_file = RAW_OUTPUT_DIR / file.with_suffix(".txt").name
-
         with open( output_file, "w", encoding="utf-8") as f:
             json.dump(prediction, f, indent=2, ensure_ascii=False)
 
-        with open(raw_file, "w", encoding="utf-8") as f:
-            f.write("=" * 80)
-            f.write("\nPROMPT\n")
-            f.write("=" * 80)
-            f.write("\n")
-            f.write(prompt)
-            f.write("\n")
+        # raw_file = RAW_OUTPUT_DIR / file.with_suffix(".txt").name
+        # with open(raw_file, "w", encoding="utf-8") as f:
+        #     f.write("=" * 80)
+        #     f.write("\nPROMPT\n")
+        #     f.write("=" * 80)
+        #     f.write("\n")
+        #     f.write(prompt)
+        #     f.write("\n")
 
-            f.write("=" * 80)
-            f.write("\nRESPONSE\n")
-            f.write("=" * 80)
-            f.write("\n")
+        #     f.write("=" * 80)
+        #     f.write("\nRESPONSE\n")
+        #     f.write("=" * 80)
+        #     f.write("\n")
 
-            f.write(raw_output)
+        #     f.write(raw_output)
 
     print("\nExtraction Finished.")
 

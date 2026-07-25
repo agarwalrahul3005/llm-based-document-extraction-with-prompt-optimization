@@ -1,12 +1,12 @@
 import argparse
 from pathlib import Path
 
-from src.evaluation.evaluate import evaluate
+from evaluation.evaluate import evaluate
 
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--model", required=True)
-parser.add_argument("--dataset", default="train")
+parser.add_argument("--dataset", default="testing")
 args = parser.parse_args()
 
 ROOT = Path(__file__).resolve().parents[2]

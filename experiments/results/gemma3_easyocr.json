@@ -1,0 +1,642 @@
+{
+    "overall": {
+        "ground_truth": 1409,
+        "predictions": 1088,
+        "matched": 164,
+        "precision": 0.151,
+        "recall": 0.116,
+        "f1": 0.131
+    },
+    "files": [
+        {
+            "file": "0001209043.json",
+            "ground_truth": 60,
+            "predictions": 22,
+            "matched": 3,
+            "precision": 0.136,
+            "recall": 0.05,
+            "f1": 0.073
+        },
+        {
+            "file": "0001239897.json",
+            "ground_truth": 27,
+            "predictions": 3,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "0001438955.json",
+            "ground_truth": 74,
+            "predictions": 24,
+            "matched": 2,
+            "precision": 0.083,
+            "recall": 0.027,
+            "f1": 0.041
+        },
+        {
+            "file": "0001463282.json",
+            "ground_truth": 41,
+            "predictions": 32,
+            "matched": 1,
+            "precision": 0.031,
+            "recall": 0.024,
+            "f1": 0.027
+        },
+        {
+            "file": "0001476912.json",
+            "ground_truth": 35,
+            "predictions": 25,
+            "matched": 5,
+            "precision": 0.2,
+            "recall": 0.143,
+            "f1": 0.167
+        },
+        {
+            "file": "0001485288.json",
+            "ground_truth": 11,
+            "predictions": 17,
+            "matched": 2,
+            "precision": 0.118,
+            "recall": 0.182,
+            "f1": 0.143
+        },
+        {
+            "file": "0011838621.json",
+            "ground_truth": 29,
+            "predictions": 19,
+            "matched": 1,
+            "precision": 0.053,
+            "recall": 0.034,
+            "f1": 0.042
+        },
+        {
+            "file": "0011845203.json",
+            "ground_truth": 9,
+            "predictions": 8,
+            "matched": 3,
+            "precision": 0.375,
+            "recall": 0.333,
+            "f1": 0.353
+        },
+        {
+            "file": "0011856542.json",
+            "ground_truth": 7,
+            "predictions": 10,
+            "matched": 4,
+            "precision": 0.4,
+            "recall": 0.571,
+            "f1": 0.471
+        },
+        {
+            "file": "0011859695.json",
+            "ground_truth": 11,
+            "predictions": 16,
+            "matched": 2,
+            "precision": 0.125,
+            "recall": 0.182,
+            "f1": 0.148
+        },
+        {
+            "file": "0011899960.json",
+            "ground_truth": 12,
+            "predictions": 0,
+            "matched": 0,
+            "precision": 0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "0011906503.json",
+            "ground_truth": 24,
+            "predictions": 20,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "0011973451.json",
+            "ground_truth": 16,
+            "predictions": 14,
+            "matched": 3,
+            "precision": 0.214,
+            "recall": 0.188,
+            "f1": 0.2
+        },
+        {
+            "file": "11508234.json",
+            "ground_truth": 36,
+            "predictions": 27,
+            "matched": 5,
+            "precision": 0.185,
+            "recall": 0.139,
+            "f1": 0.159
+        },
+        {
+            "file": "11875011.json",
+            "ground_truth": 5,
+            "predictions": 30,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "82092117.json",
+            "ground_truth": 9,
+            "predictions": 9,
+            "matched": 4,
+            "precision": 0.444,
+            "recall": 0.444,
+            "f1": 0.444
+        },
+        {
+            "file": "82200067_0069.json",
+            "ground_truth": 31,
+            "predictions": 7,
+            "matched": 1,
+            "precision": 0.143,
+            "recall": 0.032,
+            "f1": 0.053
+        },
+        {
+            "file": "82250337_0338.json",
+            "ground_truth": 14,
+            "predictions": 13,
+            "matched": 1,
+            "precision": 0.077,
+            "recall": 0.071,
+            "f1": 0.074
+        },
+        {
+            "file": "82251504.json",
+            "ground_truth": 12,
+            "predictions": 4,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "82252956_2958.json",
+            "ground_truth": 10,
+            "predictions": 15,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "82253058_3059.json",
+            "ground_truth": 15,
+            "predictions": 15,
+            "matched": 3,
+            "precision": 0.2,
+            "recall": 0.2,
+            "f1": 0.2
+        },
+        {
+            "file": "82253245_3247.json",
+            "ground_truth": 37,
+            "predictions": 28,
+            "matched": 2,
+            "precision": 0.071,
+            "recall": 0.054,
+            "f1": 0.062
+        },
+        {
+            "file": "82253362_3364.json",
+            "ground_truth": 62,
+            "predictions": 23,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "82254765.json",
+            "ground_truth": 17,
+            "predictions": 19,
+            "matched": 5,
+            "precision": 0.263,
+            "recall": 0.294,
+            "f1": 0.278
+        },
+        {
+            "file": "82491256.json",
+            "ground_truth": 7,
+            "predictions": 17,
+            "matched": 6,
+            "precision": 0.353,
+            "recall": 0.857,
+            "f1": 0.5
+        },
+        {
+            "file": "82504862.json",
+            "ground_truth": 6,
+            "predictions": 16,
+            "matched": 4,
+            "precision": 0.25,
+            "recall": 0.667,
+            "f1": 0.364
+        },
+        {
+            "file": "82562350.json",
+            "ground_truth": 9,
+            "predictions": 6,
+            "matched": 3,
+            "precision": 0.5,
+            "recall": 0.333,
+            "f1": 0.4
+        },
+        {
+            "file": "82573104.json",
+            "ground_truth": 4,
+            "predictions": 18,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "82837252.json",
+            "ground_truth": 9,
+            "predictions": 16,
+            "matched": 3,
+            "precision": 0.188,
+            "recall": 0.333,
+            "f1": 0.24
+        },
+        {
+            "file": "83443897.json",
+            "ground_truth": 12,
+            "predictions": 8,
+            "matched": 6,
+            "precision": 0.75,
+            "recall": 0.5,
+            "f1": 0.6
+        },
+        {
+            "file": "83553333_3334.json",
+            "ground_truth": 31,
+            "predictions": 24,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "83573282.json",
+            "ground_truth": 29,
+            "predictions": 16,
+            "matched": 3,
+            "precision": 0.188,
+            "recall": 0.103,
+            "f1": 0.133
+        },
+        {
+            "file": "83594639.json",
+            "ground_truth": 6,
+            "predictions": 6,
+            "matched": 5,
+            "precision": 0.833,
+            "recall": 0.833,
+            "f1": 0.833
+        },
+        {
+            "file": "83624198.json",
+            "ground_truth": 12,
+            "predictions": 23,
+            "matched": 8,
+            "precision": 0.348,
+            "recall": 0.667,
+            "f1": 0.457
+        },
+        {
+            "file": "83635935.json",
+            "ground_truth": 4,
+            "predictions": 8,
+            "matched": 4,
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1": 0.667
+        },
+        {
+            "file": "83641919_1921.json",
+            "ground_truth": 60,
+            "predictions": 27,
+            "matched": 1,
+            "precision": 0.037,
+            "recall": 0.017,
+            "f1": 0.023
+        },
+        {
+            "file": "83772145.json",
+            "ground_truth": 8,
+            "predictions": 26,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "83823750.json",
+            "ground_truth": 10,
+            "predictions": 18,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "83996357.json",
+            "ground_truth": 16,
+            "predictions": 26,
+            "matched": 9,
+            "precision": 0.346,
+            "recall": 0.562,
+            "f1": 0.429
+        },
+        {
+            "file": "85240939.json",
+            "ground_truth": 10,
+            "predictions": 13,
+            "matched": 6,
+            "precision": 0.462,
+            "recall": 0.6,
+            "f1": 0.522
+        },
+        {
+            "file": "86075409_5410.json",
+            "ground_truth": 15,
+            "predictions": 22,
+            "matched": 3,
+            "precision": 0.136,
+            "recall": 0.2,
+            "f1": 0.162
+        },
+        {
+            "file": "86079776_9777.json",
+            "ground_truth": 1,
+            "predictions": 14,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "86220490.json",
+            "ground_truth": 8,
+            "predictions": 12,
+            "matched": 8,
+            "precision": 0.667,
+            "recall": 1.0,
+            "f1": 0.8
+        },
+        {
+            "file": "86230203_0206.json",
+            "ground_truth": 36,
+            "predictions": 20,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "86236474_6476.json",
+            "ground_truth": 8,
+            "predictions": 15,
+            "matched": 1,
+            "precision": 0.067,
+            "recall": 0.125,
+            "f1": 0.087
+        },
+        {
+            "file": "86244113.json",
+            "ground_truth": 8,
+            "predictions": 17,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "86263525.json",
+            "ground_truth": 12,
+            "predictions": 4,
+            "matched": 1,
+            "precision": 0.25,
+            "recall": 0.083,
+            "f1": 0.125
+        },
+        {
+            "file": "86328049_8050.json",
+            "ground_truth": 38,
+            "predictions": 16,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "87086073.json",
+            "ground_truth": 6,
+            "predictions": 11,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "87093315_87093318.json",
+            "ground_truth": 54,
+            "predictions": 28,
+            "matched": 9,
+            "precision": 0.321,
+            "recall": 0.167,
+            "f1": 0.22
+        },
+        {
+            "file": "87125460.json",
+            "ground_truth": 20,
+            "predictions": 12,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "87137840.json",
+            "ground_truth": 15,
+            "predictions": 14,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "87147607.json",
+            "ground_truth": 10,
+            "predictions": 22,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "87332450.json",
+            "ground_truth": 6,
+            "predictions": 24,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "87428306.json",
+            "ground_truth": 8,
+            "predictions": 0,
+            "matched": 0,
+            "precision": 0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "87528321.json",
+            "ground_truth": 16,
+            "predictions": 24,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "87528380.json",
+            "ground_truth": 29,
+            "predictions": 11,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "87594142_87594144.json",
+            "ground_truth": 27,
+            "predictions": 9,
+            "matched": 2,
+            "precision": 0.222,
+            "recall": 0.074,
+            "f1": 0.111
+        },
+        {
+            "file": "89856243.json",
+            "ground_truth": 17,
+            "predictions": 11,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "91814768_91814769.json",
+            "ground_truth": 28,
+            "predictions": 5,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "92380595.json",
+            "ground_truth": 22,
+            "predictions": 27,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "92586242.json",
+            "ground_truth": 9,
+            "predictions": 12,
+            "matched": 3,
+            "precision": 0.25,
+            "recall": 0.333,
+            "f1": 0.286
+        },
+        {
+            "file": "92657311_7313.json",
+            "ground_truth": 10,
+            "predictions": 8,
+            "matched": 3,
+            "precision": 0.375,
+            "recall": 0.3,
+            "f1": 0.333
+        },
+        {
+            "file": "92657391.json",
+            "ground_truth": 15,
+            "predictions": 8,
+            "matched": 4,
+            "precision": 0.5,
+            "recall": 0.267,
+            "f1": 0.348
+        },
+        {
+            "file": "93106788.json",
+            "ground_truth": 10,
+            "predictions": 10,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "93213298.json",
+            "ground_truth": 26,
+            "predictions": 11,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "93329540.json",
+            "ground_truth": 29,
+            "predictions": 0,
+            "matched": 0,
+            "precision": 0,
+            "recall": 0.0,
+            "f1": 0
+        },
+        {
+            "file": "93351929_93351931.json",
+            "ground_truth": 21,
+            "predictions": 23,
+            "matched": 16,
+            "precision": 0.696,
+            "recall": 0.762,
+            "f1": 0.727
+        },
+        {
+            "file": "93380187.json",
+            "ground_truth": 41,
+            "predictions": 29,
+            "matched": 9,
+            "precision": 0.31,
+            "recall": 0.22,
+            "f1": 0.257
+        },
+        {
+            "file": "93455715.json",
+            "ground_truth": 27,
+            "predictions": 1,
+            "matched": 0,
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1": 0
+        }
+    ]
+}
