@@ -9,12 +9,13 @@ class RawDocumentBuilder:
 
     def build(self, ocr_words):
         words = sorted(ocr_words,key=lambda w: (w["bbox"][1], w["bbox"][0]))
-        document_lines = []
+        lines = []
         current_words = []
         prev_y = None
 
         for item in words:
             word = Word(text=item["text"], bbox=item["bbox"])
+
             y = word.bbox[1]
 
             if prev_y is None:
@@ -22,15 +23,15 @@ class RawDocumentBuilder:
             elif abs(y-prev_y) <= self.line_threshold:
                 current_words.append(word)
             else:
-                document_lines.append(self.merge(current_words))
+                lines.append(self.merge(current_words))
                 current_words=[word]
 
             prev_y=y
 
         if current_words:
-            document_lines.append(self.merge(current_words))
+            lines.append(self.merge(current_words))
 
-        return Document(lines=document_lines)
+        return Document(lines=lines)
 
 
     def merge(self, words):

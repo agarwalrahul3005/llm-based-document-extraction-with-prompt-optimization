@@ -11,15 +11,11 @@ class DSPyExtractor:
 
     def __init__(self, optimized_program=None):
         self.builder = RawDocumentBuilder()
-
-        if optimized_program is None:
-            print("\nUsing baseline DSPy program\n")
-            self.module = FormExtractionModule()
-        else:
+        self.module = FormExtractionModule()
+        if optimized_program:
             optimized_program = Path(optimized_program)
-            print("\nLoading optimized DSPy program")
             print(optimized_program)
-            self.module = dspy.load(str(optimized_program))
+            self.module.load(str(optimized_program))
 
     def parse_json(self, text):
         # -------------------------------------------------
@@ -61,11 +57,6 @@ class DSPyExtractor:
         document = self.builder.build(ocr_words)
         prompt = document.to_prompt(include_words=False)
         prediction = self.module(document=prompt)
-
-
-        # -------------------------------------------------
-        # Debug output
-        # -------------------------------------------------
         print(prediction.response)
         print()
     

@@ -37,11 +37,12 @@ class Document:
 
     def to_prompt(self, include_words=False):
         output = []
+        output.append( "The following OCR was extracted from a scanned form.")
+        # output.append("Each line contains its text followed by its bounding box.")
+        output.append("")
         for index, line in enumerate(self.lines):
-            output.append(f"=== Line {index+1} ===")
-            output.append(f"Text : {line.text}")
-            output.append(f"Line BBox : {line.bbox}")
-
+            output.append(line.text)
+            # output.append(f"Location: {line.bbox}")
             if include_words:
                 output.append("Words:")
                 for word in line.words:
@@ -49,6 +50,6 @@ class Document:
                         f'   "{word.text}" -> {word.bbox}'
                     )
 
-            output.append("")
+        output.append("") 
 
         return "\n".join(output)

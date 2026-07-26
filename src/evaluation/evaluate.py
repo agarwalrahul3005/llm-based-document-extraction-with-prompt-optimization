@@ -54,16 +54,15 @@ def evaluate(gt_dir, prediction_dir, output_file):
         })
 
         print(
+            f"File Name={gt_file.name}"
             f"GT={len(gt)} "
             f"PRED={len(pred)} "
             f"MATCH={matched}"
-        )
-
-        print(
             f"Precision={precision:.2f}"
             f" Recall={recall:.2f}"
             f" F1={f1:.2f}"
         )
+
 
     overall_precision = overall_match / overall_pred if overall_pred else 0
     overall_recall =  overall_match / overall_gt if overall_gt else 0
@@ -77,23 +76,32 @@ def evaluate(gt_dir, prediction_dir, output_file):
         else 0
     )
 
-    summary = {
-        "overall": {
-            "ground_truth": overall_gt,
-            "predictions": overall_pred,
-            "matched": overall_match,
-            "precision": round(overall_precision,3),
-            "recall": round(overall_recall,3),
-            "f1": round(overall_f1,3)
-        },
-        "files": report
+    # summary = {
+    #     "overall": {
+    #         "ground_truth": overall_gt,
+    #         "predictions": overall_pred,
+    #         "matched": overall_match,
+    #         "precision": round(overall_precision,3),
+    #         "recall": round(overall_recall,3),
+    #         "f1": round(overall_f1,3)
+    #     },
+    #     "files": report
+    # }
+
+    summary =  {
+        "ground_truth": overall_gt,
+        "predictions": overall_pred,
+        "matched": overall_match,
+        "precision": round(overall_precision,3),
+        "recall": round(overall_recall,3),
+        "f1": round(overall_f1,3)
     }
 
     with open( output_file, "w",encoding="utf-8") as f: json.dump(summary, f, indent=4, ensure_ascii=False)
 
     print("\n===========================================================")
     print("OVERALL")
-    print(json.dumps(summary["overall"], indent=4))
+    print(json.dumps(summary, indent=4))
     print()
     print(f"Saved to {output_file}")
     print("==============================================================")

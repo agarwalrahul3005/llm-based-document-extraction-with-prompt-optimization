@@ -28,16 +28,12 @@ dspy.configure(lm=lm)
 # ---------------------------------
 # Paths
 # ---------------------------------
-
 ROOT = Path(__file__).resolve().parents[2]
 
 INPUT_DIR = ROOT / "data" / "ocr" / "tesseract"/ args.dataset
 OUTPUT_DIR = ROOT / "experiments" / "predictions" / model_name
-# RAW_OUTPUT_DIR = ROOT / "experiments" / "raw_outputs" / model_name
 
 OUTPUT_DIR.mkdir(parents=True,exist_ok=True)
-# RAW_OUTPUT_DIR.mkdir(parents=True,exist_ok=True)
-
 
 def main():
 
@@ -56,8 +52,6 @@ def main():
 
         try:
             result = extractor.extract(ocr["words"],file.name)
-            prompt = result["prompt"]
-            raw_output = result["raw"]
             prediction = result["parsed"]
             print(f"Predicted {len(prediction)} pairs using {model_name}")
             print("=" * 100 + "\n")
@@ -65,28 +59,10 @@ def main():
             print(file.name)
             print(e)
             prediction = []
-            prompt = ""
-            raw_output = str(e)
 
         output_file = OUTPUT_DIR / file.name
         with open( output_file, "w", encoding="utf-8") as f:
             json.dump(prediction, f, indent=2, ensure_ascii=False)
-
-        # raw_file = RAW_OUTPUT_DIR / file.with_suffix(".txt").name
-        # with open(raw_file, "w", encoding="utf-8") as f:
-        #     f.write("=" * 80)
-        #     f.write("\nPROMPT\n")
-        #     f.write("=" * 80)
-        #     f.write("\n")
-        #     f.write(prompt)
-        #     f.write("\n")
-
-        #     f.write("=" * 80)
-        #     f.write("\nRESPONSE\n")
-        #     f.write("=" * 80)
-        #     f.write("\n")
-
-        #     f.write(raw_output)
 
     print("\nExtraction Finished.")
 

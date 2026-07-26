@@ -19,13 +19,9 @@ def load_examples(split="train"):
 
     files = sorted(gt_dir.glob("*.json"))
 
-    print("=" * 80)
-    print(f"Loading {len(files)} training examples\n")
-
     for gt_file in files:
 
         print(f"Processing {gt_file.name}")
-
 
         ocr_file = ocr_dir / gt_file.name
 
@@ -44,6 +40,5 @@ def load_examples(split="train"):
         examples.append(example)
 
     print(f"\nCreated {len(examples)} DSPy Examples")
-    print("=" * 80)
 
     return examples

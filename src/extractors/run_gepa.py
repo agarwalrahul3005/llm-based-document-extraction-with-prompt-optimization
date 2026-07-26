@@ -33,7 +33,6 @@ dspy.configure(lm=lm)
 # ----------------------------------------------------
 # Paths
 # ----------------------------------------------------
-
 ROOT = Path(__file__).resolve().parents[2]
 
 OCR_DIR = ROOT / "data"/ "ocr" / "easyocr"/ "testing"
@@ -57,19 +56,25 @@ files = sorted(OCR_DIR.glob("*.json"))
 
 print(f"Processing {len(files)} OCR files\n")
 
-for file in files:
-
-    print(f"Running {file.name}")
+for index, file in enumerate(files):
+    print("\n" + "=" * 100)
+    print(f"[{index+1}/{len(files)}] {file.name}")
 
     with open(file, encoding="utf8") as f:
         ocr = json.load(f)
 
-    result = extractor.extract(ocr["words"],filename=file.name)
+        try:
+            result = extractor.extract(ocr["words"],file.name)
+            prediction = result["parsed"]
+            print(f"Predicted {len(prediction)} pairs using {model_name}")
+            print("=" * 100 + "\n")
+        except Exception as e:
+            print(file.name)
+            print(e)
+            prediction = []    
 
     output_file = OUTPUT_DIR / file.name
+    with open( output_file, "w", encoding="utf-8") as f:
+        json.dump(prediction, f, indent=2, ensure_ascii=False)    
 
-    with open(output_file, "w", encoding="utf8") as f:
-        json.dump(result["parsed"], f, indent=4, ensure_ascii=False)
-
-print("\nFinished.")
-print(OUTPUT_DIR)
+print("\nExtraction Finished.")

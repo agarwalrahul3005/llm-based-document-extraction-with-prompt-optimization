@@ -1,7 +1,7 @@
 import argparse
 from pathlib import Path
 
-from src.evaluation.evaluate import evaluate
+from evaluation.evaluate import evaluate
 
 
 

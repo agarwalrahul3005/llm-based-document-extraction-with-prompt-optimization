@@ -3,28 +3,33 @@ import dspy
 
 class ExtractForm(dspy.Signature):
     """
-        You are an expert in document understanding.
-        The input is an OCR document represented as text lines.
-        Every line contains:line text, bounding box, words
-        Your task is to extract every question-answer pair.
+        You are an expert in extracting structured information from scanned forms.
+        The input consists of OCR text lines.
+
+        Identify all KEY-VALUE pairs: 
+        - A short label (question) 
+        - Followed by its corresponding value (answer) 
 
         Rules
-        1. use only text present in the OCR., Label(question) and Value(answer) must be text present in OCR.
-        2. Preserve OCR spelling.
-        3. Extract every pair.
-        4. Labels usually appear left of values.
-        5. Values may appear below labels or right of labels.
-        6. Return ONLY valid JSON.
-
-        Output format to follow:
-        [
-            {
-                "question":"...",
-                "answer":"..."
-            }
-        ] 
+        • Use only OCR text.
+        • Never invent fields.
+        • Preserve OCR spelling.
+        • Questions usually appear to the left or above answers.
+        • Answers may appear mostly right or below of labels.
+        • Return only valid JSON.
     """
 
     document = dspy.InputField(desc="OCR document with layout information.")
 
-    response = dspy.OutputField(desc="JSON array containing question-answer pairs.")
+    # response = dspy.OutputField(desc="JSON array containing question-answer pairs.")
+    response = dspy.OutputField(
+        desc="""
+            JSON array
+            [
+                {
+                    "question":"...",
+                    "answer":"..."
+                }
+            ]
+            """
+    )

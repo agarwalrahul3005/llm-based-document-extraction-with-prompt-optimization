@@ -26,13 +26,12 @@ def extraction_metric(gold, pred, trace=None, pred_name=None, pred_trace=None):
     try:
         gt = flatten_pairs(json.loads(gold.response))
         prediction = flatten_pairs(json.loads(pred.response))
-
     except Exception:
         return 0.0
 
     matched, _, _ = match_pairs(gt, prediction)
+    precision = matched / len(prediction) if prediction else 0
+    recall = matched / len(gt) if gt else 0
+    f1 = ((2 * precision * recall) /(precision + recall)) if precision + recall else 0
 
-    if len(gt) == 0:
-        return 0.0
-
-    return matched / len(gt)
+    return f1

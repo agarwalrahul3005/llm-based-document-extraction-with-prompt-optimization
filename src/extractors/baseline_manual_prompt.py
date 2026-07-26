@@ -104,10 +104,6 @@ def process_file(file_path):
 
     lines = convert_ocr_to_lines(ocr_data["words"])
 
-    print("\n--- SAMPLE OCR LINES ---")
-    for l in lines[:5]:
-        print(l)
-
     prompt = BASELINE_PROMPT.format(
         ocr_text="\n".join(lines)
     )
@@ -117,7 +113,7 @@ def process_file(file_path):
             raw = call_ollama(prompt)
 
             print("\n--- RAW OUTPUT ---")
-            print(raw[:500])  # debug
+            print(raw)
 
             parsed = parse_output(raw)
 

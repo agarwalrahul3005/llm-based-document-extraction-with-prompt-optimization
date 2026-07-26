@@ -29,58 +29,47 @@ lm = dspy.LM(
 )
 
 reflection_lm = dspy.LM(
-    "ollama_chat/qwen2.5:7b",
+    "ollama_chat/gemma3:4b",
     api_base="http://localhost:11434",
-    temperature=1.0
+    temperature=0.5
 )
 
 dspy.configure(lm=lm)
 
 # ----------------------------------------------------
-# Load Dataset
+# Load Datasets
 # ----------------------------------------------------
-
-print("=" * 80)
+print("=" * 50)
 print("Loading training dataset...")
-print("=" * 80)
-
 trainset = load_examples("train")
-valset = load_examples("validation")
-
 print(f"Loaded {len(trainset)} training examples\n")
-
+print()
+print("Loading validation dataset...")
+valset = load_examples("validation")
+print(f"Loaded {len(valset)} validation examples\n")
+print("=" * 50)
 
 # ----------------------------------------------------
 # Baseline Program
 # ----------------------------------------------------
-print("=" * 80)
-print("Creating baseline DSPy program...")
-print("=" * 80)
-
 program = FormExtractionModule()
 
 
 # ----------------------------------------------------
-# GEPA Optimizer
+# GEPA Optimizer Configuration
 # ----------------------------------------------------
-print("Initializing GEPA...")
-print("=" * 80)
-
-
+print("Initializing GEPA...\n")
 optimizer = dspy.GEPA(
     metric=extraction_metric,
     reflection_lm=reflection_lm,
-    max_full_evals=2,
+    max_full_evals=4,
     num_threads=1
 )
 
 # ----------------------------------------------------
 # Optimize
 # ----------------------------------------------------
-print("=" * 80)
-print("Running optimization...")
-print("=" * 80)
-
+print("Running optimization...\n")
 optimized_program = optimizer.compile(student=program, trainset=trainset, valset=valset)
 
 # ----------------------------------------------------
@@ -98,10 +87,7 @@ OUTPUT_DIR.mkdir(parents=True,exist_ok=True)
 PROGRAM_FILE = OUTPUT_DIR / f"{model_name}_optimized_program.json"
 
 optimized_program.save(str(PROGRAM_FILE))
-# optimized_program.save(PROGRAM_FILE)
 
-print()
-print("=" * 80)
-print("Optimization Complete")
-print("=" * 80)
+print("Optimization Complete\n")
 print(f"Saved to:\n{PROGRAM_FILE}")
+print("=" * 50)
