@@ -29,7 +29,7 @@ lm = dspy.LM(
 )
 
 reflection_lm = dspy.LM(
-    "ollama_chat/gemma3:4b",
+    "ollama_chat/llama3",
     api_base="http://localhost:11434",
     temperature=0.5
 )
