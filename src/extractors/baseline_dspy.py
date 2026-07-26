@@ -30,7 +30,7 @@ dspy.configure(lm=lm)
 # ---------------------------------
 ROOT = Path(__file__).resolve().parents[2]
 
-INPUT_DIR = ROOT / "data" / "ocr" / "tesseract"/ args.dataset
+INPUT_DIR = ROOT / "data" / "ocr" / "easyocr"/ args.dataset
 OUTPUT_DIR = ROOT / "experiments" / "predictions" / model_name
 
 OUTPUT_DIR.mkdir(parents=True,exist_ok=True)

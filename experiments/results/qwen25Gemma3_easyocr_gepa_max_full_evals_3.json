@@ -1,0 +1,8 @@
+{
+    "ground_truth": 1409,
+    "predictions": 933,
+    "matched": 230,
+    "precision": 0.247,
+    "recall": 0.163,
+    "f1": 0.196
+}

@@ -1,0 +1,10 @@
+Model,OCR,Variant,Ground Truth,Predictions,Matched,Precision,Recall,F1
+gemma3,EasyOCR,Baseline,1409,958,197,0.205,0.139,0.166
+gemma3,Tesseract,Baseline,1409,729,174,0.239,0.123,0.163
+llama3,EasyOCR,Baseline,1409,553,180,0.325,0.128,0.183
+llama3,Tesseract,Baseline,1409,436,124,0.284,0.088,0.135
+qwen25,EasyOCR,Baseline,1409,818,249,0.304,0.177,0.224
+qwen25,Tesseract,Baseline,1409,606,167,0.276,0.119,0.166
+qwen25Gemma3,EasyOCR,GEPA-2,1409,565,197,0.349,0.14,0.2
+qwen25Gemma3,EasyOCR,GEPA-3,1409,933,230,0.247,0.163,0.196
+qwen25Gemma3,EasyOCR,GEPA-4,1409,828,259,0.312,0.184,0.231
