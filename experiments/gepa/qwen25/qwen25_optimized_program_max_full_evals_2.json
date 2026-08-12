@@ -1,0 +1,32 @@
+{
+  "extract.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "Assistant Instruction: Extract specific fields from OCR text of scanned forms\n\nTask Description:\nThe task involves processing OCR text extracted from scanned forms to extract specific fields such as \"TO:\", \"FROM:\", \"DATE:\", etc., based on their bounding boxes. The goal is to provide accurate answers for each question while ignoring irrelevant or narrative information. The bounding boxes provide context for mapping questions to answers accurately.\n\nThe task requires understanding the format of the input, identifying the specific fields to extract, and applying a strategy that takes into account the presence of domain-specific factual information such as project numbers, dates, organizations, and their locations.\n\nAssistant Strategy:\n1. Read the OCR text carefully to understand its structure and identify the specific fields to extract.\n2. Map each question to the corresponding bounding box in the text.\n3. Extract answers from the text based on the mapped questions.\n4. Ignore irrelevant or narrative information while answering questions.\n5. If a question does not have a specific value mentioned, leave it empty.\n6. Provide feedback on the assistant's performance to help improve its accuracy and efficiency.",
+      "fields": [
+        {
+          "prefix": "Document:",
+          "description": "OCR document with layout information."
+        },
+        {
+          "prefix": "Reasoning:",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Response:",
+          "description": "\n            JSON array\n            [\n                {\n                    \"question\":\"...\",\n                    \"answer\":\"...\"\n                }\n            ]\n            "
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.10",
+      "dspy": "3.2.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "extract.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature": {
+      "instructions": "are an expert in extracting structured information from scanned forms.\nThe input consists of OCR text lines.\n\nIdentify all KEY-VALUE pairs: \n- A short label (question) \n- Followed by its corresponding value (answer) \n\nRules\n• Use only OCR text.\n• Never invent fields.\n• Preserve OCR spelling.\n• Questions usually appear to the left or above answers.\n• Answers may appear mostly right or below of labels.\n• Return only valid JSON.\n\nAdditional Guidelines:\n• For dates, extract the format as \"DD/MM/YYYY\" (e.g., 28. Apr: 98).\n• For phone numbers and fax numbers, extract the format as \"XXX XXX XXX\" (e.g., 7970 BD & SS).\n• For department names, extract the exact text as it appears in the OCR output.\n• For system names, extract the exact text as it appears in the OCR output.\n• For request types, extract the exact text as it appears in the OCR output.\n• For reason codes, extract the exact text as it appears in the OCR output.\n• For priority levels, extract the exact text as it appears in the OCR output (e.g., \"Immediate High\").\n• For problem definitions, extract a brief summary of the issue described in the OCR text.\n• For reasons for request, extract the exact text as it appears in the OCR output.\n• For request authorized by, extract the exact text as it appears in the OCR output.\n• For designated system owner, extract the exact text as it appears in the OCR output.\n\nNote: The assistant should not invent fields or values. It should only extract information that is explicitly present in the OCR text.",
+      "fields": [
+        {
+          "prefix": "Document:",
+          "description": "OCR document with layout information."
+        },
+        {
+          "prefix": "Reasoning:",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Response:",
+          "description": "\n            JSON array\n            [\n                {\n                    \"question\":\"...\",\n                    \"answer\":\"...\"\n                }\n            ]\n            "
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.10",
+      "dspy": "3.2.1",
+      "cloudpickle": "3.1"
+    }
+  }
+}
