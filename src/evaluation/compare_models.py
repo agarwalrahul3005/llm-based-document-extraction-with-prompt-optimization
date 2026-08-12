@@ -307,3 +307,4 @@ print("\nGenerated figures:\n")
 
 for file in sorted(FIGURES_DIR.glob("*")):
     print(file.name)
+    
